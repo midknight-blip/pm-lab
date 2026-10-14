@@ -138,23 +138,36 @@ def kalshi_quote(m):
 POLY_PAGING_NOTE = {}
 
 
-def poly_open_markets(max_pages=600):
+def poly_open_markets(max_pages=40):
     out = []
-    offset = 0
-    for _ in range(max_pages):  # the API caps the page size, so step by what it returns
-        url = (f"{GAMMA}/markets?active=true&closed=false&archived=false"
-               f"&limit=500&offset={offset}")
-        try:
-            d = http(url)
-        except Exception as e:  # deep offsets can be refused; keep what we have
-            POLY_PAGING_NOTE["stopped"] = f"offset {offset}: {repr(e)[:150]}"
-            break
-        if not d:
-            break
-        out.extend(d)
-        offset += len(d)
-        time.sleep(0.1)
-    return out
+    """The API refuses offsets past ~2,000, so query one settlement week at a
+    time (most liquid first) and merge."""
+    from datetime import timedelta
+    seen, capped = {}, 0
+    start = now() - timedelta(days=2)
+    windows = [(start + timedelta(days=7 * i), start + timedelta(days=7 * (i + 1))) for i in range(27)]
+    windows.append((start + timedelta(days=189), start + timedelta(days=3650)))
+    for lo, hi in windows:
+        offset = 0
+        for _ in range(max_pages):
+            url = (f"{GAMMA}/markets?active=true&closed=false&archived=false&limit=500"
+                   f"&order=volume24hr&ascending=false&end_date_min={iso(lo)}&end_date_max={iso(hi)}"
+                   f"&offset={offset}")
+            try:
+                d = http(url)
+            except Exception:
+                capped += 1  # deep page refused; the least-traded markets are missed
+                break
+            if not d:
+                break
+            for m in d:
+                seen[str(m.get("id"))] = m
+            offset += len(d)
+            if len(d) < 100:
+                break
+            time.sleep(0.1)
+    POLY_PAGING_NOTE["stopped"] = f"{capped} weekly windows hit the page limit" if capped else "complete"
+    return list(seen.values())
 
 
 def poly_is_binary_yes_no(m):
@@ -244,7 +257,13 @@ CRITICAL = {"vice", "nominee", "primary", "runoff", "matchup", "popular", "elect
             "half", "quarter", "period", "inning", "innings", "spread", "total", "map", "set",
             "round", "overtime", "dem", "gop", "independent", "senate", "house", "governor",
             "mayor", "speaker", "seats", "majority", "control", "first", "exact", "between",
-            "range", "monthly", "weekly", "annual", "yearly", "high", "low"}
+            "range", "monthly", "weekly", "annual", "yearly", "high", "low", "over", "under",
+            "album", "song", "single", "tweet", "tweets", "post", "posts"}
+# Words that say nothing about the subject; a pair must share at least one word outside this set.
+GENERIC = {"over", "under", "increase", "decrease", "hold", "high", "low", "first", "new", "get",
+           "usa", "election", "winner", "price", "rate", "rates", "reach", "hit", "dip", "say",
+           "announce", "release", "year", "day", "week", "month", "official", "officially", "leader",
+           "presidential", "trump", "donald", "next", "least", "more", "most", "many", "much"}
 UNITS = {"bps", "bp", "pts", "points", "percent", "basis"}
 
 

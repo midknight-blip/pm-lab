@@ -93,6 +93,8 @@ def match(krows, prows):
                 continue
             if kn and pn and not (kn & pn):
                 continue  # different thresholds/numbers -> different bet
+            if not ((kw & pw) - GENERIC):
+                continue  # only "below" + a number in common -> different subjects
             inter = sum(idf[t] for t in kw & pw)
             union = sum(idf[t] for t in kw | pw)
             s = inter / union if union else 0
