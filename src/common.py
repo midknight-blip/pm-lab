@@ -267,6 +267,28 @@ GENERIC = {"over", "under", "increase", "decrease", "hold", "high", "low", "firs
 UNITS = {"bps", "bp", "pts", "points", "percent", "basis"}
 
 
+MONTH_NUM = {m: i + 1 for i, m in enumerate(MONTHS[:12])}
+MONTH_NUM.update({"jan": 1, "feb": 2, "mar": 3, "apr": 4, "jun": 6, "jul": 7, "aug": 8,
+                  "sep": 9, "sept": 9, "oct": 10, "nov": 11, "dec": 12})
+
+
+def dates(text):
+    """Month-day pairs mentioned in the text, e.g. {'10-15'}."""
+    t = text.lower()
+    out = {f"{int(m):02d}-{int(d):02d}" for _, m, d in re.findall(r"\b(20\d\d)-(\d\d)-(\d\d)\b", t)}
+    mon = "|".join(sorted(MONTH_NUM, key=len, reverse=True))
+    for m, d in re.findall(rf"\b({mon})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\b", t):
+        if 1 <= int(d) <= 31:
+            out.add(f"{MONTH_NUM[m]:02d}-{int(d):02d}")
+    for d, m in re.findall(rf"\b(\d{{1,2}})(?:st|nd|rd|th)?\s+({mon})\b", t):
+        if 1 <= int(d) <= 31:
+            out.add(f"{MONTH_NUM[m]:02d}-{int(d):02d}")
+    for m, d in re.findall(r"\b(\d{1,2})/(\d{1,2})(?:/\d{2,4})?\b", t):
+        if 1 <= int(m) <= 12 and 1 <= int(d) <= 31:
+            out.add(f"{int(m):02d}-{int(d):02d}")
+    return out
+
+
 def tokens(text):
     t = text.lower()
     t = re.sub(r"\b20\d\d-\d\d-\d\d\b", " ", t)  # iso dates

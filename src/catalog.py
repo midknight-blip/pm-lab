@@ -56,6 +56,8 @@ def poly_rows(markets):
 def match(krows, prows):
     ktoks = [tokens(r["text"]) for r in krows]
     ptoks = [tokens(r["text"]) for r in prows]
+    kdate = [dates(r["text"] + " " + r.get("ticker", "")) for r in krows]
+    pdate = [dates(r["text"] + " " + r.get("question", "")) for r in prows]
     ksub = [tokens(r["subject"])[0] for r in krows]
     psub = [tokens(r["subject"])[0] for r in prows]
     df = defaultdict(int)
@@ -89,6 +91,8 @@ def match(krows, prows):
             if (k["close"] - now()).days > MAX_DAYS_OUT:
                 continue
             kw, kn = ktoks[i]
+            if kdate[i] and pdate[j] and not (kdate[i] & pdate[j]):
+                continue  # different days
             if (kw ^ pw) & CRITICAL:
                 continue
             if kn and pn and kn != pn:
