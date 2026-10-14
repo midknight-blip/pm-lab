@@ -1,0 +1,22 @@
+name: score
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 11 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: score
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python src/score.py
+      - run: python src/summary.py
+      - run: tools/commit.sh "score settled forecasts"

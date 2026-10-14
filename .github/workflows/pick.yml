@@ -1,0 +1,23 @@
+name: pick
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1,4"
+  push:
+    paths: ["src/pick.py"]
+permissions:
+  contents: write
+concurrency:
+  group: pick
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python src/pick.py
+      - run: tools/commit.sh "forecast batch queued"

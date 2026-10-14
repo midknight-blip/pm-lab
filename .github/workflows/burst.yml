@@ -1,0 +1,22 @@
+name: burst
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 14 * * 1,3,5"
+    - cron: "5 0 * * 2,4,6"
+permissions:
+  contents: write
+concurrency:
+  group: burst
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 140
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python src/burst.py
+      - run: tools/commit.sh "fast-check session"
