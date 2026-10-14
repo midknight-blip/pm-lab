@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T17:27:32Z",
- "kalshi_events": 14244,
- "kalshi_markets": 133088,
- "poly_markets_binary": 2067,
- "poly_markets_all": 2100,
+ "updated": "2026-10-14T17:31:26Z",
+ "kalshi_events": 14243,
+ "kalshi_markets": 133089,
+ "poly_markets_binary": 21377,
+ "poly_markets_all": 24329,
  "pairs": 250,
- "bundles_found": 32,
- "poly_paging": "offset 2100: <HTTPError 422: 'Unprocessable Entity'>",
- "seconds": 63
+ "bundles_found": 153,
+ "poly_paging": "7 weekly windows hit the page limit",
+ "seconds": 166
 }
