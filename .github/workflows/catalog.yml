@@ -21,4 +21,5 @@ jobs:
           python-version: "3.12"
       - run: python src/catalog.py
       - run: python src/summary.py
-      - run: tools/commit.sh "market list refresh"
+      - if: always()
+        run: tools/commit.sh "market list refresh"

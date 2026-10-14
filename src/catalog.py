@@ -162,6 +162,16 @@ def bundles(events, prows):
 
 def main():
     t0 = now()
+    try:
+        _main(t0)
+    except Exception as e:  # leave a trace in the repo, since Actions logs need a login
+        import traceback
+        with open(f"{ROOT}/arb/catalog_error.txt", "w") as fh:
+            fh.write(iso() + "\n" + traceback.format_exc())
+        raise
+
+
+def _main(t0):
     events = kalshi_open_events()
     pmk = poly_open_markets()
     krows, prows = kalshi_rows(events), poly_rows(pmk)
@@ -181,6 +191,7 @@ def main():
     stats = {"updated": iso(), "kalshi_events": len(events), "kalshi_markets": len(krows),
              "poly_markets_binary": len(prows), "poly_markets_all": len(pmk),
              "pairs": len(pairs), "bundles_found": len(b),
+             "poly_paging": POLY_PAGING_NOTE.get("stopped", "complete"),
              "seconds": round((now() - t0).total_seconds())}
     with open(f"{ROOT}/arb/catalog_stats.json", "w") as fh:
         json.dump(stats, fh, indent=1)

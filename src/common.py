@@ -135,13 +135,20 @@ def kalshi_quote(m):
 
 
 # ---------------------------------------------------------------- Polymarket
+POLY_PAGING_NOTE = {}
+
+
 def poly_open_markets(max_pages=600):
     out = []
     offset = 0
     for _ in range(max_pages):  # the API caps the page size, so step by what it returns
         url = (f"{GAMMA}/markets?active=true&closed=false&archived=false"
                f"&limit=500&offset={offset}")
-        d = http(url)
+        try:
+            d = http(url)
+        except Exception as e:  # deep offsets can be refused; keep what we have
+            POLY_PAGING_NOTE["stopped"] = f"offset {offset}: {repr(e)[:150]}"
+            break
         if not d:
             break
         out.extend(d)
