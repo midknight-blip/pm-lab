@@ -1,4 +1,4 @@
-"""Every 15 minutes: price every matched pair and log the arbitrage math.
+"""Every 15 minutes (GitHub may run it a bit late): price every matched pair and log the arbitrage math.
 
 For each pair, two ways to lock in $1:
   A) buy YES on Kalshi + buy NO on Polymarket
