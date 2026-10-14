@@ -1,1 +1,577 @@
-{}
+{
+ "KXCBDSWISS-26DEC10-H25P|4911209": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXEARNINGSMENTIONGM-26OCT20-BATT|5674607": {
+  "checked": "2026-10-14",
+  "note": "Kalshi counts only company representatives; Polymarket counts anyone on the call (and some Polymarket terms bundle extra words).",
+  "status": "different"
+ },
+ "KXEARNINGSMENTIONGM-26OCT20-CHIN|5674609": {
+  "checked": "2026-10-14",
+  "note": "Kalshi counts only company representatives; Polymarket counts anyone on the call (and some Polymarket terms bundle extra words).",
+  "status": "different"
+ },
+ "KXEARNINGSMENTIONGM-26OCT20-TARI|5674605": {
+  "checked": "2026-10-14",
+  "note": "Kalshi counts only company representatives; Polymarket counts anyone on the call (and some Polymarket terms bundle extra words).",
+  "status": "different"
+ },
+ "KXEARNINGSMENTIONGM-26OCT20-TRUM|5674606": {
+  "checked": "2026-10-14",
+  "note": "Kalshi counts only company representatives; Polymarket counts anyone on the call (and some Polymarket terms bundle extra words).",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT14-B48.5|5600412": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT14-B50.5|5600413": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT14-B52.5|5600414": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT14-B54.5|5600415": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT14-B72.5|5602380": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT14-B74.5|5602381": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT14-B76.5|5602382": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT14-B78.5|5602383": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT14-B84.5|5600380": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT14-B86.5|5600381": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT14-B88.5|5600382": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT14-B90.5|5600383": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT15-B86.5|5600381": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT15-B86.5|5644698": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT15-B88.5|5600382": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT15-B88.5|5644699": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT15-B90.5|5600383": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT15-B90.5|5644700": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT15-B92.5|5600384": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT14-B90.5|5600359": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT14-B92.5|5600360": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT14-B94.5|5600361": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT15-B88.5|5644677": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT15-B90.5|5644678": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT15-B92.5|5600360": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT15-B94.5|5600361": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT14-B62.5|5602367": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT14-B64.5|5602368": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT14-B66.5|5602369": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT14-B68.5|5602370": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT15-B68.5|5602370": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT15-B68.5|5646758": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT15-B70.5|5646760": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT15-B72.5|5646761": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT15-B78.5|5602395": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT15-B78.5|5646781": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT15-B80.5|5646782": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT15-B82.5|5646783": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT15-B84.5|5646784": {
+  "checked": "2026-10-14",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXPRESMATCHUP-28NOV07-AOCJVAN|561229": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-AB|559660": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-AOC|559653": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-BOBA|559676": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-BS|559679": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-CBOO|559665": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-CHOL|559703": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-CMUR|559691": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-DJOH|559686": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-ESLO|559699": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-GN|559652": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-GR|559670": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-GW|559659": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-HBID|559682": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-HCLI|559677": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-HJEF|559698": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JAM|561258": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JBP|559663": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JCRO|559692": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JF|559673": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JOSS|559661": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JP|559674": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JSTE|559675": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JS|559655": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-JTAL|559695": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-KH|559658": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-LJAM|559681": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-MC|559662": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-MK|559668": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-MLAN|559704": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-MO|559667": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-PB|559654": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-PHI|559680": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-RC|559672": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-REMA|559669": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-RGAL|559693": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-RKHA|559694": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-RW|559664": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-SAS|559657": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-TW|559666": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-WM|559656": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMD-28-ZMAM|559671": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-EM|561250": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-ETRU|561263": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-GA|561249": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-ITRU|561255": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-NH|561245": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-PHEG|561264": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-TCAR|561253": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-TG|561242": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-TMAS|561260": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXPRESNOMR-28-VR|561248": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESNOMR-28-TSCO|561273": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-ABES|561237": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-AOCA|561231": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-DTRJ|561244": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-DTRU|561243": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-ESLO|561268": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-GNEW|561230": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-GWHI|561236": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-GYOU|561238": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-JOSS|561261": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-JSHA|561233": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-JTAL|561262": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-KHAR|561239": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-MOBA|561257": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-MRUB|561234": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-PBUT|561232": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-RDES|561246": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-RKHA|561259": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ },
+ "KXVPRESPERSON-29-WMOO|561235": {
+  "checked": "2026-10-14",
+  "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
+  "status": "different"
+ }
+}

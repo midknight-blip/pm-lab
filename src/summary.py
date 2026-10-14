@@ -13,6 +13,10 @@ def load_json(path, default=None):
         return default
 
 
+def yearly(x):
+    return ">999%" if x > 9.99 else f"{x * 100:.0f}%"
+
+
 def cents(x):
     return f"{x * 100:+.1f}¢"
 
@@ -40,14 +44,17 @@ def arb_section(runs):
     for path in sorted(glob.glob(f"{ROOT}/arb/log/*.csv")):
         rows += list(csv.DictReader(open(path)))
     pos = [r for r in rows if float(r["net_edge"]) > 0]
+    ruled_out = {r["pair_id"] for r in pos if review.get(r["pair_id"], {}).get("status") == "different"}
     by_pair = defaultdict(list)
     for r in pos:
-        by_pair[r["pair_id"]].append(r)
+        if r["pair_id"] not in ruled_out:
+            by_pair[r["pair_id"]].append(r)
     first = runs[0]["ts"][:10] if runs else "—"
     lines = ["## Arbitrage test", "",
              f"Running since {first}. {len(runs)} scans so far. A pair counts as positive when buying both sides "
              "costs less than $1 after fees, at the best available price.", "",
-             f"- Pairs that were ever positive: **{len(by_pair)}** "
+             f"- Positive pairs ruled out as different bets after reading the rules: {len(ruled_out)}",
+             f"- Positive pairs still in play: **{len(by_pair)}** "
              f"(confirmed same bet: {sum(1 for p in by_pair if review.get(p,{}).get('status')=='same')}, "
              f"not yet checked: {sum(1 for p in by_pair if p not in review)})",
              f"- Scans with at least one positive pair: {sum(1 for r in runs if r['n_positive'] not in ('', '0'))}", ""]
@@ -62,7 +69,7 @@ def arb_section(runs):
             lines.append(f"| {name} | {review.get(pid,{}).get('status','no')} | {cents(max(edges))} | "
                          f"{cents(statistics.median(edges))} | {len({r['ts'] for r in rs})} | "
                          f"{max(float(r['size']) for r in rs):.0f} | {float(rs[-1]['days']):.0f} | "
-                         f"{max(float(r['annualized']) for r in rs) * 100:.0f}% |")
+                         f"{yearly(max(float(r['annualized']) for r in rs))} |")
         lines.append("")
     lines += burst_lines() + bundle_lines() + [""]
     return lines

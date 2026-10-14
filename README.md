@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-14T17:48:41Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-14T17:49:37Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -15,29 +15,25 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 Running since 2026-10-14. 3 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
-- Pairs that were ever positive: **85** (confirmed same bet: 0, not yet checked: 85)
+- Positive pairs ruled out as different bets after reading the rules: 71
+- Positive pairs still in play: **14** (confirmed same bet: 0, not yet checked: 14)
 - Scans with at least one positive pair: 3
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| KXHIGHMIA-26OCT15-B86.5 /  | no | +73.7¢ | +73.7¢ | 1 | 10 | 2 | 49905% |
-| Highest temperature in Miami on Oct 14, 2026? / Will the highest temperature in Miami be betw | no | +70.4¢ | +70.4¢ | 1 | 5 | 1 | 82703% |
-| Highest temperature in Miami on Oct 14, 2026? / Will the highest temperature in Miami be betw | no | +69.4¢ | +69.4¢ | 1 | 6 | 1 | 78776% |
-| Highest temperature in Denver on Oct 14, 2026 / Will the highest temperature in Denver be bet | no | +61.3¢ | +59.6¢ | 2 | 50 | 1 | 54803% |
-| Highest temperature in Denver on Oct 14, 2026 / Will the highest temperature in Denver be bet | no | +57.3¢ | +56.8¢ | 2 | 5 | 1 | 46558% |
-| What will General Motors say during their nex / Will General Motors say "President" or "Trump | no | +56.1¢ | +56.1¢ | 2 | 50 | 6 | 7270% |
-| KXHIGHMIA-26OCT15-B90.5 /  | no | +50.7¢ | +50.7¢ | 1 | 31 | 2 | 18289% |
-| KXHIGHTDAL-26OCT15-B92.5 /  | no | +28.7¢ | +28.7¢ | 1 | 18 | 2 | 7156% |
-| Highest temperature in Miami on Oct 15, 2026? / Will the highest temperature in Miami be betw | no | +21.2¢ | +21.2¢ | 1 | 26 | 2 | 4792% |
-| KXHIGHMIA-26OCT15-B88.5 /  | no | +19.5¢ | +19.5¢ | 1 | 5 | 2 | 4315% |
+| Top 5 most searched people on Google in 2026  / Will Lindsay Clancy rank in Google’s Top 5 Mo | no | +6.3¢ | +6.3¢ | 2 | 50 | 78 | 31% |
+| Top 5 most searched people on Google in 2026  / Will Nicolás Maduro rank in Google’s Top 5 Mo | no | +2.2¢ | +2.2¢ | 2 | 5 | 78 | 11% |
+| Copa do Brasil Champion Palmeiras / Will Palmeiras win the 2026 Copa do Brasil? | no | +1.8¢ | +1.8¢ | 2 | 1 | 53 | 12% |
+| Time's Person of the Year for 2026 Bernie San / Will Bernie Sanders be TIME Person of the Yea | no | +1.8¢ | +1.8¢ | 2 | 50 | 79 | 8% |
+| Time's Person of the Year for 2026 Marco Rubi / Will Marco Rubio be TIME Person of the Year 2 | no | +1.2¢ | +1.2¢ | 2 | 40 | 79 | 5% |
+| Texas State Senate winner? Republican party / Will the Republican Party control the Texas S | no | +1.1¢ | +1.1¢ | 2 | 50 | 20 | 20% |
+| MotoGP World Champion Marco Bezzecchi / Will Marco Bezzecchi win the 2026 MotoGP Worl | no | +1.1¢ | +1.1¢ | 2 | 2 | 47 | 9% |
+| Time's Person of the Year for 2026 James Tala / Will James Talarico be TIME Person of the Yea | no | +0.9¢ | +0.9¢ | 2 | 20 | 79 | 4% |
+| Fed decision in Jan 2027? Cut 25bps / Will the Fed decrease interest rates by 25 bp | no | +0.5¢ | +0.5¢ | 2 | 50 | 105 | 2% |
+| Game Awards: Best Multiplayer Marathon / Will Marathon win Best Multiplayer at the 202 | no | +0.5¢ | +0.5¢ | 2 | 5 | 78 | 2% |
 
 - Fast-check sessions (every 15 sec): none yet
-- Same-site bundles in the last 3 days: 187. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - kalshi: Iowa Republican Senate nominee in 2028? — 7 outcomes, +10.0¢ per $1
-  - kalshi: Who will be Israeli justice minister after the election? — 15 outcomes, +10.0¢ per $1
-  - kalshi: #2 Most Searched Person on Google in 2026? — 11 outcomes, +10.0¢ per $1
-  - polymarket: Copa Sudamericana 2026 Winner Boca Juniors — 3 outcomes, +10.0¢ per $1
-  - polymarket: Republican House seats after the 2026 midterm elections? 190-194 — 7 outcomes, +10.0¢ per $1
+- Same-site bundles (buy every outcome of one event for under $1): none in the last 3 days
 
 ## Forecast test
 

@@ -144,10 +144,10 @@ def bundles(events, prows):
         if any(q["yes_ask"] is None or q["yes_ask"] >= 1 for q in qs):
             continue
         cost = sum(q["yes_ask"] for q in qs)
-        fees = sum(kalshi_fee(q["yes_ask"], 1) for q in qs)
+        fees = sum(kalshi_fee(q["yes_ask"], 10) / 10 for q in qs)  # per contract, buying 10
         size = min(q["yes_ask_size"] for q in qs)
-        if 0.9 <= cost + fees < 0.995:  # far under $1 means the list is clearly incomplete
-            close = max((parse_ts(m.get("expected_expiration_time")) or parse_ts(m.get("close_time"))) for m in ms)
+        close = max((parse_ts(m.get("expected_expiration_time")) or parse_ts(m.get("close_time")) or now()) for m in ms)
+        if 0.96 <= cost + fees < 0.995 and close and (close - now()).days <= MAX_DAYS_OUT:  # far under $1 = list clearly incomplete
             out.append(["kalshi", e["event_ticker"], e.get("title", "")[:120], len(ms),
                         round(cost, 4), round(fees, 4), round(1 - cost - fees, 4), size, iso(close)])
     groups = defaultdict(list)
@@ -159,8 +159,8 @@ def bundles(events, prows):
             continue
         cost = sum(p["best_ask"] for p in ps)
         fees = sum(poly_fee(p["best_ask"], 1, p["fee_rate"]) for p in ps)
-        if 0.9 <= cost + fees < 0.995:
-            close = max(p["close"] for p in ps if p["close"]) if any(p["close"] for p in ps) else None
+        close = max(p["close"] for p in ps if p["close"]) if any(p["close"] for p in ps) else None
+        if 0.96 <= cost + fees < 0.995 and close and (close - now()).days <= MAX_DAYS_OUT:
             out.append(["polymarket", gid, ps[0]["text"][:120], len(ps), round(cost, 4),
                         round(fees, 4), round(1 - cost - fees, 4), "", iso(close) if close else ""])
     return out
