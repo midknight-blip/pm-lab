@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:35:24Z",
+ "updated": "2026-10-14T17:48:10Z",
  "pairs": [
   {
    "pair_id": "KXFEDDECISION-26OCT-H25|2589813",
@@ -16,7 +16,7 @@
    "poly_close": "2026-10-29T03:59:00Z",
    "poly_token": "55159722761418013044126414276680602270318000841690689684819994448621694923050",
    "poly_fee_rate": 0.05,
-   "vol24": 1776935.09
+   "vol24": 1777824.9
   },
   {
    "pair_id": "KXFEDDECISION-26OCT-C25|2589811",
@@ -33,7 +33,7 @@
    "poly_close": "2026-10-29T03:59:00Z",
    "poly_token": "33268510350568915228897273528353467773422190590579607471427765079749830445947",
    "poly_fee_rate": 0.05,
-   "vol24": 425845.92
+   "vol24": 425938.92
   },
   {
    "pair_id": "KXFEDDECISION-26DEC-H25|3215008",
@@ -50,7 +50,7 @@
    "poly_close": "2026-12-09T23:59:00Z",
    "poly_token": "111662129652828266889360374468657435151479595863413519836161861837506140152890",
    "poly_fee_rate": 0.05,
-   "vol24": 91044.54
+   "vol24": 91035.88
   },
   {
    "pair_id": "KXFEDDECISION-26DEC-C25|3215006",
@@ -152,7 +152,7 @@
    "poly_close": "2026-12-09T00:00:00Z",
    "poly_token": "54681368317975901430466975278763152542319916351739413693465866333837051452063",
    "poly_fee_rate": 0.05,
-   "vol24": 164.2
+   "vol24": 166.87
   },
   {
    "pair_id": "KXTOPARTISTTHIRD-26-TAY|2519346",
@@ -305,7 +305,7 @@
    "poly_close": "2026-11-01T03:59:00Z",
    "poly_token": "64788093771469739780303892117886022970083907680369932654421727478470048076239",
    "poly_fee_rate": 0.05,
-   "vol24": 546.35
+   "vol24": 552.21
   },
   {
    "pair_id": "KX5YRDIRLM-26OCT30L-T4.96|5194845",
@@ -424,7 +424,7 @@
    "poly_close": "2026-11-01T03:59:00Z",
    "poly_token": "84003559317313302344428395822646611987605420165549757133938404029966024788622",
    "poly_fee_rate": 0.05,
-   "vol24": 305.0
+   "vol24": 285.0
   },
   {
    "pair_id": "KX10YRDIRLM-26OCT30L-T5.06|5194812",
@@ -441,7 +441,7 @@
    "poly_close": "2026-11-01T03:59:00Z",
    "poly_token": "44796133765993261116558370153212783457405803422288375490368413596887897553513",
    "poly_fee_rate": 0.05,
-   "vol24": 270.91
+   "vol24": 250.91
   },
   {
    "pair_id": "KX2YRDIRLM-26OCT30L-T4.68|5194865",
@@ -458,7 +458,7 @@
    "poly_close": "2026-11-01T03:59:00Z",
    "poly_token": "19423423528410908704106081081952297239741213097462961931758198839735772976764",
    "poly_fee_rate": 0.05,
-   "vol24": 230.0
+   "vol24": 250.0
   },
   {
    "pair_id": "KX10YRDIRLM-26OCT30L-T5.01|5194813",
@@ -628,7 +628,7 @@
    "poly_close": "2026-10-14T19:00:00Z",
    "poly_token": "99922256573703734427424644866042539978898018643379690678401728453693287502048",
    "poly_fee_rate": 0.05,
-   "vol24": 2390122.19
+   "vol24": 2484833.03
   },
   {
    "pair_id": "KXUCLGAME-26OCT14ROMRMA-ROM|5184006",
@@ -645,7 +645,7 @@
    "poly_close": "2026-10-14T19:00:00Z",
    "poly_token": "61050769954393702433370038226930956013602372537515291165360402344874334850776",
    "poly_fee_rate": 0.05,
-   "vol24": 357352.87
+   "vol24": 362402.01
   },
   {
    "pair_id": "KXDIMAYORGAME-26OCT13MILOC-MIL|5160808",
@@ -662,24 +662,7 @@
    "poly_close": "2026-10-14T01:30:00Z",
    "poly_token": "2770394239397427414551332400651117082564342645437096253989130566349896860376",
    "poly_fee_rate": 0.05,
-   "vol24": 123700.03
-  },
-  {
-   "pair_id": "KXDIMAYORGAME-26OCT13MILOC-OC|5160811",
-   "score": 1.2,
-   "kalshi_ticker": "KXDIMAYORGAME-26OCT13MILOC-OC",
-   "kalshi_text": "Millonarios vs Once Caldas Once Caldas",
-   "kalshi_rules": "If Once Caldas wins the Millonarios vs Once Caldas professional Colombian Liga DIMAYOR soccer game originally scheduled for Oct 13, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-14T04:30:00Z",
-   "category": "Sports",
-   "poly_id": "5160811",
-   "poly_slug": "col1-mif-onc-2026-10-13-onc",
-   "poly_text": "Will Once Caldas win on 2026-10-13?",
-   "poly_rules": "In the upcoming game, scheduled for October 13, 2026\nIf Once Caldas wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the even",
-   "poly_close": "2026-10-14T01:30:00Z",
-   "poly_token": "32267213316051208319353393726665124985036685813731517776002412373650913661331",
-   "poly_fee_rate": 0.05,
-   "vol24": 86481.72
+   "vol24": 123786.03
   },
   {
    "pair_id": "KXUCLGAME-26OCT14ROMRMA-TIE|5184007",
@@ -696,58 +679,24 @@
    "poly_close": "2026-10-14T19:00:00Z",
    "poly_token": "64203397677910004309548884017827178094028640627345847739260270561827803295796",
    "poly_fee_rate": 0.05,
-   "vol24": 83275.25
+   "vol24": 89205.42
   },
   {
-   "pair_id": "KXLALIGAGAME-26OCT25BARRMA-BAR|5598475",
+   "pair_id": "KXDIMAYORGAME-26OCT13MILOC-OC|5160811",
    "score": 1.2,
-   "kalshi_ticker": "KXLALIGAGAME-26OCT25BARRMA-BAR",
-   "kalshi_text": "Barcelona vs Real Madrid Barcelona",
-   "kalshi_rules": "If Barcelona wins the Barcelona vs Real Madrid professional La Liga soccer game originally scheduled for Oct 25, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-25T23:00:00Z",
-   "category": "Sports",
-   "poly_id": "5598475",
-   "poly_slug": "lal-bar-rea-2026-10-25-bar",
-   "poly_text": "Will FC Barcelona win on 2026-10-25?",
-   "poly_rules": "In the upcoming game, scheduled for October 25, 2026\nIf FC Barcelona wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the eve",
-   "poly_close": "2026-10-25T20:00:00Z",
-   "poly_token": "28032922121340574564753529975027027359615112054359670441462060501417320722117",
-   "poly_fee_rate": 0.05,
-   "vol24": 28827.74
-  },
-  {
-   "pair_id": "KXLALIGAGAME-26OCT25BARRMA-RMA|5598481",
-   "score": 1.2,
-   "kalshi_ticker": "KXLALIGAGAME-26OCT25BARRMA-RMA",
-   "kalshi_text": "Barcelona vs Real Madrid Real Madrid",
-   "kalshi_rules": "If Real Madrid wins the Barcelona vs Real Madrid professional La Liga soccer game originally scheduled for Oct 25, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-25T23:00:00Z",
-   "category": "Sports",
-   "poly_id": "5598481",
-   "poly_slug": "lal-bar-rea-2026-10-25-rea",
-   "poly_text": "Will Real Madrid CF win on 2026-10-25?",
-   "poly_rules": "In the upcoming game, scheduled for October 25, 2026\nIf Real Madrid CF wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the e",
-   "poly_close": "2026-10-25T20:00:00Z",
-   "poly_token": "8853465120832778901717717180523314783482724931998595367133108707023926550591",
-   "poly_fee_rate": 0.05,
-   "vol24": 28503.0
-  },
-  {
-   "pair_id": "KXDIMAYORGAME-26OCT13MILOC-TIE|5160810",
-   "score": 1.2,
-   "kalshi_ticker": "KXDIMAYORGAME-26OCT13MILOC-TIE",
-   "kalshi_text": "Millonarios vs Once Caldas Tie",
-   "kalshi_rules": "If Tie is the result of the Millonarios vs Once Caldas professional Colombian Liga DIMAYOR soccer game originally scheduled for Oct 13, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_ticker": "KXDIMAYORGAME-26OCT13MILOC-OC",
+   "kalshi_text": "Millonarios vs Once Caldas Once Caldas",
+   "kalshi_rules": "If Once Caldas wins the Millonarios vs Once Caldas professional Colombian Liga DIMAYOR soccer game originally scheduled for Oct 13, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
    "kalshi_close": "2026-10-14T04:30:00Z",
    "category": "Sports",
-   "poly_id": "5160810",
-   "poly_slug": "col1-mif-onc-2026-10-13-draw",
-   "poly_text": "Will Millonarios FC vs. Once Caldas end in a draw?",
-   "poly_rules": "In the upcoming game, scheduled for October 13, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours aft",
+   "poly_id": "5160811",
+   "poly_slug": "col1-mif-onc-2026-10-13-onc",
+   "poly_text": "Will Once Caldas win on 2026-10-13?",
+   "poly_rules": "In the upcoming game, scheduled for October 13, 2026\nIf Once Caldas wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the even",
    "poly_close": "2026-10-14T01:30:00Z",
-   "poly_token": "109360091495694172496939547669316421623961534660017181991131041243215445581253",
+   "poly_token": "32267213316051208319353393726665124985036685813731517776002412373650913661331",
    "poly_fee_rate": 0.05,
-   "vol24": 26051.31
+   "vol24": 86524.72
   },
   {
    "pair_id": "KXTFF1LIGGAME-26OCT14ANTKAY-KAY|5530980",
@@ -764,7 +713,58 @@
    "poly_close": "2026-10-14T17:00:00Z",
    "poly_token": "52401109868482622107311850429419099447563972164293381696467795035659327740834",
    "poly_fee_rate": 0.05,
-   "vol24": 24773.49
+   "vol24": 35161.85
+  },
+  {
+   "pair_id": "KXLALIGAGAME-26OCT25BARRMA-BAR|5598475",
+   "score": 1.2,
+   "kalshi_ticker": "KXLALIGAGAME-26OCT25BARRMA-BAR",
+   "kalshi_text": "Barcelona vs Real Madrid Barcelona",
+   "kalshi_rules": "If Barcelona wins the Barcelona vs Real Madrid professional La Liga soccer game originally scheduled for Oct 25, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-25T23:00:00Z",
+   "category": "Sports",
+   "poly_id": "5598475",
+   "poly_slug": "lal-bar-rea-2026-10-25-bar",
+   "poly_text": "Will FC Barcelona win on 2026-10-25?",
+   "poly_rules": "In the upcoming game, scheduled for October 25, 2026\nIf FC Barcelona wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the eve",
+   "poly_close": "2026-10-25T20:00:00Z",
+   "poly_token": "28032922121340574564753529975027027359615112054359670441462060501417320722117",
+   "poly_fee_rate": 0.05,
+   "vol24": 28790.21
+  },
+  {
+   "pair_id": "KXLALIGAGAME-26OCT25BARRMA-RMA|5598481",
+   "score": 1.2,
+   "kalshi_ticker": "KXLALIGAGAME-26OCT25BARRMA-RMA",
+   "kalshi_text": "Barcelona vs Real Madrid Real Madrid",
+   "kalshi_rules": "If Real Madrid wins the Barcelona vs Real Madrid professional La Liga soccer game originally scheduled for Oct 25, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-25T23:00:00Z",
+   "category": "Sports",
+   "poly_id": "5598481",
+   "poly_slug": "lal-bar-rea-2026-10-25-rea",
+   "poly_text": "Will Real Madrid CF win on 2026-10-25?",
+   "poly_rules": "In the upcoming game, scheduled for October 25, 2026\nIf Real Madrid CF wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the e",
+   "poly_close": "2026-10-25T20:00:00Z",
+   "poly_token": "8853465120832778901717717180523314783482724931998595367133108707023926550591",
+   "poly_fee_rate": 0.05,
+   "vol24": 28123.32
+  },
+  {
+   "pair_id": "KXDIMAYORGAME-26OCT13MILOC-TIE|5160810",
+   "score": 1.2,
+   "kalshi_ticker": "KXDIMAYORGAME-26OCT13MILOC-TIE",
+   "kalshi_text": "Millonarios vs Once Caldas Tie",
+   "kalshi_rules": "If Tie is the result of the Millonarios vs Once Caldas professional Colombian Liga DIMAYOR soccer game originally scheduled for Oct 13, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-14T04:30:00Z",
+   "category": "Sports",
+   "poly_id": "5160810",
+   "poly_slug": "col1-mif-onc-2026-10-13-draw",
+   "poly_text": "Will Millonarios FC vs. Once Caldas end in a draw?",
+   "poly_rules": "In the upcoming game, scheduled for October 13, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours aft",
+   "poly_close": "2026-10-14T01:30:00Z",
+   "poly_token": "109360091495694172496939547669316421623961534660017181991131041243215445581253",
+   "poly_fee_rate": 0.05,
+   "vol24": 26124.81
   },
   {
    "pair_id": "KXTORONTOMAYOR-26OCT26-OCHO|1812607",
@@ -781,7 +781,24 @@
    "poly_close": "2026-10-27T03:59:00Z",
    "poly_token": "22967364920644358226385731525996197470260180996122246275896497110825555742942",
    "poly_fee_rate": 0.04,
-   "vol24": 21390.25
+   "vol24": 21375.25
+  },
+  {
+   "pair_id": "KXF1-26-MV|898413",
+   "score": 1.2,
+   "kalshi_ticker": "KXF1-26-MV",
+   "kalshi_text": "F1 Drivers Champion Max Verstappen",
+   "kalshi_rules": "If Max Verstappen wins the F1 Drivers Championship, then the market resolves to Yes.",
+   "kalshi_close": "2026-12-08T15:00:00Z",
+   "category": "Sports",
+   "poly_id": "898413",
+   "poly_slug": "will-max-verstappen-be-the-2026-f1-drivers-champion",
+   "poly_text": "Will Max Verstappen be the 2026 F1 Drivers' Champion?",
+   "poly_rules": "This market will resolve according to the listed driver that finishes 1st in the driver standings for the 2026 F1 season.\n\nThis market will resolve as soon as the official results of the final scheduled race of the 2026 F1 season are known.\n\nIf multiple drivers tie for first place in the drivers standings, this market will resolve according to the tiebreak procedure used by F1 to determine the 2026 F1 Drivers\u2019 champion.\n\nIf at any point it becomes impossible for a listed driver to win the 2026 F1 Drivers Championship based on the rules of F1 (e.g., they are mathematically eliminated from contention), the corresponding market will resolve to \u201cNo\u201d.\n\nIf the F1 season is permanently canceled or ",
+   "poly_close": "2026-12-06T00:00:00Z",
+   "poly_token": "1253784411034901624384838438079744067552854611268416006133878658719743556218",
+   "poly_fee_rate": 0.03,
+   "vol24": 19698.31
   },
   {
    "pair_id": "KXEPLGAME-26OCT18LEEMUN-LEE|5311907",
@@ -818,23 +835,6 @@
    "vol24": 16183.51
   },
   {
-   "pair_id": "KXF1-26-MV|898413",
-   "score": 1.2,
-   "kalshi_ticker": "KXF1-26-MV",
-   "kalshi_text": "F1 Drivers Champion Max Verstappen",
-   "kalshi_rules": "If Max Verstappen wins the F1 Drivers Championship, then the market resolves to Yes.",
-   "kalshi_close": "2026-12-08T15:00:00Z",
-   "category": "Sports",
-   "poly_id": "898413",
-   "poly_slug": "will-max-verstappen-be-the-2026-f1-drivers-champion",
-   "poly_text": "Will Max Verstappen be the 2026 F1 Drivers' Champion?",
-   "poly_rules": "This market will resolve according to the listed driver that finishes 1st in the driver standings for the 2026 F1 season.\n\nThis market will resolve as soon as the official results of the final scheduled race of the 2026 F1 season are known.\n\nIf multiple drivers tie for first place in the drivers standings, this market will resolve according to the tiebreak procedure used by F1 to determine the 2026 F1 Drivers\u2019 champion.\n\nIf at any point it becomes impossible for a listed driver to win the 2026 F1 Drivers Championship based on the rules of F1 (e.g., they are mathematically eliminated from contention), the corresponding market will resolve to \u201cNo\u201d.\n\nIf the F1 season is permanently canceled or ",
-   "poly_close": "2026-12-06T00:00:00Z",
-   "poly_token": "1253784411034901624384838438079744067552854611268416006133878658719743556218",
-   "poly_fee_rate": 0.03,
-   "vol24": 15019.3
-  },
-  {
    "pair_id": "KXTFF1LIGGAME-26OCT14ANTKAY-ANT|5530978",
    "score": 1.2,
    "kalshi_ticker": "KXTFF1LIGGAME-26OCT14ANTKAY-ANT",
@@ -849,7 +849,7 @@
    "poly_close": "2026-10-14T17:00:00Z",
    "poly_token": "115199812585566343610335701417708442134024745768774442369592097368245571694948",
    "poly_fee_rate": 0.05,
-   "vol24": 13149.31
+   "vol24": 14405.38
   },
   {
    "pair_id": "KXTIME-26-ZOH|2363844",
@@ -866,7 +866,7 @@
    "poly_close": "2026-12-31T00:00:00Z",
    "poly_token": "75219721190829533004296881569889865263645607082195400521306397405990606723860",
    "poly_fee_rate": 0.05,
-   "vol24": 11671.03
+   "vol24": 11654.03
   },
   {
    "pair_id": "KXEPLGAME-26OCT17MCIIPS-MCI|5263907",
@@ -883,7 +883,7 @@
    "poly_close": "2026-10-17T14:00:00Z",
    "poly_token": "103855972424507475627443785779828892275746837008176642345667573497567370726040",
    "poly_fee_rate": 0.05,
-   "vol24": 11434.84
+   "vol24": 11432.41
   },
   {
    "pair_id": "KXEPLGAME-26OCT17BRELFC-LFC|5263876",
@@ -900,7 +900,7 @@
    "poly_close": "2026-10-17T14:00:00Z",
    "poly_token": "30011374050084153758081872511383555856953546591648089095853930999708438962002",
    "poly_fee_rate": 0.05,
-   "vol24": 10709.23
+   "vol24": 11172.92
   },
   {
    "pair_id": "KXEFLCHAMPIONSHIPGAME-26OCT14PORSHU-SHU|5169261",
@@ -917,7 +917,7 @@
    "poly_close": "2026-10-14T18:45:00Z",
    "poly_token": "56641619032287166009964393083954377050857676596726414301382661593769644438050",
    "poly_fee_rate": 0.05,
-   "vol24": 10456.63
+   "vol24": 10486.93
   },
   {
    "pair_id": "KXEPLGAME-26OCT18NFOARS-ARS|5311940",
@@ -934,7 +934,7 @@
    "poly_close": "2026-10-18T15:30:00Z",
    "poly_token": "73245421796922750466829041889725203633090129283314240032365966286987444361172",
    "poly_fee_rate": 0.05,
-   "vol24": 10223.83
+   "vol24": 10208.83
   },
   {
    "pair_id": "KXTORONTOMAYOR-26OCT26-BBRA|1812608",
@@ -1053,7 +1053,7 @@
    "poly_close": "2026-10-17T14:00:00Z",
    "poly_token": "46235784100680256022162603484443848937305618346811583891006510959902826767373",
    "poly_fee_rate": 0.05,
-   "vol24": 5067.68
+   "vol24": 5046.23
   },
   {
    "pair_id": "KXEPLGAME-26OCT17EVECFC-CFC|5263852",
@@ -1070,7 +1070,7 @@
    "poly_close": "2026-10-17T11:30:00Z",
    "poly_token": "36341713440242602626269729160513108933998420661067216763829467293678131620893",
    "poly_fee_rate": 0.05,
-   "vol24": 4905.99
+   "vol24": 4790.99
   },
   {
    "pair_id": "KXEPLGAME-26OCT17FULHUL-FUL|5263885",
@@ -1087,7 +1087,7 @@
    "poly_close": "2026-10-17T14:00:00Z",
    "poly_token": "57236179669267383495197298693784788242704919103915559321491240097555026391081",
    "poly_fee_rate": 0.05,
-   "vol24": 4336.16
+   "vol24": 4335.95
   },
   {
    "pair_id": "KXLALIGAGAME-26OCT18RMASEV-RMA|5315587",
@@ -1206,7 +1206,7 @@
    "poly_close": "2026-10-19T03:59:00Z",
    "poly_token": "41245155238932948196498229337272959507259713883025992697632193368849577964756",
    "poly_fee_rate": 0.05,
-   "vol24": 2899.87
+   "vol24": 2988.55
   },
   {
    "pair_id": "KXEPLGAME-26OCT18BOUSUN-SUN|5311891",
@@ -1257,7 +1257,7 @@
    "poly_close": "2026-11-07T04:59:00Z",
    "poly_token": "69549346928853472628122030453187144427432924435990276090772625659073977942526",
    "poly_fee_rate": 0.04,
-   "vol24": 2520.5
+   "vol24": 2488.79
   },
   {
    "pair_id": "KXSVOTECLARITY-MAY26-JHAW|3208514",
@@ -1359,7 +1359,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "92236355226322305716244377000237661574346302448831021376624543950411128658779",
    "poly_fee_rate": 0.05,
-   "vol24": 1624.18
+   "vol24": 1703.1
   },
   {
    "pair_id": "KXEXITPOLL-WHIWOM-REP|4199214",
@@ -1631,7 +1631,7 @@
    "poly_close": "2026-12-06T00:00:00Z",
    "poly_token": "49363857890713679658249116526667302240522215201279074666732334459281427193397",
    "poly_fee_rate": 0.03,
-   "vol24": 481.36
+   "vol24": 483.13
   },
   {
    "pair_id": "KXEARNINGSMENTIONGM-26OCT20-BATT|5674607",
@@ -2872,7 +2872,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "12622519606415978744877534783705265610788882249231449850262189360805525437274",
    "poly_fee_rate": 0.03,
-   "vol24": 57091.99
+   "vol24": 52128.35
   },
   {
    "pair_id": "KXSTATELEG-WISEN26-D|4443263",
@@ -3042,7 +3042,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "10466835326554416965099784068156829774726248334728156046559014834812912458273",
    "poly_fee_rate": 0.03,
-   "vol24": 103657.69
+   "vol24": 99250.98
   },
   {
    "pair_id": "KXSTATELEG-AZSEN26-D|4443405",
@@ -3144,7 +3144,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "14940935985254400645996902276818598247231942791302218826999289776538227075176",
    "poly_fee_rate": 0.03,
-   "vol24": 125743.47
+   "vol24": 120892.71
   },
   {
    "pair_id": "KXBALLONDOR-26-BFER|608560",
@@ -3297,7 +3297,41 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
    "poly_fee_rate": 0.03,
-   "vol24": 57462.12
+   "vol24": 53216.14
+  },
+  {
+   "pair_id": "KXHIGHMIA-26OCT14-B86.5|5600381",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHMIA-26OCT14-B86.5",
+   "kalshi_text": "Highest temperature in Miami on Oct 14, 2026? 86\u00b0 to 87\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 14, 2026, is between 86-87\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5600381",
+   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-86-87f",
+   "poly_text": "Will the highest temperature in Miami be between 86-87\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "47499773313288100769020455215613614459359629231323077673799966205216361315854",
+   "poly_fee_rate": 0.05,
+   "vol24": 38046.22
+  },
+  {
+   "pair_id": "KXHIGHMIA-26OCT14-B88.5|5600382",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHMIA-26OCT14-B88.5",
+   "kalshi_text": "Highest temperature in Miami on Oct 14, 2026? 88\u00b0 to 89\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 14, 2026, is between 88-89\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5600382",
+   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-88-89f",
+   "poly_text": "Will the highest temperature in Miami be between 88-89\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "62430755851425743249176426810217768094434091555344316629751208051746684931386",
+   "poly_fee_rate": 0.05,
+   "vol24": 22465.01
   },
   {
    "pair_id": "KXHIGHLAX-26OCT14-B76.5|5602382",
@@ -3314,7 +3348,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "3324264534300428259332781918100205903227533737038810104630028689235828336589",
    "poly_fee_rate": 0.05,
-   "vol24": 20322.13
+   "vol24": 21135.18
   },
   {
    "pair_id": "KXHIGHLAX-26OCT14-B78.5|5602383",
@@ -3331,7 +3365,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "62949907409341836618498930507295615375966793087266838263763492927226999509416",
    "poly_fee_rate": 0.05,
-   "vol24": 19202.45
+   "vol24": 19738.7
   },
   {
    "pair_id": "KXHIGHDEN-26OCT14-B48.5|5600412",
@@ -3348,7 +3382,24 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "96738022032784740080103891621748747283347031261357305076013707340606505545548",
    "poly_fee_rate": 0.05,
-   "vol24": 16426.56
+   "vol24": 16540.67
+  },
+  {
+   "pair_id": "KXHIGHMIA-26OCT14-B90.5|5600383",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHMIA-26OCT14-B90.5",
+   "kalshi_text": "Highest temperature in Miami on Oct 14, 2026? 90\u00b0 to 91\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 14, 2026, is between 90-91\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5600383",
+   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-90-91f",
+   "poly_text": "Will the highest temperature in Miami be between 90-91\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "99539768062332415790939080410298610242562663254050264827257248911422538338511",
+   "poly_fee_rate": 0.05,
+   "vol24": 15068.33
   },
   {
    "pair_id": "KXHIGHMIA-26OCT14-B84.5|5600380",
@@ -3368,23 +3419,6 @@
    "vol24": 14389.73
   },
   {
-   "pair_id": "KXHIGHMIA-26OCT15-B86.5|5600381",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHMIA-26OCT15-B86.5",
-   "kalshi_text": "Highest temperature in Miami on Oct 15, 2026? 86\u00b0 to 87\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 15, 2026, is between 86-87\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-16T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5600381",
-   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-86-87f",
-   "poly_text": "Will the highest temperature in Miami be between 86-87\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "47499773313288100769020455215613614459359629231323077673799966205216361315854",
-   "poly_fee_rate": 0.05,
-   "vol24": 11965.22
-  },
-  {
    "pair_id": "KXHIGHDEN-26OCT14-B50.5|5600413",
    "score": 1.1,
    "kalshi_ticker": "KXHIGHDEN-26OCT14-B50.5",
@@ -3399,24 +3433,41 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "14796662954686300295788249964630373902905017902632340714255330086325779242383",
    "poly_fee_rate": 0.05,
-   "vol24": 11703.97
+   "vol24": 11780.5
   },
   {
-   "pair_id": "KXHIGHMIA-26OCT15-B88.5|5600382",
+   "pair_id": "KXHIGHTDAL-26OCT14-B90.5|5600359",
    "score": 1.1,
-   "kalshi_ticker": "KXHIGHMIA-26OCT15-B88.5",
-   "kalshi_text": "Highest temperature in Miami on Oct 15, 2026? 88\u00b0 to 89\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 15, 2026, is between 88-89\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-16T19:00:00Z",
+   "kalshi_ticker": "KXHIGHTDAL-26OCT14-B90.5",
+   "kalshi_text": "Highest temperature in Dallas on Oct 14, 2026? 90\u00b0 to 91\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Dallas (CLIDFW) for Oct 14, 2026, is between 90-91\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
    "category": "Climate and Weather",
-   "poly_id": "5600382",
-   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-88-89f",
-   "poly_text": "Will the highest temperature in Miami be between 88-89\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
+   "poly_id": "5600359",
+   "poly_slug": "highest-temperature-in-dallas-on-october-14-2026-90-91f",
+   "poly_text": "Will the highest temperature in Dallas be between 90-91\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Dallas Love Field Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kdal\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the eve",
    "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "62430755851425743249176426810217768094434091555344316629751208051746684931386",
+   "poly_token": "54582249405991549219863756244794059359651783268480753057042711262081068437480",
    "poly_fee_rate": 0.05,
-   "vol24": 9436.25
+   "vol24": 10384.55
+  },
+  {
+   "pair_id": "KXHIGHTDAL-26OCT14-B94.5|5600361",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHTDAL-26OCT14-B94.5",
+   "kalshi_text": "Highest temperature in Dallas on Oct 14, 2026? 94\u00b0 to 95\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Dallas (CLIDFW) for Oct 14, 2026, is between 94-95\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5600361",
+   "poly_slug": "highest-temperature-in-dallas-on-october-14-2026-94-95f",
+   "poly_text": "Will the highest temperature in Dallas be between 94-95\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Dallas Love Field Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kdal\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the eve",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "32099796429754050718721681476169785332191599385879941109490996342610803781387",
+   "poly_fee_rate": 0.05,
+   "vol24": 8275.47
   },
   {
    "pair_id": "KXHIGHLAX-26OCT14-B74.5|5602381",
@@ -3433,7 +3484,41 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "113840256197427688542523304591280401608333161537069956658633549908224483030647",
    "poly_fee_rate": 0.05,
-   "vol24": 7160.01
+   "vol24": 7052.01
+  },
+  {
+   "pair_id": "KXHIGHTSEA-26OCT14-B68.5|5602370",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHTSEA-26OCT14-B68.5",
+   "kalshi_text": "Highest temperature in Seattle on Oct 14, 2026? 68\u00b0 to 69\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Seattle (CLISEA) for Oct 14, 2026, is between 68-69\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5602370",
+   "poly_slug": "highest-temperature-in-seattle-on-october-14-2026-68-69f",
+   "poly_text": "Will the highest temperature in Seattle be between 68-69\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Seattle-Tacoma International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksea\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution ",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "63339145107723183017011776824652213802978982352282440957155116701797900690592",
+   "poly_fee_rate": 0.05,
+   "vol24": 6002.92
+  },
+  {
+   "pair_id": "KXHIGHTDAL-26OCT14-B92.5|5600360",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHTDAL-26OCT14-B92.5",
+   "kalshi_text": "Highest temperature in Dallas on Oct 14, 2026? 92\u00b0 to 93\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Dallas (CLIDFW) for Oct 14, 2026, is between 92-93\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5600360",
+   "poly_slug": "highest-temperature-in-dallas-on-october-14-2026-92-93f",
+   "poly_text": "Will the highest temperature in Dallas be between 92-93\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Dallas Love Field Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kdal\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the eve",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "101452873965416845009331964099799723349887120914022463868478382529638727591385",
+   "poly_fee_rate": 0.05,
+   "vol24": 5968.67
   },
   {
    "pair_id": "KXHIGHDEN-26OCT14-B52.5|5600414",
@@ -3450,7 +3535,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "38818311690385321018729573150125127430610511758039964891001560316438145854735",
    "poly_fee_rate": 0.05,
-   "vol24": 5597.95
+   "vol24": 5828.26
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT14-B64.5|5602368",
@@ -3467,7 +3552,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "59576185619358630767691652758467829838733960148247314531536140921540517079561",
    "poly_fee_rate": 0.05,
-   "vol24": 5353.34
+   "vol24": 5366.34
   },
   {
    "pair_id": "KXHIGHTDAL-26OCT15-B90.5|5644678",
@@ -3484,7 +3569,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "28378257614240165817132660056745249129786959322491645743809056292227864099079",
    "poly_fee_rate": 0.05,
-   "vol24": 4925.84
+   "vol24": 5062.17
   },
   {
    "pair_id": "KXHIGHLAX-26OCT14-B72.5|5602380",
@@ -3504,23 +3589,6 @@
    "vol24": 4873.93
   },
   {
-   "pair_id": "KXHIGHMIA-26OCT15-B90.5|5600383",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHMIA-26OCT15-B90.5",
-   "kalshi_text": "Highest temperature in Miami on Oct 15, 2026? 90\u00b0 to 91\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 15, 2026, is between 90-91\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-16T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5600383",
-   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-90-91f",
-   "poly_text": "Will the highest temperature in Miami be between 90-91\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "99539768062332415790939080410298610242562663254050264827257248911422538338511",
-   "poly_fee_rate": 0.05,
-   "vol24": 4611.18
-  },
-  {
    "pair_id": "KXHIGHTSEA-26OCT14-B66.5|5602369",
    "score": 1.1,
    "kalshi_ticker": "KXHIGHTSEA-26OCT14-B66.5",
@@ -3535,24 +3603,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "5459914464078536721925682466096459401272964057629414578945846786256353799077",
    "poly_fee_rate": 0.05,
-   "vol24": 4383.49
-  },
-  {
-   "pair_id": "KXHIGHTDAL-26OCT14-B96.5|5644681",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHTDAL-26OCT14-B96.5",
-   "kalshi_text": "Highest temperature in Dallas on Oct 14, 2026? 96\u00b0 to 97\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Dallas (CLIDFW) for Oct 14, 2026, is between 96-97\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-15T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5644681",
-   "poly_slug": "highest-temperature-in-dallas-on-october-15-2026-96-97f",
-   "poly_text": "Will the highest temperature in Dallas be between 96-97\u00b0F on October 15?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Dallas Love Field Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kdal\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the eve",
-   "poly_close": "2026-10-15T12:00:00Z",
-   "poly_token": "31743800722324892789633229443236294818131267602622479216485016855001134062650",
-   "poly_fee_rate": 0.05,
-   "vol24": 2976.96
+   "vol24": 4389.49
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT14-B62.5|5602367",
@@ -3569,24 +3620,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "70215764494034478703513729069863179674658188696043175266373324859161087596444",
    "poly_fee_rate": 0.05,
-   "vol24": 2574.73
-  },
-  {
-   "pair_id": "KXHIGHTSEA-26OCT15-B68.5|5602370",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHTSEA-26OCT15-B68.5",
-   "kalshi_text": "Highest temperature in Seattle on Oct 15, 2026? 68\u00b0 to 69\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Seattle (CLISEA) for Oct 15, 2026, is between 68-69\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-16T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5602370",
-   "poly_slug": "highest-temperature-in-seattle-on-october-14-2026-68-69f",
-   "poly_text": "Will the highest temperature in Seattle be between 68-69\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Seattle-Tacoma International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksea\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution ",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "63339145107723183017011776824652213802978982352282440957155116701797900690592",
-   "poly_fee_rate": 0.05,
-   "vol24": 2468.6
+   "vol24": 2576.77
   },
   {
    "pair_id": "KXHIGHDEN-26OCT14-B54.5|5600415",
@@ -3603,24 +3637,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "59172634494695306727972162226914992074054651675022987101141909522114855337760",
    "poly_fee_rate": 0.05,
-   "vol24": 2222.08
-  },
-  {
-   "pair_id": "KXHIGHTDAL-26OCT15-B94.5|5600361",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHTDAL-26OCT15-B94.5",
-   "kalshi_text": "Highest temperature in Dallas on Oct 15, 2026? 94\u00b0 to 95\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Dallas (CLIDFW) for Oct 15, 2026, is between 94-95\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-16T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5600361",
-   "poly_slug": "highest-temperature-in-dallas-on-october-14-2026-94-95f",
-   "poly_text": "Will the highest temperature in Dallas be between 94-95\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Dallas Love Field Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kdal\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the eve",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "32099796429754050718721681476169785332191599385879941109490996342610803781387",
-   "poly_fee_rate": 0.05,
-   "vol24": 2133.35
+   "vol24": 2323.91
   },
   {
    "pair_id": "KXHIGHTDAL-26OCT15-B88.5|5644677",
@@ -3637,24 +3654,41 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "110028735197076036074219282505928168418914895228418308641026880988524194305452",
    "poly_fee_rate": 0.05,
-   "vol24": 2079.74
+   "vol24": 2102.39
   },
   {
-   "pair_id": "KXHIGHMIA-26OCT15-B92.5|5600384",
+   "pair_id": "KXHIGHMIA-26OCT15-B86.5|5644698",
    "score": 1.1,
-   "kalshi_ticker": "KXHIGHMIA-26OCT15-B92.5",
-   "kalshi_text": "Highest temperature in Miami on Oct 15, 2026? 92\u00b0 to 93\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 15, 2026, is between 92-93\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_ticker": "KXHIGHMIA-26OCT15-B86.5",
+   "kalshi_text": "Highest temperature in Miami on Oct 15, 2026? 86\u00b0 to 87\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 15, 2026, is between 86-87\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
    "kalshi_close": "2026-10-16T19:00:00Z",
    "category": "Climate and Weather",
-   "poly_id": "5600384",
-   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-92-93f",
-   "poly_text": "Will the highest temperature in Miami be between 92-93\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "56182007219793030214585372467417468263110620758326325056114771631774342609558",
+   "poly_id": "5644698",
+   "poly_slug": "highest-temperature-in-miami-on-october-15-2026-86-87f",
+   "poly_text": "Will the highest temperature in Miami be between 86-87\u00b0F on October 15?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
+   "poly_close": "2026-10-15T12:00:00Z",
+   "poly_token": "56329396640909935791026409942832331829967583910710992921900627107010071961421",
    "poly_fee_rate": 0.05,
-   "vol24": 1659.56
+   "vol24": 2009.81
+  },
+  {
+   "pair_id": "KXHIGHMIA-26OCT15-B90.5|5644700",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHMIA-26OCT15-B90.5",
+   "kalshi_text": "Highest temperature in Miami on Oct 15, 2026? 90\u00b0 to 91\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 15, 2026, is between 90-91\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-16T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5644700",
+   "poly_slug": "highest-temperature-in-miami-on-october-15-2026-90-91f",
+   "poly_text": "Will the highest temperature in Miami be between 90-91\u00b0F on October 15?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
+   "poly_close": "2026-10-15T12:00:00Z",
+   "poly_token": "4319354692168818599955655377858658305137148040816137725021361437535843930020",
+   "poly_fee_rate": 0.05,
+   "vol24": 1773.25
   },
   {
    "pair_id": "KXHIGHTSFO-26OCT15-B84.5|5646784",
@@ -3671,7 +3705,24 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "31349638320924520098346901351597708217528234032993449711146787798968835482823",
    "poly_fee_rate": 0.05,
-   "vol24": 1649.27
+   "vol24": 1737.98
+  },
+  {
+   "pair_id": "KXHIGHMIA-26OCT15-B88.5|5644699",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHMIA-26OCT15-B88.5",
+   "kalshi_text": "Highest temperature in Miami on Oct 15, 2026? 88\u00b0 to 89\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 15, 2026, is between 88-89\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-16T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5644699",
+   "poly_slug": "highest-temperature-in-miami-on-october-15-2026-88-89f",
+   "poly_text": "Will the highest temperature in Miami be between 88-89\u00b0F on October 15?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
+   "poly_close": "2026-10-15T12:00:00Z",
+   "poly_token": "83166015344887969921042184920361068516395459405055619955358630592903079306798",
+   "poly_fee_rate": 0.05,
+   "vol24": 1676.31
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT15-B70.5|5646760",
@@ -3691,21 +3742,21 @@
    "vol24": 1648.25
   },
   {
-   "pair_id": "KXHIGHTDAL-26OCT15-B92.5|5600360",
+   "pair_id": "KXHIGHTSFO-26OCT15-B80.5|5646782",
    "score": 1.1,
-   "kalshi_ticker": "KXHIGHTDAL-26OCT15-B92.5",
-   "kalshi_text": "Highest temperature in Dallas on Oct 15, 2026? 92\u00b0 to 93\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Dallas (CLIDFW) for Oct 15, 2026, is between 92-93\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_ticker": "KXHIGHTSFO-26OCT15-B80.5",
+   "kalshi_text": "Highest temperature in San Francisco on Oct 15, 2026? 80\u00b0 to 81\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at San Francisco (CLISFO) for Oct 15, 2026, is between 80-81\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
    "kalshi_close": "2026-10-16T19:00:00Z",
    "category": "Climate and Weather",
-   "poly_id": "5600360",
-   "poly_slug": "highest-temperature-in-dallas-on-october-14-2026-92-93f",
-   "poly_text": "Will the highest temperature in Dallas be between 92-93\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Dallas Love Field Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kdal\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the eve",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "101452873965416845009331964099799723349887120914022463868478382529638727591385",
+   "poly_id": "5646782",
+   "poly_slug": "highest-temperature-in-san-francisco-on-october-15-2026-80-81f",
+   "poly_text": "Will the highest temperature in San Francisco be between 80-81\u00b0F on October 15?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the San Francisco International Airport Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksfo\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution s",
+   "poly_close": "2026-10-15T12:00:00Z",
+   "poly_token": "110814288744598032408955677208235612032486870986845723390378875908171076849401",
    "poly_fee_rate": 0.05,
-   "vol24": 1631.93
+   "vol24": 1495.94
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT15-B72.5|5646761",
@@ -3725,38 +3776,21 @@
    "vol24": 1331.73
   },
   {
-   "pair_id": "KXHIGHTSFO-26OCT15-B80.5|5646782",
+   "pair_id": "KXHIGHTSEA-26OCT15-B68.5|5646758",
    "score": 1.1,
-   "kalshi_ticker": "KXHIGHTSFO-26OCT15-B80.5",
-   "kalshi_text": "Highest temperature in San Francisco on Oct 15, 2026? 80\u00b0 to 81\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at San Francisco (CLISFO) for Oct 15, 2026, is between 80-81\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_ticker": "KXHIGHTSEA-26OCT15-B68.5",
+   "kalshi_text": "Highest temperature in Seattle on Oct 15, 2026? 68\u00b0 to 69\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Seattle (CLISEA) for Oct 15, 2026, is between 68-69\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
    "kalshi_close": "2026-10-16T19:00:00Z",
    "category": "Climate and Weather",
-   "poly_id": "5646782",
-   "poly_slug": "highest-temperature-in-san-francisco-on-october-15-2026-80-81f",
-   "poly_text": "Will the highest temperature in San Francisco be between 80-81\u00b0F on October 15?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the San Francisco International Airport Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksfo\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution s",
+   "poly_id": "5646758",
+   "poly_slug": "highest-temperature-in-seattle-on-october-15-2026-68-69f",
+   "poly_text": "Will the highest temperature in Seattle be between 68-69\u00b0F on October 15?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Seattle-Tacoma International Airport Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksea\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution ",
    "poly_close": "2026-10-15T12:00:00Z",
-   "poly_token": "110814288744598032408955677208235612032486870986845723390378875908171076849401",
+   "poly_token": "114167026127881101856688500058740663262674831572341676013881646687536052100379",
    "poly_fee_rate": 0.05,
-   "vol24": 1313.26
-  },
-  {
-   "pair_id": "KXHIGHTSFO-26OCT15-B78.5|5602395",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHTSFO-26OCT15-B78.5",
-   "kalshi_text": "Highest temperature in San Francisco on Oct 15, 2026? 78\u00b0 to 79\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at San Francisco (CLISFO) for Oct 15, 2026, is between 78-79\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-16T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5602395",
-   "poly_slug": "highest-temperature-in-san-francisco-on-october-14-2026-78-79f",
-   "poly_text": "Will the highest temperature in San Francisco be between 78-79\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the San Francisco International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksfo\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution s",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "47286821211190440443164483218854357902003891497782774711330115277224058901708",
-   "poly_fee_rate": 0.05,
-   "vol24": 1310.15
+   "vol24": 1183.7
   },
   {
    "pair_id": "KXHIGHTSFO-26OCT15-B82.5|5646783",
@@ -3774,6 +3808,23 @@
    "poly_token": "38326094578785638084685758543352091552852301787724949944402472706347574234333",
    "poly_fee_rate": 0.05,
    "vol24": 916.33
+  },
+  {
+   "pair_id": "KXHIGHTSFO-26OCT15-B78.5|5646781",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHTSFO-26OCT15-B78.5",
+   "kalshi_text": "Highest temperature in San Francisco on Oct 15, 2026? 78\u00b0 to 79\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at San Francisco (CLISFO) for Oct 15, 2026, is between 78-79\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-16T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5646781",
+   "poly_slug": "highest-temperature-in-san-francisco-on-october-15-2026-78-79f",
+   "poly_text": "Will the highest temperature in San Francisco be between 78-79\u00b0F on October 15?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the San Francisco International Airport Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksfo\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution s",
+   "poly_close": "2026-10-15T12:00:00Z",
+   "poly_token": "29919500855028813076915226819521899298966063003133311595503112757519436399290",
+   "poly_fee_rate": 0.05,
+   "vol24": 635.24
   },
   {
    "pair_id": "KXCMA-MVOTY26-CSTA|4663798",
@@ -3807,7 +3858,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "28452090262595806306683841543702974671789939255165753137157118490078999198778",
    "poly_fee_rate": 0.03,
-   "vol24": 56027.69
+   "vol24": 50711.85
   },
   {
    "pair_id": "KXCMA-VDOTY26-TJAM|4663964",
@@ -3875,7 +3926,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "80760484659859004057151567591793221748584787651268092387414945323344021679571",
    "poly_fee_rate": 0.03,
-   "vol24": 23305.42
+   "vol24": 19016.92
   },
   {
    "pair_id": "KXSERIEBGAME-26OCT16VERUSC-VER|5227839",
@@ -4199,57 +4250,6 @@
    "poly_token": "36494108444447263802148578432609834249853996810500233011846717985967521738285",
    "poly_fee_rate": 0.04,
    "vol24": 84.96
-  },
-  {
-   "pair_id": "KXCMA-EOTY26-CJOH|4663773",
-   "score": 1.075,
-   "kalshi_ticker": "KXCMA-EOTY26-CJOH",
-   "kalshi_text": "CMA Awards: Entertainer of the Year Cody Johnson",
-   "kalshi_rules": "If Cody Johnson wins Entertainer of the Year at the 60th Country Music Association Awards, then the market resolves to Yes.",
-   "kalshi_close": "2026-11-18T15:00:00Z",
-   "category": "Entertainment",
-   "poly_id": "4663773",
-   "poly_slug": "cma-2026-eoty-cody-johnson",
-   "poly_text": "Will Cody Johnson win Entertainer of the Year at the 2026 CMA Awards?",
-   "poly_rules": "The Country Music Association Awards are presented annually by the Country Music Association (CMA) to honor outstanding achievement in country music. The 60th Annual Country Music Association Awards are currently scheduled for November 18, 2026.\n\nThis market will resolve according to the listed artist who wins the 60th Annual Country Music Association Award for Entertainer of the Year. \n\nIf a listed artist is not officially nominated for the Country Music Association Award for Entertainer of the Year when the 2026 nominees are announced, the corresponding market will immediately resolve to \"No\".\n\nIn case of a tie for the winner, this market will resolve in favor of the tied winning artist wh",
-   "poly_close": "2026-11-19T04:59:00Z",
-   "poly_token": "62561033495734961973458273766692986526555323850287659678909282839187452665020",
-   "poly_fee_rate": 0.05,
-   "vol24": 7.53
-  },
-  {
-   "pair_id": "KXCMA-MOTY26-PFRA|4663898",
-   "score": 1.075,
-   "kalshi_ticker": "KXCMA-MOTY26-PFRA",
-   "kalshi_text": "CMA Awards: Musician of the Year Paul Franklin",
-   "kalshi_rules": "If Paul Franklin wins Musician of the Year at the 60th Country Music Association Awards, then the market resolves to Yes.",
-   "kalshi_close": "2026-11-18T15:00:00Z",
-   "category": "Entertainment",
-   "poly_id": "4663898",
-   "poly_slug": "cma-2026-moty-paul-franklin",
-   "poly_text": "Will Paul Franklin (steel guitar) win Musician of the Year at the 2026 CMA Awards?",
-   "poly_rules": "The Country Music Association Awards are presented annually by the Country Music Association (CMA) to honor outstanding achievement in country music. The 60th Annual Country Music Association Awards are currently scheduled for November 18, 2026.\n\nThis market will resolve according to the listed musician who wins the 60th Annual Country Music Association Award for Musician of the Year. \n\nIf a listed musician is not officially nominated for the Country Music Association Award for Musician of the Year when the 2026 nominees are announced, the corresponding market will immediately resolve to \"No\".\n\nIn case of a tie for the winner, this market will resolve in favor of the tied winning musician wh",
-   "poly_close": "2026-11-19T04:59:00Z",
-   "poly_token": "40006656763931655242985660524175935694435236174759228741364938570137954949583",
-   "poly_fee_rate": 0.05,
-   "vol24": 0.0
-  },
-  {
-   "pair_id": "KXCBDSWISS-26DEC10-H25P|4911209",
-   "score": 1.074,
-   "kalshi_ticker": "KXCBDSWISS-26DEC10-H25P",
-   "kalshi_text": "Swiss National Bank rate decision in December Hike more than 25bps",
-   "kalshi_rules": "If the Swiss National Bank takes the action of hike more than 25bps at its December monetary policy assessment, then the market resolves to Yes.",
-   "kalshi_close": "2026-12-10T13:30:00Z",
-   "category": "Economics",
-   "poly_id": "4911209",
-   "poly_slug": "will-the-swiss-national-bank-increase-the-snb-policy-rate-by-25-bps-at-the-december-meeting",
-   "poly_text": "Will the Swiss National Bank increase the SNB policy rate by 25 bps at the December meeting?",
-   "poly_rules": "This market will resolve according to the change in basis points in the SNB policy rate resulting from the December 2026 meeting of the Swiss National Bank, relative to the level it was prior to this meeting.\n\nThe resolution source will be official information from the Swiss National Bank, including the statement or release from its December 2026 monetary policy assessment, scheduled for December 10, 2026, as listed on the official Swiss National Bank calendar (https://www.snb.ch/en/services-events/digital-services/event-schedule). This market may resolve as soon as the statement or release of the Swiss National Bank resulting from its December 2026 meeting with relevant data is issued.\n\nIf ",
-   "poly_close": "2026-12-10T00:00:00Z",
-   "poly_token": "33191254354432612482613221629582013807081116136939897529314995747055163257729",
-   "poly_fee_rate": 0.05,
-   "vol24": 1153.13
   }
  ]
 }
