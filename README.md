@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-14T18:14:58Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-14T18:59:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-14T18:14:55Z — 215 of 215 pairs priced
 - Scans in the last 24h: 5 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-14T17:52:35Z — Kalshi 133154 markets, Polymarket 21300 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-14T18:59:20Z — Kalshi 132892 markets, Polymarket 20699 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 5 scans so far. A pair counts as positive when buying 
 | CMA Awards: Vocal Group of the Year The Red C / Will The Red Clay Strays win Vocal Group of t | no | +0.7¢ | +0.7¢ | 1 | 4 | 35 | 8% |
 
 - Fast-check sessions (every 15 sec): none yet
-- Same-site bundles in the last 3 days: 78. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 93. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Central Bank of Colombia decision in October 25 bps increase — 2 outcomes, +4.0¢ per $1
+  - polymarket: Pro Football: 2026-27 Last Winless Team Los Angeles Chargers — 3 outcomes, +3.8¢ per $1
   - polymarket: Sokoto, Nigeria Governor Election Winner Ahmed Aliyu — 4 outcomes, +3.7¢ per $1
   - polymarket: IA-01 House Election Margin of Victory Republican 0-3% — 8 outcomes, +3.6¢ per $1
   - kalshi: Arizona State Senate winner? — 2 outcomes, +3.6¢ per $1
-  - polymarket: Al-Taawoun FC vs. Al Rayyan SC Al-Taawoun FC — 2 outcomes, +3.5¢ per $1
-  - polymarket: #3 Spotify Artist 2026 Taylor Swift — 2 outcomes, +3.3¢ per $1
 
 ## Forecast test
 

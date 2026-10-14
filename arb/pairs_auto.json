@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:52:35Z",
+ "updated": "2026-10-14T18:59:20Z",
  "pairs": [
   {
    "pair_id": "KXFEDDECISION-26OCT-H25|2589813",
@@ -16,7 +16,7 @@
    "poly_close": "2026-10-29T03:59:00Z",
    "poly_token": "55159722761418013044126414276680602270318000841690689684819994448621694923050",
    "poly_fee_rate": 0.05,
-   "vol24": 1777824.9
+   "vol24": 1818619.22
   },
   {
    "pair_id": "KXFEDDECISION-26OCT-C25|2589811",
@@ -33,7 +33,7 @@
    "poly_close": "2026-10-29T03:59:00Z",
    "poly_token": "33268510350568915228897273528353467773422190590579607471427765079749830445947",
    "poly_fee_rate": 0.05,
-   "vol24": 425938.92
+   "vol24": 449412.34
   },
   {
    "pair_id": "KXFEDDECISION-26DEC-H25|3215008",
@@ -50,7 +50,7 @@
    "poly_close": "2026-12-09T23:59:00Z",
    "poly_token": "111662129652828266889360374468657435151479595863413519836161861837506140152890",
    "poly_fee_rate": 0.05,
-   "vol24": 91035.88
+   "vol24": 78706.68
   },
   {
    "pair_id": "KXFEDDECISION-26DEC-C25|3215006",
@@ -67,7 +67,7 @@
    "poly_close": "2026-12-09T23:59:00Z",
    "poly_token": "77367448845023382525249480243608609306658725883285195065573683809293972009019",
    "poly_fee_rate": 0.05,
-   "vol24": 69264.07
+   "vol24": 59853.65
   },
   {
    "pair_id": "KXFEDDECISION-27JAN-H25|3215013",
@@ -84,7 +84,7 @@
    "poly_close": "2027-01-28T04:59:00Z",
    "poly_token": "58421987972100586826330616250690474504359298033602990223828098109695719571344",
    "poly_fee_rate": 0.05,
-   "vol24": 54035.61
+   "vol24": 38421.14
   },
   {
    "pair_id": "KXFEDDECISION-27JAN-C25|3215011",
@@ -101,7 +101,7 @@
    "poly_close": "2027-01-28T04:59:00Z",
    "poly_token": "55531205670373260499988385930313327116586167390725681551489621136380793885916",
    "poly_fee_rate": 0.05,
-   "vol24": 23826.2
+   "vol24": 20725.23
   },
   {
    "pair_id": "KXCBDECISIONCANADA-26OCT-H25|2941849",
@@ -118,7 +118,7 @@
    "poly_close": "2026-10-28T00:00:00Z",
    "poly_token": "49179626323744581929644494169891661533632485652774477888051528768583009370807",
    "poly_fee_rate": 0.05,
-   "vol24": 6320.4
+   "vol24": 5478.2
   },
   {
    "pair_id": "KXCBDECISIONCANADA-26OCT-C25|2941851",
@@ -135,7 +135,7 @@
    "poly_close": "2026-10-28T00:00:00Z",
    "poly_token": "22165770016548686311924550936983415867539923480918539874810630446450614525984",
    "poly_fee_rate": 0.05,
-   "vol24": 330.33
+   "vol24": 296.33
   },
   {
    "pair_id": "KXCBDECISIONCANADA-26DEC-H25|4393418",
@@ -152,7 +152,7 @@
    "poly_close": "2026-12-09T00:00:00Z",
    "poly_token": "54681368317975901430466975278763152542319916351739413693465866333837051452063",
    "poly_fee_rate": 0.05,
-   "vol24": 166.87
+   "vol24": 170.71
   },
   {
    "pair_id": "KXTOPARTISTTHIRD-26-TAY|2519346",
@@ -224,7 +224,7 @@
   },
   {
    "pair_id": "KXRANKLISTGOOGLESEARCHTOP5-26DEC-ERL|4425408",
-   "score": 1.219,
+   "score": 1.218,
    "kalshi_ticker": "KXRANKLISTGOOGLESEARCHTOP5-26DEC-ERL",
    "kalshi_text": "Top 5 most searched people on Google in 2026 Erling Haaland",
    "kalshi_rules": "If Erling Haaland is in Top 5 search on Google\u2019s Year in Search 2026 Global \u2013 People in 2026, then the market resolves to Yes.",
@@ -254,7 +254,7 @@
    "poly_close": "2026-12-31T23:59:00Z",
    "poly_token": "102789151711377736828211933998317823762731843052906612370954099348010354020543",
    "poly_fee_rate": 0.05,
-   "vol24": 122.84
+   "vol24": 102.84
   },
   {
    "pair_id": "KXRANKLISTGOOGLESEARCHTOP5-26DEC-DON|4425410",
@@ -305,7 +305,41 @@
    "poly_close": "2026-11-01T03:59:00Z",
    "poly_token": "64788093771469739780303892117886022970083907680369932654421727478470048076239",
    "poly_fee_rate": 0.05,
-   "vol24": 552.21
+   "vol24": 744.27
+  },
+  {
+   "pair_id": "KX10YRDIRLM-26OCT30L-T5.13|5194810",
+   "score": 1.201,
+   "kalshi_ticker": "KX10YRDIRLM-26OCT30L-T5.13",
+   "kalshi_text": "How low will the 10-year US Treasury yield get by Oct 30, 2026? 5.12% or below",
+   "kalshi_rules": "If the daily published par yield for the 10-year U.S. Treasury is below 5.13% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-30T19:30:00Z",
+   "category": "Financials",
+   "poly_id": "5194810",
+   "poly_slug": "will-the-10-year-treasury-yield-dip-below-5pt12-in-october",
+   "poly_text": "Will the 10-year Treasury yield dip below 5.12% in October?",
+   "poly_rules": "This market will resolve to \"Yes\" if the Treasury 10-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 10-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"10 Yr\"",
+   "poly_close": "2026-11-01T03:59:00Z",
+   "poly_token": "74094149170257312589202064934610517745830513259117099272954243593184100644942",
+   "poly_fee_rate": 0.05,
+   "vol24": 528.68
+  },
+  {
+   "pair_id": "KX10YRDIRLM-26OCT30L-T5.19|5194808",
+   "score": 1.201,
+   "kalshi_ticker": "KX10YRDIRLM-26OCT30L-T5.19",
+   "kalshi_text": "How low will the 10-year US Treasury yield get by Oct 30, 2026? 5.18% or below",
+   "kalshi_rules": "If the daily published par yield for the 10-year U.S. Treasury is below 5.19% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-30T19:30:00Z",
+   "category": "Financials",
+   "poly_id": "5194808",
+   "poly_slug": "will-the-10-year-treasury-yield-dip-below-5pt18-in-october",
+   "poly_text": "Will the 10-year Treasury yield dip below 5.18% in October?",
+   "poly_rules": "This market will resolve to \"Yes\" if the Treasury 10-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 10-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"10 Yr\"",
+   "poly_close": "2026-11-01T03:59:00Z",
+   "poly_token": "60224541666831737242153424422269305112550194311218807046056805368129144426136",
+   "poly_fee_rate": 0.05,
+   "vol24": 518.91
   },
   {
    "pair_id": "KX5YRDIRLM-26OCT30L-T4.96|5194845",
@@ -325,23 +359,6 @@
    "vol24": 516.25
   },
   {
-   "pair_id": "KX10YRDIRLM-26OCT30L-T5.13|5194810",
-   "score": 1.201,
-   "kalshi_ticker": "KX10YRDIRLM-26OCT30L-T5.13",
-   "kalshi_text": "How low will the 10-year US Treasury yield get by Oct 30, 2026? 5.12% or below",
-   "kalshi_rules": "If the daily published par yield for the 10-year U.S. Treasury is below 5.13% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-30T19:30:00Z",
-   "category": "Financials",
-   "poly_id": "5194810",
-   "poly_slug": "will-the-10-year-treasury-yield-dip-below-5pt12-in-october",
-   "poly_text": "Will the 10-year Treasury yield dip below 5.12% in October?",
-   "poly_rules": "This market will resolve to \"Yes\" if the Treasury 10-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 10-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"10 Yr\"",
-   "poly_close": "2026-11-01T03:59:00Z",
-   "poly_token": "74094149170257312589202064934610517745830513259117099272954243593184100644942",
-   "poly_fee_rate": 0.05,
-   "vol24": 465.24
-  },
-  {
    "pair_id": "KX2YRDIRLM-26OCT30L-T4.71|5194864",
    "score": 1.201,
    "kalshi_ticker": "KX2YRDIRLM-26OCT30L-T4.71",
@@ -359,21 +376,21 @@
    "vol24": 464.22
   },
   {
-   "pair_id": "KX10YRDIRLM-26OCT30L-T5.19|5194808",
+   "pair_id": "KX10YRDIRLM-26OCT30L-T5.10|5194811",
    "score": 1.201,
-   "kalshi_ticker": "KX10YRDIRLM-26OCT30L-T5.19",
-   "kalshi_text": "How low will the 10-year US Treasury yield get by Oct 30, 2026? 5.18% or below",
-   "kalshi_rules": "If the daily published par yield for the 10-year U.S. Treasury is below 5.19% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
+   "kalshi_ticker": "KX10YRDIRLM-26OCT30L-T5.10",
+   "kalshi_text": "How low will the 10-year US Treasury yield get by Oct 30, 2026? 5.09% or below",
+   "kalshi_rules": "If the daily published par yield for the 10-year U.S. Treasury is below 5.10% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
    "kalshi_close": "2026-10-30T19:30:00Z",
    "category": "Financials",
-   "poly_id": "5194808",
-   "poly_slug": "will-the-10-year-treasury-yield-dip-below-5pt18-in-october",
-   "poly_text": "Will the 10-year Treasury yield dip below 5.18% in October?",
+   "poly_id": "5194811",
+   "poly_slug": "will-the-10-year-treasury-yield-dip-below-5pt09-in-october",
+   "poly_text": "Will the 10-year Treasury yield dip below 5.09% in October?",
    "poly_rules": "This market will resolve to \"Yes\" if the Treasury 10-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 10-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"10 Yr\"",
    "poly_close": "2026-11-01T03:59:00Z",
-   "poly_token": "60224541666831737242153424422269305112550194311218807046056805368129144426136",
+   "poly_token": "45503699424543667544150756330905081215315780194680965545392285869159525398946",
    "poly_fee_rate": 0.05,
-   "vol24": 360.0
+   "vol24": 409.0
   },
   {
    "pair_id": "KX5YRDIRLM-26OCT30L-T4.93|5194846",
@@ -393,23 +410,6 @@
    "vol24": 340.0
   },
   {
-   "pair_id": "KX10YRDIRLM-26OCT30L-T5.10|5194811",
-   "score": 1.201,
-   "kalshi_ticker": "KX10YRDIRLM-26OCT30L-T5.10",
-   "kalshi_text": "How low will the 10-year US Treasury yield get by Oct 30, 2026? 5.09% or below",
-   "kalshi_rules": "If the daily published par yield for the 10-year U.S. Treasury is below 5.10% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-30T19:30:00Z",
-   "category": "Financials",
-   "poly_id": "5194811",
-   "poly_slug": "will-the-10-year-treasury-yield-dip-below-5pt09-in-october",
-   "poly_text": "Will the 10-year Treasury yield dip below 5.09% in October?",
-   "poly_rules": "This market will resolve to \"Yes\" if the Treasury 10-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 10-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"10 Yr\"",
-   "poly_close": "2026-11-01T03:59:00Z",
-   "poly_token": "45503699424543667544150756330905081215315780194680965545392285869159525398946",
-   "poly_fee_rate": 0.05,
-   "vol24": 310.0
-  },
-  {
    "pair_id": "KX10YRDIRLM-26OCT30L-T5.16|5194809",
    "score": 1.201,
    "kalshi_ticker": "KX10YRDIRLM-26OCT30L-T5.16",
@@ -424,7 +424,7 @@
    "poly_close": "2026-11-01T03:59:00Z",
    "poly_token": "84003559317313302344428395822646611987605420165549757133938404029966024788622",
    "poly_fee_rate": 0.05,
-   "vol24": 285.0
+   "vol24": 262.0
   },
   {
    "pair_id": "KX10YRDIRLM-26OCT30L-T5.06|5194812",
@@ -478,23 +478,6 @@
    "vol24": 196.98
   },
   {
-   "pair_id": "KX30YRDIRLM-26OCT30L-T5.47|5194829",
-   "score": 1.201,
-   "kalshi_ticker": "KX30YRDIRLM-26OCT30L-T5.47",
-   "kalshi_text": "How low will the 30-year US Treasury yield get by Oct 30, 2026? 5.46% or below",
-   "kalshi_rules": "If the daily published par yield for the 30-year U.S. Treasury is below 5.47% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-30T19:30:00Z",
-   "category": "Financials",
-   "poly_id": "5194829",
-   "poly_slug": "will-the-30-year-treasury-yield-dip-below-5pt46-in-october",
-   "poly_text": "Will the 30-year Treasury yield dip below 5.46% in October?",
-   "poly_rules": "This market will resolve to \"Yes\" if the Treasury 30-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 30-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"30 Yr\"",
-   "poly_close": "2026-11-01T03:59:00Z",
-   "poly_token": "55008932076080260295768004176358471859312272558004266351404505140433421783517",
-   "poly_fee_rate": 0.05,
-   "vol24": 170.94
-  },
-  {
    "pair_id": "KX5YRDIRLM-26OCT30L-T4.84|5194849",
    "score": 1.201,
    "kalshi_ticker": "KX5YRDIRLM-26OCT30L-T4.84",
@@ -509,7 +492,7 @@
    "poly_close": "2026-11-01T03:59:00Z",
    "poly_token": "4082416067600292991170435883907188411184313945816760976410637657501813821596",
    "poly_fee_rate": 0.05,
-   "vol24": 141.93
+   "vol24": 161.93
   },
   {
    "pair_id": "KX2YRDIRLM-26OCT30L-T4.74|5194863",
@@ -546,40 +529,6 @@
    "vol24": 60.0
   },
   {
-   "pair_id": "KX30YRDIRLM-26OCT30L-T5.44|5194830",
-   "score": 1.201,
-   "kalshi_ticker": "KX30YRDIRLM-26OCT30L-T5.44",
-   "kalshi_text": "How low will the 30-year US Treasury yield get by Oct 30, 2026? 5.43% or below",
-   "kalshi_rules": "If the daily published par yield for the 30-year U.S. Treasury is below 5.44% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-30T19:30:00Z",
-   "category": "Financials",
-   "poly_id": "5194830",
-   "poly_slug": "will-the-30-year-treasury-yield-dip-below-5pt43-in-october",
-   "poly_text": "Will the 30-year Treasury yield dip below 5.43% in October?",
-   "poly_rules": "This market will resolve to \"Yes\" if the Treasury 30-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 30-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"30 Yr\"",
-   "poly_close": "2026-11-01T03:59:00Z",
-   "poly_token": "74418942164436741310423399061605834818603059555670900574885927242027796688938",
-   "poly_fee_rate": 0.05,
-   "vol24": 50.0
-  },
-  {
-   "pair_id": "KX30YRDIRLM-26OCT30L-T5.53|5194827",
-   "score": 1.201,
-   "kalshi_ticker": "KX30YRDIRLM-26OCT30L-T5.53",
-   "kalshi_text": "How low will the 30-year US Treasury yield get by Oct 30, 2026? 5.52% or below",
-   "kalshi_rules": "If the daily published par yield for the 30-year U.S. Treasury is below 5.53% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-30T19:30:00Z",
-   "category": "Financials",
-   "poly_id": "5194827",
-   "poly_slug": "will-the-30-year-treasury-yield-dip-below-5pt52-in-october",
-   "poly_text": "Will the 30-year Treasury yield dip below 5.52% in October?",
-   "poly_rules": "This market will resolve to \"Yes\" if the Treasury 30-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 30-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"30 Yr\"",
-   "poly_close": "2026-11-01T03:59:00Z",
-   "poly_token": "68316308056133051455531051733102379042641349893553052899298513051392257786291",
-   "poly_fee_rate": 0.05,
-   "vol24": 21.48
-  },
-  {
    "pair_id": "KX5YRDIRLM-26OCT30L-T4.87|5194848",
    "score": 1.201,
    "kalshi_ticker": "KX5YRDIRLM-26OCT30L-T4.87",
@@ -614,6 +563,23 @@
    "vol24": 20.0
   },
   {
+   "pair_id": "KX30YRDIRLM-26OCT30L-T5.44|5194830",
+   "score": 1.201,
+   "kalshi_ticker": "KX30YRDIRLM-26OCT30L-T5.44",
+   "kalshi_text": "How low will the 30-year US Treasury yield get by Oct 30, 2026? 5.43% or below",
+   "kalshi_rules": "If the daily published par yield for the 30-year U.S. Treasury is below 5.44% on any business day between Oct 1, 2026 and Oct 30, 2026, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-30T19:30:00Z",
+   "category": "Financials",
+   "poly_id": "5194830",
+   "poly_slug": "will-the-30-year-treasury-yield-dip-below-5pt43-in-october",
+   "poly_text": "Will the 30-year Treasury yield dip below 5.43% in October?",
+   "poly_rules": "This market will resolve to \"Yes\" if the Treasury 30-year yield is lower than the listed value for any date between October 2, 2026 and October 31, 2026. Otherwise this market will resolve to \"No\".\n\nThis market will resolve as soon as the Treasury 30-year yield is lower than the listed value, or once data is available for the last business day of October 2026. If no qualifying value is published and data is not available for the last business day of October 2026 by November 13, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source for this market is the Department of the treasury, specifically the data listed under \"Daily Treasury Par Yield Curve Rates\" for the column \"30 Yr\"",
+   "poly_close": "2026-11-01T03:59:00Z",
+   "poly_token": "74418942164436741310423399061605834818603059555670900574885927242027796688938",
+   "poly_fee_rate": 0.05,
+   "vol24": 5.0
+  },
+  {
    "pair_id": "KXUCLGAME-26OCT14ROMRMA-RMA|5184009",
    "score": 1.2,
    "kalshi_ticker": "KXUCLGAME-26OCT14ROMRMA-RMA",
@@ -628,7 +594,7 @@
    "poly_close": "2026-10-14T19:00:00Z",
    "poly_token": "99922256573703734427424644866042539978898018643379690678401728453693287502048",
    "poly_fee_rate": 0.05,
-   "vol24": 2484833.03
+   "vol24": 8062449.44
   },
   {
    "pair_id": "KXUCLGAME-26OCT14ROMRMA-ROM|5184006",
@@ -645,24 +611,7 @@
    "poly_close": "2026-10-14T19:00:00Z",
    "poly_token": "61050769954393702433370038226930956013602372537515291165360402344874334850776",
    "poly_fee_rate": 0.05,
-   "vol24": 362402.01
-  },
-  {
-   "pair_id": "KXDIMAYORGAME-26OCT13MILOC-MIL|5160808",
-   "score": 1.2,
-   "kalshi_ticker": "KXDIMAYORGAME-26OCT13MILOC-MIL",
-   "kalshi_text": "Millonarios vs Once Caldas Millonarios",
-   "kalshi_rules": "If Millonarios wins the Millonarios vs Once Caldas professional Colombian Liga DIMAYOR soccer game originally scheduled for Oct 13, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-14T04:30:00Z",
-   "category": "Sports",
-   "poly_id": "5160808",
-   "poly_slug": "col1-mif-onc-2026-10-13-mif",
-   "poly_text": "Will Millonarios FC win on 2026-10-13?",
-   "poly_rules": "In the upcoming game, scheduled for October 13, 2026\nIf Millonarios FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the e",
-   "poly_close": "2026-10-14T01:30:00Z",
-   "poly_token": "2770394239397427414551332400651117082564342645437096253989130566349896860376",
-   "poly_fee_rate": 0.05,
-   "vol24": 123786.03
+   "vol24": 566087.38
   },
   {
    "pair_id": "KXUCLGAME-26OCT14ROMRMA-TIE|5184007",
@@ -679,7 +628,24 @@
    "poly_close": "2026-10-14T19:00:00Z",
    "poly_token": "64203397677910004309548884017827178094028640627345847739260270561827803295796",
    "poly_fee_rate": 0.05,
-   "vol24": 89205.42
+   "vol24": 133497.88
+  },
+  {
+   "pair_id": "KXDIMAYORGAME-26OCT13MILOC-MIL|5160808",
+   "score": 1.2,
+   "kalshi_ticker": "KXDIMAYORGAME-26OCT13MILOC-MIL",
+   "kalshi_text": "Millonarios vs Once Caldas Millonarios",
+   "kalshi_rules": "If Millonarios wins the Millonarios vs Once Caldas professional Colombian Liga DIMAYOR soccer game originally scheduled for Oct 13, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-14T04:30:00Z",
+   "category": "Sports",
+   "poly_id": "5160808",
+   "poly_slug": "col1-mif-onc-2026-10-13-mif",
+   "poly_text": "Will Millonarios FC win on 2026-10-13?",
+   "poly_rules": "In the upcoming game, scheduled for October 13, 2026\nIf Millonarios FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the e",
+   "poly_close": "2026-10-14T01:30:00Z",
+   "poly_token": "2770394239397427414551332400651117082564342645437096253989130566349896860376",
+   "poly_fee_rate": 0.05,
+   "vol24": 125048.91
   },
   {
    "pair_id": "KXDIMAYORGAME-26OCT13MILOC-OC|5160811",
@@ -696,7 +662,7 @@
    "poly_close": "2026-10-14T01:30:00Z",
    "poly_token": "32267213316051208319353393726665124985036685813731517776002412373650913661331",
    "poly_fee_rate": 0.05,
-   "vol24": 86524.72
+   "vol24": 88422.22
   },
   {
    "pair_id": "KXTFF1LIGGAME-26OCT14ANTKAY-KAY|5530980",
@@ -713,24 +679,7 @@
    "poly_close": "2026-10-14T17:00:00Z",
    "poly_token": "52401109868482622107311850429419099447563972164293381696467795035659327740834",
    "poly_fee_rate": 0.05,
-   "vol24": 35161.85
-  },
-  {
-   "pair_id": "KXLALIGAGAME-26OCT25BARRMA-BAR|5598475",
-   "score": 1.2,
-   "kalshi_ticker": "KXLALIGAGAME-26OCT25BARRMA-BAR",
-   "kalshi_text": "Barcelona vs Real Madrid Barcelona",
-   "kalshi_rules": "If Barcelona wins the Barcelona vs Real Madrid professional La Liga soccer game originally scheduled for Oct 25, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-25T23:00:00Z",
-   "category": "Sports",
-   "poly_id": "5598475",
-   "poly_slug": "lal-bar-rea-2026-10-25-bar",
-   "poly_text": "Will FC Barcelona win on 2026-10-25?",
-   "poly_rules": "In the upcoming game, scheduled for October 25, 2026\nIf FC Barcelona wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the eve",
-   "poly_close": "2026-10-25T20:00:00Z",
-   "poly_token": "28032922121340574564753529975027027359615112054359670441462060501417320722117",
-   "poly_fee_rate": 0.05,
-   "vol24": 28790.21
+   "vol24": 87992.11
   },
   {
    "pair_id": "KXLALIGAGAME-26OCT25BARRMA-RMA|5598481",
@@ -747,160 +696,24 @@
    "poly_close": "2026-10-25T20:00:00Z",
    "poly_token": "8853465120832778901717717180523314783482724931998595367133108707023926550591",
    "poly_fee_rate": 0.05,
-   "vol24": 28123.32
+   "vol24": 28566.64
   },
   {
-   "pair_id": "KXDIMAYORGAME-26OCT13MILOC-TIE|5160810",
+   "pair_id": "KXLALIGAGAME-26OCT25BARRMA-BAR|5598475",
    "score": 1.2,
-   "kalshi_ticker": "KXDIMAYORGAME-26OCT13MILOC-TIE",
-   "kalshi_text": "Millonarios vs Once Caldas Tie",
-   "kalshi_rules": "If Tie is the result of the Millonarios vs Once Caldas professional Colombian Liga DIMAYOR soccer game originally scheduled for Oct 13, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-14T04:30:00Z",
+   "kalshi_ticker": "KXLALIGAGAME-26OCT25BARRMA-BAR",
+   "kalshi_text": "Barcelona vs Real Madrid Barcelona",
+   "kalshi_rules": "If Barcelona wins the Barcelona vs Real Madrid professional La Liga soccer game originally scheduled for Oct 25, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-25T23:00:00Z",
    "category": "Sports",
-   "poly_id": "5160810",
-   "poly_slug": "col1-mif-onc-2026-10-13-draw",
-   "poly_text": "Will Millonarios FC vs. Once Caldas end in a draw?",
-   "poly_rules": "In the upcoming game, scheduled for October 13, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours aft",
-   "poly_close": "2026-10-14T01:30:00Z",
-   "poly_token": "109360091495694172496939547669316421623961534660017181991131041243215445581253",
+   "poly_id": "5598475",
+   "poly_slug": "lal-bar-rea-2026-10-25-bar",
+   "poly_text": "Will FC Barcelona win on 2026-10-25?",
+   "poly_rules": "In the upcoming game, scheduled for October 25, 2026\nIf FC Barcelona wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the eve",
+   "poly_close": "2026-10-25T20:00:00Z",
+   "poly_token": "28032922121340574564753529975027027359615112054359670441462060501417320722117",
    "poly_fee_rate": 0.05,
-   "vol24": 26124.81
-  },
-  {
-   "pair_id": "KXTORONTOMAYOR-26OCT26-OCHO|1812607",
-   "score": 1.2,
-   "kalshi_ticker": "KXTORONTOMAYOR-26OCT26-OCHO",
-   "kalshi_text": "Toronto mayoral election winner? Olivia Chow",
-   "kalshi_rules": "If Olivia Chow wins the 2026 Toronto mayoral election, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-26T14:00:00Z",
-   "category": "Elections",
-   "poly_id": "1812607",
-   "poly_slug": "will-olivia-chow-win-the-2026-toronto-mayoral-election-465",
-   "poly_text": "Will Olivia Chow win the 2026 Toronto mayoral election?",
-   "poly_rules": "The 2026 Toronto mayoral election is currently scheduled to be held on October 26, 2026.\n\nThis market will resolve according to the candidate who becomes the next mayor of Toronto as a result of this election.\n\nTemporary, interim, or placeholder mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from Toronto.",
-   "poly_close": "2026-10-27T03:59:00Z",
-   "poly_token": "22967364920644358226385731525996197470260180996122246275896497110825555742942",
-   "poly_fee_rate": 0.04,
-   "vol24": 21375.25
-  },
-  {
-   "pair_id": "KXF1-26-MV|898413",
-   "score": 1.2,
-   "kalshi_ticker": "KXF1-26-MV",
-   "kalshi_text": "F1 Drivers Champion Max Verstappen",
-   "kalshi_rules": "If Max Verstappen wins the F1 Drivers Championship, then the market resolves to Yes.",
-   "kalshi_close": "2026-12-08T15:00:00Z",
-   "category": "Sports",
-   "poly_id": "898413",
-   "poly_slug": "will-max-verstappen-be-the-2026-f1-drivers-champion",
-   "poly_text": "Will Max Verstappen be the 2026 F1 Drivers' Champion?",
-   "poly_rules": "This market will resolve according to the listed driver that finishes 1st in the driver standings for the 2026 F1 season.\n\nThis market will resolve as soon as the official results of the final scheduled race of the 2026 F1 season are known.\n\nIf multiple drivers tie for first place in the drivers standings, this market will resolve according to the tiebreak procedure used by F1 to determine the 2026 F1 Drivers\u2019 champion.\n\nIf at any point it becomes impossible for a listed driver to win the 2026 F1 Drivers Championship based on the rules of F1 (e.g., they are mathematically eliminated from contention), the corresponding market will resolve to \u201cNo\u201d.\n\nIf the F1 season is permanently canceled or ",
-   "poly_close": "2026-12-06T00:00:00Z",
-   "poly_token": "1253784411034901624384838438079744067552854611268416006133878658719743556218",
-   "poly_fee_rate": 0.03,
-   "vol24": 19698.31
-  },
-  {
-   "pair_id": "KXEPLGAME-26OCT18LEEMUN-LEE|5311907",
-   "score": 1.2,
-   "kalshi_ticker": "KXEPLGAME-26OCT18LEEMUN-LEE",
-   "kalshi_text": "Leeds United vs Manchester United Leeds United",
-   "kalshi_rules": "If Leeds United wins the Leeds United vs Manchester United professional EPL soccer game originally scheduled for Oct 18, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-18T16:00:00Z",
-   "category": "Sports",
-   "poly_id": "5311907",
-   "poly_slug": "epl-lee-mun-2026-10-18-lee",
-   "poly_text": "Will Leeds United FC win on 2026-10-18?",
-   "poly_rules": "In the upcoming game, scheduled for October 18, 2026\nIf Leeds United FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the ",
-   "poly_close": "2026-10-18T13:00:00Z",
-   "poly_token": "34020569485949390434092453776234146958179225699579411132499958841047996143534",
-   "poly_fee_rate": 0.05,
-   "vol24": 18520.96
-  },
-  {
-   "pair_id": "KXEFLCHAMPIONSHIPGAME-26OCT14PORSHU-POR|5169257",
-   "score": 1.2,
-   "kalshi_ticker": "KXEFLCHAMPIONSHIPGAME-26OCT14PORSHU-POR",
-   "kalshi_text": "Portsmouth vs Sheffield United Portsmouth",
-   "kalshi_rules": "If Portsmouth wins the Portsmouth vs Sheffield United professional EFL Championship soccer game originally scheduled for Oct 14, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-14T21:45:00Z",
-   "category": "Sports",
-   "poly_id": "5169257",
-   "poly_slug": "elc-por-she-2026-10-14-por",
-   "poly_text": "Will Portsmouth FC win on 2026-10-14?",
-   "poly_rules": "In the upcoming game, scheduled for October 14, 2026\nIf Portsmouth FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the ev",
-   "poly_close": "2026-10-14T18:45:00Z",
-   "poly_token": "104577560446085536499925752167232510790229048195109434649001711664208229351358",
-   "poly_fee_rate": 0.05,
-   "vol24": 16183.51
-  },
-  {
-   "pair_id": "KXTFF1LIGGAME-26OCT14ANTKAY-ANT|5530978",
-   "score": 1.2,
-   "kalshi_ticker": "KXTFF1LIGGAME-26OCT14ANTKAY-ANT",
-   "kalshi_text": "Antalyaspor vs Kayserispor Antalyaspor",
-   "kalshi_rules": "If Antalyaspor wins the Antalyaspor vs Kayserispor professional TFF 1. Lig soccer game originally scheduled for Oct 14, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-14T20:00:00Z",
-   "category": "Sports",
-   "poly_id": "5530978",
-   "poly_slug": "tur2-ant-kay-2026-10-14-ant",
-   "poly_text": "Will Antalyaspor win on 2026-10-14?",
-   "poly_rules": "In the upcoming game, scheduled for October 14, 2026\nIf Antalyaspor wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the even",
-   "poly_close": "2026-10-14T17:00:00Z",
-   "poly_token": "115199812585566343610335701417708442134024745768774442369592097368245571694948",
-   "poly_fee_rate": 0.05,
-   "vol24": 14405.38
-  },
-  {
-   "pair_id": "KXTIME-26-ZOH|2363844",
-   "score": 1.2,
-   "kalshi_ticker": "KXTIME-26-ZOH",
-   "kalshi_text": "Time's Person of the Year for 2026 Zohran Mamdani",
-   "kalshi_rules": "If Zohran Mamdani is Time Person of the Year for 2026, then the market resolves to Yes.",
-   "kalshi_close": "2027-01-01T15:00:00Z",
-   "category": "Entertainment",
-   "poly_id": "2363844",
-   "poly_slug": "will-zohran-mamdani-be-time-person-of-the-year-2026",
-   "poly_text": "Will Zohran Mamdani be TIME Person of the Year 2026?",
-   "poly_rules": "This market will resolve to \u201cYes\u201d if the listed person, group, entity, or thing is TIME Person of the Year for 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA listed option will be considered TIME Person of the Year if they/it are explicitly named as Person of the Year. \n\nAdditionally, the following rules apply:\n\nIf multiple people are explicitly named person of the year, both people will be considered TIME Person of the Year.\n\nIf the TIME Person of the Year is a concept, group or thing, a person may still be considered Person of the Year if they are also explicitly named person of the year, or if they are directly associated with the concept, group or thing named as person of the Year",
-   "poly_close": "2026-12-31T00:00:00Z",
-   "poly_token": "75219721190829533004296881569889865263645607082195400521306397405990606723860",
-   "poly_fee_rate": 0.05,
-   "vol24": 11654.03
-  },
-  {
-   "pair_id": "KXEPLGAME-26OCT17MCIIPS-MCI|5263907",
-   "score": 1.2,
-   "kalshi_ticker": "KXEPLGAME-26OCT17MCIIPS-MCI",
-   "kalshi_text": "Manchester City vs Ipswich Town Manchester City",
-   "kalshi_rules": "If Manchester City wins the Manchester City vs Ipswich Town professional EPL soccer game originally scheduled for Oct 17, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-17T17:00:00Z",
-   "category": "Sports",
-   "poly_id": "5263907",
-   "poly_slug": "epl-mac-ips-2026-10-17-mac",
-   "poly_text": "Will Manchester City FC win on 2026-10-17?",
-   "poly_rules": "In the upcoming game, scheduled for October 17, 2026\nIf Manchester City FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after t",
-   "poly_close": "2026-10-17T14:00:00Z",
-   "poly_token": "103855972424507475627443785779828892275746837008176642345667573497567370726040",
-   "poly_fee_rate": 0.05,
-   "vol24": 11432.41
-  },
-  {
-   "pair_id": "KXEPLGAME-26OCT17BRELFC-LFC|5263876",
-   "score": 1.2,
-   "kalshi_ticker": "KXEPLGAME-26OCT17BRELFC-LFC",
-   "kalshi_text": "Brentford vs Liverpool Liverpool",
-   "kalshi_rules": "If Liverpool wins the Brentford vs Liverpool professional EPL soccer game originally scheduled for Oct 17, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-17T17:00:00Z",
-   "category": "Sports",
-   "poly_id": "5263876",
-   "poly_slug": "epl-bre-liv-2026-10-17-liv",
-   "poly_text": "Will Liverpool FC win on 2026-10-17?",
-   "poly_rules": "In the upcoming game, scheduled for October 17, 2026\nIf Liverpool FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the eve",
-   "poly_close": "2026-10-17T14:00:00Z",
-   "poly_token": "30011374050084153758081872511383555856953546591648089095853930999708438962002",
-   "poly_fee_rate": 0.05,
-   "vol24": 11172.92
+   "vol24": 28051.62
   },
   {
    "pair_id": "KXEFLCHAMPIONSHIPGAME-26OCT14PORSHU-SHU|5169261",
@@ -917,7 +730,160 @@
    "poly_close": "2026-10-14T18:45:00Z",
    "poly_token": "56641619032287166009964393083954377050857676596726414301382661593769644438050",
    "poly_fee_rate": 0.05,
-   "vol24": 10486.93
+   "vol24": 24964.13
+  },
+  {
+   "pair_id": "KXEFLCHAMPIONSHIPGAME-26OCT14PORSHU-POR|5169257",
+   "score": 1.2,
+   "kalshi_ticker": "KXEFLCHAMPIONSHIPGAME-26OCT14PORSHU-POR",
+   "kalshi_text": "Portsmouth vs Sheffield United Portsmouth",
+   "kalshi_rules": "If Portsmouth wins the Portsmouth vs Sheffield United professional EFL Championship soccer game originally scheduled for Oct 14, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-14T21:45:00Z",
+   "category": "Sports",
+   "poly_id": "5169257",
+   "poly_slug": "elc-por-she-2026-10-14-por",
+   "poly_text": "Will Portsmouth FC win on 2026-10-14?",
+   "poly_rules": "In the upcoming game, scheduled for October 14, 2026\nIf Portsmouth FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the ev",
+   "poly_close": "2026-10-14T18:45:00Z",
+   "poly_token": "104577560446085536499925752167232510790229048195109434649001711664208229351358",
+   "poly_fee_rate": 0.05,
+   "vol24": 21490.28
+  },
+  {
+   "pair_id": "KXTORONTOMAYOR-26OCT26-OCHO|1812607",
+   "score": 1.2,
+   "kalshi_ticker": "KXTORONTOMAYOR-26OCT26-OCHO",
+   "kalshi_text": "Toronto mayoral election winner? Olivia Chow",
+   "kalshi_rules": "If Olivia Chow wins the 2026 Toronto mayoral election, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-26T14:00:00Z",
+   "category": "Elections",
+   "poly_id": "1812607",
+   "poly_slug": "will-olivia-chow-win-the-2026-toronto-mayoral-election-465",
+   "poly_text": "Will Olivia Chow win the 2026 Toronto mayoral election?",
+   "poly_rules": "The 2026 Toronto mayoral election is currently scheduled to be held on October 26, 2026.\n\nThis market will resolve according to the candidate who becomes the next mayor of Toronto as a result of this election.\n\nTemporary, interim, or placeholder mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from Toronto.",
+   "poly_close": "2026-10-27T03:59:00Z",
+   "poly_token": "22967364920644358226385731525996197470260180996122246275896497110825555742942",
+   "poly_fee_rate": 0.04,
+   "vol24": 19995.68
+  },
+  {
+   "pair_id": "KXTFF1LIGGAME-26OCT14ANTKAY-ANT|5530978",
+   "score": 1.2,
+   "kalshi_ticker": "KXTFF1LIGGAME-26OCT14ANTKAY-ANT",
+   "kalshi_text": "Antalyaspor vs Kayserispor Antalyaspor",
+   "kalshi_rules": "If Antalyaspor wins the Antalyaspor vs Kayserispor professional TFF 1. Lig soccer game originally scheduled for Oct 14, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-14T20:00:00Z",
+   "category": "Sports",
+   "poly_id": "5530978",
+   "poly_slug": "tur2-ant-kay-2026-10-14-ant",
+   "poly_text": "Will Antalyaspor win on 2026-10-14?",
+   "poly_rules": "In the upcoming game, scheduled for October 14, 2026\nIf Antalyaspor wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the even",
+   "poly_close": "2026-10-14T17:00:00Z",
+   "poly_token": "115199812585566343610335701417708442134024745768774442369592097368245571694948",
+   "poly_fee_rate": 0.05,
+   "vol24": 19929.91
+  },
+  {
+   "pair_id": "KXEPLGAME-26OCT18LEEMUN-LEE|5311907",
+   "score": 1.2,
+   "kalshi_ticker": "KXEPLGAME-26OCT18LEEMUN-LEE",
+   "kalshi_text": "Leeds United vs Manchester United Leeds United",
+   "kalshi_rules": "If Leeds United wins the Leeds United vs Manchester United professional EPL soccer game originally scheduled for Oct 18, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-18T16:00:00Z",
+   "category": "Sports",
+   "poly_id": "5311907",
+   "poly_slug": "epl-lee-mun-2026-10-18-lee",
+   "poly_text": "Will Leeds United FC win on 2026-10-18?",
+   "poly_rules": "In the upcoming game, scheduled for October 18, 2026\nIf Leeds United FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the ",
+   "poly_close": "2026-10-18T13:00:00Z",
+   "poly_token": "34020569485949390434092453776234146958179225699579411132499958841047996143534",
+   "poly_fee_rate": 0.05,
+   "vol24": 18537.17
+  },
+  {
+   "pair_id": "KXF1-26-MV|898413",
+   "score": 1.2,
+   "kalshi_ticker": "KXF1-26-MV",
+   "kalshi_text": "F1 Drivers Champion Max Verstappen",
+   "kalshi_rules": "If Max Verstappen wins the F1 Drivers Championship, then the market resolves to Yes.",
+   "kalshi_close": "2026-12-08T15:00:00Z",
+   "category": "Sports",
+   "poly_id": "898413",
+   "poly_slug": "will-max-verstappen-be-the-2026-f1-drivers-champion",
+   "poly_text": "Will Max Verstappen be the 2026 F1 Drivers' Champion?",
+   "poly_rules": "This market will resolve according to the listed driver that finishes 1st in the driver standings for the 2026 F1 season.\n\nThis market will resolve as soon as the official results of the final scheduled race of the 2026 F1 season are known.\n\nIf multiple drivers tie for first place in the drivers standings, this market will resolve according to the tiebreak procedure used by F1 to determine the 2026 F1 Drivers\u2019 champion.\n\nIf at any point it becomes impossible for a listed driver to win the 2026 F1 Drivers Championship based on the rules of F1 (e.g., they are mathematically eliminated from contention), the corresponding market will resolve to \u201cNo\u201d.\n\nIf the F1 season is permanently canceled or ",
+   "poly_close": "2026-12-06T00:00:00Z",
+   "poly_token": "1253784411034901624384838438079744067552854611268416006133878658719743556218",
+   "poly_fee_rate": 0.03,
+   "vol24": 17731.68
+  },
+  {
+   "pair_id": "KXTIME-26-ZOH|2363844",
+   "score": 1.2,
+   "kalshi_ticker": "KXTIME-26-ZOH",
+   "kalshi_text": "Time's Person of the Year for 2026 Zohran Mamdani",
+   "kalshi_rules": "If Zohran Mamdani is Time Person of the Year for 2026, then the market resolves to Yes.",
+   "kalshi_close": "2027-01-01T15:00:00Z",
+   "category": "Entertainment",
+   "poly_id": "2363844",
+   "poly_slug": "will-zohran-mamdani-be-time-person-of-the-year-2026",
+   "poly_text": "Will Zohran Mamdani be TIME Person of the Year 2026?",
+   "poly_rules": "This market will resolve to \u201cYes\u201d if the listed person, group, entity, or thing is TIME Person of the Year for 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA listed option will be considered TIME Person of the Year if they/it are explicitly named as Person of the Year. \n\nAdditionally, the following rules apply:\n\nIf multiple people are explicitly named person of the year, both people will be considered TIME Person of the Year.\n\nIf the TIME Person of the Year is a concept, group or thing, a person may still be considered Person of the Year if they are also explicitly named person of the year, or if they are directly associated with the concept, group or thing named as person of the Year",
+   "poly_close": "2026-12-31T00:00:00Z",
+   "poly_token": "75219721190829533004296881569889865263645607082195400521306397405990606723860",
+   "poly_fee_rate": 0.05,
+   "vol24": 11737.21
+  },
+  {
+   "pair_id": "KXEPLGAME-26OCT17BRELFC-LFC|5263876",
+   "score": 1.2,
+   "kalshi_ticker": "KXEPLGAME-26OCT17BRELFC-LFC",
+   "kalshi_text": "Brentford vs Liverpool Liverpool",
+   "kalshi_rules": "If Liverpool wins the Brentford vs Liverpool professional EPL soccer game originally scheduled for Oct 17, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-17T17:00:00Z",
+   "category": "Sports",
+   "poly_id": "5263876",
+   "poly_slug": "epl-bre-liv-2026-10-17-liv",
+   "poly_text": "Will Liverpool FC win on 2026-10-17?",
+   "poly_rules": "In the upcoming game, scheduled for October 17, 2026\nIf Liverpool FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the eve",
+   "poly_close": "2026-10-17T14:00:00Z",
+   "poly_token": "30011374050084153758081872511383555856953546591648089095853930999708438962002",
+   "poly_fee_rate": 0.05,
+   "vol24": 11421.21
+  },
+  {
+   "pair_id": "KXEPLGAME-26OCT17MCIIPS-MCI|5263907",
+   "score": 1.2,
+   "kalshi_ticker": "KXEPLGAME-26OCT17MCIIPS-MCI",
+   "kalshi_text": "Manchester City vs Ipswich Town Manchester City",
+   "kalshi_rules": "If Manchester City wins the Manchester City vs Ipswich Town professional EPL soccer game originally scheduled for Oct 17, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-17T17:00:00Z",
+   "category": "Sports",
+   "poly_id": "5263907",
+   "poly_slug": "epl-mac-ips-2026-10-17-mac",
+   "poly_text": "Will Manchester City FC win on 2026-10-17?",
+   "poly_rules": "In the upcoming game, scheduled for October 17, 2026\nIf Manchester City FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after t",
+   "poly_close": "2026-10-17T14:00:00Z",
+   "poly_token": "103855972424507475627443785779828892275746837008176642345667573497567370726040",
+   "poly_fee_rate": 0.05,
+   "vol24": 11394.64
+  },
+  {
+   "pair_id": "KXTFF1LIGGAME-26OCT14ANTKAY-TIE|5530979",
+   "score": 1.2,
+   "kalshi_ticker": "KXTFF1LIGGAME-26OCT14ANTKAY-TIE",
+   "kalshi_text": "Antalyaspor vs Kayserispor Tie",
+   "kalshi_rules": "If Tie is the result of the Antalyaspor vs Kayserispor professional TFF 1. Lig soccer game originally scheduled for Oct 14, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-14T20:00:00Z",
+   "category": "Sports",
+   "poly_id": "5530979",
+   "poly_slug": "tur2-ant-kay-2026-10-14-draw",
+   "poly_text": "Will Antalyaspor vs. Kayserispor end in a draw?",
+   "poly_rules": "In the upcoming game, scheduled for October 14, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours aft",
+   "poly_close": "2026-10-14T17:00:00Z",
+   "poly_token": "66230571871251778617972463702215657534395658716287092269992075262734467816402",
+   "poly_fee_rate": 0.05,
+   "vol24": 11326.36
   },
   {
    "pair_id": "KXEPLGAME-26OCT18NFOARS-ARS|5311940",
@@ -934,7 +900,7 @@
    "poly_close": "2026-10-18T15:30:00Z",
    "poly_token": "73245421796922750466829041889725203633090129283314240032365966286987444361172",
    "poly_fee_rate": 0.05,
-   "vol24": 10208.83
+   "vol24": 9820.68
   },
   {
    "pair_id": "KXTORONTOMAYOR-26OCT26-BBRA|1812608",
@@ -951,24 +917,7 @@
    "poly_close": "2026-10-27T03:59:00Z",
    "poly_token": "105937440725535236486402189131437744673698383847905152145643910029133150495301",
    "poly_fee_rate": 0.04,
-   "vol24": 8775.9
-  },
-  {
-   "pair_id": "KXISRAELKNESSET-26-LIK|2100981",
-   "score": 1.2,
-   "kalshi_ticker": "KXISRAELKNESSET-26-LIK",
-   "kalshi_text": "Israeli legislative election winner? Likud",
-   "kalshi_rules": "If the winner of the next Israeli legislative election is Likud, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-27T14:00:00Z",
-   "category": "Elections",
-   "poly_id": "2100981",
-   "poly_slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election",
-   "poly_text": "Will Likud win the most seats in the 2026 Israeli legislative election?",
-   "poly_rules": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the political party or coalition that wins the greatest number of seats in the Israeli Knesset as a result of this election.\n\nIf the results of this election are not definitively known by June 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties or coalitions for the most seats won, this market will resolve in favor of the party or coalition whose candidate list received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed name appears first in alph",
-   "poly_close": "2026-10-28T03:59:00Z",
-   "poly_token": "40530616708770133196461535468385029946615148250396571867031554779644977064648",
-   "poly_fee_rate": 0.04,
-   "vol24": 8117.32
+   "vol24": 7585.62
   },
   {
    "pair_id": "KXEFLCHAMPIONSHIPGAME-26OCT14PORSHU-TIE|5169258",
@@ -985,7 +934,7 @@
    "poly_close": "2026-10-14T18:45:00Z",
    "poly_token": "73436287882689139013441921780970839314510193040999829499891273122866291657990",
    "poly_fee_rate": 0.05,
-   "vol24": 7200.97
+   "vol24": 7461.4
   },
   {
    "pair_id": "KXALEAGUEGAME-26OCT16SYDWES-SYD|5216767",
@@ -1019,7 +968,7 @@
    "poly_close": "2026-10-28T03:59:00Z",
    "poly_token": "9025448570994866714151390167666974197623007132973626623412960268955048642964",
    "poly_fee_rate": 0.04,
-   "vol24": 6344.36
+   "vol24": 5845.0
   },
   {
    "pair_id": "KXTIME-26-BER|5262635",
@@ -1053,7 +1002,7 @@
    "poly_close": "2026-10-17T14:00:00Z",
    "poly_token": "46235784100680256022162603484443848937305618346811583891006510959902826767373",
    "poly_fee_rate": 0.05,
-   "vol24": 5046.23
+   "vol24": 5089.23
   },
   {
    "pair_id": "KXEPLGAME-26OCT17EVECFC-CFC|5263852",
@@ -1070,7 +1019,41 @@
    "poly_close": "2026-10-17T11:30:00Z",
    "poly_token": "36341713440242602626269729160513108933998420661067216763829467293678131620893",
    "poly_fee_rate": 0.05,
-   "vol24": 4790.99
+   "vol24": 4731.01
+  },
+  {
+   "pair_id": "KXUCLFTTS-26OCT14ROMRMA-RMA|5184121",
+   "score": 1.2,
+   "kalshi_ticker": "KXUCLFTTS-26OCT14ROMRMA-RMA",
+   "kalshi_text": "AS Roma vs Real Madrid: First Team to Score Real Madrid",
+   "kalshi_rules": "If Real Madrid records the first goal during the entire game (regulation, stoppage and any extra time periods) of the AS Roma vs Real Madrid professional Champions League soccer game originally scheduled for Oct 14, 2026, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-14T22:00:00Z",
+   "category": "Sports",
+   "poly_id": "5184121",
+   "poly_slug": "ucl-rom-rma-2026-10-14-first-to-score-away",
+   "poly_text": "Real Madrid CF to score first vs. AS Roma?",
+   "poly_rules": "In the upcoming match between AS Roma and Real Madrid CF, scheduled for October 14, 2026 at 3:00 PM ET: This market will resolve to \"AS Roma\" if AS Roma are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Real Madrid CF\" if Real Madrid CF are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". Th",
+   "poly_close": "2026-10-14T19:00:00Z",
+   "poly_token": "38838505887836865876564081681458424786051300566797147284216888671958026406664",
+   "poly_fee_rate": 0.05,
+   "vol24": 4566.01
+  },
+  {
+   "pair_id": "KXMLSGAME-26OCT14LAFCATX-ATX|5179357",
+   "score": 1.2,
+   "kalshi_ticker": "KXMLSGAME-26OCT14LAFCATX-ATX",
+   "kalshi_text": "Los Angeles F vs Austin Austin",
+   "kalshi_rules": "If Austin wins the Los Angeles F vs Austin professional MLS soccer game originally scheduled for Oct 14, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T05:30:00Z",
+   "category": "Sports",
+   "poly_id": "5179357",
+   "poly_slug": "mls-laf-aus-2026-10-14-aus",
+   "poly_text": "Will Austin FC win on 2026-10-14?",
+   "poly_rules": "In the upcoming game, scheduled for October 14, 2026\nIf Austin FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event'",
+   "poly_close": "2026-10-15T02:30:00Z",
+   "poly_token": "108353900420817044693779227609026061309406467106618873014880577153926209121158",
+   "poly_fee_rate": 0.05,
+   "vol24": 4370.87
   },
   {
    "pair_id": "KXEPLGAME-26OCT17FULHUL-FUL|5263885",
@@ -1090,38 +1073,21 @@
    "vol24": 4335.95
   },
   {
-   "pair_id": "KXLALIGAGAME-26OCT18RMASEV-RMA|5315587",
+   "pair_id": "KXISRAELKNESSET-26-LIK|2100981",
    "score": 1.2,
-   "kalshi_ticker": "KXLALIGAGAME-26OCT18RMASEV-RMA",
-   "kalshi_text": "Real Madrid vs Sevilla Real Madrid",
-   "kalshi_rules": "If Real Madrid wins the Real Madrid vs Sevilla professional La Liga soccer game originally scheduled for Oct 18, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-18T22:00:00Z",
-   "category": "Sports",
-   "poly_id": "5315587",
-   "poly_slug": "lal-rea-sev-2026-10-18-rea",
-   "poly_text": "Will Real Madrid CF win on 2026-10-18?",
-   "poly_rules": "In the upcoming game, scheduled for October 18, 2026\nIf Real Madrid CF wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the e",
-   "poly_close": "2026-10-18T19:00:00Z",
-   "poly_token": "13426509996928980561240959514231604457803187732070469858382427379113329910134",
-   "poly_fee_rate": 0.05,
-   "vol24": 4191.86
-  },
-  {
-   "pair_id": "KXMLSGAME-26OCT14LAFCATX-ATX|5179357",
-   "score": 1.2,
-   "kalshi_ticker": "KXMLSGAME-26OCT14LAFCATX-ATX",
-   "kalshi_text": "Los Angeles F vs Austin Austin",
-   "kalshi_rules": "If Austin wins the Los Angeles F vs Austin professional MLS soccer game originally scheduled for Oct 14, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-15T05:30:00Z",
-   "category": "Sports",
-   "poly_id": "5179357",
-   "poly_slug": "mls-laf-aus-2026-10-14-aus",
-   "poly_text": "Will Austin FC win on 2026-10-14?",
-   "poly_rules": "In the upcoming game, scheduled for October 14, 2026\nIf Austin FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event'",
-   "poly_close": "2026-10-15T02:30:00Z",
-   "poly_token": "108353900420817044693779227609026061309406467106618873014880577153926209121158",
-   "poly_fee_rate": 0.05,
-   "vol24": 4117.38
+   "kalshi_ticker": "KXISRAELKNESSET-26-LIK",
+   "kalshi_text": "Israeli legislative election winner? Likud",
+   "kalshi_rules": "If the winner of the next Israeli legislative election is Likud, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-27T14:00:00Z",
+   "category": "Elections",
+   "poly_id": "2100981",
+   "poly_slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election",
+   "poly_text": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+   "poly_rules": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the political party or coalition that wins the greatest number of seats in the Israeli Knesset as a result of this election.\n\nIf the results of this election are not definitively known by June 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties or coalitions for the most seats won, this market will resolve in favor of the party or coalition whose candidate list received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed name appears first in alph",
+   "poly_close": "2026-10-28T03:59:00Z",
+   "poly_token": "40530616708770133196461535468385029946615148250396571867031554779644977064648",
+   "poly_fee_rate": 0.04,
+   "vol24": 4253.25
   },
   {
    "pair_id": "KXTIME-26-JAM|2363845",
@@ -1138,7 +1104,7 @@
    "poly_close": "2026-12-31T00:00:00Z",
    "poly_token": "11851956469848634980207520526898346338982459773540369636173629205859966642440",
    "poly_fee_rate": 0.05,
-   "vol24": 3394.66
+   "vol24": 3454.66
   },
   {
    "pair_id": "KXTIME-26-MAR|2363838",
@@ -1189,7 +1155,7 @@
    "poly_close": "2026-10-25T20:00:00Z",
    "poly_token": "80685655548352255018006352251898342466683775705440478843429580095322705952038",
    "poly_fee_rate": 0.05,
-   "vol24": 3144.05
+   "vol24": 2919.93
   },
   {
    "pair_id": "KXLPGATOUR-BUILS26-AUSKIM|5607166",
@@ -1206,7 +1172,7 @@
    "poly_close": "2026-10-19T03:59:00Z",
    "poly_token": "41245155238932948196498229337272959507259713883025992697632193368849577964756",
    "poly_fee_rate": 0.05,
-   "vol24": 2988.55
+   "vol24": 2887.27
   },
   {
    "pair_id": "KXEPLGAME-26OCT18BOUSUN-SUN|5311891",
@@ -1240,24 +1206,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "77426596843805166799870319305617440175989247082453219105941478294186790509093",
    "poly_fee_rate": 0.05,
-   "vol24": 2589.27
-  },
-  {
-   "pair_id": "KXEXITPOLL-WHIWOM-DEM|4199213",
-   "score": 1.2,
-   "kalshi_ticker": "KXEXITPOLL-WHIWOM-DEM",
-   "kalshi_text": "Midterms: which party wins white women? Democratic party",
-   "kalshi_rules": "If the Democratic Party wins white women in the 2026 United States midterm elections, then the market resolves to Yes.",
-   "kalshi_close": "2026-11-08T15:00:00Z",
-   "category": "Elections",
-   "poly_id": "4199213",
-   "poly_slug": "will-democrats-win-white-women-in-the-midterms",
-   "poly_text": "Will Democrats win white women in the midterms?",
-   "poly_rules": "The 2026 midterm elections are scheduled to be held on November 3, 2026.\n\nThis market will resolve according to the party that wins the greatest share of white women in the midterm elections according to exit polling provided by CNN.\n\nThis market will resolve according to the national exit polling for the United States House, as viewed on the applicable cnn.com webpage at 12:00PM ET on November 6, 2026.\n\nIn the event of a tie for first place, this market will resolve based on the party, among those tied, whose name comes first alphabetically.\n\nIn the event that CNN provides applicable exit polling but it is not available at the time specified above, this market will await an update for one f",
-   "poly_close": "2026-11-07T04:59:00Z",
-   "poly_token": "69549346928853472628122030453187144427432924435990276090772625659073977942526",
-   "poly_fee_rate": 0.04,
-   "vol24": 2488.79
+   "vol24": 2528.35
   },
   {
    "pair_id": "KXSVOTECLARITY-MAY26-JHAW|3208514",
@@ -1291,7 +1240,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "31852593636801991200086898906828499880658531575792109649084400623596845659364",
    "poly_fee_rate": 0.05,
-   "vol24": 2356.13
+   "vol24": 2381.4
   },
   {
    "pair_id": "KXSVOTECLARITY-MAY26-RPAU|3208516",
@@ -1325,7 +1274,41 @@
    "poly_close": "2026-10-24T16:30:00Z",
    "poly_token": "67679322600141035640760247497186342321364335971359980136726239206951216881175",
    "poly_fee_rate": 0.05,
-   "vol24": 2255.54
+   "vol24": 2275.54
+  },
+  {
+   "pair_id": "KXEXITPOLL-WHIWOM-DEM|4199213",
+   "score": 1.2,
+   "kalshi_ticker": "KXEXITPOLL-WHIWOM-DEM",
+   "kalshi_text": "Midterms: which party wins white women? Democratic party",
+   "kalshi_rules": "If the Democratic Party wins white women in the 2026 United States midterm elections, then the market resolves to Yes.",
+   "kalshi_close": "2026-11-08T15:00:00Z",
+   "category": "Elections",
+   "poly_id": "4199213",
+   "poly_slug": "will-democrats-win-white-women-in-the-midterms",
+   "poly_text": "Will Democrats win white women in the midterms?",
+   "poly_rules": "The 2026 midterm elections are scheduled to be held on November 3, 2026.\n\nThis market will resolve according to the party that wins the greatest share of white women in the midterm elections according to exit polling provided by CNN.\n\nThis market will resolve according to the national exit polling for the United States House, as viewed on the applicable cnn.com webpage at 12:00PM ET on November 6, 2026.\n\nIn the event of a tie for first place, this market will resolve based on the party, among those tied, whose name comes first alphabetically.\n\nIn the event that CNN provides applicable exit polling but it is not available at the time specified above, this market will await an update for one f",
+   "poly_close": "2026-11-07T04:59:00Z",
+   "poly_token": "69549346928853472628122030453187144427432924435990276090772625659073977942526",
+   "poly_fee_rate": 0.04,
+   "vol24": 2174.7
+  },
+  {
+   "pair_id": "KXF1-26-GR|898411",
+   "score": 1.2,
+   "kalshi_ticker": "KXF1-26-GR",
+   "kalshi_text": "F1 Drivers Champion George Russell",
+   "kalshi_rules": "If George Russell wins the F1 Drivers Championship, then the market resolves to Yes.",
+   "kalshi_close": "2026-12-08T15:00:00Z",
+   "category": "Sports",
+   "poly_id": "898411",
+   "poly_slug": "will-george-russell-be-the-2026-f1-drivers-champion",
+   "poly_text": "Will George Russell be the 2026 F1 Drivers' Champion?",
+   "poly_rules": "This market will resolve according to the listed driver that finishes 1st in the driver standings for the 2026 F1 season.\n\nThis market will resolve as soon as the official results of the final scheduled race of the 2026 F1 season are known.\n\nIf multiple drivers tie for first place in the drivers standings, this market will resolve according to the tiebreak procedure used by F1 to determine the 2026 F1 Drivers\u2019 champion.\n\nIf at any point it becomes impossible for a listed driver to win the 2026 F1 Drivers Championship based on the rules of F1 (e.g., they are mathematically eliminated from contention), the corresponding market will resolve to \u201cNo\u201d.\n\nIf the F1 season is permanently canceled or ",
+   "poly_close": "2026-12-06T00:00:00Z",
+   "poly_token": "93099562462257249309605734586566434036442082827152130023015985868027704959821",
+   "poly_fee_rate": 0.03,
+   "vol24": 1961.84
   },
   {
    "pair_id": "KXGAMEAWARDS-2026-PHA|3344909",
@@ -1359,7 +1342,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "92236355226322305716244377000237661574346302448831021376624543950411128658779",
    "poly_fee_rate": 0.05,
-   "vol24": 1703.1
+   "vol24": 1680.26
   },
   {
    "pair_id": "KXEXITPOLL-WHIWOM-REP|4199214",
@@ -1376,41 +1359,7 @@
    "poly_close": "2026-11-07T04:59:00Z",
    "poly_token": "64676767247363610652878981037923477060226906179959524512168707446363663761320",
    "poly_fee_rate": 0.04,
-   "vol24": 1613.5
-  },
-  {
-   "pair_id": "KXF1-26-GR|898411",
-   "score": 1.2,
-   "kalshi_ticker": "KXF1-26-GR",
-   "kalshi_text": "F1 Drivers Champion George Russell",
-   "kalshi_rules": "If George Russell wins the F1 Drivers Championship, then the market resolves to Yes.",
-   "kalshi_close": "2026-12-08T15:00:00Z",
-   "category": "Sports",
-   "poly_id": "898411",
-   "poly_slug": "will-george-russell-be-the-2026-f1-drivers-champion",
-   "poly_text": "Will George Russell be the 2026 F1 Drivers' Champion?",
-   "poly_rules": "This market will resolve according to the listed driver that finishes 1st in the driver standings for the 2026 F1 season.\n\nThis market will resolve as soon as the official results of the final scheduled race of the 2026 F1 season are known.\n\nIf multiple drivers tie for first place in the drivers standings, this market will resolve according to the tiebreak procedure used by F1 to determine the 2026 F1 Drivers\u2019 champion.\n\nIf at any point it becomes impossible for a listed driver to win the 2026 F1 Drivers Championship based on the rules of F1 (e.g., they are mathematically eliminated from contention), the corresponding market will resolve to \u201cNo\u201d.\n\nIf the F1 season is permanently canceled or ",
-   "poly_close": "2026-12-06T00:00:00Z",
-   "poly_token": "93099562462257249309605734586566434036442082827152130023015985868027704959821",
-   "poly_fee_rate": 0.03,
-   "vol24": 1461.86
-  },
-  {
-   "pair_id": "KXSVOTECLARITY-MAY26-MWAR|3208508",
-   "score": 1.2,
-   "kalshi_ticker": "KXSVOTECLARITY-MAY26-MWAR",
-   "kalshi_text": "Which Senators will vote for the Clarity Act? Mark Warner",
-   "kalshi_rules": "If Mark Warner votes for a crypto market structure bill (as defined in KXCRYPTOSTRUCTURE) in the Senate before Jan 1, 2027, then the market resolves to Yes.",
-   "kalshi_close": "2027-01-01T15:00:00Z",
-   "category": "Politics",
-   "poly_id": "3208508",
-   "poly_slug": "will-mark-warner-vote-yea-on-the-clarity-act-20260729190926661",
-   "poly_text": "Will Mark Warner vote \"Yea\" on the Clarity Act?",
-   "poly_rules": "This market will resolve to \"Yes\" if the listed Senator votes \"Yea\" on the first Senate vote on final passage of crypto market structure legislation occurring before January 1, 2027. Otherwise, this market will resolve to \"No\".\n\nFor purposes of this market, \"crypto market structure legislation\" is defined identically to Polymarket's \"Crypto Market Structure legislation becomes law in 2026?\" market: https://polymarket.com/event/crypto-market-structure-legislation-becomes-law-in-2026-20260727223933088\n\nThe qualifying vote is the first vote on final passage of the bill in the full Senate - not a committee vote, and not a vote on a motion to proceed, a motion to invoke cloture, or an amendment.\n",
-   "poly_close": "2027-01-02T04:59:00Z",
-   "poly_token": "10202827714935282497859227158003474761289298950591881815816580710037498119308",
-   "poly_fee_rate": 0.04,
-   "vol24": 1401.14
+   "vol24": 1432.28
   },
   {
    "pair_id": "KXTIME-26-DT|2363842",
@@ -1427,7 +1376,24 @@
    "poly_close": "2026-12-31T00:00:00Z",
    "poly_token": "55660108007606265786043981619562704583897999652265582673499371383418897683387",
    "poly_fee_rate": 0.05,
-   "vol24": 1367.14
+   "vol24": 1351.64
+  },
+  {
+   "pair_id": "KXSVOTECLARITY-MAY26-MWAR|3208508",
+   "score": 1.2,
+   "kalshi_ticker": "KXSVOTECLARITY-MAY26-MWAR",
+   "kalshi_text": "Which Senators will vote for the Clarity Act? Mark Warner",
+   "kalshi_rules": "If Mark Warner votes for a crypto market structure bill (as defined in KXCRYPTOSTRUCTURE) in the Senate before Jan 1, 2027, then the market resolves to Yes.",
+   "kalshi_close": "2027-01-01T15:00:00Z",
+   "category": "Politics",
+   "poly_id": "3208508",
+   "poly_slug": "will-mark-warner-vote-yea-on-the-clarity-act-20260729190926661",
+   "poly_text": "Will Mark Warner vote \"Yea\" on the Clarity Act?",
+   "poly_rules": "This market will resolve to \"Yes\" if the listed Senator votes \"Yea\" on the first Senate vote on final passage of crypto market structure legislation occurring before January 1, 2027. Otherwise, this market will resolve to \"No\".\n\nFor purposes of this market, \"crypto market structure legislation\" is defined identically to Polymarket's \"Crypto Market Structure legislation becomes law in 2026?\" market: https://polymarket.com/event/crypto-market-structure-legislation-becomes-law-in-2026-20260727223933088\n\nThe qualifying vote is the first vote on final passage of the bill in the full Senate - not a committee vote, and not a vote on a motion to proceed, a motion to invoke cloture, or an amendment.\n",
+   "poly_close": "2027-01-02T04:59:00Z",
+   "poly_token": "10202827714935282497859227158003474761289298950591881815816580710037498119308",
+   "poly_fee_rate": 0.04,
+   "vol24": 1351.14
   },
   {
    "pair_id": "KXF1-26-LH|898416",
@@ -1529,24 +1495,7 @@
    "poly_close": "2026-12-31T00:00:00Z",
    "poly_token": "37494904190314528030499047891758549059107946464033009259127496096914304241017",
    "poly_fee_rate": 0.05,
-   "vol24": 890.52
-  },
-  {
-   "pair_id": "KXUCLGAME-26OCT20LFCVIL-LFC|5409479",
-   "score": 1.2,
-   "kalshi_ticker": "KXUCLGAME-26OCT20LFCVIL-LFC",
-   "kalshi_text": "Liverpool vs Villarreal Liverpool",
-   "kalshi_rules": "If Liverpool wins the Liverpool vs Villarreal professional Champions League soccer game originally scheduled for Oct 20, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-20T22:00:00Z",
-   "category": "Sports",
-   "poly_id": "5409479",
-   "poly_slug": "ucl-liv-vil-2026-10-20-liv",
-   "poly_text": "Will Liverpool FC win on 2026-10-20?",
-   "poly_rules": "In the upcoming game, scheduled for October 20, 2026\nIf Liverpool FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the eve",
-   "poly_close": "2026-10-20T19:00:00Z",
-   "poly_token": "42875196329401023002930058809401212627506324790293590174173105387831241058359",
-   "poly_fee_rate": 0.05,
-   "vol24": 710.3
+   "vol24": 883.27
   },
   {
    "pair_id": "KXEPLGAME-26OCT24AVLMCI-MCI|5533914",
@@ -1563,7 +1512,24 @@
    "poly_close": "2026-10-24T11:30:00Z",
    "poly_token": "73483037957860392052175050467368035945606679036016310245683976568420347571293",
    "poly_fee_rate": 0.05,
-   "vol24": 663.67
+   "vol24": 792.76
+  },
+  {
+   "pair_id": "KXUCLGAME-26OCT20LFCVIL-LFC|5409479",
+   "score": 1.2,
+   "kalshi_ticker": "KXUCLGAME-26OCT20LFCVIL-LFC",
+   "kalshi_text": "Liverpool vs Villarreal Liverpool",
+   "kalshi_rules": "If Liverpool wins the Liverpool vs Villarreal professional Champions League soccer game originally scheduled for Oct 20, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+   "kalshi_close": "2026-10-20T22:00:00Z",
+   "category": "Sports",
+   "poly_id": "5409479",
+   "poly_slug": "ucl-liv-vil-2026-10-20-liv",
+   "poly_text": "Will Liverpool FC win on 2026-10-20?",
+   "poly_rules": "In the upcoming game, scheduled for October 20, 2026\nIf Liverpool FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the eve",
+   "poly_close": "2026-10-20T19:00:00Z",
+   "poly_token": "42875196329401023002930058809401212627506324790293590174173105387831241058359",
+   "poly_fee_rate": 0.05,
+   "vol24": 721.52
   },
   {
    "pair_id": "KXSCOTTISHPREMGAME-26OCT17KILMOT-MOT|5273152",
@@ -1614,7 +1580,7 @@
    "poly_close": "2026-10-21T16:45:00Z",
    "poly_token": "92550237320664152543752854662781858843571683418255807727579120518019778847474",
    "poly_fee_rate": 0.05,
-   "vol24": 496.04
+   "vol24": 498.54
   },
   {
    "pair_id": "KXF1-26-LN|898409",
@@ -1651,21 +1617,21 @@
    "vol24": 479.43
   },
   {
-   "pair_id": "KXISRAELKNESSET-26-TOGE|2100982",
+   "pair_id": "KXLIGAMX-27APER-SLA|2916277",
    "score": 1.2,
-   "kalshi_ticker": "KXISRAELKNESSET-26-TOGE",
-   "kalshi_text": "Israeli legislative election winner? Together",
-   "kalshi_rules": "If the winner of the next Israeli legislative election is Together, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-27T14:00:00Z",
-   "category": "Elections",
-   "poly_id": "2100982",
-   "poly_slug": "will-together-win-the-most-seats-in-the-2026-israeli-legislative-election",
-   "poly_text": "Will Together win the most seats in the 2026 Israeli legislative election?",
-   "poly_rules": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the political party or coalition that wins the greatest number of seats in the Israeli Knesset as a result of this election.\n\nIf the results of this election are not definitively known by June 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties or coalitions for the most seats won, this market will resolve in favor of the party or coalition whose candidate list received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed name appears first in alph",
-   "poly_close": "2026-10-28T03:59:00Z",
-   "poly_token": "4486291330995931849416559581383425061287287542982906092720569789339786774392",
-   "poly_fee_rate": 0.04,
-   "vol24": 441.6
+   "kalshi_ticker": "KXLIGAMX-27APER-SLA",
+   "kalshi_text": "Liga MX Apertura Champion Santos Laguna",
+   "kalshi_rules": "If Santos Laguna is the 2026-27 Liga MX Apertura champion, then the market resolves to Yes.",
+   "kalshi_close": "2027-01-02T03:00:00Z",
+   "category": "Sports",
+   "poly_id": "2916277",
+   "poly_slug": "will-santos-laguna-win-the-2026-liga-mx-apertura-20260713222753219",
+   "poly_text": "Will Santos Laguna win the 2026 Liga MX Apertura?",
+   "poly_rules": "This market will resolve according to the team that wins the 2026 Apertura Final in Liga MX.\n\nIf at any point it becomes impossible for a listed team to win the 2026 Apertura in Liga MX per the rules of the Liga MX (e.g., they are eliminated), the corresponding market will resolve to \"No\".\n\nIf the 2026-27 Liga MX season is cancelled, postponed after December 31, 2026, 11:59 PM ET or there is otherwise no winner declared within that timeframe, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from Liga MX; however, a consensus of credible reporting may also be used.",
+   "poly_close": "2027-01-01T04:59:00Z",
+   "poly_token": "41029082668174619737618179847553652403260018494987849040444706532554238583987",
+   "poly_fee_rate": 0.05,
+   "vol24": 456.47
   },
   {
    "pair_id": "KXPASEN-262-R|4443120",
@@ -1685,23 +1651,6 @@
    "vol24": 407.05
   },
   {
-   "pair_id": "KXTIME-26-POP|2363843",
-   "score": 1.2,
-   "kalshi_ticker": "KXTIME-26-POP",
-   "kalshi_text": "Time's Person of the Year for 2026 Pope Leo XIV",
-   "kalshi_rules": "If Pope Leo XIV is Time Person of the Year for 2026, then the market resolves to Yes.",
-   "kalshi_close": "2027-01-01T15:00:00Z",
-   "category": "Entertainment",
-   "poly_id": "2363843",
-   "poly_slug": "will-pope-leo-xiv-be-time-person-of-the-year-2026",
-   "poly_text": "Will Pope Leo XIV be TIME Person of the Year 2026?",
-   "poly_rules": "This market will resolve to \u201cYes\u201d if the listed person, group, entity, or thing is TIME Person of the Year for 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA listed option will be considered TIME Person of the Year if they/it are explicitly named as Person of the Year. \n\nAdditionally, the following rules apply:\n\nIf multiple people are explicitly named person of the year, both people will be considered TIME Person of the Year.\n\nIf the TIME Person of the Year is a concept, group or thing, a person may still be considered Person of the Year if they are also explicitly named person of the year, or if they are directly associated with the concept, group or thing named as person of the Year",
-   "poly_close": "2026-12-31T00:00:00Z",
-   "poly_token": "93547204301728188493186073729566863961255963880889581557252027015925549390518",
-   "poly_fee_rate": 0.05,
-   "vol24": 377.99
-  },
-  {
    "pair_id": "KXARREST-27JAN-JZAP|2116868",
    "score": 1.2,
    "kalshi_ticker": "KXARREST-27JAN-JZAP",
@@ -1719,6 +1668,23 @@
    "vol24": 364.6
   },
   {
+   "pair_id": "KXTIME-26-POP|2363843",
+   "score": 1.2,
+   "kalshi_ticker": "KXTIME-26-POP",
+   "kalshi_text": "Time's Person of the Year for 2026 Pope Leo XIV",
+   "kalshi_rules": "If Pope Leo XIV is Time Person of the Year for 2026, then the market resolves to Yes.",
+   "kalshi_close": "2027-01-01T15:00:00Z",
+   "category": "Entertainment",
+   "poly_id": "2363843",
+   "poly_slug": "will-pope-leo-xiv-be-time-person-of-the-year-2026",
+   "poly_text": "Will Pope Leo XIV be TIME Person of the Year 2026?",
+   "poly_rules": "This market will resolve to \u201cYes\u201d if the listed person, group, entity, or thing is TIME Person of the Year for 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA listed option will be considered TIME Person of the Year if they/it are explicitly named as Person of the Year. \n\nAdditionally, the following rules apply:\n\nIf multiple people are explicitly named person of the year, both people will be considered TIME Person of the Year.\n\nIf the TIME Person of the Year is a concept, group or thing, a person may still be considered Person of the Year if they are also explicitly named person of the year, or if they are directly associated with the concept, group or thing named as person of the Year",
+   "poly_close": "2026-12-31T00:00:00Z",
+   "poly_token": "93547204301728188493186073729566863961255963880889581557252027015925549390518",
+   "poly_fee_rate": 0.05,
+   "vol24": 358.15
+  },
+  {
    "pair_id": "KXARREST-27JAN-BJOH|2116883",
    "score": 1.2,
    "kalshi_ticker": "KXARREST-27JAN-BJOH",
@@ -1734,23 +1700,6 @@
    "poly_token": "65897846141056836650122600618767660354347846016826934249977334629448203609444",
    "poly_fee_rate": 0.04,
    "vol24": 341.3
-  },
-  {
-   "pair_id": "KXLIGAMX-27APER-SLA|2916277",
-   "score": 1.2,
-   "kalshi_ticker": "KXLIGAMX-27APER-SLA",
-   "kalshi_text": "Liga MX Apertura Champion Santos Laguna",
-   "kalshi_rules": "If Santos Laguna is the 2026-27 Liga MX Apertura champion, then the market resolves to Yes.",
-   "kalshi_close": "2027-01-02T03:00:00Z",
-   "category": "Sports",
-   "poly_id": "2916277",
-   "poly_slug": "will-santos-laguna-win-the-2026-liga-mx-apertura-20260713222753219",
-   "poly_text": "Will Santos Laguna win the 2026 Liga MX Apertura?",
-   "poly_rules": "This market will resolve according to the team that wins the 2026 Apertura Final in Liga MX.\n\nIf at any point it becomes impossible for a listed team to win the 2026 Apertura in Liga MX per the rules of the Liga MX (e.g., they are eliminated), the corresponding market will resolve to \"No\".\n\nIf the 2026-27 Liga MX season is cancelled, postponed after December 31, 2026, 11:59 PM ET or there is otherwise no winner declared within that timeframe, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from Liga MX; however, a consensus of credible reporting may also be used.",
-   "poly_close": "2027-01-01T04:59:00Z",
-   "poly_token": "41029082668174619737618179847553652403260018494987849040444706532554238583987",
-   "poly_fee_rate": 0.05,
-   "vol24": 316.1
   },
   {
    "pair_id": "KXLIGAMX-27APER-TOL|2916273",
@@ -1872,6 +1821,23 @@
    "vol24": 200.0
   },
   {
+   "pair_id": "KXTOPARTISTUSA-26-DRA|2929110",
+   "score": 1.2,
+   "kalshi_ticker": "KXTOPARTISTUSA-26-DRA",
+   "kalshi_text": "Top Artist on Spotify U.S. 2026 Drake",
+   "kalshi_rules": "If Drake is the #1  most streamed Artist on Spotify's 2026 Spotify Wrapped Top 10 Artist U.S chart on the date that the chart is released for 2026, then the market resolves to Yes.",
+   "kalshi_close": "2026-12-31T15:00:00Z",
+   "category": "Entertainment",
+   "poly_id": "2929110",
+   "poly_slug": "will-drake-be-the-top-artist-in-the-us-for-2026-20260714171850369",
+   "poly_text": "Will Drake be the top artist in the US for 2026?",
+   "poly_rules": "Spotify releases an annual report of its most streamed artist (see: https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/). This market refers to the most streamed Spotify artist in the US for 2026. \n\nThis market will resolve according to the name of the artist listed by Spotify as the top artist in the US of 2026.\n\nIf multiple artists tie for top artist in the US for 2026, this market will resolve according to the artist whose listed name comes first in alphabetical order.\n\nIf Spotify does not release who their top artist in the US for 2026 is by January 31, 2027, 11:59 PM ET, this market will resolve to \"Other\". \n\nThe resolution source for this marke",
+   "poly_close": "2026-12-31T00:00:00Z",
+   "poly_token": "73352292146752457122108933743780855936957950734237961835838317055712180830628",
+   "poly_fee_rate": 0.05,
+   "vol24": 174.01
+  },
+  {
    "pair_id": "KXTIME-26-CHR|2363846",
    "score": 1.2,
    "kalshi_ticker": "KXTIME-26-CHR",
@@ -1887,23 +1853,6 @@
    "poly_token": "93008287820878887200712974821467347075999656260599302238263917376369194140081",
    "poly_fee_rate": 0.05,
    "vol24": 171.53
-  },
-  {
-   "pair_id": "KXTOPARTISTUSA-26-DRA|2929110",
-   "score": 1.2,
-   "kalshi_ticker": "KXTOPARTISTUSA-26-DRA",
-   "kalshi_text": "Top Artist on Spotify U.S. 2026 Drake",
-   "kalshi_rules": "If Drake is the #1  most streamed Artist on Spotify's 2026 Spotify Wrapped Top 10 Artist U.S chart on the date that the chart is released for 2026, then the market resolves to Yes.",
-   "kalshi_close": "2026-12-31T15:00:00Z",
-   "category": "Entertainment",
-   "poly_id": "2929110",
-   "poly_slug": "will-drake-be-the-top-artist-in-the-us-for-2026-20260714171850369",
-   "poly_text": "Will Drake be the top artist in the US for 2026?",
-   "poly_rules": "Spotify releases an annual report of its most streamed artist (see: https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/). This market refers to the most streamed Spotify artist in the US for 2026. \n\nThis market will resolve according to the name of the artist listed by Spotify as the top artist in the US of 2026.\n\nIf multiple artists tie for top artist in the US for 2026, this market will resolve according to the artist whose listed name comes first in alphabetical order.\n\nIf Spotify does not release who their top artist in the US for 2026 is by January 31, 2027, 11:59 PM ET, this market will resolve to \"Other\". \n\nThe resolution source for this marke",
-   "poly_close": "2026-12-31T00:00:00Z",
-   "poly_token": "73352292146752457122108933743780855936957950734237961835838317055712180830628",
-   "poly_fee_rate": 0.05,
-   "vol24": 167.92
   },
   {
    "pair_id": "KXTIME-26-MARK|4798151",
@@ -2025,23 +1974,6 @@
    "vol24": 100.73
   },
   {
-   "pair_id": "KXCOPADOBRASIL-26-VDG|3957751",
-   "score": 1.2,
-   "kalshi_ticker": "KXCOPADOBRASIL-26-VDG",
-   "kalshi_text": "Copa do Brasil Champion Vasco da Gama",
-   "kalshi_rules": "If Vasco da Gama is the 2026 Copa do Brasil champion, then the market resolves to Yes.",
-   "kalshi_close": "2026-12-07T03:00:00Z",
-   "category": "Sports",
-   "poly_id": "3957751",
-   "poly_slug": "will-vasco-da-gama-win-the-2026-copa-do-brasil",
-   "poly_text": "Will Vasco da Gama win the 2026 Copa do Brasil?",
-   "poly_rules": "This market will resolve according to the club that wins the 2026 Copa do Brasil.\n\nIf at any point it becomes impossible for a listed club to win the 2026 Copa do Brasil per the rules of the competition (e.g., they are eliminated), the corresponding market will resolve to \"No\".\n\nIf the 2026 Copa do Brasil is cancelled, postponed after December 20, 2026, 11:59 PM ET, or there is otherwise no winner declared within that timeframe, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the Confedera\u00e7\u00e3o Brasileira de Futebol (CBF); however, a consensus of credible reporting may also be used.",
-   "poly_close": "2026-12-06T23:59:00Z",
-   "poly_token": "23219018632902585458051770916626721500198014215475988836732651658488125566562",
-   "poly_fee_rate": 0.05,
-   "vol24": 94.49
-  },
-  {
    "pair_id": "KXSVOTECLARITY-MAY26-MLEE|3208506",
    "score": 1.2,
    "kalshi_ticker": "KXSVOTECLARITY-MAY26-MLEE",
@@ -2091,6 +2023,23 @@
    "poly_token": "17319096107860737100124063441255962811124901713052101303022930606768812982160",
    "poly_fee_rate": 0.05,
    "vol24": 82.5
+  },
+  {
+   "pair_id": "KXMOTOGP-26-MAMA|3958407",
+   "score": 1.2,
+   "kalshi_ticker": "KXMOTOGP-26-MAMA",
+   "kalshi_text": "MotoGP World Champion Marc Marquez",
+   "kalshi_rules": "If Marc Marquez wins the 2026 MotoGP World Championship, then the market resolves to Yes.",
+   "kalshi_close": "2026-11-30T15:00:00Z",
+   "category": "Sports",
+   "poly_id": "3958407",
+   "poly_slug": "will-marc-marquez-win-the-2026-motogp-world-championship",
+   "poly_text": "Will Marc Marquez win the 2026 MotoGP World Championship?",
+   "poly_rules": "This market will resolve according to the rider who wins the 2026 MotoGP World Championship.\n\nIf at any point it becomes impossible for a listed rider to win the 2026 MotoGP World Championship (e.g., they are mathematically eliminated from title contention), the corresponding market will resolve to \"No\".\n\nIf the 2026 MotoGP season is cancelled, postponed after December 13, 2026, 11:59 PM ET, or there is otherwise no World Champion crowned within that timeframe, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from MotoGP / the FIM (https://www.motogp.com); however, a consensus of credible reporting may also be used.",
+   "poly_close": "2026-11-29T23:59:00Z",
+   "poly_token": "43070130935441060028966340896392355535639399657580849087119068481842125268829",
+   "poly_fee_rate": 0.05,
+   "vol24": 71.0
   },
   {
    "pair_id": "KXPASEN-262-D|4443119",
@@ -2450,57 +2399,6 @@
    "vol24": 5.39
   },
   {
-   "pair_id": "KXDFBPOKALGAME-26OCT27KOEUNI-UNI|5693235",
-   "score": 1.2,
-   "kalshi_ticker": "KXDFBPOKALGAME-26OCT27KOEUNI-UNI",
-   "kalshi_text": "FC K\u00f6ln vs Union Berlin Union Berlin",
-   "kalshi_rules": "If Union Berlin wins the FC K\u00f6ln vs Union Berlin professional DFB Pokal soccer game originally scheduled for Oct 27, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-27T22:45:00Z",
-   "category": "Sports",
-   "poly_id": "5693235",
-   "poly_slug": "dfb-koe-unb-2026-10-27-unb",
-   "poly_text": "Will 1. FC Union Berlin win on 2026-10-27?",
-   "poly_rules": "In the upcoming game, scheduled for October 27, 2026\nIf 1. FC Union Berlin wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after t",
-   "poly_close": "2026-10-27T19:45:00Z",
-   "poly_token": "56155531609230546011915530801632067024776312059580660718847019832147550953722",
-   "poly_fee_rate": 0.05,
-   "vol24": 0.0
-  },
-  {
-   "pair_id": "KXDFBPOKALGAME-26OCT27KOEUNI-TIE|5693234",
-   "score": 1.2,
-   "kalshi_ticker": "KXDFBPOKALGAME-26OCT27KOEUNI-TIE",
-   "kalshi_text": "FC K\u00f6ln vs Union Berlin Tie",
-   "kalshi_rules": "If Tie is the result of the FC K\u00f6ln vs Union Berlin professional DFB Pokal soccer game originally scheduled for Oct 27, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-27T22:45:00Z",
-   "category": "Sports",
-   "poly_id": "5693234",
-   "poly_slug": "dfb-koe-unb-2026-10-27-draw",
-   "poly_text": "Will 1. FC K\u00f6ln vs. 1. FC Union Berlin end in a draw?",
-   "poly_rules": "In the upcoming game, scheduled for October 27, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours aft",
-   "poly_close": "2026-10-27T19:45:00Z",
-   "poly_token": "64705134421400102252396014015472749140237380335023367244844511926748251974483",
-   "poly_fee_rate": 0.05,
-   "vol24": 0.0
-  },
-  {
-   "pair_id": "KXDFBPOKALGAME-26OCT27KOEUNI-KOE|5693233",
-   "score": 1.2,
-   "kalshi_ticker": "KXDFBPOKALGAME-26OCT27KOEUNI-KOE",
-   "kalshi_text": "FC K\u00f6ln vs Union Berlin FC K\u00f6ln",
-   "kalshi_rules": "If FC K\u00f6ln wins the FC K\u00f6ln vs Union Berlin professional DFB Pokal soccer game originally scheduled for Oct 27, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-   "kalshi_close": "2026-10-27T22:45:00Z",
-   "category": "Sports",
-   "poly_id": "5693233",
-   "poly_slug": "dfb-koe-unb-2026-10-27-koe",
-   "poly_text": "Will 1. FC K\u00f6ln win on 2026-10-27?",
-   "poly_rules": "In the upcoming game, scheduled for October 27, 2026\nIf 1. FC K\u00f6ln wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event",
-   "poly_close": "2026-10-27T19:45:00Z",
-   "poly_token": "20014792740856327425953402294839052463664874435177305945366426095743623747213",
-   "poly_fee_rate": 0.05,
-   "vol24": 0.0
-  },
-  {
    "pair_id": "KXMOTOGP-26-ALMA|3958417",
    "score": 1.2,
    "kalshi_ticker": "KXMOTOGP-26-ALMA",
@@ -2569,23 +2467,6 @@
    "vol24": 0.0
   },
   {
-   "pair_id": "KXMOTOGP-26-MAMA|3958407",
-   "score": 1.2,
-   "kalshi_ticker": "KXMOTOGP-26-MAMA",
-   "kalshi_text": "MotoGP World Champion Marc Marquez",
-   "kalshi_rules": "If Marc Marquez wins the 2026 MotoGP World Championship, then the market resolves to Yes.",
-   "kalshi_close": "2026-11-30T15:00:00Z",
-   "category": "Sports",
-   "poly_id": "3958407",
-   "poly_slug": "will-marc-marquez-win-the-2026-motogp-world-championship",
-   "poly_text": "Will Marc Marquez win the 2026 MotoGP World Championship?",
-   "poly_rules": "This market will resolve according to the rider who wins the 2026 MotoGP World Championship.\n\nIf at any point it becomes impossible for a listed rider to win the 2026 MotoGP World Championship (e.g., they are mathematically eliminated from title contention), the corresponding market will resolve to \"No\".\n\nIf the 2026 MotoGP season is cancelled, postponed after December 13, 2026, 11:59 PM ET, or there is otherwise no World Champion crowned within that timeframe, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from MotoGP / the FIM (https://www.motogp.com); however, a consensus of credible reporting may also be used.",
-   "poly_close": "2026-11-29T23:59:00Z",
-   "poly_token": "43070130935441060028966340896392355535639399657580849087119068481842125268829",
-   "poly_fee_rate": 0.05,
-   "vol24": 0.0
-  },
-  {
    "pair_id": "KXMOTOGP-26-AIOG|3958405",
    "score": 1.2,
    "kalshi_ticker": "KXMOTOGP-26-AIOG",
@@ -2637,6 +2518,23 @@
    "vol24": 0.0
   },
   {
+   "pair_id": "KXCOPADOBRASIL-26-VDG|3957751",
+   "score": 1.2,
+   "kalshi_ticker": "KXCOPADOBRASIL-26-VDG",
+   "kalshi_text": "Copa do Brasil Champion Vasco da Gama",
+   "kalshi_rules": "If Vasco da Gama is the 2026 Copa do Brasil champion, then the market resolves to Yes.",
+   "kalshi_close": "2026-12-07T03:00:00Z",
+   "category": "Sports",
+   "poly_id": "3957751",
+   "poly_slug": "will-vasco-da-gama-win-the-2026-copa-do-brasil",
+   "poly_text": "Will Vasco da Gama win the 2026 Copa do Brasil?",
+   "poly_rules": "This market will resolve according to the club that wins the 2026 Copa do Brasil.\n\nIf at any point it becomes impossible for a listed club to win the 2026 Copa do Brasil per the rules of the competition (e.g., they are eliminated), the corresponding market will resolve to \"No\".\n\nIf the 2026 Copa do Brasil is cancelled, postponed after December 20, 2026, 11:59 PM ET, or there is otherwise no winner declared within that timeframe, this market will resolve to \"Other\".\n\nThe primary resolution source will be official information from the Confedera\u00e7\u00e3o Brasileira de Futebol (CBF); however, a consensus of credible reporting may also be used.",
+   "poly_close": "2026-12-06T23:59:00Z",
+   "poly_token": "23219018632902585458051770916626721500198014215475988836732651658488125566562",
+   "poly_fee_rate": 0.05,
+   "vol24": 0.0
+  },
+  {
    "pair_id": "KXRANKLISTGOOGLESEARCH2-26DEC-BAD|4570132",
    "score": 1.17,
    "kalshi_ticker": "KXRANKLISTGOOGLESEARCH2-26DEC-BAD",
@@ -2654,6 +2552,23 @@
    "vol24": 27.0
   },
   {
+   "pair_id": "KXTXRAILROAD-26-JROS|4558977",
+   "score": 1.152,
+   "kalshi_ticker": "KXTXRAILROAD-26-JROS",
+   "kalshi_text": "Texas Railroad Commissioner winner Jon Rosenthal",
+   "kalshi_rules": "If Jon Rosenthal wins the 2026 Texas Railroad Commissioner Election, then the market resolves to Yes.",
+   "kalshi_close": "2026-11-03T15:00:00Z",
+   "category": "Elections",
+   "poly_id": "4558977",
+   "poly_slug": "will-the-democratic-party-candidate-win-the-2026-texas-railroad-commissioner-election",
+   "poly_text": "Will the Democratic Party candidate win the 2026 Texas Railroad Commissioner election?",
+   "poly_rules": "This market will resolve according to the party of the candidate who wins the 2026 Texas Railroad Commissioner election currently scheduled for November 3, 2026.\n\nThe nominees of the Democratic and Republican parties may be named in the contract for the convenience of traders. In the event that any named candidate is replaced as the nominee of their respective party prior to election day, the name in the contract will be updated and the market will resolve based on the replacement nominee of the party.\n\nIf the results of the election are not definitively known by July 31, 2027, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of the election according to a ",
+   "poly_close": "2026-11-03T23:59:00Z",
+   "poly_token": "104608634963136016650757554730747369542812130232613500329049700019027845319069",
+   "poly_fee_rate": 0.04,
+   "vol24": 748.7
+  },
+  {
    "pair_id": "KXTXRAILROAD-26-BFRE|4558983",
    "score": 1.147,
    "kalshi_ticker": "KXTXRAILROAD-26-BFRE",
@@ -2668,7 +2583,7 @@
    "poly_close": "2026-11-03T23:59:00Z",
    "poly_token": "27819895667326975050744168978358181220134432457202281485325198831209552552099",
    "poly_fee_rate": 0.04,
-   "vol24": 4523.48
+   "vol24": 4498.41
   },
   {
    "pair_id": "KXCBDECISIONJAPAN-26OCT29-H25|3251603",
@@ -2753,7 +2668,7 @@
    "poly_close": "2026-11-05T23:59:00Z",
    "poly_token": "111584157720509239561996004898835802868818519978845946077730412200387078584001",
    "poly_fee_rate": 0.05,
-   "vol24": 68.0
+   "vol24": 117.0
   },
   {
    "pair_id": "KXCBDECISIONMEXICO-26NOV05-C25|3388092",
@@ -2774,7 +2689,7 @@
   },
   {
    "pair_id": "KXUSACOMPANYSTAKE-27JAN01-UMAC|2591124",
-   "score": 1.13,
+   "score": 1.131,
    "kalshi_ticker": "KXUSACOMPANYSTAKE-27JAN01-UMAC",
    "kalshi_text": "Which companies will the US take a stake in this year? Unusual Machines",
    "kalshi_rules": "If any part of the United States federal government has taken a stake of Unusual Machines before Jan 1, 2027, then the market resolves to Yes.",
@@ -2787,7 +2702,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "3328839104193168507930813673711194379446732929027210731781613042977661950802",
    "poly_fee_rate": 0.04,
-   "vol24": 368.78
+   "vol24": 347.78
   },
   {
    "pair_id": "KXUSACOMPANYSTAKE-27JAN01-LLY|1323330",
@@ -2821,11 +2736,11 @@
    "poly_close": "2026-11-19T04:59:00Z",
    "poly_token": "84270431560386939732738336458326252492021603564263908970578335060536248248390",
    "poly_fee_rate": 0.05,
-   "vol24": 0.0
+   "vol24": 706.76
   },
   {
    "pair_id": "KXSTATELEG-MESEN26-D|4443225",
-   "score": 1.11,
+   "score": 1.111,
    "kalshi_ticker": "KXSTATELEG-MESEN26-D",
    "kalshi_text": "Maine State Senate winner? Democratic party",
    "kalshi_rules": "If the Democratic party wins the Maine State Senate in 2026, then the market resolves to Yes.",
@@ -2838,7 +2753,7 @@
    "poly_close": "2026-11-04T04:59:00Z",
    "poly_token": "97581061164616103379231522870346825925688953428873191263527878656754792839371",
    "poly_fee_rate": 0.04,
-   "vol24": 745.32
+   "vol24": 579.94
   },
   {
    "pair_id": "KXCMA-VDOTY26-MBLO|4663962",
@@ -2872,24 +2787,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "12622519606415978744877534783705265610788882249231449850262189360805525437274",
    "poly_fee_rate": 0.03,
-   "vol24": 52128.35
-  },
-  {
-   "pair_id": "KXSTATELEG-WISEN26-D|4443263",
-   "score": 1.109,
-   "kalshi_ticker": "KXSTATELEG-WISEN26-D",
-   "kalshi_text": "Wisconsin State Senate winner? Democratic party",
-   "kalshi_rules": "If the Democratic party wins the Wisconsin State Senate in 2026, then the market resolves to Yes.",
-   "kalshi_close": "2026-11-03T15:00:00Z",
-   "category": "Elections",
-   "poly_id": "4443263",
-   "poly_slug": "will-the-democratic-party-control-the-wisconsin-senate-after-the-2026-midterm-elections",
-   "poly_text": "Will the Democratic Party control the Wisconsin Senate after the 2026 Midterm elections?",
-   "poly_rules": "This market will resolve according to the party that wins control of the Wisconsin State Senate in the 2026 Wisconsin midterm election.\n\nA party wins control of the Wisconsin Senate if it wins a majority of the chamber\u2019s voting seats. If no party wins a majority of voting seats, the chamber will be deemed controlled by the party with which the first selected President of the State Senate that convenes after the specified election is affiliated. If no President of the State Senate is chosen by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe following rules govern the counting of seats for determining which party wins control of the chamber.\n\nAll regular and special Sena",
-   "poly_close": "2026-11-04T04:59:00Z",
-   "poly_token": "24342648158031218844793124959819102145491832228087630113641787590755979800156",
-   "poly_fee_rate": 0.04,
-   "vol24": 161.59
+   "vol24": 50211.3
   },
   {
    "pair_id": "KXUSACOMPANYSTAKE-27JAN01-ANDU|1323315",
@@ -2906,24 +2804,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "95106216115604658147116419764330334177004729316611029047185247668171440096999",
    "poly_fee_rate": 0.04,
-   "vol24": 117.3
-  },
-  {
-   "pair_id": "KXBALLONDOR-26-JBEL|608542",
-   "score": 1.108,
-   "kalshi_ticker": "KXBALLONDOR-26-JBEL",
-   "kalshi_text": "Who will win the Ballon d'Or in 2026? Jude Bellingham",
-   "kalshi_rules": "If Jude Bellingham wins the Ballon d'Or in 2026, then the market resolves to Yes.",
-   "kalshi_close": "2027-01-01T15:00:00Z",
-   "category": "Sports",
-   "poly_id": "608542",
-   "poly_slug": "will-jude-bellingham-win-the-2026-ballon-dor",
-   "poly_text": "Will Jude Bellingham win the 2026 Ballon d'Or?",
-   "poly_rules": "This market will resolve according to the winner of the 2026 Ballon d\u2019Or.\n\nIf no 2026 Ballon d\u2019Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
-   "poly_close": "2027-01-01T04:59:00Z",
-   "poly_token": "35466012767924254839738113787085950010503473575312851228505226571790709275819",
-   "poly_fee_rate": 0.03,
-   "vol24": 1498.39
+   "vol24": 71.3
   },
   {
    "pair_id": "KXUSACOMPANYSTAKE-27JAN01-BA|1323316",
@@ -2960,6 +2841,23 @@
    "vol24": 0.0
   },
   {
+   "pair_id": "KXBALLONDOR-26-JBEL|608542",
+   "score": 1.106,
+   "kalshi_ticker": "KXBALLONDOR-26-JBEL",
+   "kalshi_text": "Who will win the Ballon d'Or in 2026? Jude Bellingham",
+   "kalshi_rules": "If Jude Bellingham wins the Ballon d'Or in 2026, then the market resolves to Yes.",
+   "kalshi_close": "2027-01-01T15:00:00Z",
+   "category": "Sports",
+   "poly_id": "608542",
+   "poly_slug": "will-jude-bellingham-win-the-2026-ballon-dor",
+   "poly_text": "Will Jude Bellingham win the 2026 Ballon d'Or?",
+   "poly_rules": "This market will resolve according to the winner of the 2026 Ballon d\u2019Or.\n\nIf no 2026 Ballon d\u2019Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
+   "poly_close": "2027-01-01T04:59:00Z",
+   "poly_token": "35466012767924254839738113787085950010503473575312851228505226571790709275819",
+   "poly_fee_rate": 0.03,
+   "vol24": 1498.39
+  },
+  {
    "pair_id": "KXSTATELEG-AZSEN26-R|4443406",
    "score": 1.106,
    "kalshi_ticker": "KXSTATELEG-AZSEN26-R",
@@ -2974,7 +2872,24 @@
    "poly_close": "2026-11-04T04:59:00Z",
    "poly_token": "97416473123789085219725064625530083221092397891152616542690512395030639594263",
    "poly_fee_rate": 0.04,
-   "vol24": 120.98
+   "vol24": 246.98
+  },
+  {
+   "pair_id": "KXSTATELEG-MNSEN26-D|4443242",
+   "score": 1.106,
+   "kalshi_ticker": "KXSTATELEG-MNSEN26-D",
+   "kalshi_text": "Minnesota State Senate winner? Democratic party",
+   "kalshi_rules": "If the Democratic party wins the Minnesota State Senate in 2026, then the market resolves to Yes.",
+   "kalshi_close": "2026-11-03T15:00:00Z",
+   "category": "Elections",
+   "poly_id": "4443242",
+   "poly_slug": "will-the-democratic-party-control-the-minnesota-senate-after-the-2026-midterm-elections",
+   "poly_text": "Will the Democratic Party control the Minnesota Senate after the 2026 Midterm elections?",
+   "poly_rules": "This market will resolve according to the party that wins control of the Minnesota State Senate in the 2026 Minnesota midterm election.\n\nA party wins control of the Minnesota Senate if it wins a majority of the chamber\u2019s voting seats. If no party wins a majority of voting seats, the chamber will be deemed controlled by the party with which the first selected Majority Leader of the State Senate that convenes after the specified election is affiliated. If no Majority Leader of the State Senate is chosen by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe following rules govern the counting of seats for determining which party wins control of the chamber.\n\nAll regular and ",
+   "poly_close": "2026-11-04T04:59:00Z",
+   "poly_token": "44810323420166171161693391567129875546976217026907370311604713532427627984499",
+   "poly_fee_rate": 0.04,
+   "vol24": 10.6
   },
   {
    "pair_id": "KXCMA-VDOTY26-DSHA|4663960",
@@ -3042,7 +2957,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "10466835326554416965099784068156829774726248334728156046559014834812912458273",
    "poly_fee_rate": 0.03,
-   "vol24": 99250.98
+   "vol24": 94669.73
   },
   {
    "pair_id": "KXSTATELEG-AZSEN26-D|4443405",
@@ -3059,7 +2974,24 @@
    "poly_close": "2026-11-04T04:59:00Z",
    "poly_token": "8330947470967427771669107116351634663558077701167425112930221820680859992246",
    "poly_fee_rate": 0.04,
-   "vol24": 21.0
+   "vol24": 71.0
+  },
+  {
+   "pair_id": "KXBALLONDOR-26-LMES|608565",
+   "score": 1.104,
+   "kalshi_ticker": "KXBALLONDOR-26-LMES",
+   "kalshi_text": "Who will win the Ballon d'Or in 2026? Lionel Messi",
+   "kalshi_rules": "If Lionel Messi wins the Ballon d'Or in 2026, then the market resolves to Yes.",
+   "kalshi_close": "2027-01-01T15:00:00Z",
+   "category": "Sports",
+   "poly_id": "608565",
+   "poly_slug": "will-lionel-messi-win-the-2026-ballon-dor",
+   "poly_text": "Will Lionel Messi win the 2026 Ballon d'Or?",
+   "poly_rules": "This market will resolve according to the winner of the 2026 Ballon d\u2019Or.\n\nIf no 2026 Ballon d\u2019Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
+   "poly_close": "2027-01-01T04:59:00Z",
+   "poly_token": "14940935985254400645996902276818598247231942791302218826999289776538227075176",
+   "poly_fee_rate": 0.03,
+   "vol24": 123080.79
   },
   {
    "pair_id": "KXSTATELEG-TXSENA26-R|4443390",
@@ -3114,7 +3046,7 @@
   },
   {
    "pair_id": "KXCMA-VDOTY26-BOSB|4663958",
-   "score": 1.104,
+   "score": 1.103,
    "kalshi_ticker": "KXCMA-VDOTY26-BOSB",
    "kalshi_text": "CMA Awards: Vocal Duo of the Year Brothers Osborne",
    "kalshi_rules": "If Brothers Osborne wins Vocal Duo of the Year at the 60th Country Music Association Awards, then the market resolves to Yes.",
@@ -3128,40 +3060,6 @@
    "poly_token": "87171220391482214973504227808381086180528251485598180347229962049908742674608",
    "poly_fee_rate": 0.05,
    "vol24": 0.0
-  },
-  {
-   "pair_id": "KXBALLONDOR-26-LMES|608565",
-   "score": 1.103,
-   "kalshi_ticker": "KXBALLONDOR-26-LMES",
-   "kalshi_text": "Who will win the Ballon d'Or in 2026? Lionel Messi",
-   "kalshi_rules": "If Lionel Messi wins the Ballon d'Or in 2026, then the market resolves to Yes.",
-   "kalshi_close": "2027-01-01T15:00:00Z",
-   "category": "Sports",
-   "poly_id": "608565",
-   "poly_slug": "will-lionel-messi-win-the-2026-ballon-dor",
-   "poly_text": "Will Lionel Messi win the 2026 Ballon d'Or?",
-   "poly_rules": "This market will resolve according to the winner of the 2026 Ballon d\u2019Or.\n\nIf no 2026 Ballon d\u2019Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
-   "poly_close": "2027-01-01T04:59:00Z",
-   "poly_token": "14940935985254400645996902276818598247231942791302218826999289776538227075176",
-   "poly_fee_rate": 0.03,
-   "vol24": 120892.71
-  },
-  {
-   "pair_id": "KXBALLONDOR-26-BFER|608560",
-   "score": 1.103,
-   "kalshi_ticker": "KXBALLONDOR-26-BFER",
-   "kalshi_text": "Who will win the Ballon d'Or in 2026? Bruno Fernandes",
-   "kalshi_rules": "If Bruno Fernandes wins the Ballon d'Or in 2026, then the market resolves to Yes.",
-   "kalshi_close": "2027-01-01T15:00:00Z",
-   "category": "Sports",
-   "poly_id": "608560",
-   "poly_slug": "will-bruno-fernandes-win-the-2026-ballon-dor",
-   "poly_text": "Will Bruno Fernandes win the 2026 Ballon d'Or?",
-   "poly_rules": "This market will resolve according to the winner of the 2026 Ballon d\u2019Or.\n\nIf no 2026 Ballon d\u2019Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
-   "poly_close": "2027-01-01T04:59:00Z",
-   "poly_token": "101622557465698829525744132602088194868803796460787278639335217811778299351277",
-   "poly_fee_rate": 0.03,
-   "vol24": 440.35
   },
   {
    "pair_id": "KXCMA-MVOTY26-LCOM|4663794",
@@ -3198,6 +3096,23 @@
    "vol24": 705.68
   },
   {
+   "pair_id": "KXBALLONDOR-26-BFER|608560",
+   "score": 1.102,
+   "kalshi_ticker": "KXBALLONDOR-26-BFER",
+   "kalshi_text": "Who will win the Ballon d'Or in 2026? Bruno Fernandes",
+   "kalshi_rules": "If Bruno Fernandes wins the Ballon d'Or in 2026, then the market resolves to Yes.",
+   "kalshi_close": "2027-01-01T15:00:00Z",
+   "category": "Sports",
+   "poly_id": "608560",
+   "poly_slug": "will-bruno-fernandes-win-the-2026-ballon-dor",
+   "poly_text": "Will Bruno Fernandes win the 2026 Ballon d'Or?",
+   "poly_rules": "This market will resolve according to the winner of the 2026 Ballon d\u2019Or.\n\nIf no 2026 Ballon d\u2019Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
+   "poly_close": "2027-01-01T04:59:00Z",
+   "poly_token": "101622557465698829525744132602088194868803796460787278639335217811778299351277",
+   "poly_fee_rate": 0.03,
+   "vol24": 440.35
+  },
+  {
    "pair_id": "KXCMA-FVOTY26-MMOR|4663838",
    "score": 1.102,
    "kalshi_ticker": "KXCMA-FVOTY26-MMOR",
@@ -3229,7 +3144,7 @@
    "poly_close": "2026-11-19T04:59:00Z",
    "poly_token": "47697703912483082237518573046195578427106159825185014428279798466764176750774",
    "poly_fee_rate": 0.05,
-   "vol24": 0.0
+   "vol24": 29.0
   },
   {
    "pair_id": "KXCMA-FVOTY26-ELAN|4663837",
@@ -3297,7 +3212,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
    "poly_fee_rate": 0.03,
-   "vol24": 53216.14
+   "vol24": 56734.15
   },
   {
    "pair_id": "KXHIGHMIA-26OCT14-B86.5|5600381",
@@ -3314,41 +3229,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "47499773313288100769020455215613614459359629231323077673799966205216361315854",
    "poly_fee_rate": 0.05,
-   "vol24": 38046.22
-  },
-  {
-   "pair_id": "KXHIGHMIA-26OCT14-B88.5|5600382",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHMIA-26OCT14-B88.5",
-   "kalshi_text": "Highest temperature in Miami on Oct 14, 2026? 88\u00b0 to 89\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 14, 2026, is between 88-89\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-15T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5600382",
-   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-88-89f",
-   "poly_text": "Will the highest temperature in Miami be between 88-89\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "62430755851425743249176426810217768094434091555344316629751208051746684931386",
-   "poly_fee_rate": 0.05,
-   "vol24": 22465.01
-  },
-  {
-   "pair_id": "KXHIGHLAX-26OCT14-B76.5|5602382",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHLAX-26OCT14-B76.5",
-   "kalshi_text": "Highest temperature in Los Angeles on Oct 14, 2026? 76\u00b0 to 77\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Los Angeles (CLILAX) for Oct 14, 2026, is between 76-77\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-15T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5602382",
-   "poly_slug": "highest-temperature-in-los-angeles-on-october-14-2026-76-77f",
-   "poly_text": "Will the highest temperature in Los Angeles be between 76-77\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Los Angeles International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=klax\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution sou",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "3324264534300428259332781918100205903227533737038810104630028689235828336589",
-   "poly_fee_rate": 0.05,
-   "vol24": 21135.18
+   "vol24": 43656.08
   },
   {
    "pair_id": "KXHIGHLAX-26OCT14-B78.5|5602383",
@@ -3365,24 +3246,41 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "62949907409341836618498930507295615375966793087266838263763492927226999509416",
    "poly_fee_rate": 0.05,
-   "vol24": 19738.7
+   "vol24": 35259.91
   },
   {
-   "pair_id": "KXHIGHDEN-26OCT14-B48.5|5600412",
+   "pair_id": "KXHIGHMIA-26OCT14-B88.5|5600382",
    "score": 1.1,
-   "kalshi_ticker": "KXHIGHDEN-26OCT14-B48.5",
-   "kalshi_text": "Highest temperature in Denver on Oct 14, 2026? 48\u00b0 to 49\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Denver (CLIDEN) for Oct 14, 2026, is between 48-49\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_ticker": "KXHIGHMIA-26OCT14-B88.5",
+   "kalshi_text": "Highest temperature in Miami on Oct 14, 2026? 88\u00b0 to 89\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Miami (CLIMIA) for Oct 14, 2026, is between 88-89\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
    "kalshi_close": "2026-10-15T19:00:00Z",
    "category": "Climate and Weather",
-   "poly_id": "5600412",
-   "poly_slug": "highest-temperature-in-denver-on-october-14-2026-48-49f",
-   "poly_text": "Will the highest temperature in Denver be between 48-49\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Buckley Space Force Base Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kbkf\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn ",
+   "poly_id": "5600382",
+   "poly_slug": "highest-temperature-in-miami-on-october-14-2026-88-89f",
+   "poly_text": "Will the highest temperature in Miami be between 88-89\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Miami Intl Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kmia\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn the ev",
    "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "96738022032784740080103891621748747283347031261357305076013707340606505545548",
+   "poly_token": "62430755851425743249176426810217768094434091555344316629751208051746684931386",
    "poly_fee_rate": 0.05,
-   "vol24": 16540.67
+   "vol24": 34162.72
+  },
+  {
+   "pair_id": "KXHIGHLAX-26OCT14-B76.5|5602382",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHLAX-26OCT14-B76.5",
+   "kalshi_text": "Highest temperature in Los Angeles on Oct 14, 2026? 76\u00b0 to 77\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Los Angeles (CLILAX) for Oct 14, 2026, is between 76-77\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5602382",
+   "poly_slug": "highest-temperature-in-los-angeles-on-october-14-2026-76-77f",
+   "poly_text": "Will the highest temperature in Los Angeles be between 76-77\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Los Angeles International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=klax\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution sou",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "3324264534300428259332781918100205903227533737038810104630028689235828336589",
+   "poly_fee_rate": 0.05,
+   "vol24": 29651.56
   },
   {
    "pair_id": "KXHIGHMIA-26OCT14-B90.5|5600383",
@@ -3399,7 +3297,24 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "99539768062332415790939080410298610242562663254050264827257248911422538338511",
    "poly_fee_rate": 0.05,
-   "vol24": 15068.33
+   "vol24": 20557.22
+  },
+  {
+   "pair_id": "KXHIGHDEN-26OCT14-B48.5|5600412",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHDEN-26OCT14-B48.5",
+   "kalshi_text": "Highest temperature in Denver on Oct 14, 2026? 48\u00b0 to 49\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Denver (CLIDEN) for Oct 14, 2026, is between 48-49\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5600412",
+   "poly_slug": "highest-temperature-in-denver-on-october-14-2026-48-49f",
+   "poly_text": "Will the highest temperature in Denver be between 48-49\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Buckley Space Force Base Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=kbkf\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution source.\n\nIn ",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "96738022032784740080103891621748747283347031261357305076013707340606505545548",
+   "poly_fee_rate": 0.05,
+   "vol24": 17554.4
   },
   {
    "pair_id": "KXHIGHMIA-26OCT14-B84.5|5600380",
@@ -3416,7 +3331,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "29150808443521917773076593312636217036168869408519095229805764059377356430099",
    "poly_fee_rate": 0.05,
-   "vol24": 14389.73
+   "vol24": 16012.45
   },
   {
    "pair_id": "KXHIGHDEN-26OCT14-B50.5|5600413",
@@ -3433,7 +3348,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "14796662954686300295788249964630373902905017902632340714255330086325779242383",
    "poly_fee_rate": 0.05,
-   "vol24": 11780.5
+   "vol24": 12765.67
   },
   {
    "pair_id": "KXHIGHTDAL-26OCT14-B90.5|5600359",
@@ -3450,7 +3365,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "54582249405991549219863756244794059359651783268480753057042711262081068437480",
    "poly_fee_rate": 0.05,
-   "vol24": 10384.55
+   "vol24": 10744.48
   },
   {
    "pair_id": "KXHIGHTDAL-26OCT14-B94.5|5600361",
@@ -3467,7 +3382,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "32099796429754050718721681476169785332191599385879941109490996342610803781387",
    "poly_fee_rate": 0.05,
-   "vol24": 8275.47
+   "vol24": 9212.57
   },
   {
    "pair_id": "KXHIGHLAX-26OCT14-B74.5|5602381",
@@ -3484,24 +3399,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "113840256197427688542523304591280401608333161537069956658633549908224483030647",
    "poly_fee_rate": 0.05,
-   "vol24": 7052.01
-  },
-  {
-   "pair_id": "KXHIGHTSEA-26OCT14-B68.5|5602370",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHTSEA-26OCT14-B68.5",
-   "kalshi_text": "Highest temperature in Seattle on Oct 14, 2026? 68\u00b0 to 69\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Seattle (CLISEA) for Oct 14, 2026, is between 68-69\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-15T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5602370",
-   "poly_slug": "highest-temperature-in-seattle-on-october-14-2026-68-69f",
-   "poly_text": "Will the highest temperature in Seattle be between 68-69\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Seattle-Tacoma International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksea\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution ",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "63339145107723183017011776824652213802978982352282440957155116701797900690592",
-   "poly_fee_rate": 0.05,
-   "vol24": 6002.92
+   "vol24": 7244.34
   },
   {
    "pair_id": "KXHIGHTDAL-26OCT14-B92.5|5600360",
@@ -3518,7 +3416,24 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "101452873965416845009331964099799723349887120914022463868478382529638727591385",
    "poly_fee_rate": 0.05,
-   "vol24": 5968.67
+   "vol24": 6747.02
+  },
+  {
+   "pair_id": "KXHIGHTSEA-26OCT14-B68.5|5602370",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHTSEA-26OCT14-B68.5",
+   "kalshi_text": "Highest temperature in Seattle on Oct 14, 2026? 68\u00b0 to 69\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Seattle (CLISEA) for Oct 14, 2026, is between 68-69\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5602370",
+   "poly_slug": "highest-temperature-in-seattle-on-october-14-2026-68-69f",
+   "poly_text": "Will the highest temperature in Seattle be between 68-69\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Seattle-Tacoma International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksea\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution ",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "63339145107723183017011776824652213802978982352282440957155116701797900690592",
+   "poly_fee_rate": 0.05,
+   "vol24": 6412.33
   },
   {
    "pair_id": "KXHIGHDEN-26OCT14-B52.5|5600414",
@@ -3535,7 +3450,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "38818311690385321018729573150125127430610511758039964891001560316438145854735",
    "poly_fee_rate": 0.05,
-   "vol24": 5828.26
+   "vol24": 5759.18
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT14-B64.5|5602368",
@@ -3552,7 +3467,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "59576185619358630767691652758467829838733960148247314531536140921540517079561",
    "poly_fee_rate": 0.05,
-   "vol24": 5366.34
+   "vol24": 5645.82
   },
   {
    "pair_id": "KXHIGHTDAL-26OCT15-B90.5|5644678",
@@ -3569,24 +3484,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "28378257614240165817132660056745249129786959322491645743809056292227864099079",
    "poly_fee_rate": 0.05,
-   "vol24": 5062.17
-  },
-  {
-   "pair_id": "KXHIGHLAX-26OCT14-B72.5|5602380",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHLAX-26OCT14-B72.5",
-   "kalshi_text": "Highest temperature in Los Angeles on Oct 14, 2026? 72\u00b0 to 73\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at Los Angeles (CLILAX) for Oct 14, 2026, is between 72-73\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-15T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5602380",
-   "poly_slug": "highest-temperature-in-los-angeles-on-october-14-2026-72-73f",
-   "poly_text": "Will the highest temperature in Los Angeles be between 72-73\u00b0F on October 14?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Los Angeles International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=klax\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution sou",
-   "poly_close": "2026-10-14T12:00:00Z",
-   "poly_token": "2633385961940081427037652868450728732897304471497000582951538083859647791082",
-   "poly_fee_rate": 0.05,
-   "vol24": 4873.93
+   "vol24": 5243.09
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT14-B66.5|5602369",
@@ -3603,7 +3501,24 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "5459914464078536721925682466096459401272964057629414578945846786256353799077",
    "poly_fee_rate": 0.05,
-   "vol24": 4389.49
+   "vol24": 4409.32
+  },
+  {
+   "pair_id": "KXHIGHLAX-26OCT14-B72.5|5602380",
+   "score": 1.1,
+   "kalshi_ticker": "KXHIGHLAX-26OCT14-B72.5",
+   "kalshi_text": "Highest temperature in Los Angeles on Oct 14, 2026? 72\u00b0 to 73\u00b0",
+   "kalshi_rules": "If the maximum temperature recorded at Los Angeles (CLILAX) for Oct 14, 2026, is between 72-73\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
+   "kalshi_close": "2026-10-15T19:00:00Z",
+   "category": "Climate and Weather",
+   "poly_id": "5602380",
+   "poly_slug": "highest-temperature-in-los-angeles-on-october-14-2026-72-73f",
+   "poly_text": "Will the highest temperature in Los Angeles be between 72-73\u00b0F on October 14?",
+   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the Los Angeles International Airport Station in degrees Fahrenheit on 14 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=klax\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution sou",
+   "poly_close": "2026-10-14T12:00:00Z",
+   "poly_token": "2633385961940081427037652868450728732897304471497000582951538083859647791082",
+   "poly_fee_rate": 0.05,
+   "vol24": 4167.21
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT14-B62.5|5602367",
@@ -3620,7 +3535,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "70215764494034478703513729069863179674658188696043175266373324859161087596444",
    "poly_fee_rate": 0.05,
-   "vol24": 2576.77
+   "vol24": 2917.17
   },
   {
    "pair_id": "KXHIGHDEN-26OCT14-B54.5|5600415",
@@ -3637,7 +3552,7 @@
    "poly_close": "2026-10-14T12:00:00Z",
    "poly_token": "59172634494695306727972162226914992074054651675022987101141909522114855337760",
    "poly_fee_rate": 0.05,
-   "vol24": 2323.91
+   "vol24": 2386.35
   },
   {
    "pair_id": "KXHIGHTDAL-26OCT15-B88.5|5644677",
@@ -3654,7 +3569,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "110028735197076036074219282505928168418914895228418308641026880988524194305452",
    "poly_fee_rate": 0.05,
-   "vol24": 2102.39
+   "vol24": 2168.87
   },
   {
    "pair_id": "KXHIGHMIA-26OCT15-B86.5|5644698",
@@ -3671,7 +3586,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "56329396640909935791026409942832331829967583910710992921900627107010071961421",
    "poly_fee_rate": 0.05,
-   "vol24": 2009.81
+   "vol24": 2013.42
   },
   {
    "pair_id": "KXHIGHMIA-26OCT15-B90.5|5644700",
@@ -3688,7 +3603,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "4319354692168818599955655377858658305137148040816137725021361437535843930020",
    "poly_fee_rate": 0.05,
-   "vol24": 1773.25
+   "vol24": 1896.99
   },
   {
    "pair_id": "KXHIGHTSFO-26OCT15-B84.5|5646784",
@@ -3705,7 +3620,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "31349638320924520098346901351597708217528234032993449711146787798968835482823",
    "poly_fee_rate": 0.05,
-   "vol24": 1737.98
+   "vol24": 1839.32
   },
   {
    "pair_id": "KXHIGHMIA-26OCT15-B88.5|5644699",
@@ -3722,7 +3637,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "83166015344887969921042184920361068516395459405055619955358630592903079306798",
    "poly_fee_rate": 0.05,
-   "vol24": 1676.31
+   "vol24": 1821.8
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT15-B70.5|5646760",
@@ -3739,7 +3654,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "59611784665186127979412106220130968559869171184393228398248898467229379642527",
    "poly_fee_rate": 0.05,
-   "vol24": 1648.25
+   "vol24": 1657.25
   },
   {
    "pair_id": "KXHIGHTSFO-26OCT15-B80.5|5646782",
@@ -3756,7 +3671,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "110814288744598032408955677208235612032486870986845723390378875908171076849401",
    "poly_fee_rate": 0.05,
-   "vol24": 1495.94
+   "vol24": 1640.42
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT15-B72.5|5646761",
@@ -3773,7 +3688,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "18753441014344261086651136936178743928215244236725670139318212827689291593069",
    "poly_fee_rate": 0.05,
-   "vol24": 1331.73
+   "vol24": 1371.09
   },
   {
    "pair_id": "KXHIGHTSEA-26OCT15-B68.5|5646758",
@@ -3790,7 +3705,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "114167026127881101856688500058740663262674831572341676013881646687536052100379",
    "poly_fee_rate": 0.05,
-   "vol24": 1183.7
+   "vol24": 1197.1
   },
   {
    "pair_id": "KXHIGHTSFO-26OCT15-B82.5|5646783",
@@ -3807,24 +3722,7 @@
    "poly_close": "2026-10-15T12:00:00Z",
    "poly_token": "38326094578785638084685758543352091552852301787724949944402472706347574234333",
    "poly_fee_rate": 0.05,
-   "vol24": 916.33
-  },
-  {
-   "pair_id": "KXHIGHTSFO-26OCT15-B78.5|5646781",
-   "score": 1.1,
-   "kalshi_ticker": "KXHIGHTSFO-26OCT15-B78.5",
-   "kalshi_text": "Highest temperature in San Francisco on Oct 15, 2026? 78\u00b0 to 79\u00b0",
-   "kalshi_rules": "If the maximum temperature recorded at San Francisco (CLISFO) for Oct 15, 2026, is between 78-79\u00b0 fahrenheit according to The Weather Company, then the market resolves to Yes.",
-   "kalshi_close": "2026-10-16T19:00:00Z",
-   "category": "Climate and Weather",
-   "poly_id": "5646781",
-   "poly_slug": "highest-temperature-in-san-francisco-on-october-15-2026-78-79f",
-   "poly_text": "Will the highest temperature in San Francisco be between 78-79\u00b0F on October 15?",
-   "poly_rules": "This market will resolve to the temperature range that contains the highest temperature recorded by NOAA at the San Francisco International Airport Station in degrees Fahrenheit on 15 Oct '26.\n\nThe resolution source for this market will be information from NOAA, specifically the highest reading under the \"Temp\" column for all times on this day, available here: https://www.weather.gov/wrh/timeseries?site=ksfo\n\nThis market will resolve off of the Hourly Data provided using the \"Show Hourly Data\" button.\n\nIf NOAA data for the observation date is unavailable by 11:59 PM ET on the day following the observation date, the Weather Underground Daily Observations table will be used as the resolution s",
-   "poly_close": "2026-10-15T12:00:00Z",
-   "poly_token": "29919500855028813076915226819521899298966063003133311595503112757519436399290",
-   "poly_fee_rate": 0.05,
-   "vol24": 635.24
+   "vol24": 895.24
   },
   {
    "pair_id": "KXCMA-MVOTY26-CSTA|4663798",
@@ -3845,7 +3743,7 @@
   },
   {
    "pair_id": "KXBALLONDOR-26-EHAA|608541",
-   "score": 1.099,
+   "score": 1.098,
    "kalshi_ticker": "KXBALLONDOR-26-EHAA",
    "kalshi_text": "Who will win the Ballon d'Or in 2026? Erling Haaland",
    "kalshi_rules": "If Erling Haaland wins the Ballon d'Or in 2026, then the market resolves to Yes.",
@@ -3858,7 +3756,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "28452090262595806306683841543702974671789939255165753137157118490078999198778",
    "poly_fee_rate": 0.03,
-   "vol24": 50711.85
+   "vol24": 32774.79
   },
   {
    "pair_id": "KXCMA-VDOTY26-TJAM|4663964",
@@ -3926,7 +3824,7 @@
    "poly_close": "2027-01-01T04:59:00Z",
    "poly_token": "80760484659859004057151567591793221748584787651268092387414945323344021679571",
    "poly_fee_rate": 0.03,
-   "vol24": 19016.92
+   "vol24": 19469.08
   },
   {
    "pair_id": "KXSERIEBGAME-26OCT16VERUSC-VER|5227839",
@@ -3977,7 +3875,7 @@
    "poly_close": "2026-11-19T04:59:00Z",
    "poly_token": "106938265685730812603719193232987671568714806950577014784020343680142703764095",
    "poly_fee_rate": 0.05,
-   "vol24": 30.56
+   "vol24": 59.56
   },
   {
    "pair_id": "KXCMA-MOTY26-CWOR|4663902",
@@ -4198,7 +4096,7 @@
    "poly_close": "2026-11-04T04:59:00Z",
    "poly_token": "104266918293222855521793046357307821515714886346545207316467665058118412274070",
    "poly_fee_rate": 0.05,
-   "vol24": 5039.08
+   "vol24": 5049.33
   },
   {
    "pair_id": "KXCMA-VGOTY26-MIDLAND|4663932",
@@ -4215,7 +4113,7 @@
    "poly_close": "2026-11-19T04:59:00Z",
    "poly_token": "98644283574627629486337407828401415231791385052866095441243437236875787878564",
    "poly_fee_rate": 0.05,
-   "vol24": 66.0
+   "vol24": 95.0
   },
   {
    "pair_id": "KXCBDECISIONAUSTRALIA-26NOV02-C25|3499788",
@@ -4232,7 +4130,24 @@
    "poly_close": "2026-11-04T04:59:00Z",
    "poly_token": "48701713288433959508248989923833987678088263050253010598065068190343367309089",
    "poly_fee_rate": 0.05,
-   "vol24": 1814.79
+   "vol24": 1825.04
+  },
+  {
+   "pair_id": "KXCBDSWISS-26DEC10-H25P|4911209",
+   "score": 1.075,
+   "kalshi_ticker": "KXCBDSWISS-26DEC10-H25P",
+   "kalshi_text": "Swiss National Bank rate decision in December Hike more than 25bps",
+   "kalshi_rules": "If the Swiss National Bank takes the action of hike more than 25bps at its December monetary policy assessment, then the market resolves to Yes.",
+   "kalshi_close": "2026-12-10T13:30:00Z",
+   "category": "Economics",
+   "poly_id": "4911209",
+   "poly_slug": "will-the-swiss-national-bank-increase-the-snb-policy-rate-by-25-bps-at-the-december-meeting",
+   "poly_text": "Will the Swiss National Bank increase the SNB policy rate by 25 bps at the December meeting?",
+   "poly_rules": "This market will resolve according to the change in basis points in the SNB policy rate resulting from the December 2026 meeting of the Swiss National Bank, relative to the level it was prior to this meeting.\n\nThe resolution source will be official information from the Swiss National Bank, including the statement or release from its December 2026 monetary policy assessment, scheduled for December 10, 2026, as listed on the official Swiss National Bank calendar (https://www.snb.ch/en/services-events/digital-services/event-schedule). This market may resolve as soon as the statement or release of the Swiss National Bank resulting from its December 2026 meeting with relevant data is issued.\n\nIf ",
+   "poly_close": "2026-12-10T00:00:00Z",
+   "poly_token": "33191254354432612482613221629582013807081116136939897529314995747055163257729",
+   "poly_fee_rate": 0.05,
+   "vol24": 499.9
   },
   {
    "pair_id": "KXACQANNOUNCEANNUAL-27JAN01-ANYPAYP|1544502",
@@ -4250,6 +4165,91 @@
    "poly_token": "36494108444447263802148578432609834249853996810500233011846717985967521738285",
    "poly_fee_rate": 0.04,
    "vol24": 84.96
+  },
+  {
+   "pair_id": "KXCMA-EOTY26-CJOH|4663773",
+   "score": 1.075,
+   "kalshi_ticker": "KXCMA-EOTY26-CJOH",
+   "kalshi_text": "CMA Awards: Entertainer of the Year Cody Johnson",
+   "kalshi_rules": "If Cody Johnson wins Entertainer of the Year at the 60th Country Music Association Awards, then the market resolves to Yes.",
+   "kalshi_close": "2026-11-18T15:00:00Z",
+   "category": "Entertainment",
+   "poly_id": "4663773",
+   "poly_slug": "cma-2026-eoty-cody-johnson",
+   "poly_text": "Will Cody Johnson win Entertainer of the Year at the 2026 CMA Awards?",
+   "poly_rules": "The Country Music Association Awards are presented annually by the Country Music Association (CMA) to honor outstanding achievement in country music. The 60th Annual Country Music Association Awards are currently scheduled for November 18, 2026.\n\nThis market will resolve according to the listed artist who wins the 60th Annual Country Music Association Award for Entertainer of the Year. \n\nIf a listed artist is not officially nominated for the Country Music Association Award for Entertainer of the Year when the 2026 nominees are announced, the corresponding market will immediately resolve to \"No\".\n\nIn case of a tie for the winner, this market will resolve in favor of the tied winning artist wh",
+   "poly_close": "2026-11-19T04:59:00Z",
+   "poly_token": "62561033495734961973458273766692986526555323850287659678909282839187452665020",
+   "poly_fee_rate": 0.05,
+   "vol24": 7.53
+  },
+  {
+   "pair_id": "KXCMA-MOTY26-PFRA|4663898",
+   "score": 1.075,
+   "kalshi_ticker": "KXCMA-MOTY26-PFRA",
+   "kalshi_text": "CMA Awards: Musician of the Year Paul Franklin",
+   "kalshi_rules": "If Paul Franklin wins Musician of the Year at the 60th Country Music Association Awards, then the market resolves to Yes.",
+   "kalshi_close": "2026-11-18T15:00:00Z",
+   "category": "Entertainment",
+   "poly_id": "4663898",
+   "poly_slug": "cma-2026-moty-paul-franklin",
+   "poly_text": "Will Paul Franklin (steel guitar) win Musician of the Year at the 2026 CMA Awards?",
+   "poly_rules": "The Country Music Association Awards are presented annually by the Country Music Association (CMA) to honor outstanding achievement in country music. The 60th Annual Country Music Association Awards are currently scheduled for November 18, 2026.\n\nThis market will resolve according to the listed musician who wins the 60th Annual Country Music Association Award for Musician of the Year. \n\nIf a listed musician is not officially nominated for the Country Music Association Award for Musician of the Year when the 2026 nominees are announced, the corresponding market will immediately resolve to \"No\".\n\nIn case of a tie for the winner, this market will resolve in favor of the tied winning musician wh",
+   "poly_close": "2026-11-19T04:59:00Z",
+   "poly_token": "40006656763931655242985660524175935694435236174759228741364938570137954949583",
+   "poly_fee_rate": 0.05,
+   "vol24": 0.0
+  },
+  {
+   "pair_id": "KXCMA-VGOTY26-LADYA|4663928",
+   "score": 1.073,
+   "kalshi_ticker": "KXCMA-VGOTY26-LADYA",
+   "kalshi_text": "CMA Awards: Vocal Group of the Year Lady A",
+   "kalshi_rules": "If Lady A wins Vocal Group of the Year at the 60th Country Music Association Awards, then the market resolves to Yes.",
+   "kalshi_close": "2026-11-18T15:00:00Z",
+   "category": "Entertainment",
+   "poly_id": "4663928",
+   "poly_slug": "cma-2026-vgoty-lady-a",
+   "poly_text": "Will Lady A win Vocal Group of the Year at the 2026 CMA Awards?",
+   "poly_rules": "The Country Music Association Awards are presented annually by the Country Music Association (CMA) to honor outstanding achievement in country music. The 60th Annual Country Music Association Awards are currently scheduled for November 18, 2026.\n\nThis market will resolve according to the listed group that wins the 60th Annual Country Music Association Award for Vocal Group of the Year. \n\nIf a listed group is not officially nominated for the Country Music Association Award for Vocal Group of the Year when the 2026 nominees are announced, the corresponding market will immediately resolve to \"No\".\n\nIn case of a tie for the winner, this market will resolve in favor of the tied winning group whos",
+   "poly_close": "2026-11-19T04:59:00Z",
+   "poly_token": "94395083335043705536414503105296713968932982811160677344993215987445763729100",
+   "poly_fee_rate": 0.05,
+   "vol24": 29.0
+  },
+  {
+   "pair_id": "KXCBDSWISS-26DEC10-C25P|4911212",
+   "score": 1.073,
+   "kalshi_ticker": "KXCBDSWISS-26DEC10-C25P",
+   "kalshi_text": "Swiss National Bank rate decision in December Cut more than 25bps",
+   "kalshi_rules": "If the Swiss National Bank takes the action of cut more than 25bps at its December monetary policy assessment, then the market resolves to Yes.",
+   "kalshi_close": "2026-12-10T13:30:00Z",
+   "category": "Economics",
+   "poly_id": "4911212",
+   "poly_slug": "will-the-swiss-national-bank-decrease-the-snb-policy-rate-by-25-bps-at-the-december-meeting",
+   "poly_text": "Will the Swiss National Bank decrease the SNB policy rate by 25 bps at the December meeting?",
+   "poly_rules": "This market will resolve according to the change in basis points in the SNB policy rate resulting from the December 2026 meeting of the Swiss National Bank, relative to the level it was prior to this meeting.\n\nThe resolution source will be official information from the Swiss National Bank, including the statement or release from its December 2026 monetary policy assessment, scheduled for December 10, 2026, as listed on the official Swiss National Bank calendar (https://www.snb.ch/en/services-events/digital-services/event-schedule). This market may resolve as soon as the statement or release of the Swiss National Bank resulting from its December 2026 meeting with relevant data is issued.\n\nIf ",
+   "poly_close": "2026-12-10T00:00:00Z",
+   "poly_token": "93966957297827194471765959770943366357510583545917101449381311683119848105625",
+   "poly_fee_rate": 0.05,
+   "vol24": 0.0
+  },
+  {
+   "pair_id": "KXACQANNOUNCEANNUAL-27JAN01-ANYGITL|694940",
+   "score": 1.07,
+   "kalshi_ticker": "KXACQANNOUNCEANNUAL-27JAN01-ANYGITL",
+   "kalshi_text": "Which companies will be acquired this year? GitLab",
+   "kalshi_rules": "If any company announces an agreement to acquire GitLab before Jan 1, 2027, then the market resolves to Yes.",
+   "kalshi_close": "2027-01-01T15:00:00Z",
+   "category": "Companies",
+   "poly_id": "694940",
+   "poly_slug": "will-gitlab-be-acquired-before-2027-944-667",
+   "poly_text": "Will GitLab be acquired before 2027?",
+   "poly_rules": "This market will resolve to \u201cYes\u201d if credible reporting confirms that any entity enters into an agreement to acquire the listed company by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nMergers where the listed company is subsumed by another entity will count toward a \"Yes\" resolution.\n\nAn announced agreement between the listed company and an acquiring entity will qualify for a \u201cYes\u201d resolution, regardless of whether the acquisition is ultimately completed.\n\nThe primary resolution source for this market is official information from the listed company and/or its leadership; however, a consensus of credible reporting will also be used.",
+   "poly_close": "2027-01-01T04:59:00Z",
+   "poly_token": "78229401955179772346633280675438287183628102967234404539478345545004251094928",
+   "poly_fee_rate": 0.04,
+   "vol24": 196.17
   }
  ]
 }
