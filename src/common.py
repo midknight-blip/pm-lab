@@ -256,9 +256,9 @@ SYN = {"hike": "increase", "hikes": "increase", "raise": "increase", "raises": "
 CRITICAL = {"vice", "nominee", "primary", "runoff", "matchup", "popular", "electoral", "margin",
             "half", "quarter", "period", "inning", "innings", "spread", "total", "map", "set",
             "round", "overtime", "dem", "gop", "independent", "senate", "house", "governor",
-            "mayor", "speaker", "seats", "majority", "control", "first", "exact", "between",
-            "range", "monthly", "weekly", "annual", "yearly", "high", "low", "over", "under",
-            "album", "song", "single", "tweet", "tweets", "post", "posts"}
+            "mayor", "speaker", "seats", "majority", "control", "first", "exact",
+            "monthly", "weekly", "annual", "yearly", "high", "low", "over", "under",
+            "album", "song", "single", "plus", "tweet", "tweets", "post", "posts"}
 # Words that say nothing about the subject; a pair must share at least one word outside this set.
 GENERIC = {"over", "under", "increase", "decrease", "hold", "high", "low", "first", "new", "get",
            "usa", "election", "winner", "price", "rate", "rates", "reach", "hit", "dip", "say",
@@ -270,6 +270,11 @@ UNITS = {"bps", "bp", "pts", "points", "percent", "basis"}
 def tokens(text):
     t = text.lower()
     t = re.sub(r"\b20\d\d-\d\d-\d\d\b", " ", t)  # iso dates
+    mon = "|".join(MONTHS)
+    t = re.sub(rf"\b({mon})\.?\s+\d{{1,2}}(st|nd|rd|th)?\b", r" \1 ", t)  # "Oct 15" -> "oct"
+    t = re.sub(rf"\b\d{{1,2}}(st|nd|rd|th)?\s+({mon})\b", r" \2 ", t)        # "15 October"
+    t = re.sub(r"\b\d{1,2}/\d{1,2}(/\d{2,4})?\b", " ", t)                       # 10/15
+    t = t.replace(">", " over ").replace("<", " under ").replace("+", " plus ")
     t = re.sub(r"(\d),(\d{3})", r"\1\2", t)       # 150,000 -> 150000
     t = re.sub(r"[^a-z0-9.$%]+", " ", t)
     words, nums = set(), set()

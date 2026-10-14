@@ -91,7 +91,7 @@ def match(krows, prows):
             kw, kn = ktoks[i]
             if (kw ^ pw) & CRITICAL:
                 continue
-            if kn and pn and not (kn & pn):
+            if kn and pn and kn != pn:
                 continue  # different thresholds/numbers -> different bet
             if not ((kw & pw) - GENERIC):
                 continue  # only "below" + a number in common -> different subjects
