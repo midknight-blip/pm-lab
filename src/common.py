@@ -135,18 +135,18 @@ def kalshi_quote(m):
 
 
 # ---------------------------------------------------------------- Polymarket
-def poly_open_markets(max_pages=100):
+def poly_open_markets(max_pages=600):
     out = []
-    for p in range(max_pages):
+    offset = 0
+    for _ in range(max_pages):  # the API caps the page size, so step by what it returns
         url = (f"{GAMMA}/markets?active=true&closed=false&archived=false"
-               f"&limit=500&offset={p * 500}")
+               f"&limit=500&offset={offset}")
         d = http(url)
         if not d:
             break
         out.extend(d)
-        if len(d) < 500:
-            break
-        time.sleep(0.15)
+        offset += len(d)
+        time.sleep(0.1)
     return out
 
 
@@ -229,7 +229,15 @@ SYN = {"hike": "increase", "hikes": "increase", "raise": "increase", "raises": "
        "holds": "hold", "unchanged": "hold", "pause": "hold", "change": "hold", "tie": "draw",
        "republican": "gop", "republicans": "gop", "democrat": "dem", "democrats": "dem",
        "democratic": "dem", "btc": "bitcoin", "eth": "ethereum", "us": "usa", "u.s": "usa",
-       "above": "over", "greater": "over", "below": "under", "less": "under"}
+       "vp": "vice", "nomination": "nominee", "nominated": "nominee", "1h": "half", "2h": "half",
+       "1st": "first", "president": "presidential", "presidency": "presidential", "above": "over", "greater": "over", "below": "under", "less": "under"}
+# Words that change what the bet is about. If one side has one of these and the
+# other doesn't, they're different bets (VP vs President, nominee vs winner, 1st half vs full game).
+CRITICAL = {"vice", "nominee", "primary", "runoff", "matchup", "popular", "electoral", "margin",
+            "half", "quarter", "period", "inning", "innings", "spread", "total", "map", "set",
+            "round", "overtime", "dem", "gop", "independent", "senate", "house", "governor",
+            "mayor", "speaker", "seats", "majority", "control", "first", "exact", "between",
+            "range", "monthly", "weekly", "annual", "yearly", "high", "low"}
 UNITS = {"bps", "bp", "pts", "points", "percent", "basis"}
 
 

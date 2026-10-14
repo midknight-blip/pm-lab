@@ -14,6 +14,7 @@ from common import *  # noqa
 MAX_PAIRS = 250
 MIN_SCORE = 0.45
 MAX_CLOSE_GAP_DAYS = 4
+MAX_DAYS_OUT = 180  # money locked up longer than this isn't worth it for a small account
 
 
 def kalshi_rows(events):
@@ -72,7 +73,7 @@ def match(krows, prows):
     best_for_k = {}
     for j, (pw, pn) in enumerate(ptoks):
         p = prows[j]
-        if not pw or p["close"] is None:
+        if not pw or p["close"] is None or (p["close"] - now()).days > MAX_DAYS_OUT:
             continue
         hits = defaultdict(int)
         for t in pw:
@@ -85,7 +86,11 @@ def match(krows, prows):
             k = krows[i]
             if k["close"] is None or abs((k["close"] - p["close"]).total_seconds()) > MAX_CLOSE_GAP_DAYS * 86400:
                 continue
+            if (k["close"] - now()).days > MAX_DAYS_OUT:
+                continue
             kw, kn = ktoks[i]
+            if (kw ^ pw) & CRITICAL:
+                continue
             if kn and pn and not (kn & pn):
                 continue  # different thresholds/numbers -> different bet
             inter = sum(idf[t] for t in kw & pw)
