@@ -1,15 +1,15 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-14T17:49:49Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-14T17:52:36Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-14T17:49:47Z — 215 of 215 pairs priced
-- Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-14T17:48:10Z — Kalshi 133183 markets, Polymarket 21304 yes/no markets, 250 matched pairs
+- Last scan: 2026-10-14T17:48:37Z — 250 of 250 pairs priced
+- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-14T17:52:35Z — Kalshi 133154 markets, Polymarket 21300 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,12 @@ Running since 2026-10-14. 4 scans so far. A pair counts as positive when buying 
 | Fed decision in Jan 2027? Cut 25bps / Will the Fed decrease interest rates by 25 bp | no | +0.5¢ | +0.5¢ | 3 | 50 | 105 | 2% |
 
 - Fast-check sessions (every 15 sec): none yet
-- Same-site bundles (buy every outcome of one event for under $1): none in the last 3 days
+- Same-site bundles in the last 3 days: 78. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Sokoto, Nigeria Governor Election Winner Ahmed Aliyu — 4 outcomes, +3.7¢ per $1
+  - polymarket: IA-01 House Election Margin of Victory Republican 0-3% — 8 outcomes, +3.6¢ per $1
+  - kalshi: Arizona State Senate winner? — 2 outcomes, +3.6¢ per $1
+  - polymarket: Al-Taawoun FC vs. Al Rayyan SC Al-Taawoun FC — 2 outcomes, +3.5¢ per $1
+  - polymarket: #3 Spotify Artist 2026 Taylor Swift — 2 outcomes, +3.3¢ per $1
 
 ## Forecast test
 
