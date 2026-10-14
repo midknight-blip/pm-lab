@@ -1,0 +1,76 @@
+{
+ "batch": "2026-10-14",
+ "created": "2026-10-14T17:10:27Z",
+ "markets": [
+  {
+   "key": "kalshi:KXPEPSIPOS-26NOV03-T93",
+   "question": "Pepsi Point of Sale Growth in October \u2014 Above 93",
+   "rules": "If the Carbon Arc Pepsi Point of Sale Growth (October 2026) for October 2026 is above 93, then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 2nd calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 2nd.\n\nThe index measures year-over-year change, where 100 means Pepsi Point of Sale Growth was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% more spend than year prior, 97 = 3% decline from year prior. The index is measured by Carbon Arc's point-of-sale receipt panel using in-store and online purchases captured via receipt-scanning and rewards apps, matched to the same period of the prior year. The panel updates daily as new data arrives.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-10T06:30:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "kalshi:KXFEDDECISION-26OCT-H0",
+   "question": "Fed decision in Oct 2026? \u2014 Fed maintains rate",
+   "rules": "If the Federal Reserve does a Hike of 0bps on October 28, 2026, then the market resolves to Yes. The outcomes are mutually exclusive: at most one can resolve to Yes. For example, a 50-basis-point hike resolves \u201cHike   25 bps\u201d to Yes and \u201cHike 25 bps\u201d to No.\n\nIf the scheduled FOMC meeting is canceled and does not occur on its scheduled date, \u201cFed maintains rate\u201d resolves to Yes and all other outcomes resolve to No.",
+   "close": "2026-10-28T18:05:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXISRAEL4TH-26OCT27-4-OYEH",
+   "question": "Israeli Parliamentary Election: 4th Place \u2014 Otzma Yehudit",
+   "rules": "If Otzma Yehudit finishes in 4th place in the 2026 Israeli Knesset election according to the certified results, then the market resolves to Yes. Ranking is determined by the specified counting method:\nFor proportional representation: rank follows the electoral authority's final seat allocation order.\n\nRank is based on Knesset seats, not national vote share, using the Central Elections Committee's final certified result rather than preliminary counts.\nA party or list awarded no seats cannot place 4th.\nLists with equal seat totals share the places they jointly occupy. For example, if two lists tie for the 3rd-most seats, both are tied for 3rd and 4th place; if two lists tie for the most seats, the list with the next-most seats finishes 3rd.\nJoint candidate lists count as single entities. Their seats are not credited separately to constituent parties. A newly formed joint list is a separate entity; a name change alone does not change a party or list's identity. Seats of separate lists are not combined for surplus-vote agreements or post-election coalitions.\nIf no listed party or list finishes or ties for 4th place, every market on this event resolves NO.\n\nIn case of an exact tie for 4",
+   "close": "2026-11-05T15:00:00Z",
+   "category": "elections"
+  },
+  {
+   "key": "kalshi:KXBABELMANDEBWEEKLY-26OCT18-T200",
+   "question": "Traffic through the Bab el-Mandeb Strait? (10/12 - 10/18) \u2014 Above 200",
+   "rules": "If the number of transit calls through the Bab el-Mandeb Strait as reported by the IMF PortWatch is above 200 from Oct 12, 2026 to Oct 18, 2026, then the market resolves to Yes. The total is calculated by summing daily counts from Oct 12, 2026 to Oct 18, 2026. The market will resolve no earlier than Tuesday at 9 AM following the end of the period, once complete data is available.",
+   "close": "2026-10-20T14:00:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "kalshi:KXNFLTOTAL-26OCT18BALCLE-42",
+   "question": "Baltimore vs Cleveland: Total Points \u2014 Over 41.5 points",
+   "rules": "If Baltimore and Cleveland collectively score more than 41.5 points in the Baltimore vs Cleveland Pro Football game originally scheduled for Oct 18, 2026, then the market resolves to Yes. Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-10-18T20:00:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXRT-YOUC-99",
+   "question": "You Can See Everything \u00b7 Rotten Tomatoes score \u2014 Above 99",
+   "rules": "If You Can See Everything has a Tomatometer score of above 99 on Oct 19, 2026 at 10:00 AM ET, then the market resolves to Yes. The \"Fresh!\" and \"Certified Fresh!\" subtitles are meant for illustrative purposes only. The Tomatometer score must be above the strike value to resolve as YES (for example, a score of 75 would resolve \"Above 75\" as No.) The market will be determined the Monday after wide release at 10:00 AM ET.\n\nThis market and these products have not been endorsed by Rotten Tomatoes. Any references to Rotten Tomatoes or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between Rotten Tomatoes and Kalshi.",
+   "close": "2026-10-19T14:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXGOOGVREQ-16OCT26-T14P5",
+   "question": "Google share of requests on Oct 16, 2026 (Vercel) \u2014 Above 14.5%",
+   "rules": "If the Google Vercel share of AI Gateway requests across the top labs for Oct 16, 2026 is above 14.5%, then the market resolves to Yes. This event resolves using the Google Vercel share of AI Gateway requests across the top labs, rounded to one decimal. At 10:00 AM ET on Oct 17, 2026, Kalshi will use the chart's updated value for Oct 16, 2026. \n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Vercel. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-10-17T14:00:00Z",
+   "category": "science and technology"
+  },
+  {
+   "key": "kalshi:KXRAINWKND-26OCT17-BOS",
+   "question": "Where will it rain this weekend (Oct 17 - Oct 18)? \u2014 Boston",
+   "rules": "If the total precipitation at CLIBOS in Boston on any day within October 17, 2026 through October 18, 2026 is strictly greater than 0 inches, then the market resolves to Yes. Not all weather data is the same. While checking a source like AccuWeather or Google Weather may help guide your decision, the official and final value used to determine this market as reported by the Weather Company.\n\nReading weather data\nData for CLIBOS can be found at https://weather.com/kalshi.\n\u201cTrace\u201d amounts (T) and missing daily precipitation values are counted as 0 inches. ",
+   "close": "2026-10-20T03:59:59Z",
+   "category": "climate and weather"
+  },
+  {
+   "key": "kalshi:KXTRUMPMENTION-26OCT14-SANC",
+   "question": "What will Trump say during his rally in Arizona? \u2014 Sanctuary",
+   "rules": "If \n Donald Trump says Sanctuary as part of Midterm Rally in Bullhead City, Arizona originally scheduled for October 14, 2026\n, then the market resolves to Yes. How this is resolved\nVideo of the Midterm Rally in Bullhead City, Arizona originally scheduled for October 14, 2026 using the live broadcast or stream.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the Midterm Rally in Bullhead City, Arizona originally scheduled for October 14, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nDonald Trump speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified, previously aired content, archival footage, and recordings captured at ti",
+   "close": "2026-10-28T14:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "kalshi:KXGOLDW-26OCT1617-T4147.99",
+   "question": "Gold price on Oct 16, 2026 at 5:00 PM EDT? \u2014 Above $4147.99",
+   "rules": "If the close price of the 1-minute candlestick for gold on October 16, 2026 at 5:00 PM EDT is above 4147.99 USD/t.oz, then the market resolves to Yes. The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+   "close": "2026-10-16T21:00:00Z",
+   "category": "commodities"
+  }
+ ]
+}
