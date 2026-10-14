@@ -1,36 +1,36 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-14T22:27:45Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-14T22:57:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-14T22:27:43Z — 207 of 215 pairs priced
-- Scans in the last 24h: 12 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-14T22:57:18Z — 206 of 215 pairs priced
+- Scans in the last 24h: 13 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-14T18:59:20Z — Kalshi 132892 markets, Polymarket 20699 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 12 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 13 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 71
 - Positive pairs still in play: **23** (confirmed same bet: 0, not yet checked: 23)
-- Scans with at least one positive pair: 12
+- Scans with at least one positive pair: 13
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| Midterms: which party wins white women? Repub / Will Republicans win white women in the midte | no | +7.0¢ | +4.9¢ | 10 | 50 | 25 | 111% |
-| Top 5 most searched people on Google in 2026  / Will Lindsay Clancy rank in Google’s Top 5 Mo | no | +6.3¢ | +5.2¢ | 11 | 50 | 78 | 31% |
+| Midterms: which party wins white women? Repub / Will Republicans win white women in the midte | no | +7.0¢ | +4.9¢ | 11 | 50 | 25 | 111% |
+| Top 5 most searched people on Google in 2026  / Will Lindsay Clancy rank in Google’s Top 5 Mo | no | +6.3¢ | +5.2¢ | 12 | 50 | 78 | 31% |
 | Arizona State Senate winner? Republican party / Will the Republican Party control the Arizona | no | +5.4¢ | +5.4¢ | 3 | 20 | 20 | 103% |
+| Israeli legislative election winner? Yashar / Will Yashar win the most seats in the 2026 Is | no | +2.4¢ | +1.4¢ | 2 | 50 | 13 | 67% |
 | Top 5 most searched people on Google in 2026  / Will Nicolás Maduro rank in Google’s Top 5 Mo | no | +2.2¢ | +2.2¢ | 6 | 5 | 78 | 11% |
-| Copa do Brasil Champion Palmeiras / Will Palmeiras win the 2026 Copa do Brasil? | no | +1.8¢ | +1.8¢ | 11 | 1 | 53 | 12% |
-| Time's Person of the Year for 2026 Bernie San / Will Bernie Sanders be TIME Person of the Yea | no | +1.8¢ | +1.8¢ | 11 | 50 | 79 | 8% |
+| Copa do Brasil Champion Palmeiras / Will Palmeiras win the 2026 Copa do Brasil? | no | +1.8¢ | +1.8¢ | 12 | 1 | 53 | 12% |
+| Time's Person of the Year for 2026 Bernie San / Will Bernie Sanders be TIME Person of the Yea | no | +1.8¢ | +1.8¢ | 12 | 50 | 79 | 8% |
 | Israeli legislative election winner? Likud / Will Likud win the most seats in the 2026 Isr | no | +1.4¢ | +0.4¢ | 8 | 50 | 13 | 38% |
-| Time's Person of the Year for 2026 Marco Rubi / Will Marco Rubio be TIME Person of the Year 2 | no | +1.2¢ | +1.1¢ | 11 | 50 | 79 | 5% |
-| Texas State Senate winner? Republican party / Will the Republican Party control the Texas S | no | +1.1¢ | +0.5¢ | 11 | 50 | 20 | 20% |
-| MotoGP World Champion Marco Bezzecchi / Will Marco Bezzecchi win the 2026 MotoGP Worl | no | +1.1¢ | +0.1¢ | 11 | 2 | 47 | 9% |
+| Time's Person of the Year for 2026 Marco Rubi / Will Marco Rubio be TIME Person of the Year 2 | no | +1.2¢ | +1.0¢ | 12 | 50 | 79 | 5% |
+| Texas State Senate winner? Republican party / Will the Republican Party control the Texas S | no | +1.1¢ | +0.5¢ | 12 | 50 | 20 | 20% |
 
 - Fast-check sessions (every 15 sec): none yet
 - Same-site bundles in the last 3 days: 93. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
