@@ -1,33 +1,33 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-15T16:25:12Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-15T17:03:55Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-15T16:25:08Z — 231 of 231 pairs priced
-- Scans in the last 24h: 41 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-15T17:03:52Z — 231 of 231 pairs priced
+- Scans in the last 24h: 42 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-15T13:03:34Z — Kalshi 139232 markets, Polymarket 21824 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 41 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 42 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 76
-- Positive pairs still in play: **45** (confirmed same bet: 0, not yet checked: 42)
-- Scans with at least one positive pair: 41
+- Positive pairs still in play: **46** (confirmed same bet: 0, not yet checked: 43)
+- Scans with at least one positive pair: 42
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +48.6¢ | +48.6¢ | 5 | 50 | 13 | >999% |
-| Midterms: which party wins white women? Repub / Will Republicans win white women in the midte | unsure | +7.0¢ | +3.7¢ | 39 | 50 | 24 | 111% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +48.6¢ | +48.6¢ | 6 | 50 | 13 | >999% |
+| Midterms: which party wins white women? Repub / Will Republicans win white women in the midte | unsure | +7.0¢ | +3.7¢ | 40 | 50 | 24 | 111% |
 | KXRANKLISTGOOGLESEARCHTOP5-26-LIN /  | unsure | +6.3¢ | +5.2¢ | 15 | 50 | 78 | 31% |
 | Arizona State Senate winner? Republican party / Will the Republican Party control the Arizona | unsure | +5.4¢ | +1.3¢ | 10 | 20 | 20 | 103% |
 | Highest temperature in Miami on Oct 15, 2026? / Will the highest temperature in Miami be betw | no | +4.9¢ | +1.3¢ | 12 | 41 | 1 | >999% |
-| How low will the 30-year US Treasury yield ge / Will the 30-year Treasury yield dip below 5.5 | no | +3.7¢ | +1.7¢ | 20 | 50 | 16 | 83% |
-| Israeli legislative election winner? Yashar / Will Yashar win the most seats in the 2026 Is | no | +3.4¢ | +0.4¢ | 19 | 50 | 12 | 102% |
+| How low will the 30-year US Treasury yield ge / Will the 30-year Treasury yield dip below 5.5 | no | +3.7¢ | +1.7¢ | 21 | 50 | 16 | 83% |
+| Israeli legislative election winner? Yashar / Will Yashar win the most seats in the 2026 Is | no | +3.4¢ | +0.4¢ | 20 | 50 | 12 | 102% |
 | Highest temperature in Seattle on Oct 15, 202 / Will the highest temperature in Seattle be be | no | +3.1¢ | +1.8¢ | 8 | 15 | 1 | 882% |
 | Where will it rain on Oct 15, 2026? Washingto / Will it rain in Washington, DC on October 15? | no | +2.4¢ | +1.4¢ | 2 | 3 | 2 | 546% |
 | Top 5 most searched people on Google in 2026  / Will Nicolás Maduro rank in Google’s Top 5 Mo | no | +2.2¢ | +2.2¢ | 6 | 5 | 78 | 11% |
