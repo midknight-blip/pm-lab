@@ -1,15 +1,15 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-15T07:01:55Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-15T07:03:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-15T07:01:52Z — 217 of 221 pairs priced
-- Scans in the last 24h: 27 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-15T00:59:06Z — Kalshi 138593 markets, Polymarket 21014 yes/no markets, 250 matched pairs
+- Last scan: 2026-10-15T06:12:33Z — 218 of 221 pairs priced
+- Scans in the last 24h: 26 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-15T07:03:21Z — Kalshi 133295 markets, Polymarket 21143 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 27 scans so far. A pair counts as positive when buying
 | Copa do Brasil Champion Palmeiras / Will Palmeiras win the 2026 Copa do Brasil? | no | +1.8¢ | +1.8¢ | 26 | 1 | 53 | 12% |
 
 - Fast-check sessions (every 15 sec): 1 run, 10 positive spreads seen; typical one lasted 7200 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 127. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 150. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Central Bank of Colombia decision in October 25 bps increase — 2 outcomes, +4.0¢ per $1
   - polymarket: Pro Football: 2026-27 Last Winless Team Los Angeles Chargers — 3 outcomes, +3.8¢ per $1
-  - polymarket: SC-07 House Election Margin of Victory Republican 20-25% — 4 outcomes, +3.7¢ per $1
-  - polymarket: Sokoto, Nigeria Governor Election Winner Ahmed Aliyu — 4 outcomes, +3.7¢ per $1
-  - polymarket: Next Gemini Pro Model released on...? October 22 — 2 outcomes, +3.7¢ per $1
+  - polymarket: Dancing with the Stars S35: Winner? Ezra Frech — 6 outcomes, +3.8¢ per $1
+  - polymarket: Highest temperature in Chongqing on October 16? 28°C — 6 outcomes, +3.8¢ per $1
+  - polymarket: Highest temperature in Austin on October 16? 70-71°F — 6 outcomes, +3.7¢ per $1
 
 ## Forecast test
 
