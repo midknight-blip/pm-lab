@@ -1,0 +1,14 @@
+{
+ "updated": "2026-10-15T12:04:14Z",
+ "forecasts_made": 10,
+ "awaiting_price": 0,
+ "pending": 10,
+ "void": 0,
+ "all": {
+  "n": 0
+ },
+ "disagree_10pts_plus": {
+  "n": 0
+ },
+ "by_category": {}
+}
