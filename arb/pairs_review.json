@@ -1,4 +1,14 @@
 {
+ "KX2YRDIRLM-26OCT30L-T4.74|5194863": {
+  "checked": "2026-10-15",
+  "note": "Kalshi: below 4.74% Oct 1-30; Polymarket: below 4.73% Oct 2-31. A 4.73% print or an Oct 1 / Oct 31 dip settles them differently.",
+  "status": "different"
+ },
+ "KX5YRDIRLM-26OCT30L-T4.96|5194845": {
+  "checked": "2026-10-15",
+  "note": "Kalshi: below 4.96% Oct 1-30; Polymarket: below 4.95% Oct 2-31. Threshold and window both differ.",
+  "status": "different"
+ },
  "KXCBDSWISS-26DEC10-H25P|4911209": {
   "checked": "2026-10-14",
   "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
@@ -23,6 +33,16 @@
   "checked": "2026-10-14",
   "note": "Kalshi counts only company representatives; Polymarket counts anyone on the call (and some Polymarket terms bundle extra words).",
   "status": "different"
+ },
+ "KXEPLGAME-26OCT18LEEMUN-LEE|5311916": {
+  "checked": "2026-10-15",
+  "note": "Kalshi 'Leeds win' vs Polymarket 'Man Utd win' are not opposites: a draw makes both No.",
+  "status": "different"
+ },
+ "KXEXITPOLL-WHIWOM-REP|4199214": {
+  "checked": "2026-10-15",
+  "note": "Polymarket settles on CNN national House exit poll at noon ET Nov 6 (alphabetical tie-break); Kalshi's shown text names no source or tie rule.",
+  "status": "unsure"
  },
  "KXHIGHDEN-26OCT14-B48.5|5600412": {
   "checked": "2026-10-14",
@@ -147,6 +167,11 @@
  "KXHIGHTDAL-26OCT15-B92.5|5600360": {
   "checked": "2026-10-14",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT15-B92.5|5644679": {
+  "checked": "2026-10-15",
+  "note": "Different stations: Kalshi uses DFW airport (CLIDFW), Polymarket uses Dallas Love Field (KDAL).",
   "status": "different"
  },
  "KXHIGHTDAL-26OCT15-B94.5|5600361": {
@@ -478,6 +503,21 @@
   "checked": "2026-10-14",
   "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
   "status": "different"
+ },
+ "KXRANKLISTGOOGLESEARCHTOP5-26-LIN|4425405": {
+  "checked": "2026-10-15",
+  "note": "Pair dropped out of the matched list; no rules text to compare.",
+  "status": "unsure"
+ },
+ "KXRANKLISTGOOGLESEARCHTOP5-26DEC-BAD|4425406": {
+  "checked": "2026-10-15",
+  "note": "Kalshi uses Google's Global people list; Polymarket uses the United States list.",
+  "status": "different"
+ },
+ "KXSTATELEG-AZSEN26-R|4443406": {
+  "checked": "2026-10-15",
+  "note": "Polymarket has tie rule (Senate President's party) and an 'Other' outcome; Kalshi's excerpt shows neither.",
+  "status": "unsure"
  },
  "KXVPRESNOMR-28-TSCO|561273": {
   "checked": "2026-10-14",
