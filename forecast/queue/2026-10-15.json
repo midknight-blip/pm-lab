@@ -1,0 +1,76 @@
+{
+ "batch": "2026-10-15",
+ "created": "2026-10-15T09:43:25Z",
+ "markets": [
+  {
+   "key": "kalshi:KXFED-26OCT-T4.00",
+   "question": "Fed funds rate after Oct 2026 meeting? \u2014 Above 4.00%",
+   "rules": "If the upper bound of the target federal funds rate published on the Federal Reserve's official website is greater than 4.00% following the Federal Reserve's Oct 28, 2026 meeting, then the market resolves to Yes. This market will expire the first 2:05 PM ET following the release of a Federal Reserve statement for their Oct 28, 2026 meeting or one week following the last day of that meeting.",
+   "close": "2026-10-28T18:05:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXTRUMPMENTION-26OCT16-SUPR",
+   "question": "What will Trump say during his rally in Georgia? \u2014 Supreme Court",
+   "rules": "If \n Donald Trump says Supreme Court as part of Midterm Rally at Dalton, Georgia originally scheduled for October 16, 2026\n, then the market resolves to Yes. How this is resolved\nVideo of the Midterm Rally at Dalton, Georgia originally scheduled for October 16, 2026 using the live broadcast or stream.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the Midterm Rally at Dalton, Georgia originally scheduled for October 16, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nDonald Trump speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified, previously aired content, archival footage, and recordings captured at times, places, or e",
+   "close": "2026-10-30T14:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "kalshi:KXNFLGAME-26OCT18DALGB-DAL",
+   "question": "DAL Cowboys vs GB Packers \u2014 Dallas",
+   "rules": "If Dallas wins the DAL Cowboys vs GB Packers Pro Football game originally scheduled for Oct 18, 2026, then the market resolves to Yes. The following market refers to the team who wins the DAL Cowboys vs GB Packers Pro Football game originally scheduled for Oct 18, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-10-19T03:20:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXCAELECTION-2607-DMAT",
+   "question": "CA-07 House winner? \u2014 Doris Matsui",
+   "rules": "If Doris Matsui wins the 2026 CA-07 House election, then the market resolves to Yes. This market is eligible for accelerated determination after a consensus of media organizations project the winner. See full rules for details.",
+   "close": "2026-11-03T19:00:00Z",
+   "category": "elections"
+  },
+  {
+   "key": "kalshi:KXRT-YOUC-96",
+   "question": "You Can See Everything \u00b7 Rotten Tomatoes score \u2014 Above 96",
+   "rules": "If You Can See Everything has a Tomatometer score of above 96 on Oct 19, 2026 at 10:00 AM ET, then the market resolves to Yes. The \"Fresh!\" and \"Certified Fresh!\" subtitles are meant for illustrative purposes only. The Tomatometer score must be above the strike value to resolve as YES (for example, a score of 75 would resolve \"Above 75\" as No.) The market will be determined the Monday after wide release at 10:00 AM ET.\n\nThis market and these products have not been endorsed by Rotten Tomatoes. Any references to Rotten Tomatoes or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between Rotten Tomatoes and Kalshi.",
+   "close": "2026-10-19T14:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "poly:5611042",
+   "question": "Will oil be below $80 on November 2 and the Republicans win the Senate?",
+   "rules": "This market will resolve to \"Oil < $80; R Senate\" if oil is less than $80 at the close of trading on November 2, 2026, and the Republican Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil < $80; D Senate\" if oil is less than $80 at the close of trading on November 2, 2026, and the Democratic Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil \u2265 $80; R Senate\" if oil is greater than or equal to $80 at the close of trading on November 2, 2026, and the Republican Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil \u2265 $80; D Senate\" if oil is greater than or equal to $80 at the close of trading on November 2, 2026, and the Democratic Party wins control of the United States Senate in the 2026 United States midterm election.\n\nOil price: The oil price component will be determined based on the Close price for the Active Month of ICE Futures Europe WTI Crude Futures (denoted by Pyth as \"CLL\") for the November 2, 2026 trading day.\n\nFor a standard full trading session, the clo",
+   "close": "2026-11-04T04:59:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "poly:5593519",
+   "question": "Will Bitcoin dip to $78,000 October 12-18?",
+   "rules": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for Bitcoin (BTC/USDT) during the date range specified in the title (from 12:00 AM ET on the first date to 11:59 PM ET on the last) has a final \"Low\" price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Low\" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-10-19T04:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXCOORSLIGHTPOS-26NOV03-T90",
+   "question": "Coors Light Point of Sale Growth in October \u2014 Above 90",
+   "rules": "If the Carbon Arc Coors Light Point of Sale Growth (October 2026) for October 2026 is above 90 , then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 2nd calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 2nd.\n\nThe index measures year-over-year change, where 100 means Coors Light Point of Sale Growth was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% more spend than year prior, 97 = 3% decline from year prior. The index is measured by Carbon Arc's point-of-sale receipt panel using in-store and online purchases captured via receipt-scanning and rewards apps, matched to the same period of the prior year. The panel updates daily as new data arrives.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-10T06:30:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "poly:4118937",
+   "question": "Russia-Ukraine peace talks by October 31, 2026?",
+   "rules": "This market will resolve to \"Yes\" if there is a diplomatic meeting between representatives of Russia and Ukraine aimed at discussing a ceasefire, peace agreement, or other substantive de-escalation of the ongoing conflict by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting refers to a deliberate meeting between representatives of the listed countries who are acting in an official capacity and are authorized to engage in negotiation or diplomacy regarding Russia-Ukraine relations on behalf of their governments. Meetings conducted indirectly, for example, through designated mediators, facilitators, or interlocutors acting with the knowledge and authorization of the relevant governments, will qualify. \n\nMeetings or talks limited to humanitarian issues will not qualify unless they also include substantive negotiation regarding broader Russia-Ukraine peace terms, such as a ceasefire, peace agreement, territorial issues, security guarantees, or similar.\n\nBrief greetings, chance encounters, or talks otherwise not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetin",
+   "close": "2026-10-31T23:59:00Z",
+   "category": "other"
+  },
+  {
+   "key": "kalshi:KXRAIN-26OCT16-DAL",
+   "question": "Where will it rain on Oct 16, 2026? \u2014 Dallas",
+   "rules": "If the total precipitation at CLIDFW in Dallas in Oct 16, 2026 is strictly greater than 0 inches, then the market resolves to Yes. Not all weather data is the same. While checking a source like AccuWeather or Google Weather may help guide your decision, the official and final value used to determine this market as reported by the Weather Company.\n\nReading weather data\nData for CLIDFW can be found at https://weather.com/kalshi.\n\u201cTrace\u201d amounts (T) and missing daily precipitation values are counted as 0 inches. ",
+   "close": "2026-10-18T03:59:59Z",
+   "category": "climate and weather"
+  }
+ ]
+}
