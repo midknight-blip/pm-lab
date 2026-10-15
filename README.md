@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-15T12:57:28Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-15T13:03:35Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-15T12:57:25Z — 224 of 224 pairs priced
 - Scans in the last 24h: 36 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-15T07:03:21Z — Kalshi 133295 markets, Polymarket 21143 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-15T13:03:34Z — Kalshi 139232 markets, Polymarket 21824 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 36 scans so far. A pair counts as positive when buying
 | Highest temperature in Miami on Oct 15, 2026? / Will the highest temperature in Miami be betw | no | +2.1¢ | +0.2¢ | 7 | 37 | 1 | 584% |
 
 - Fast-check sessions (every 15 sec): 1 run, 10 positive spreads seen; typical one lasted 7200 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 150. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 185. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: NM-03 House Election Margin of Victory Democrat 20-25% — 2 outcomes, +4.0¢ per $1
+  - polymarket: Third-best AI Lab end of December? Alibaba — 18 outcomes, +4.0¢ per $1
   - polymarket: Central Bank of Colombia decision in October 25 bps increase — 2 outcomes, +4.0¢ per $1
+  - polymarket: Borno, Nigeria Governor Election Winner Babagana Buhari — 3 outcomes, +4.0¢ per $1
   - polymarket: Pro Football: 2026-27 Last Winless Team Los Angeles Chargers — 3 outcomes, +3.8¢ per $1
-  - polymarket: Dancing with the Stars S35: Winner? Ezra Frech — 6 outcomes, +3.8¢ per $1
-  - polymarket: Highest temperature in Chongqing on October 16? 28°C — 6 outcomes, +3.8¢ per $1
-  - polymarket: Highest temperature in Austin on October 16? 70-71°F — 6 outcomes, +3.7¢ per $1
 
 ## Forecast test
 

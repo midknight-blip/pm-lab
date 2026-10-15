@@ -118,3 +118,73 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-15T07:00:17Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Babagana Buhari",3,0.961,0.0099,0.0291,,2027-02-07T04:59:00Z
 2026-10-15T07:00:17Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner Mansoor Delane,8,0.951,0.0375,0.0115,,2027-03-01T04:59:00Z
 2026-10-15T07:00:17Z,polymarket,0xaf5e899ef9d5a573cfaf7c9a21ba42f74862adecfef28f46684112a21a0db100,Pro Football: 2026-27 AP Comeback Player of the Year Winner Michael Penix Jr.,6,0.943,0.0213,0.0357,,2027-03-01T04:59:00Z
+2026-10-15T13:00:18Z,kalshi,KXNFLSTAGEOFELIM-27DET,Detroit: Stage of Elimination,6,0.94,0.052,0.008,5.0,2027-02-28T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,KXHOUSERACE-NM01-26,NM-01 House winner?,2,0.986,0.005,0.009,100.0,2027-01-04T17:00:00Z
+2026-10-15T13:00:18Z,kalshi,HOUSEOH13-26,OH-13 House winner?,2,0.975,0.004,0.021,50.0,2027-01-04T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,HOUSECA47-26,CA-47 House winner?,2,0.979,0.004,0.017,5.83,2027-01-04T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,HOUSECA3-26,CA-03 House winner?,2,0.978,0.006,0.016,0.78,2027-01-04T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,KXCRITICSHAIR-27,Critics Choice Awards: Best Hair and Makeup,16,0.92,0.06,0.02,5.0,2027-01-03T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,KXCRITICSCOM-27,Critics Choice Awards: Best Comedy,16,0.92,0.063,0.017,1.0,2027-01-03T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,KXMLBNLCSMVP-26,NLCS MVP Winner,19,0.931,0.058,0.011,1.0,2026-12-31T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,KXTOPALBUM-26OCT31,"#1 on the Billboard 200 chart for the Week of Oct 31, 2026?",15,0.99,0.001,0.009,0.0,2026-11-04T14:00:00Z
+2026-10-15T13:00:18Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.98,0.013,0.007,25.0,2026-11-03T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.015,0.015,200.0,2026-11-03T15:00:00Z
+2026-10-15T13:00:18Z,kalshi,KXDTEMMYS-COURTROOM26,Daytime Emmy Awards: Outstanding Legal / Courtroom Series,5,0.92,0.054,0.026,5.0,2026-10-31T17:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xa3fb24b23d5af9494cfaa5cdf2e0d40c86b9ddaddf338e06ae005a8d90b98000,"""You Can See Everything"" Opening Weekend Box Office 7m+",2,0.98,0.0113,0.0087,,2026-10-18T12:00:00Z
+2026-10-15T13:00:18Z,polymarket,0x7ebfa4af1869e542cf4e9aeb78fae8f70dd918fb8aee78f9ff2ede8e45f02b00,Highest temperature in Sao Paulo on October 16? 27°C,8,0.952,0.0338,0.0142,,2026-10-16T12:00:00Z
+2026-10-15T13:00:18Z,polymarket,0xaad8b32f1ed2b1c4a687ef67a1d0048767ce6b820b6b7fad06c874afc6bd0700,Highest temperature in Miami on October 16? 88-89°F,3,0.957,0.0241,0.0189,,2026-10-16T12:00:00Z
+2026-10-15T13:00:18Z,polymarket,0x83d050c679078cab704493b708fef5f27c602011be8e78bb856273f17c011100,Highest temperature in Amsterdam on October 17? 15°C,2,0.96,0.0245,0.0155,,2026-10-17T12:00:00Z
+2026-10-15T13:00:18Z,polymarket,0x2f1bf96071f9e976cfea5d9856204332126b36220f66298ad31a154e27da0e00,Lowest temperature in London on October 15? 17°C,2,0.991,0.0006,0.0085,,2026-10-15T12:00:00Z
+2026-10-15T13:00:18Z,polymarket,0xc02714104ffbe4d93682747dd219ab3350577fe8839d148ae105ee62b77d0100,FC Internazionale Milano vs. FK Shakhtar Donetsk FC Internazionale Milano,2,0.95,0.013,0.037,,2026-10-21T19:00:00Z
+2026-10-15T13:00:18Z,polymarket,0x4a199ad8eb8624934a11e3c57ffb1e79493d593fb8ec8449bd4cd82ae337fa00,"Greater Sudbury, ON Mayoral Election Winner Paul Lefebvre",2,0.987,0.0007,0.0123,,2026-10-27T03:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x03c9c6d9f7b20aaa1f33f99bd24bd16e4e0e00cfa892dde097b800655490b200,Prime Minister of Israel after the next election? Benjamin Netanyahu,18,0.991,0.0,0.009,,2026-10-28T03:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x05b05f89d96db9b8e63b5fbeed68083469f02c35300b6ba5de11817b446e3600,Central Bank of Colombia decision in October 25 bps increase,2,0.95,0.0207,0.0293,,2026-10-30T00:00:00Z
+2026-10-15T13:00:18Z,polymarket,0x5671a4f7557a43e9cd3b9601331a7a550be4d5102d96281b2d9a3d856981d600,Which company has the best Code Arena WebDev AI model end of October? Anthropic,3,0.976,0.0095,0.0145,,2026-11-01T03:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x2aded62fda37dc954519ea91feac246edae8f2551e60a08dc7de214d52409700,ISM Manufacturing PMI - October 2026 53.0 to 53.9,4,0.95,0.036,0.014,,2026-11-02T06:00:00Z
+2026-10-15T13:00:18Z,polymarket,0xeff2b3f8bd3f12c1511b27a86f3d7354c9397e4609ec39bb550a73f619fd0100,Reserve Bank of New Zealand decision in October? No change,2,0.97,0.0248,0.0052,,2026-10-28T00:00:00Z
+2026-10-15T13:00:18Z,polymarket,0x690bae24a65586988dbb168edf6ad1fee9572194ccb913412fb3f675bc7c1000,SSV Jeddeloh II vs. Hertha BSC Hertha BSC,2,0.962,0.0057,0.0323,,2026-10-28T17:00:00Z
+2026-10-15T13:00:18Z,polymarket,0x942f7abf5bf04e74fea4bcd05b20799d4ff58fa06b6056dbaadfee2517583b00,Second-best Code Arena WebDev AI Lab end of October? Anthropic,2,0.955,0.0106,0.0344,,2026-11-01T03:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xae833d7dcf06716119d1e26e54d70e09a15225c8dd90d5fbb924fb75d567d400,3rd largest private company end of October? ByteDance,2,0.989,0.0041,0.0069,,2026-11-01T03:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x5b07837c34e028a7d4dedebcce534fa47a822743fb10483afe28b536c0a9ab00,OH-14 House Election Winner Maria Jukic (D),2,0.981,0.0021,0.0169,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x16a7cb4dd98759e3bd562a7a3b62ee52150e05e4cb96c8ecdd59c95d36010b00,NC-08 House Election Winner Colby Watson (D),2,0.987,0.0036,0.0095,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x6911f3e8de770d76862ef419c77a8e8c458a98256bd6bcd4cd129ab270e8df00,WI-05 House Election Winner Scott Fitzgerald (R),2,0.987,0.0024,0.0106,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x93495273027fa4e83806a2f202e472771a1ad1570aa760af76da5a996cb3e600,Which party will win white women in the midterms? Democrats,2,0.97,0.0144,0.0156,,2026-11-07T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x9ff30495ad8e9bc59ade6623a4aad4e56e8ba504cfcb876307e237ac6b416100,MI-12 House Election Margin of Victory Democrat 45-50%,5,0.962,0.029,0.009,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xf05159b8a6346b397037461e8f5ae6540fef4afc91465574f12b321be3de7c00,MN-05 House Election Margin of Victory Democrat 65-70%,4,0.953,0.0247,0.0223,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x714ce617059dbcbe4bab504d139bf3b965a49443676be210753155f99eb6be00,MI-13 House Election Winner T.P. Nykoriak (R),2,0.99,0.0006,0.0094,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xfa8946a8b2ce7d90dcf4e8977f6a694023da7aae9c0ff47789fc081d7fa6f200,"Minnesota Senate and Governor Combo Dems win Gov, Reps win Senate",3,0.957,0.0071,0.0359,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x883746bf9f146d57efec96a2e80c650491af8042d7e9ddc29f183e6dd3734800,TX-25 House Election Winner Roger Williams (R),2,0.984,0.0029,0.0131,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xe748adcea84e6a52c764f0fd521a4d6080a22958b75d68ae2774984b138a6a00,OK-03 House Election Margin of Victory Republican 45-50%,5,0.941,0.0293,0.0297,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x502ddea34b71f432daed64099333e7310acc29c41ba196846c8f1a221bbf8c00,Kansas Senate Election: Turnout 1.1M-1.2M,3,0.97,0.0235,0.0065,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xb9459a8a08bf176d5354c4cac32668fb1d988ad02434d59c38eb3ddc62c86c00,Texas Senate Election: Collin County Winner James Talarico (D),2,0.96,0.0157,0.0243,,2026-11-03T23:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x888ff862d0cd1e5806c38ba37c69599897e66a970d8426cc3b900ef7f3705200,SC-07 House Election Margin of Victory Republican 20-25%,3,0.966,0.026,0.008,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x7d8238fcb19697b8246345dcfcccb1d5b7251c6fa91d00d17dc6a12345058300,CT-01 House Election Margin of Victory Democrat 35-40%,3,0.969,0.0236,0.0074,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x00c3f0cf89942d4db70421cd1720f55f2023ccca9559869d58265a23c3301900,CA-06 House Election Winner Republican Party,2,0.971,0.0034,0.0256,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x1f849e574c6dc19f582ad5d0197bb207fa25e19c896151ec6b39bcf2ec640400,GA-11 House Election Winner John Cowan (R),2,0.983,0.0021,0.0149,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x664a0ad15a485f7167d58ca6e36f3756f6b658a32e02822d5b07fcc213be5800,Texas Senate Election: Denton County Winner James Talarico (D),2,0.96,0.0195,0.0205,,2026-11-03T23:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x8b1f12778a3903f77fd2d1f3b622f7f97a27d514f913479d1337a1fcb75a2a00,Next Mayor of Cape Town? Ernest Theron,2,0.985,0.004,0.011,,2026-11-05T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x51dcce53be2796ebaeec277b473bf4a29fd027c86a552fd46e3d256de2557600,NM-03 House Election Margin of Victory Democrat 20-25%,2,0.943,0.017,0.04,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xeefd83cfcdef2c5f005d8796dc71cda1f84a3e6ee7cc24572837c9b3a13cf900,NY-10 House Election Margin of Victory Democrat 65-70%,3,0.95,0.025,0.025,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x8479000e5de7c1d4cc567a9f0fb6cbaa71a3cdd820df5030d44a15c796a09800,Oregon Senate Election: Turnout 2.2M+,4,0.946,0.026,0.028,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xabc3b26cf74f39d6d85de2744031123a17bcca5b0655ac5890fca135b7246800,Which party will win Latino men in the midterms? Democrats,2,0.97,0.012,0.018,,2026-11-07T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xc9e968dc310e7475290dc04af6a7d60785aacdc1dae58f0398f53568c2287d00,New York Governor Election: Nassau County Winner Kathy Hochul (D),2,0.96,0.0192,0.0208,,2026-11-03T23:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x7cec4e8fb513de6fb26bf7e16c27a4c9ad37f5690da890aa775934fd08bc0000,TX-26 House Election Winner Steven Shook (D),2,0.981,0.0027,0.0163,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xcf6cb2859c391d552010970cc7425f0408fa59de143ec36d8a1a449df2330600,FL-02 House Election Margin of Victory Republican 10-15%,4,0.959,0.0284,0.0126,,2026-11-04T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x7eac04d8edc7adbcf34a1abe2cb8a9fb292ee926feaaff64b1c2bcb905111e00,MLB: 2026 AL Hank Aaron Winner Ben Rice,4,0.991,0.0006,0.0084,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xb4911383f8e6d69e82f53d8946cf9020164ccb326c2fc08463d7e2897fc65500,Next Mayor of Johannesburg? Helen Zille,8,0.958,0.0267,0.0153,,2026-11-17T23:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xe157222084e16eb8db236f63d284a8da922382017e1d6cf6704be4eac3057b00,Yunlin County Magistrate Election Winner Liu Chien-kuo,2,0.98,0.0107,0.0093,,2026-11-29T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.966,0.0029,0.0311,,2026-12-19T00:00:00Z
+2026-10-15T13:00:18Z,polymarket,0x37f30a5f57a58379105596977171312d17f049340c17583cbff1eab08e7e0e00,MLB: AL Comeback Player of the Year Royce Lewis,2,0.979,0.0039,0.0171,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x45ec1f7704d0ddd047e70443e830028d8801671283883ad1b46a29659488b600,Venezuela leader end of 2026? Nicolás Maduro,9,0.973,0.0176,0.0094,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x2a4a952b6008b8b88d0cfd0a62c522c69f993f5d3da13da94dd3a408cd9ed200,Where will Zelenskyy and Putin meet next before 2027? Saudi Arabia,7,0.983,0.0,0.017,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x60840607f1f408f7b14dc9b95f1b43582e77b7b8400fc901f9471ad8aba3b800,Where will Trump and Putin meet next in 2026? China,6,0.992,0.0,0.008,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,10,0.98,0.0,0.02,,2026-12-31T17:00:00Z
+2026-10-15T13:00:18Z,polymarket,0xf3ea0a148d7db7aab552886bddd6f5c079bfcd103e02745036ce51b70b711700,Amazon’s Market Cap end of 2026? $2.00-$2.50T,3,0.96,0.025,0.015,,2026-12-31T23:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.958,0.0055,0.0365,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Larry Page",3,0.983,0.0014,0.0156,,2027-01-03T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x44bd07117f65bede325cefbe62f51dc59a221e5e473afc2da2962d73edc7ba00,Second-Best Chinese AI Company end of December? Xiaomi,5,0.939,0.0298,0.0312,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xcc0cde288c886a081cfed6c17d3f8433c6cdfb2275987c28da2e5b1fd2e22300,#2 AI Lab end of December? (Style Control On) Google,5,0.966,0.0267,0.0074,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xc6fda46eb47fed35b13868c4b244f1b123ec37b5fce11f8d73dc4463054f1a00,Third-best AI Lab end of December? Alibaba,18,0.928,0.0321,0.0399,,2027-01-01T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.96,0.0113,0.0287,,2027-02-07T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Babagana Buhari",3,0.951,0.0095,0.0395,,2027-02-07T04:59:00Z
+2026-10-15T13:00:18Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner Mansoor Delane,8,0.957,0.0375,0.0055,,2027-03-01T04:59:00Z
