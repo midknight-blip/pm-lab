@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-15T00:25:05Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-15T00:59:06Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-15T00:25:02Z — 204 of 215 pairs priced
 - Scans in the last 24h: 16 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-14T18:59:20Z — Kalshi 132892 markets, Polymarket 20699 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-15T00:59:06Z — Kalshi 138593 markets, Polymarket 21014 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -22,7 +22,7 @@ Running since 2026-10-14. 16 scans so far. A pair counts as positive when buying
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | Midterms: which party wins white women? Repub / Will Republicans win white women in the midte | no | +7.0¢ | +4.4¢ | 14 | 50 | 25 | 111% |
-| Top 5 most searched people on Google in 2026  / Will Lindsay Clancy rank in Google’s Top 5 Mo | no | +6.3¢ | +5.2¢ | 15 | 50 | 78 | 31% |
+| KXRANKLISTGOOGLESEARCHTOP5-26-LIN /  | no | +6.3¢ | +5.2¢ | 15 | 50 | 78 | 31% |
 | Arizona State Senate winner? Republican party / Will the Republican Party control the Arizona | no | +5.4¢ | +5.4¢ | 3 | 20 | 20 | 103% |
 | Top 5 most searched people on Google in 2026  / Will Bad Bunny rank in Google’s Top 5 Most Se | no | +4.1¢ | +2.1¢ | 2 | 13 | 78 | 20% |
 | Israeli legislative election winner? Yashar / Will Yashar win the most seats in the 2026 Is | no | +2.4¢ | +2.4¢ | 5 | 50 | 13 | 67% |
@@ -33,12 +33,12 @@ Running since 2026-10-14. 16 scans so far. A pair counts as positive when buying
 | Time's Person of the Year for 2026 Marco Rubi / Will Marco Rubio be TIME Person of the Year 2 | no | +1.2¢ | +0.6¢ | 15 | 50 | 79 | 5% |
 
 - Fast-check sessions (every 15 sec): none yet
-- Same-site bundles in the last 3 days: 93. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 127. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Central Bank of Colombia decision in October 25 bps increase — 2 outcomes, +4.0¢ per $1
   - polymarket: Pro Football: 2026-27 Last Winless Team Los Angeles Chargers — 3 outcomes, +3.8¢ per $1
+  - polymarket: SC-07 House Election Margin of Victory Republican 20-25% — 4 outcomes, +3.7¢ per $1
   - polymarket: Sokoto, Nigeria Governor Election Winner Ahmed Aliyu — 4 outcomes, +3.7¢ per $1
-  - polymarket: IA-01 House Election Margin of Victory Republican 0-3% — 8 outcomes, +3.6¢ per $1
-  - kalshi: Arizona State Senate winner? — 2 outcomes, +3.6¢ per $1
+  - polymarket: Next Gemini Pro Model released on...? October 22 — 2 outcomes, +3.7¢ per $1
 
 ## Forecast test
 
