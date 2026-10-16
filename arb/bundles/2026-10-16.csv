@@ -67,3 +67,63 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-16T00:55:21Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
 2026-10-16T00:55:21Z,polymarket,0x28484821fd1a90e7771c219554c94cd0c147dc3594b030ddacc8c7c732448100,"Gombe, Nigeria Governor Election Winner Isa Ali Ibrahim Pantami",2,0.95,0.0189,0.0311,,2027-02-07T04:59:00Z
 2026-10-16T00:55:21Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Babagana Buhari",3,0.97,0.0107,0.0193,,2027-02-07T04:59:00Z
+2026-10-16T06:59:45Z,kalshi,KXNFLSTAGEOFELIM-27DET,Detroit: Stage of Elimination,6,0.91,0.05,0.04,5.66,2027-02-28T15:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXATTYGENCT-26,Connecticut Attorney General winner?,2,0.988,0.005,0.007,2376.01,2027-01-10T15:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXHOUSERACE-NM01-26,NM-01 House winner?,2,0.986,0.005,0.009,100.0,2027-01-04T17:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXHOUSERACE-FL11-26,FL-11 House winner?,2,0.978,0.015,0.007,26.0,2027-01-04T17:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXCRITICSHAIR-27,Critics Choice Awards: Best Hair and Makeup,16,0.92,0.06,0.02,48.0,2027-01-03T15:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXATTYGENND-26,North Dakota Attorney General winner?,2,0.984,0.005,0.011,5226.01,2026-12-16T15:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.97,0.013,0.017,3653.0,2026-11-03T15:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXSTATELEG-GASEN26,Georgia State Senate winner?,2,0.97,0.017,0.013,2506.9,2026-11-03T15:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.015,0.015,7.0,2026-11-03T15:00:00Z
+2026-10-16T06:59:45Z,kalshi,KXDTEMMYS-COURTROOM26,Daytime Emmy Awards: Outstanding Legal / Courtroom Series,5,0.94,0.054,0.006,74.96,2026-10-31T17:59:00Z
+2026-10-16T06:59:45Z,kalshi,KXTOPMODEL-26OCT19,Top AI model this week,3,0.97,0.007,0.023,3464.47,2026-10-19T14:00:00Z
+2026-10-16T06:59:45Z,polymarket,0x43f98744aa4a1cca0f3db7c2946837fee4c22fd152301af1d416edd585064300,SpaceX (SPCX) closes week of Oct 12 at ___? <$140,5,0.953,0.0291,0.0179,,2026-10-16T20:00:00Z
+2026-10-16T06:59:45Z,polymarket,0x87ad0902d25f855a7c2acdabfb092219675fa0d362be229916916e5b0b557200,Highest temperature in Chongqing on October 17? 25°C,5,0.942,0.0344,0.0236,,2026-10-17T12:00:00Z
+2026-10-16T06:59:45Z,polymarket,0x05d83baac0ef6544ea7a37bd2770cdc74a10226fc6aafcf7472ba84189615400,Highest temperature in Miami on October 17? 86-87°F,3,0.94,0.0311,0.0289,,2026-10-17T12:00:00Z
+2026-10-16T06:59:45Z,polymarket,0x8b68b4144b2b3481b3c27c27754bb129431cb1979d340bd672be033cbf535100,Next Fable Model (5.2+) released on...? October 20,10,0.96,0.0314,0.0086,,2026-11-01T03:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xbdd93a8601aa430760d3c66d181da816ff74c2f7b68e79567617c1cdef5abf00,Highest temperature in Dallas on October 17? 64-65°F,3,0.96,0.0265,0.0135,,2026-10-17T12:00:00Z
+2026-10-16T06:59:45Z,polymarket,0x70bc3031c212edced57a0bf51e34ef922869be472e775308841d76b8691e8300,VALORANT Champions 2026: Winner Team Vitality,3,0.96,0.0323,0.0078,,2026-10-20T03:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x8603e27c2bf7d4c224e3d725b5a0c49b0406d2ce932aa9ebe19dae9515d04700,Solana price on October 16? 90-100,2,0.962,0.0055,0.0325,,2026-10-16T16:00:00Z
+2026-10-16T06:59:45Z,polymarket,0xc62f8716f71a2d199ed9538c5ea0a36e0816b83a6fec35ad38ae6feb66515200,Highest temperature in Atlanta on October 17? 66-67°F,5,0.951,0.028,0.021,,2026-10-17T12:00:00Z
+2026-10-16T06:59:45Z,polymarket,0x4b8c969f25f6eefe0f47ab9174e0cb16cef71c3e5b0399aeda5cceae8e125a00,Next Prime Minister of Serbia? Aleksandar Vučić,3,0.955,0.0166,0.0284,,2026-10-25T23:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xb6afb65a8f78c1cfc09915277e56797afa1e1361dbaff7acd494e2b540030600,"NYC Mayor # posts October 16 - October 23, 2026? 20-39",2,0.97,0.0024,0.0276,,2026-10-23T16:00:00Z
+2026-10-16T06:59:45Z,polymarket,0x7c914dffe0541f9ff5994520913003853fbc18df07c4a4bde67636a1a2c93000,September Inflation UK - Annual 3.1-3.3%,3,0.944,0.0261,0.0299,,2026-10-21T11:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xbaca5b31626f156de1c9b7b78b93cf69d5d7074ad85d20719f5edc8f38adca00,Israel Election: Yisrael Beiteinu # of seats? <6,3,0.95,0.0231,0.0269,,2026-11-30T23:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x58afd05696c70ccf81b7593692ab20591a70ecdf8fd5398fd513cf8bd57d5400,Poprad Mayoral Election Winner Mikuláš Bobák,2,0.961,0.0084,0.0306,,2026-10-25T03:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x340544a2b8ebfbe29757514600645d4deb199a30866875aa654b474518b6c500,"""Wildwood"" Opening Weekend Box Office 18m+",2,0.94,0.0249,0.0351,,2026-10-25T12:00:00Z
+2026-10-16T06:59:45Z,polymarket,0x08920e8960959f0085078bbdd49b5e0094e15c3695ce7f0a269965cb9af21d00,Israel Election: Yisrael Beiteinu vote share? 8%+,3,0.974,0.0209,0.0051,,2026-10-27T23:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x489d05246a3ba94bd10189c55bc3843e1ef165444975ac2de244fc2a490e7800,FL-18 House Election Winner Curtis Gibson (D),2,0.98,0.0045,0.0155,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xffda4e12af88649b9b7b1a2e179d6d2a81f660b9faf0b90e7fda1367c5737a00,TN-04 House Election Winner Scott DesJarlais (R),2,0.978,0.0022,0.0198,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xac9c288b7fbffd26130713984e49817c4aeb06df722a115b930b3f826e4d0500,Third-best Text Arena Math AI Lab end of October? Xiaomi,5,0.941,0.0252,0.0338,,2026-11-01T03:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x5671a4f7557a43e9cd3b9601331a7a550be4d5102d96281b2d9a3d856981d600,Which company has the best Code Arena WebDev AI model end of October? Anthropic,2,0.985,0.008,0.007,,2026-11-01T03:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x32b7a53ab0ab6bcfd13a818bab189e105a93bb172dc43fcfb76a23856fb40000,Which party will win the Minnesota State Senate in 2026? Democratic Party,2,0.96,0.009,0.031,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xd2b9f673add4cc4aed236d9a329f41e746c716da2da818bbece52754b0ded600,Michigan Senate Election: Macomb County Winner Mike Rogers (R),2,0.95,0.018,0.032,,2026-11-03T23:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x5b07837c34e028a7d4dedebcce534fa47a822743fb10483afe28b536c0a9ab00,OH-14 House Election Winner Maria Jukic (D),2,0.981,0.0021,0.0169,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x35baa69cbd61926779f7c4b1b249a1499ba2c468b4947c6a4b11005b9215ba00,NBA Free Agency: Russell Westbrook Next Team Sacramento Kings,10,0.968,0.025,0.007,,2026-11-01T03:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x5149edbf6ae1af5b241c30206e61f800ce5bb4a28cb95360d504089661135e00,Ohio Senate Election: Mahoning County Winner Jon Husted (R),2,0.97,0.0191,0.0109,,2026-11-03T23:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x883746bf9f146d57efec96a2e80c650491af8042d7e9ddc29f183e6dd3734800,TX-25 House Election Winner Roger Williams (R),2,0.985,0.0029,0.0121,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x7bfe62db4dad4342c6243a23405e3472b2dfdf442f1dbfcb324262c4e2ad7900,NY-15 House Election Margin of Victory Democrat 65-70%,4,0.935,0.0278,0.0372,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x1a99c06b36e29f61bca9e85bacc03fe8c09c520b3c44281cf811125224b39500,TX-36 House Election Margin of Victory Republican 10-15%,5,0.96,0.0289,0.0111,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xfa8946a8b2ce7d90dcf4e8977f6a694023da7aae9c0ff47789fc081d7fa6f200,"Minnesota Senate and Governor Combo Dems win Gov, Reps win Senate",2,0.955,0.007,0.038,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xa338f14cb92c41afe9dad42e1832c016d347f5c00aa565df20d62836f58c1c00,OH-13 House Election Winner Carey Coleman (R),2,0.985,0.002,0.013,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x95434c6b6f9ae0982c4ac265afff086aa296ded275136ed5b3ecc424a8630a00,RI-02 House Election Winner Victor Mellor (R),2,0.982,0.0051,0.0129,,2026-11-04T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x93495273027fa4e83806a2f202e472771a1ad1570aa760af76da5a996cb3e600,Which party will win white women in the midterms? Democrats,2,0.96,0.0141,0.0259,,2026-11-07T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xabc3b26cf74f39d6d85de2744031123a17bcca5b0655ac5890fca135b7246800,Which party will win Latino men in the midterms? Republicans,2,0.97,0.012,0.018,,2026-11-07T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x00b0169ffac1fe23a505187c94ec5cf84487eff6983cd61641a9d230c9365d00,Which party will win white voters in the Texas Senate election? Republicans,2,0.967,0.0061,0.0269,,2026-11-07T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x9f5ab73c85b2367ba616b677dec7e10ee2f19bd24b304e88372452d56195f400,Which G2 Esports player will have the most kills at VALORANT Champions 2026? jawgemo,5,0.954,0.0338,0.0122,,2026-11-18T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xa4193a606756908a48e30602c155adb3fa680628d534aaca3bd836ae67328b00,MLB: 2026 NL Hank Aaron Winner Sal Stewart,3,0.992,0.0004,0.0076,,2027-01-01T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x7eac04d8edc7adbcf34a1abe2cb8a9fb292ee926feaaff64b1c2bcb905111e00,MLB: 2026 AL Hank Aaron Winner Ben Rice,5,0.991,0.001,0.008,,2027-01-01T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xa2a6a1f7c0fcf22abb0f18b3b9e26eca7cdcfa396eb1d96b4f9723762d5d6300,Which company has #1 AI model end of November? (Style Control On) Anthropic,21,0.944,0.024,0.0319,,2026-12-01T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xe157222084e16eb8db236f63d284a8da922382017e1d6cf6704be4eac3057b00,Yunlin County Magistrate Election Winner Liu Chien-kuo,2,0.96,0.0107,0.0293,,2026-11-29T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.98,0.0096,0.0104,,2026-11-29T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xaf518be13a3a16a4fab78fc3c35ea86a853a522686c483d9c002bfa92f1d6400,Esports Awards 2026: Esports Commercial Partner of the Year Pulsar,11,0.933,0.0346,0.0324,,2026-12-15T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xdcd7daabcacdc4ecf4f9a48d0a2708b52f356dd086c8070992136da62eb72b00,How many Fed rate cuts in 2026? 1 (25 bps),7,0.991,0.0026,0.0064,,2027-01-01T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",3,0.984,0.002,0.0141,,2027-01-01T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x23f22a07cdf0289e4bd88261329ef6841128d4d53ae3bf303dcfc7463b22da00,Oura IPO Closing Market Cap $20B+,3,0.979,0.0031,0.0179,,2027-01-01T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Justin Gaethje,2,0.955,0.0053,0.0397,,2027-01-01T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x2a4a952b6008b8b88d0cfd0a62c522c69f993f5d3da13da94dd3a408cd9ed200,Where will Zelenskyy and Putin meet next before 2027? No meeting before 2027,6,0.978,0.0,0.022,,2027-01-01T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Bola Tinubu,5,0.97,0.0151,0.0149,,2027-01-17T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x90b76298028604e4cc48f56853826f09547f2ca80e810d70fc3b4f41eeb7bc00,AFC Asian Cup 2027: Group F Winner Japan,4,0.96,0.0202,0.0199,,2027-02-06T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
+2026-10-16T06:59:45Z,polymarket,0x075618cfcad2bfd274613928669f336a9ce9ae3b28128131b0e4eaa1fa5f6b00,#1 Searched Passing on Google in the US 2026? Dolly Parton,24,0.941,0.0277,0.0313,,2027-04-01T03:59:00Z

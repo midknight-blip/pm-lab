@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-16T06:32:31Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-16T07:02:44Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-16T06:32:28Z — 231 of 233 pairs priced
-- Scans in the last 24h: 40 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-16T00:58:13Z — Kalshi 145547 markets, Polymarket 21248 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 39 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-16T07:02:43Z — Kalshi 139015 markets, Polymarket 20808 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 66 scans so far. A pair counts as positive when buying
 | Highest temperature in San Francisco on Oct 1 / Will the highest temperature in San Francisco | no | +11.4¢ | +5.2¢ | 15 | 50 | 2 | >999% |
 
 - Fast-check sessions (every 15 sec): 1 run, 10 positive spreads seen; typical one lasted 7200 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 248. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 272. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - kalshi: Detroit: Stage of Elimination — 6 outcomes, +4.0¢ per $1
   - polymarket: NM-03 House Election Margin of Victory Democrat 20-25% — 2 outcomes, +4.0¢ per $1
   - polymarket: Third-best AI Lab end of December? Alibaba — 18 outcomes, +4.0¢ per $1
+  - polymarket: Who will be UFC Lightweight champion at the end of 2026? Justin Gaethj — 2 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Shanghai on October 17? 28°C — 3 outcomes, +4.0¢ per $1
-  - polymarket: Central Bank of Colombia decision in October 25 bps increase — 2 outcomes, +4.0¢ per $1
-  - polymarket: Borno, Nigeria Governor Election Winner Babagana Buhari — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
