@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-16T00:38:33Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-16T00:58:13Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-16T00:38:29Z — 223 of 230 pairs priced
 - Scans in the last 24h: 40 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-15T18:58:14Z — Kalshi 142988 markets, Polymarket 20919 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-16T00:58:13Z — Kalshi 145547 markets, Polymarket 21248 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -29,11 +29,11 @@ Running since 2026-10-14. 56 scans so far. A pair counts as positive when buying
 | Highest temperature in Dallas on Oct 16, 2026 / Will the highest temperature in Dallas be bet | no | +18.9¢ | +11.8¢ | 11 | 50 | 2 | >999% |
 | Highest temperature in San Francisco on Oct 1 / Will the highest temperature in San Francisco | no | +13.4¢ | +9.6¢ | 11 | 20 | 2 | >999% |
 | Highest temperature in Dallas on Oct 16, 2026 / Will the highest temperature in Dallas be bet | no | +8.8¢ | +6.5¢ | 11 | 50 | 2 | >999% |
-| How low will the 30-year US Treasury yield ge / Will the 30-year Treasury yield dip below 5.4 | no | +8.5¢ | +8.5¢ | 7 | 50 | 16 | 208% |
+| KX30YRDIRLM-26OCT30L-T5.44 /  | no | +8.5¢ | +8.5¢ | 7 | 50 | 16 | 208% |
 | Highest temperature in Miami on Oct 16, 2026? / Will the highest temperature in Miami be betw | no | +8.1¢ | +2.8¢ | 11 | 50 | 2 | >999% |
 
 - Fast-check sessions (every 15 sec): 1 run, 10 positive spreads seen; typical one lasted 7200 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 221. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 248. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: NM-03 House Election Margin of Victory Democrat 20-25% — 2 outcomes, +4.0¢ per $1
   - polymarket: Third-best AI Lab end of December? Alibaba — 18 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Shanghai on October 17? 28°C — 3 outcomes, +4.0¢ per $1
