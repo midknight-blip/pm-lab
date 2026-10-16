@@ -182,3 +182,60 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-16T12:58:57Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Babagana Buhari",3,0.951,0.0095,0.0395,,2027-02-07T04:59:00Z
 2026-10-16T12:58:57Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner David Bailey,8,0.941,0.0368,0.0222,,2027-03-01T04:59:00Z
 2026-10-16T12:58:57Z,polymarket,0x2268e21527cebf93054048c152c40077d94ff2e2e6a5b030be8badb0d6fbc100,New South Wales Parliamentary Election: 3rd Place Liberal–National,8,0.948,0.0296,0.0224,,2027-03-28T03:59:00Z
+2026-10-16T18:52:07Z,kalshi,KXNFLSTAGEOFELIM-27DET,Detroit: Stage of Elimination,6,0.91,0.05,0.04,5.66,2027-02-28T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXNFLFFH2HSEASON-27JGIBBROB,Season Fantasy Points · Gibbs vs Robinson,2,0.95,0.032,0.018,1.0,2027-01-18T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXATTYGENCT-26,Connecticut Attorney General winner?,2,0.988,0.005,0.007,0.01,2027-01-10T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXHOUSERACE-MT02-26,MT-02 House winner?,2,0.989,0.003,0.008,0.01,2027-01-04T17:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXGOOGLESEARCH-ATH27,Google’s Year in Search 2026 Global - Athletes: #1 search,11,0.93,0.054,0.016,3.0,2027-01-01T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXWTIVSBRENT-26DEC31,Annual Return: WTI vs. Brent?,2,0.97,0.015,0.015,14.56,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,kalshi,KXATTYGENND-26,North Dakota Attorney General winner?,2,0.984,0.005,0.011,2295.01,2026-12-16T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXNCAAFSBELT-26,College Football Sun Belt Championship Winner,14,0.93,0.05,0.02,0.29,2026-12-06T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.97,0.013,0.017,3945.0,2026-11-03T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXSTATELEG-GASEN26,Georgia State Senate winner?,2,0.97,0.017,0.013,2444.0,2026-11-03T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.93,0.03,0.04,3.0,2026-11-03T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.014,0.016,5.0,2026-11-03T15:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXCAELECTION-2612,CA-12 House winner?,2,0.98,0.007,0.013,5.0,2026-11-03T19:00:00Z
+2026-10-16T18:52:07Z,kalshi,KXTOPMODEL-26OCT19,Top AI model this week,3,0.97,0.007,0.023,4226.66,2026-10-19T14:00:00Z
+2026-10-16T18:52:07Z,polymarket,0x6e3df00fcbac7b8f8b0dfebe5a96e6c982cff7d23712f9741cc28af345797400,Frosinone Calcio vs. US Sassuolo Calcio - Exact Score Frosinone Calcio 1 - 2 US Sassuolo Calcio,10,0.929,0.0417,0.0293,,2026-10-16T18:45:00Z
+2026-10-16T18:52:07Z,polymarket,0x46c161826fa7d0f1e63b7c7b7ea2e609d7162a5bce0073afa3b3f4fe96a17500,Highest temperature in Seattle on October 17? 60-61°F,3,0.96,0.0302,0.0098,,2026-10-17T12:00:00Z
+2026-10-16T18:52:07Z,polymarket,0xb44eec59d3f59536a33e7cc8266799c522983a6cb8102cf9c01f2170a13bd500,Highest temperature in Singapore on October 17? 32°C,5,0.943,0.0225,0.0345,,2026-10-17T12:00:00Z
+2026-10-16T18:52:07Z,polymarket,0x5d220210e9ec67abb232f17effdb718d011d76360e109f2f928c74e06b7b3000,Highest temperature in London on October 17? 15°C,3,0.949,0.0269,0.0241,,2026-10-17T12:00:00Z
+2026-10-16T18:52:07Z,polymarket,0x8c6f83e02a98aa0e9a4063a216844de6c7f0b605e1e7d2bdf34ce78a23b66b00,Highest temperature in Denver on October 17? 76-77°F,4,0.963,0.0306,0.0064,,2026-10-17T12:00:00Z
+2026-10-16T18:52:07Z,polymarket,0x5b3dba6bb10a38b123a2741c2b2ee618670dde30b70ba2f3695b03932bbccb00,"Saanich, BC Mayoral Election Winner Zac de Vries",2,0.97,0.011,0.019,,2026-10-18T03:59:00Z
+2026-10-16T18:52:07Z,polymarket,0xff666cec472c72bfd03fb22e33b1f30c7982dc93fb08da45821e02e900a0f100,Highest temperature in Kuala Lumpur on October 18? 31°C,3,0.93,0.0312,0.0388,,2026-10-18T12:00:00Z
+2026-10-16T18:52:07Z,polymarket,0x03c9c6d9f7b20aaa1f33f99bd24bd16e4e0e00cfa892dde097b800655490b200,Prime Minister of Israel after the next election? Benjamin Netanyahu,9,0.994,0.0,0.006,,2026-10-28T03:59:00Z
+2026-10-16T18:52:07Z,polymarket,0xb0d951cd099b6fe68fbb0cb824fb95704b3670773b2603213bc433ecef03af00,Bulgaria Presidential Election First Round: 2nd Place Andrey Gyurov,2,0.98,0.0045,0.0155,,2026-10-25T23:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x810c4a572ab6658dd988c086161e43db5bf047d1aa1e1e16f49e52f47584c000,Ottawa Mayoral Election Winner Mark Sutcliffe,2,0.965,0.0054,0.0296,,2026-10-27T03:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x1f9eb310b2f6aac6f4b5a9407500996d9c1f800b4e8219c8363dc791d3e49a00,Martin Mayoral Election Winner Michal Uherčík,3,0.942,0.0193,0.0387,,2026-10-25T03:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x301f74631efbf9f344a95b33434b84388911054a9c57a762788b583b8d6cb200,University of Michigan Consumer Sentiment - October 2026 43.0 to 45.9,2,0.94,0.0249,0.0351,,2026-10-23T14:00:00Z
+2026-10-16T18:52:07Z,polymarket,0x489d05246a3ba94bd10189c55bc3843e1ef165444975ac2de244fc2a490e7800,FL-18 House Election Winner Curtis Gibson (D),2,0.99,0.0042,0.0058,,2026-11-04T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x7b0529a586bba47cadf8236a989c223e4b4329079f2cbac36f8761932b0fb200,Largest Company end of October 2026? NVIDIA,3,0.984,0.0107,0.0053,,2026-11-01T03:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x0663fd3641665ce69d152f3eab863d9475a31dade414513983588fb452a55200,Which company has the best Text Arena Math AI model end of October? Anthropic,3,0.969,0.023,0.008,,2026-10-31T16:00:00Z
+2026-10-16T18:52:07Z,polymarket,0x7026c747d038657bde95dcf6b3da31e58e1ecddd1a4703fe2dad8f9ccbd08a00,Avg. # of ships transiting Strait of Hormuz end of October? 5-10,2,0.974,0.0,0.026,,2026-11-01T03:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x3d4c082bfa83f1f2ac145ffa45ac62e17225cbf5a54c21d1496b63b94649ee00,#2 Spotify Artist in October? Rihanna,2,0.97,0.0212,0.0088,,2026-10-31T23:59:00Z
+2026-10-16T18:52:07Z,polymarket,0xd59a9838e8df2723d48b3c53a884f1107cb946e89d2db3a587649db8da71a800,TX-06 House Election Winner Jake Ellzey (R),2,0.988,0.0031,0.0089,,2026-11-04T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x2931bb079f461470a2665b8da45623513fd859ae3407d2a2e12ce5e70eb06900,Which party will win the Arizona State Senate in 2026? Democratic Party,2,0.96,0.0164,0.0236,,2026-11-04T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x664a0ad15a485f7167d58ca6e36f3756f6b658a32e02822d5b07fcc213be5800,Texas Senate Election: Denton County Winner James Talarico (D),2,0.97,0.0194,0.0106,,2026-11-03T23:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x00c3f0cf89942d4db70421cd1720f55f2023ccca9559869d58265a23c3301900,CA-06 House Election Winner Democratic Party,2,0.973,0.0024,0.0246,,2026-11-04T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x9e6d2f96340f3bdc0d35a22af6fb01c42fd5850efa6524d9e17277e9e742e800,Who wins the Senate pending oil below $85 before the midterms? Oil < $85; R Senate,4,0.967,0.0248,0.0082,,2026-11-04T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x209f8d606f15a4f4dcb6ebf018d50c4934e9c5dd1302115d8d7aa72fa9442c00,Rhode Island Governor Election Winner Helena Foulkes (D),2,0.978,0.0024,0.0196,,2026-11-04T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x2aded62fda37dc954519ea91feac246edae8f2551e60a08dc7de214d52409700,ISM Manufacturing PMI - October 2026 56.0 to 56.9,6,0.931,0.037,0.032,,2026-11-02T06:00:00Z
+2026-10-16T18:52:07Z,polymarket,0x33cb2935101179a48896dafc89bf3f6efd321abe22dec2a3837298cc78488f00,WI-08 House Election Margin of Victory Republican 18-21%,7,0.961,0.0324,0.0066,,2026-11-04T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x9a64a86155e0c0406f8a4d9a708a1d74558698f4f5df6ab5be322abc3a107600,Which party will win white voters in the midterms? Republicans,2,0.98,0.0113,0.0087,,2026-11-07T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x93495273027fa4e83806a2f202e472771a1ad1570aa760af76da5a996cb3e600,Which party will win white women in the midterms? Democrats,2,0.97,0.0139,0.0161,,2026-11-07T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x00b0169ffac1fe23a505187c94ec5cf84487eff6983cd61641a9d230c9365d00,Which party will win white voters in the Texas Senate election? Republicans,2,0.969,0.0062,0.0248,,2026-11-07T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x300d7f265b7aa792d51b960eb8aed9f3338f3fa39171e35df78e4cd9499e0800,CA-04 House Election Winner (by individual) Mike Thompson,2,0.98,0.0118,0.0082,,2026-11-05T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0xabc3b26cf74f39d6d85de2744031123a17bcca5b0655ac5890fca135b7246800,Which party will win Latino men in the midterms? Republicans,2,0.98,0.0118,0.0082,,2026-11-07T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0xa4193a606756908a48e30602c155adb3fa680628d534aaca3bd836ae67328b00,MLB: 2026 NL Hank Aaron Winner Sal Stewart,3,0.97,0.001,0.029,,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x7eac04d8edc7adbcf34a1abe2cb8a9fb292ee926feaaff64b1c2bcb905111e00,MLB: 2026 AL Hank Aaron Winner Ben Rice,5,0.992,0.0009,0.0071,,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x50ab25ac01ba3e08cacea3f698d184a8ff9f27d3de95cef95b19748813a48600,Miaoli County Magistrate Election Winner Chung Tung-chin,2,0.986,0.0042,0.0098,,2026-11-29T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.98,0.0096,0.0104,,2026-11-29T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Grand Theft Auto VI,4,0.974,0.0173,0.0087,,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 16-19,7,0.98,0.0105,0.0095,,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x44bd07117f65bede325cefbe62f51dc59a221e5e473afc2da2962d73edc7ba00,Second-Best Chinese AI Company end of December? Alibaba,11,0.959,0.0325,0.0085,,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Carlos Prates,2,0.986,0.0035,0.0105,,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Justin Gaethje,2,0.955,0.0053,0.0397,,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Joshua Van,2,0.988,0.0005,0.0115,,2027-01-01T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Abubakar Malami",2,0.985,0.008,0.007,,2027-02-07T04:59:00Z
+2026-10-16T18:52:07Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Babagana Buhari",3,0.971,0.0102,0.0188,,2027-02-07T04:59:00Z
