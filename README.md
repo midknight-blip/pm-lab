@@ -1,34 +1,34 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-17T23:13:34Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-17T23:37:14Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-17T23:13:32Z — 247 of 249 pairs priced
+- Last scan: 2026-10-17T23:37:11Z — 245 of 249 pairs priced
 - Scans in the last 24h: 47 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-17T18:47:46Z — Kalshi 147483 markets, Polymarket 20647 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 141 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 142 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 76
 - Positive pairs still in play: **139** (confirmed same bet: 0, not yet checked: 136)
-- Scans with at least one positive pair: 141
+- Scans with at least one positive pair: 142
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| Highest temperature in Miami on Oct 17, 2026? / Will the highest temperature in Miami be betw | no | +98.8¢ | +52.5¢ | 20 | 50 | 1 | >999% |
-| Highest temperature in Miami on Oct 17, 2026? / Will the highest temperature in Miami be betw | no | +98.8¢ | +16.5¢ | 22 | 50 | 1 | >999% |
-| Highest temperature in Austin on Oct 17, 2026 / Will the highest temperature in Austin be bet | no | +98.7¢ | +27.7¢ | 22 | 50 | 1 | >999% |
-| Highest temperature in Los Angeles on Oct 17, / Will the highest temperature in Los Angeles b | no | +97.9¢ | +30.5¢ | 14 | 50 | 1 | >999% |
-| Highest temperature in San Francisco on Oct 1 / Will the highest temperature in San Francisco | no | +97.7¢ | +2.3¢ | 13 | 50 | 1 | >999% |
-| Highest temperature in Austin on Oct 17, 2026 / Will the highest temperature in Austin be bet | no | +97.5¢ | +28.8¢ | 22 | 44 | 1 | >999% |
-| Highest temperature in Los Angeles on Oct 17, / Will the highest temperature in Los Angeles b | no | +97.5¢ | +22.7¢ | 15 | 50 | 1 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +61.8¢ | +55.7¢ | 82 | 50 | 10 | >999% |
+| Highest temperature in Miami on Oct 17, 2026? / Will the highest temperature in Miami be betw | no | +98.8¢ | +98.2¢ | 21 | 50 | 1 | >999% |
+| Highest temperature in Miami on Oct 17, 2026? / Will the highest temperature in Miami be betw | no | +98.8¢ | +18.0¢ | 23 | 50 | 1 | >999% |
+| Highest temperature in Austin on Oct 17, 2026 / Will the highest temperature in Austin be bet | no | +98.7¢ | +28.2¢ | 23 | 50 | 1 | >999% |
+| Highest temperature in Los Angeles on Oct 17, / Will the highest temperature in Los Angeles b | no | +98.7¢ | +35.6¢ | 16 | 50 | 1 | >999% |
+| Highest temperature in Los Angeles on Oct 17, / Will the highest temperature in Los Angeles b | no | +98.7¢ | +43.8¢ | 15 | 50 | 1 | >999% |
+| Highest temperature in San Francisco on Oct 1 / Will the highest temperature in San Francisco | no | +98.3¢ | +2.7¢ | 14 | 50 | 1 | >999% |
+| Highest temperature in Austin on Oct 17, 2026 / Will the highest temperature in Austin be bet | no | +98.1¢ | +29.3¢ | 23 | 50 | 1 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +61.8¢ | +56.6¢ | 83 | 50 | 10 | >999% |
 | Highest temperature in Seattle on Oct 17, 202 / Will the highest temperature in Seattle be be | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
 
