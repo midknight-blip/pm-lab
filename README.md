@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-17T07:08:02Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-17T07:40:48Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-17T07:07:59Z — 249 of 249 pairs priced
+- Last scan: 2026-10-17T07:40:45Z — 249 of 249 pairs priced
 - Scans in the last 24h: 43 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-17T06:57:51Z — Kalshi 147682 markets, Polymarket 21063 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 109 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 110 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 76
-- Positive pairs still in play: **121** (confirmed same bet: 0, not yet checked: 118)
-- Scans with at least one positive pair: 109
+- Positive pairs still in play: **122** (confirmed same bet: 0, not yet checked: 119)
+- Scans with at least one positive pair: 110
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@ Running since 2026-10-14. 109 scans so far. A pair counts as positive when buyin
 | KXHIGHTDAL-26OCT16-B70.5 /  | no | +23.6¢ | +16.4¢ | 20 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT16-B84.5 /  | no | +22.0¢ | +7.7¢ | 42 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT16-B88.5 /  | no | +20.5¢ | +8.3¢ | 43 | 50 | 1 | >999% |
-| Athletic vs Valencia Athletic / Will Athletic Club win on 2026-10-17? | no | +19.2¢ | +18.0¢ | 36 | 50 | 0 | >999% |
+| Athletic vs Valencia Athletic / Will Athletic Club win on 2026-10-17? | no | +19.2¢ | +18.1¢ | 37 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 3 run, 44 positive spreads seen; typical one lasted 2002 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 355. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
