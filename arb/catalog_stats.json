@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T18:54:39Z",
- "kalshi_events": 16123,
- "kalshi_markets": 144829,
- "poly_markets_binary": 20659,
- "poly_markets_all": 23827,
+ "updated": "2026-10-17T01:00:02Z",
+ "kalshi_events": 16461,
+ "kalshi_markets": 150001,
+ "poly_markets_binary": 21229,
+ "poly_markets_all": 24102,
  "pairs": 250,
- "bundles_found": 57,
+ "bundles_found": 64,
  "poly_paging": "6 weekly windows hit the page limit",
- "seconds": 152
+ "seconds": 185
 }
