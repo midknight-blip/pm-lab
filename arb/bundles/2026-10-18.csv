@@ -97,3 +97,65 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-18T06:54:22Z,polymarket,0x26ae4e5f24dbcaaa8e1314bd98f138b1d231174bcda91134c896a22e36d7a900,Golden Boy 2026 Winner Gianluca Prestianni,3,0.985,0.0028,0.0122,,2026-12-31T04:59:00Z
 2026-10-18T06:54:22Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
 2026-10-18T06:54:22Z,polymarket,0xc8ef0b17b5229931ac30c0d93c74646417129c3ac46f802cbdded1012e863400,AFCON 2027 Qualifying: Group C Winner Somalia,4,0.945,0.0201,0.0349,,2027-03-31T03:59:00Z
+2026-10-18T12:50:15Z,kalshi,KXATTYGENIL-26,Illinois Attorney General winner?,2,0.981,0.004,0.015,0.01,2027-01-16T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,KXATTYGENCT-26,Connecticut Attorney General winner?,2,0.989,0.005,0.006,14.0,2027-01-10T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,HOUSEPA17-26,PA-17 House winner?,2,0.988,0.005,0.007,0.01,2027-01-04T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,HOUSEOH13-26,OH-13 House winner?,2,0.984,0.005,0.011,48.0,2027-01-04T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,HOUSECA27-26,CA-27 House winner?,2,0.981,0.005,0.014,0.01,2027-01-04T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,KXATTYGENRI-26,Rhode Island Attorney General winner?,2,0.985,0.003,0.012,162.02,2027-01-02T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,KXMLBALCSMVP-26,ALCS MVP Winner,17,0.904,0.067,0.029,2.0,2026-12-31T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,KXDENTONCOUNTYJUDGE-26,Denton County Judge winner?,2,0.98,0.013,0.007,150.0,2026-12-15T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,KXMLBLEADERPLAYOFF-26HR,Playoff Home Run leader,16,0.92,0.066,0.014,1.0,2026-12-01T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,KXSTATELEG-VTSENA26,Vermont State Senate winner?,2,0.98,0.01,0.01,7.0,2026-11-03T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.97,0.013,0.017,5289.0,2026-11-03T15:00:00Z
+2026-10-18T12:50:15Z,kalshi,KXSTATELEG-GASEN26,Georgia State Senate winner?,2,0.97,0.017,0.013,4642.0,2026-11-03T15:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x4d007244427c7b3f77d661abee6bbbacfce25f10099e4d5e606d41b2dc1fce00,Kuopion Palloseura vs. Vaasan Palloseura Vaasan Palloseura,2,0.96,0.0029,0.0371,,2026-10-18T12:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x68fb675a54a2acca03fb69a480a40e94ac793ecc650c76af438e89f91bf51300,Karlsruher SC vs. SV Darmstadt 98 SV Darmstadt 98,2,0.992,0.0017,0.0063,,2026-10-18T11:30:00Z
+2026-10-18T12:50:15Z,polymarket,0xe1a897cd683ebc1d38da8b7464e6f7ed23bdbd002700c6cb3c24fc6453711700,Highest temperature in Tokyo on October 19? 26°C,5,0.961,0.0314,0.0076,,2026-10-19T12:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x5d73ebf2fa8460e5faa7fcb59e5dc8847bfaf40b51cfa80747cab09682d08500,AS Roma vs. ŠK Slovan Bratislava Draw (AS Roma vs. ŠK Slovan Bratislava),2,0.95,0.0116,0.0384,,2026-10-20T19:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x6ceb242671c24dcc81135e93dce7d097e5de741c5c63b4b760150d9eb329d900,Highest temperature in Paris on October 20? 15°C,3,0.94,0.0304,0.0296,,2026-10-20T12:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x1381b33a95f269a4e4ab93282572dd3993d299891be1667c01b9b12b6c283f00,Highest temperature in Panama City on October 19? 32°C,3,0.93,0.0309,0.0392,,2026-10-19T12:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x4b8c969f25f6eefe0f47ab9174e0cb16cef71c3e5b0399aeda5cceae8e125a00,Next Prime Minister of Serbia? Aleksandar Vučić,4,0.951,0.0165,0.0325,,2026-10-25T23:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xf1bed5f79b39f003abfc1e540d5e494c40d343a7c29b89b6053edfc3eb586400,Brazil Presidential Election Second Round: 1st Place in Minas Gerais Lula,2,0.98,0.0052,0.0148,,2026-10-26T03:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x21d901f1f6f181a2d1eee549fb9e687604735df921c60ca08d5d5511e6d45e00,"Serbia Parliamentary Election: 3rd Place European Serbia – Marinika Tepić, Zdravko Ponoš",3,0.948,0.017,0.035,,2026-10-25T23:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xb6afb65a8f78c1cfc09915277e56797afa1e1361dbaff7acd494e2b540030600,"NYC Mayor # posts October 16 - October 23, 2026? 20-39",2,0.989,0.0007,0.0103,,2026-10-23T16:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x58afd05696c70ccf81b7593692ab20591a70ecdf8fd5398fd513cf8bd57d5400,Poprad Mayoral Election Winner Mikuláš Bobák,2,0.981,0.0091,0.0099,,2026-10-25T03:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x4ab5f56ab417ba2389360753e12e4b012a7470dca6e26820307c954ae408bd00,Surrey City Centre British Columbia Legislative Assembly Election Winner Amna Shah,2,0.95,0.0183,0.0317,,2026-10-25T03:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xad73c591d6de42ca53e7f66cd0b7d78deda0f7bc134cf2e512f46a968cb6ac00,CA-04 House Election Winner Democratic Party,2,0.987,0.0021,0.0109,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x1cab89150139f4019809ba90de5b5b0fb14086c6875b36def2dea358e9226600,"Fall Elections Three-Way: Brazil, Israel, US Senate Combo Bolsonaro, Eizenkot, Dems",6,0.94,0.0295,0.0305,,2026-11-05T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xcfc137b02d5315fc286dcb59671f08da473ccdf69b23472ba0584bdb2d95c100,NJ-04 House Election Margin of Victory Republican 30-35%,9,0.93,0.031,0.039,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x5683d8f2eb86e1326405e884a54442c4c3ddb132179c26e9953b51ee268b8600,Michigan Senate Election: Oakland County Winner Abdul El-Sayed (D),2,0.955,0.0076,0.0374,,2026-11-03T23:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xb42fceda65e6e6701af246b8a6aad4196142fbee9bf27e2de7a9ae2651c51800,Oklahoma Senate Election Margin of Victory Republican 20-25%,5,0.949,0.0294,0.0216,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x00c3f0cf89942d4db70421cd1720f55f2023ccca9559869d58265a23c3301900,CA-06 House Election Winner Democratic Party,2,0.987,0.002,0.011,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x7ddf68d8572589111fbc36a42f39bf5fdee7965b4c3731d4db6528667da88900,Rhode Island Governor Election Margin of Victory Democrat 25-30%,7,0.959,0.0319,0.0091,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xb24954b54665e01d740a917da59ee42cf0119d1b02bcbb9cdb464d0e4d093a00,"2026 Collin County Judge Election Winner John R. ""Buster"" Brown",2,0.98,0.0096,0.0104,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x8479000e5de7c1d4cc567a9f0fb6cbaa71a3cdd820df5030d44a15c796a09800,Oregon Senate Election: Turnout 2M-2.1M,3,0.951,0.0253,0.0237,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xd2b9f673add4cc4aed236d9a329f41e746c716da2da818bbece52754b0ded600,Michigan Senate Election: Macomb County Winner Mike Rogers (R),2,0.97,0.0185,0.0115,,2026-11-03T23:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x56605e90fe3c0753731169cf049ec66a7ec579d46f87a7032f46ea74c450e100,TX-01 House Election Margin of Victory Republican 35-40%,4,0.953,0.028,0.019,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xd3fe61275944289a306e29eb91e60dabf92887e594c234e1b9daec61cb123f00,Bank of Mexico Decision in November? No change,3,0.967,0.0181,0.0149,,2026-11-05T23:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x284bd4583b406d514c579d8caccb6e3ec8b4123eff23f9bc3a95eca7616d8c00,Oregon Governor Election Winner Tina Kotek (D),2,0.98,0.0142,0.0058,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x010f7955d1f12e4e67dd8a7b8101870e5bd2b8da27750b62c1c4477be7c29300,MI-08 House Election Margin of Victory Democrat 25-30%,4,0.957,0.0275,0.0155,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x95434c6b6f9ae0982c4ac265afff086aa296ded275136ed5b3ecc424a8630a00,RI-02 House Election Winner Seth Magaziner (D),2,0.989,0.0053,0.0057,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x2e2b6789e0249f388abe362557ef120191ae477392c81fdac843c53036d32e00,UT-01 House Election Margin of Victory Democrat 25-30%,5,0.938,0.0292,0.0328,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x6fab0f69b206707ee000bd9ad0bf1c4b424af967a954522efd236ab5f9ff3100,Alaska Senate Election: Turnout (First Round) 290K-305K,3,0.964,0.0253,0.0107,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x1f0c99081b1862488a70703a29efba42d1ccf8185f54208529c3b852e9486800,Second-best AI Lab end of October? Google,2,0.96,0.0157,0.0243,,2026-10-31T16:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x067fbe5b5c0d1d2fceff794e4851786fc13b993d77bce2838a5021064bc2be00,OH-13 House Election Margin of Victory Democrat 20-25%,8,0.948,0.0307,0.0213,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x728f68ac987fb1ceadc0e30084f78596395f2dc16f2b17c78aa0f2842a44a400,TX-21 House Election Margin of Victory Republican 10-15%,3,0.949,0.0238,0.0272,,2026-11-04T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x19d2047d41d4b70076ad746c7679846880c34834bc4f0dd08aa720484cb2ac00,OpenAI’s valuation end of October 2026? $1.00-$1.10T,3,0.969,0.021,0.01,,2026-10-31T17:00:00Z
+2026-10-18T12:50:15Z,polymarket,0xabc3b26cf74f39d6d85de2744031123a17bcca5b0655ac5890fca135b7246800,Which party will win Latino men in the midterms? Democrats,2,0.97,0.012,0.018,,2026-11-07T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x00b0169ffac1fe23a505187c94ec5cf84487eff6983cd61641a9d230c9365d00,Which party will win white voters in the Texas Senate election? Republicans,2,0.967,0.0061,0.0269,,2026-11-07T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x9a64a86155e0c0406f8a4d9a708a1d74558698f4f5df6ab5be322abc3a107600,Which party will win white voters in the midterms? Republicans,2,0.98,0.0113,0.0087,,2026-11-07T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.98,0.009,0.011,,2026-11-29T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x4f2e6d13e2b81de657dcca9e21f5581ff286335128aeb27341cb8bf766a55f00,UEFA Nations League 2026-27: Group C4 Winner Luxembourg,4,0.972,0.0188,0.0092,,2026-12-02T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xbb85f11e66cc263e31c671922c8aab5366539e7ab3220e58c1a92b280d980300,"Victoria Parliamentary Election: 3rd Place Shooters, Fishers, Farmers",8,0.965,0.0208,0.0142,,2026-11-29T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.973,0.0027,0.0243,,2026-12-19T00:00:00Z
+2026-10-18T12:50:15Z,polymarket,0x45ec1f7704d0ddd047e70443e830028d8801671283883ad1b46a29659488b600,Venezuela leader end of 2026? Delcy Rodríguez,10,0.973,0.0165,0.0105,,2027-01-01T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0xb411d6edbebea89c9077a91bee2b0d08e8bc4f6131c5fe6555bb5a89be543c00,Worlds 2026 Winning Region LCK (South Korea),4,0.967,0.0126,0.0204,,2027-01-01T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.97,0.0055,0.0245,,2027-01-01T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Resident Evil Requiem,4,0.974,0.0161,0.0099,,2027-01-01T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x6ad14ba180910ac32a564c4448702a1da31aa19b2f35818a7aea07947a6feb00,Who will be the next to leave the Trump Cabinet? None before 2027,4,0.945,0.0255,0.0295,,2027-01-01T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x09e236705d5147e362548f09db0f6729ba78b900b0fc74ae47abda7f652c4d00,Dancing with the Stars S35: Winner? Ezra Frech,5,0.933,0.0277,0.0393,,2027-04-01T03:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x26ae4e5f24dbcaaa8e1314bd98f138b1d231174bcda91134c896a22e36d7a900,Golden Boy 2026 Winner Gianluca Prestianni,3,0.985,0.0028,0.0122,,2026-12-31T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x93e19d9c550cc0c51c26cbf8007bbaa8ef99c5c699b1999d0873fe1a29fd3b00,Next High Representative for Bosnia and Herzegovina in 2026? Maurizio Massari,3,0.957,0.0202,0.0228,,2027-01-01T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Ibrahim Abba Gana",3,0.951,0.0095,0.0395,,2027-02-07T04:59:00Z
+2026-10-18T12:50:15Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
