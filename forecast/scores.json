@@ -1,14 +1,45 @@
 {
- "updated": "2026-10-17T11:57:26Z",
+ "updated": "2026-10-18T11:56:49Z",
  "forecasts_made": 10,
  "awaiting_price": 0,
  "pending": 10,
  "void": 0,
  "all": {
-  "n": 0
+  "n": 1,
+  "brier_claude": 0.0625,
+  "brier_market": 0.2116,
+  "claude_minus_market": -0.1491,
+  "std_error": null,
+  "paper_bets": 1,
+  "paper_staked": 0.57,
+  "paper_pnl": 0.412,
+  "paper_roi": 0.723,
+  "bet_wins": 1
  },
  "disagree_10pts_plus": {
-  "n": 0
+  "n": 1,
+  "brier_claude": 0.0625,
+  "brier_market": 0.2116,
+  "claude_minus_market": -0.1491,
+  "std_error": null,
+  "paper_bets": 1,
+  "paper_staked": 0.57,
+  "paper_pnl": 0.412,
+  "paper_roi": 0.723,
+  "bet_wins": 1
  },
- "by_category": {}
+ "by_category": {
+  "climate and weather": {
+   "n": 1,
+   "brier_claude": 0.0625,
+   "brier_market": 0.2116,
+   "claude_minus_market": -0.1491,
+   "std_error": null,
+   "paper_bets": 1,
+   "paper_staked": 0.57,
+   "paper_pnl": 0.412,
+   "paper_roi": 0.723,
+   "bet_wins": 1
+  }
+ }
 }
