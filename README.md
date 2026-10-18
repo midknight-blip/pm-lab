@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-18T11:56:49Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-18T12:01:58Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-18T11:38:36Z — 235 of 249 pairs priced
-- Scans in the last 24h: 47 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-18T12:01:55Z — 234 of 249 pairs priced
+- Scans in the last 24h: 48 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-18T06:56:57Z — Kalshi 131542 markets, Polymarket 20713 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 165 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 166 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 76
 - Positive pairs still in play: **147** (confirmed same bet: 0, not yet checked: 144)
-- Scans with at least one positive pair: 165
+- Scans with at least one positive pair: 166
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@ Running since 2026-10-14. 165 scans so far. A pair counts as positive when buyin
 | Highest temperature in Los Angeles on Oct 17, / Will the highest temperature in Los Angeles b | no | +98.8¢ | +56.6¢ | 20 | 50 | 0 | >999% |
 | Highest temperature in Los Angeles on Oct 17, / Will the highest temperature in Los Angeles b | no | +98.8¢ | +63.1¢ | 19 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +63.8¢ | +61.8¢ | 106 | 50 | 10 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +63.8¢ | +61.8¢ | 107 | 50 | 10 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
 
