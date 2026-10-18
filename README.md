@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-18T14:18:30Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-18T14:53:15Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-18T14:18:27Z — 249 of 249 pairs priced
+- Last scan: 2026-10-18T14:53:12Z — 249 of 249 pairs priced
 - Scans in the last 24h: 47 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-18T12:52:34Z — Kalshi 134104 markets, Polymarket 20541 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 170 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 171 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 76
-- Positive pairs still in play: **166** (confirmed same bet: 0, not yet checked: 163)
-- Scans with at least one positive pair: 170
+- Positive pairs still in play: **167** (confirmed same bet: 0, not yet checked: 164)
+- Scans with at least one positive pair: 171
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@ Running since 2026-10-14. 170 scans so far. A pair counts as positive when buyin
 | KXHIGHLAX-26OCT17-B88.5 /  | no | +98.8¢ | +56.6¢ | 20 | 50 | 0 | >999% |
 | KXHIGHLAX-26OCT17-B90.5 /  | no | +98.8¢ | +63.1¢ | 19 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +63.8¢ | +61.8¢ | 111 | 50 | 10 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +63.8¢ | +61.8¢ | 112 | 50 | 10 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
 
