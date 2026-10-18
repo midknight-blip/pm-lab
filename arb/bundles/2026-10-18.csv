@@ -159,3 +159,55 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-18T12:50:15Z,polymarket,0x93e19d9c550cc0c51c26cbf8007bbaa8ef99c5c699b1999d0873fe1a29fd3b00,Next High Representative for Bosnia and Herzegovina in 2026? Maurizio Massari,3,0.957,0.0202,0.0228,,2027-01-01T04:59:00Z
 2026-10-18T12:50:15Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Ibrahim Abba Gana",3,0.951,0.0095,0.0395,,2027-02-07T04:59:00Z
 2026-10-18T12:50:15Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
+2026-10-18T18:45:19Z,kalshi,KXATTYGENIL-26,Illinois Attorney General winner?,2,0.981,0.004,0.015,0.01,2027-01-16T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,KXHOUSERACE-FL11-26,FL-11 House winner?,2,0.981,0.013,0.006,0.01,2027-01-04T17:00:00Z
+2026-10-18T18:45:19Z,kalshi,HOUSEPA17-26,PA-17 House winner?,2,0.987,0.005,0.008,0.01,2027-01-04T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,HOUSECA27-26,CA-27 House winner?,2,0.981,0.005,0.014,0.01,2027-01-04T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,KXATTYGENRI-26,Rhode Island Attorney General winner?,2,0.985,0.003,0.012,40.02,2027-01-02T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,KXGOOGLESEARCH-ATH27,Google’s Year in Search 2026 Global - Athletes: #1 search,11,0.93,0.054,0.016,10.0,2027-01-01T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,KXWTIVSBRENT-26DEC31,Annual Return: WTI vs. Brent?,2,0.97,0.016,0.014,18.99,2027-01-01T04:59:00Z
+2026-10-18T18:45:19Z,kalshi,KXSTATELEG-VTSENA26,Vermont State Senate winner?,2,0.98,0.009,0.011,3164.91,2026-11-03T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.97,0.013,0.017,5303.0,2026-11-03T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,KXSTATELEG-GASEN26,Georgia State Senate winner?,2,0.97,0.017,0.013,4904.9,2026-11-03T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.014,0.016,5.0,2026-11-03T15:00:00Z
+2026-10-18T18:45:19Z,kalshi,KXT20MATCH-26OCT181415ATLFPRMGLD,Prime Gladiators (USA) vs Atlanta Fire,2,0.95,0.031,0.019,0.01,2026-10-18T22:15:00Z
+2026-10-18T18:45:19Z,polymarket,0xa2863589639fb96df5e136fca90710fa22e7f16beedcc7e91b2fd0443b96e400,Highest temperature in Busan on October 19? 24°C,5,0.934,0.0312,0.0348,,2026-10-19T12:00:00Z
+2026-10-18T18:45:19Z,polymarket,0x5d73ebf2fa8460e5faa7fcb59e5dc8847bfaf40b51cfa80747cab09682d08500,AS Roma vs. ŠK Slovan Bratislava Draw (AS Roma vs. ŠK Slovan Bratislava),2,0.95,0.0116,0.0384,,2026-10-20T19:00:00Z
+2026-10-18T18:45:19Z,polymarket,0x19a4887babb5c3370901caef602beacf0d5f01f1cb2f2cdb55a8383944734300,Highest temperature in Manila on October 19? 34°C,3,0.96,0.0303,0.0097,,2026-10-19T12:00:00Z
+2026-10-18T18:45:19Z,polymarket,0x1381b33a95f269a4e4ab93282572dd3993d299891be1667c01b9b12b6c283f00,Highest temperature in Panama City on October 19? 32°C,3,0.96,0.0305,0.0096,,2026-10-19T12:00:00Z
+2026-10-18T18:45:19Z,polymarket,0xb9e66b613bf0ea959bee9602d30d0274aab530a983f02c5d30eeceb33354ed00,Bank of Korea decision in October? 25 bps cut,2,0.976,0.0014,0.0226,,2026-10-22T00:00:00Z
+2026-10-18T18:45:19Z,polymarket,0x03c9c6d9f7b20aaa1f33f99bd24bd16e4e0e00cfa892dde097b800655490b200,Prime Minister of Israel after the next election? Benjamin Netanyahu,15,0.969,0.0,0.031,,2026-10-28T03:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x4b8c969f25f6eefe0f47ab9174e0cb16cef71c3e5b0399aeda5cceae8e125a00,Next Prime Minister of Serbia? Aleksandar Vučić,5,0.954,0.0168,0.0292,,2026-10-25T23:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x4bb96c2d175c1c41af97aca91419661cfb6c45a3d9b8a667217f795267ba2f00,Starbucks (SBUX) Q4 global comparable store sales growth? 7% to 9%,5,0.964,0.0288,0.0072,,2026-10-29T22:00:00Z
+2026-10-18T18:45:19Z,polymarket,0xa48c7b56f771a15e29834f56a60c91d6ffdaf2dbab8fb298c9158cf956981900,Nitra Mayoral Election Winner Marek Hattas,3,0.957,0.0098,0.0332,,2026-10-25T03:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x58afd05696c70ccf81b7593692ab20591a70ecdf8fd5398fd513cf8bd57d5400,Poprad Mayoral Election Winner Mikuláš Bobák,2,0.972,0.0088,0.0192,,2026-10-25T03:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x332d6ec682b8c7cf4db7a5bc14a0dab8a86abb92513c204991246508639e6f00,Sorell Mayoral Election Winner Kristian Horvath,2,0.96,0.0164,0.0236,,2026-10-28T03:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xfcd831331c294f71aafe95db495df94f7a9425accbfd9aac725e982bc7fab100,Sheffield Shield: Western Australia vs New South Wales Blues New South Wales Blues,2,0.94,0.0244,0.0356,,2026-10-26T02:30:00Z
+2026-10-18T18:45:19Z,polymarket,0xad73c591d6de42ca53e7f66cd0b7d78deda0f7bc134cf2e512f46a968cb6ac00,CA-04 House Election Winner Democratic Party,2,0.988,0.0019,0.0101,,2026-11-04T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x3d4c082bfa83f1f2ac145ffa45ac62e17225cbf5a54c21d1496b63b94649ee00,#2 Spotify Artist in October? Rihanna,2,0.97,0.0185,0.0115,,2026-10-31T23:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x08bf3f714805b8a2bafc534c4073d9d914f423fc7a7f11541104e66b447e7000,Which company has the best AI Agent end of October? Anthropic,3,0.967,0.0095,0.0235,,2026-11-01T03:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x5683d8f2eb86e1326405e884a54442c4c3ddb132179c26e9953b51ee268b8600,Michigan Senate Election: Oakland County Winner Abdul El-Sayed (D),2,0.984,0.0073,0.0087,,2026-11-03T23:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xd3fe61275944289a306e29eb91e60dabf92887e594c234e1b9daec61cb123f00,Bank of Mexico Decision in November? No change,3,0.967,0.0181,0.0149,,2026-11-05T23:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xe03ff19197e23f3c74a39ee3535ae740cb1ed094b7e4e59e1da324aaf065d600,Kansas Senate Election: Leavenworth County Winner Roger Marshall (R),2,0.95,0.0143,0.0357,,2026-11-03T23:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x284bd4583b406d514c579d8caccb6e3ec8b4123eff23f9bc3a95eca7616d8c00,Oregon Governor Election Winner Christine Drazan (R),2,0.98,0.0142,0.0058,,2026-11-04T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xb24954b54665e01d740a917da59ee42cf0119d1b02bcbb9cdb464d0e4d093a00,"2026 Collin County Judge Election Winner John R. ""Buster"" Brown",2,0.97,0.0093,0.0207,,2026-11-04T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x938e1cd79040dea824592a16d73cd72a4983f4af8644f511a21a0e022f10c400,South Carolina Senate Election: Turnout 1.6M-1.8M,3,0.96,0.0253,0.0147,,2026-11-04T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xc184d63e8e3c7fb0ff82930ef284213f003e5a3c7bd33706e1e7cd59b1918600,RI-01 House Election Margin of Victory Democrat 45-50%,4,0.96,0.0272,0.0128,,2026-11-04T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xc4b93116ceadc9be6ad7c503f97119e322de18d5822128d05bb21d4960203800,Who wins the Senate pending Hormuz Agreement and oil below $80 before the midterms? No Agreement or Oil ≥ $80; R Senate,2,0.953,0.0186,0.0285,,2026-11-04T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x1f0c99081b1862488a70703a29efba42d1ccf8185f54208529c3b852e9486800,Second-best AI Lab end of October? Anthropic,2,0.96,0.0157,0.0243,,2026-10-31T16:00:00Z
+2026-10-18T18:45:19Z,polymarket,0xa4bf23dc2394ea56088e29151418968f0c44740a54c223ba02f156564d5cad00,HI-01 House Election Margin of Victory Democrat 45-50%,4,0.942,0.0271,0.0309,,2026-11-04T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xb0d786e3290268a013f9811893b60130a7b9b172cda88b62723637811d132600,Maine Senate Election: Turnout (First Round) 700K-750K,5,0.958,0.0281,0.0139,,2026-11-04T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x00b0169ffac1fe23a505187c94ec5cf84487eff6983cd61641a9d230c9365d00,Which party will win white voters in the Texas Senate election? Republicans,2,0.968,0.0061,0.0259,,2026-11-07T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x9a64a86155e0c0406f8a4d9a708a1d74558698f4f5df6ab5be322abc3a107600,Which party will win white voters in the midterms? Republicans,2,0.98,0.0113,0.0087,,2026-11-07T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xabc3b26cf74f39d6d85de2744031123a17bcca5b0655ac5890fca135b7246800,Which party will win Latino men in the midterms? Republicans,2,0.97,0.012,0.018,,2026-11-07T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xc1689967407c14499ec35f25c3f75ed474bca1c778146837e917320458d8b700,Bank of Korea decision in November? No Change,5,0.945,0.0275,0.0275,,2026-11-26T00:00:00Z
+2026-10-18T18:45:19Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.973,0.0027,0.0243,,2026-12-19T00:00:00Z
+2026-10-18T18:45:19Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Sean Strickland,3,0.988,0.0052,0.0068,,2027-01-01T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.972,0.0054,0.0226,,2027-01-01T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x4f5a85d9ed8f13ee723cb30e29ba3c3fa9cd08f207cae5c8acc3cd8752c68800,South Korea Annual Inflation 2026 3.0%+,3,0.944,0.0269,0.0291,,2027-01-01T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x09e236705d5147e362548f09db0f6729ba78b900b0fc74ae47abda7f652c4d00,Dancing with the Stars S35: Winner? Harry Shum Jr.,5,0.933,0.0278,0.0392,,2027-04-01T03:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xbccd9b41bb1613743f94e64ae5c4cbeede22da4ee973999dbcd197d55035c300,SB Energy IPO Closing Market Cap No IPO before January 2027,2,0.993,0.0004,0.0066,,2027-01-01T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xebefb7b22618995247e20ddcb558d0cd3660be7912a5b7043983819bec08bb00,Pro Football: 2026-27 Rushing Touchdowns Leader Jaxson Dart,7,0.954,0.0378,0.0082,,2027-01-27T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Ibrahim Abba Gana",3,0.951,0.0095,0.0395,,2027-02-07T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner Rueben Bain Jr.,8,0.954,0.0371,0.0089,,2027-03-01T04:59:00Z
+2026-10-18T18:45:19Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
