@@ -44,6 +44,16 @@
   "note": "Polymarket settles on CNN national House exit poll at noon ET Nov 6 (alphabetical tie-break); Kalshi's shown text names no source or tie rule.",
   "status": "unsure"
  },
+ "KXHIGHAUS-26OCT17-B68.5|5723193": {
+  "checked": "2026-10-19",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT17-B70.5|5723194": {
+  "checked": "2026-10-19",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
  "KXHIGHDEN-26OCT14-B48.5|5600412": {
   "checked": "2026-10-14",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
@@ -82,6 +92,21 @@
  "KXHIGHLAX-26OCT14-B78.5|5602383": {
   "checked": "2026-10-14",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT17-B88.5|5726927": {
+  "checked": "2026-10-19",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT17-B90.5|5726928": {
+  "checked": "2026-10-19",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT18-B84.5|5772115": {
+  "checked": "2026-10-19",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
   "status": "different"
  },
  "KXHIGHMIA-26OCT14-B84.5|5600380": {
@@ -137,6 +162,16 @@
  "KXHIGHMIA-26OCT15-B92.5|5600384": {
   "checked": "2026-10-14",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT17-B88.5|5724277": {
+  "checked": "2026-10-19",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT17-B90.5|5724278": {
+  "checked": "2026-10-19",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
   "status": "different"
  },
  "KXHIGHTDAL-26OCT14-B90.5|5600359": {
@@ -217,6 +252,11 @@
  "KXHIGHTSEA-26OCT15-B72.5|5646761": {
   "checked": "2026-10-14",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT18-B58.5|5772104": {
+  "checked": "2026-10-19",
+  "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
   "status": "different"
  },
  "KXHIGHTSFO-26OCT15-B78.5|5602395": {
