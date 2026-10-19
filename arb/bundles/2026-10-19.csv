@@ -114,3 +114,59 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-19T07:04:57Z,polymarket,0xb92f8e48ca62b1cfb98c2807891103e134a0eb86f65911dd74bfe6cce507ee00,"Kano, Nigeria Governor Election Winner Abba Kabir Yusuf",4,0.947,0.0135,0.0394,,2027-02-07T04:59:00Z
 2026-10-19T07:04:57Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Ibrahim Abba Gana",3,0.951,0.0095,0.0395,,2027-02-07T04:59:00Z
 2026-10-19T07:04:57Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
+2026-10-19T12:59:16Z,kalshi,KXATTYGENIL-26,Illinois Attorney General winner?,2,0.981,0.004,0.015,0.01,2027-01-16T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXHOUSERACE-TN04-26,TN-04 House winner?,2,0.988,0.003,0.009,0.01,2027-01-04T17:00:00Z
+2026-10-19T12:59:16Z,kalshi,HOUSENJ5-26,NJ-05 House winner?,2,0.99,0.004,0.006,28.0,2027-01-04T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,HOUSECA27-26,CA-27 House winner?,2,0.981,0.005,0.014,0.01,2027-01-04T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXCRITICSHAIR-27,Critics Choice Awards: Best Hair and Makeup,16,0.92,0.06,0.02,48.0,2027-01-03T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXATTYGENRI-26,Rhode Island Attorney General winner?,2,0.986,0.003,0.011,162.02,2027-01-02T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXGOOGLESEARCH-ATH27,Google’s Year in Search 2026 Global - Athletes: #1 search,11,0.94,0.054,0.006,3.0,2027-01-01T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXSTATELEG-VTSENA26,Vermont State Senate winner?,2,0.98,0.009,0.011,3556.3,2026-11-03T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.97,0.013,0.017,6557.29,2026-11-03T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXSTATELEG-GASEN26,Georgia State Senate winner?,2,0.97,0.017,0.013,4985.2,2026-11-03T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXSFD8-26,San Francisco District 8 Supervisor election winner?,4,0.96,0.032,0.008,5.0,2026-11-03T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXOAKLANDMAYOR-26,Oakland Mayor winner?,2,0.98,0.009,0.011,55.0,2026-11-03T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.014,0.016,5.0,2026-11-03T15:00:00Z
+2026-10-19T12:59:16Z,kalshi,KXDTEMMYS-COURTROOM26,Daytime Emmy Awards: Outstanding Legal / Courtroom Series,5,0.93,0.054,0.016,5.0,2026-10-31T17:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x6aa8bf9f274f7b37e1ece30bff9f941db451f418fb1624bed3f7a4cb4ecee400,Highest temperature in Tel Aviv on October 20? 27°C,3,0.961,0.0225,0.0166,,2026-10-20T12:00:00Z
+2026-10-19T12:59:16Z,polymarket,0x7e4a54a948bb0b8e3c99c2a5eb396e99fd5f14afdcfa31bb027f0ce619d43800,Highest temperature in Panama City on October 20? 31°C,5,0.95,0.0355,0.0145,,2026-10-20T12:00:00Z
+2026-10-19T12:59:16Z,polymarket,0x58357926b2ce8ecefea46b56eb2214d83697a18d17c029f3f039b318e5033f00,Highest temperature in Mexico City on October 20? 24°C,4,0.939,0.0331,0.0279,,2026-10-20T12:00:00Z
+2026-10-19T12:59:16Z,polymarket,0x7fe97075bfa76ae05dcf0e078111eb4a0c9cae38e5921218da382c3e5aeacb00,"Donald Trump # Truth Social posts October 13 - October 20, 2026? 120-139",3,0.954,0.0301,0.0159,,2026-10-20T16:00:00Z
+2026-10-19T12:59:16Z,polymarket,0xfa880b80d0421db9518f1762b9665a7b493d110d7f8035da71ff58fef30de000,Highest temperature in Paris on October 21? 15°C,4,0.962,0.0291,0.0089,,2026-10-21T12:00:00Z
+2026-10-19T12:59:16Z,polymarket,0x4b8c969f25f6eefe0f47ab9174e0cb16cef71c3e5b0399aeda5cceae8e125a00,Next Prime Minister of Serbia? Aleksandar Vučić,6,0.971,0.0184,0.0106,,2026-10-25T23:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x3d0d22b03315781881717db94c015f21a49d3322872fb441dd20c8b60070f900,How many Israeli elections before government formed? 1,2,0.95,0.0187,0.0313,,2026-10-27T23:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xce2e0a042345fb5bf04ec3271236ecbc057d8a0a45eb4dc7428e808a6600d700,"Kingston, ON Mayoral Election Winner Bryan Paterson",2,0.988,0.0026,0.0094,,2026-10-27T03:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x34ffa3bf07c62b6622a7e423be7278565d453b99d8978fd48dfcf166f28e8500,Serbia Parliamentary Election Vote Share Margin of Victory United Serbia 10%+,4,0.957,0.0288,0.0142,,2026-10-25T23:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x451d6538c48137a9e02f09779925643c622bf71f5921ecc4da62fcffa5e28800,Bulgaria Presidential Election First Round: 3rd Place Kostadin Kostadinov,2,0.977,0.0058,0.0172,,2026-10-25T23:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xd830bdf10bbed3a194c02c8c1edd64affe5e39079154d3081f3e4bb05b859f00,Prešov Mayoral Election Winner Rastislav Mochnacký,2,0.983,0.0053,0.0117,,2026-10-25T03:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x1f9eb310b2f6aac6f4b5a9407500996d9c1f800b4e8219c8363dc791d3e49a00,Martin Mayoral Election Winner Michal Uherčík,2,0.95,0.0199,0.0301,,2026-10-25T03:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xf1def162cd105c62c0e233a4ccdf1783af33fc251400465fcbb5df02b350e500,TX-18 House Election Margin of Victory Democrat 65-70%,4,0.957,0.027,0.016,,2026-11-04T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xda95016a2546102c7a27ff6ddc69f07f3127b0c5b06b81505fa03e74c7e73400,South Dakota Senate Election: Turnout 350K-375K,4,0.952,0.0279,0.0201,,2026-11-04T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x6ea75260fdb6e171ae1e4da37b997a56e79a1e842bf308de9d780b595c09ac00,MI-03 House Election Margin of Victory Democrat 10-15%,5,0.946,0.0293,0.0247,,2026-11-04T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x22debb71d78013e5377fb5c359ac29331fad187cb282e6569ef142bbb6792f00,GPU rental prices (H200) end of October? $5.50+,3,0.969,0.0113,0.0197,,2026-11-01T03:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xb07da6ff6623a59ecf810dd5c1fbd121b1d0cfd936f9493d3c8a9d36b6ac0800,How many House seats will the Democrats win in Minnesota? <3,3,0.956,0.0163,0.0277,,2026-11-04T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x3082b0213d49a8e6af31c62e67eba7bf6dee1c3dca86aedf9e4e48fdc60cb900,FL-17 House Election Margin of Victory Republican 15-20%,3,0.95,0.0248,0.0252,,2026-11-04T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xfa8946a8b2ce7d90dcf4e8977f6a694023da7aae9c0ff47789fc081d7fa6f200,"Minnesota Senate and Governor Combo Dems win Gov, Reps win Senate",2,0.969,0.0093,0.0217,,2026-11-04T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xa4193a606756908a48e30602c155adb3fa680628d534aaca3bd836ae67328b00,MLB: 2026 NL Hank Aaron Winner Sal Stewart,3,0.993,0.0003,0.0067,,2027-01-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x5f69aa19ba7614923d9878c149cc21116c52afd07a8554841318a59b1dce5600,MLB Postseason: RBI Leader Jo Adell,9,0.936,0.0405,0.0235,,2026-11-16T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x00bdc5f8e04c5940751a469eec7c8cc06b3e7e79011a7e2a50877c2181c0f500,UEFA Nations League 2026-27: Group D1 Winner Malta,2,0.988,0.0042,0.0078,,2026-12-02T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x11cb9d00ccb9899cec6731b86a38003711eeade427fd4bf4e953382e2c508800,UEFA Nations League 2026-27: Group B1 Winner Switzerland,2,0.992,0.0029,0.0051,,2026-12-02T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xf11095804e56aeedd117ba8129dd8e7903c377ea97f5a2865f28fef756558e00,UEFA Nations League 2026-27: Group B2 Winner Ukraine,3,0.966,0.0262,0.0078,,2026-12-02T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xbc55599c69369d10f4f2407d2b6ff83f736bb2476dabbeddc07cb22896bd3e00,MLB: NL Rookie of the Year Sal Stewart,6,0.982,0.0078,0.0102,,2026-12-19T00:00:00Z
+2026-10-19T12:59:16Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.972,0.0027,0.0254,,2026-12-19T00:00:00Z
+2026-10-19T12:59:16Z,polymarket,0x45ec1f7704d0ddd047e70443e830028d8801671283883ad1b46a29659488b600,Venezuela leader end of 2026? Nicolás Maduro,9,0.95,0.015,0.035,,2027-01-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x60840607f1f408f7b14dc9b95f1b43582e77b7b8400fc901f9471ad8aba3b800,Where will Trump and Putin meet next in 2026? China,7,0.98,0.0,0.02,,2027-01-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,10,0.973,0.0,0.027,,2026-12-31T17:00:00Z
+2026-10-19T12:59:16Z,polymarket,0x339a89111ad048709ef27ac9da11e70a28ceaae3a4f494e949c9d68be7c39a00,Bitcoin vs. Gold vs. S&P 500 in 2026 Gold,3,0.97,0.0174,0.0126,,2027-01-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 16-19,7,0.977,0.0141,0.0089,,2027-01-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Sean Strickland,2,0.965,0.0045,0.0305,,2027-01-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x8f4511ab8167b02319c78ad9f5c91bb94e8d332a37811e03f84f15eed685e300,Top US Spotify Artist 2026 Bruno Mars,8,0.965,0.0126,0.0224,,2027-02-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x09e236705d5147e362548f09db0f6729ba78b900b0fc74ae47abda7f652c4d00,Dancing with the Stars S35: Winner? Harry Shum Jr.,5,0.943,0.0282,0.0289,,2027-04-01T03:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",2,0.973,0.0015,0.0255,,2027-01-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x7b024853bdcb07c9e01281fdcba9a7caef41933bc67ab6a498f16405b4687600,Second-best AI Agent Lab end of December? Anthropic,15,0.934,0.0311,0.0349,,2027-01-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xebefb7b22618995247e20ddcb558d0cd3660be7912a5b7043983819bec08bb00,Pro Football: 2026-27 Rushing Touchdowns Leader Jaxson Dart,7,0.935,0.0356,0.0294,,2027-01-27T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x707042a979c02569d5202e1e5d1705525d84af2cbe1e326b3c06839013d85b00,Where will 2026 rank among the highest U.S. domestic box office years on record? 10th-12th,5,0.96,0.0315,0.0085,,2027-02-01T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x07b46d0599b3011a1c308faa211f26dd2b437276546727af9183b27fc1e84d00,"Kwara, Nigeria Governor Election Winner Ajibade Adekunle",4,0.94,0.0225,0.0375,,2027-02-07T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Babagana Buhari",3,0.951,0.0095,0.0395,,2027-02-07T04:59:00Z
+2026-10-19T12:59:16Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.969,0.0183,0.0127,,2027-03-14T23:59:00Z
