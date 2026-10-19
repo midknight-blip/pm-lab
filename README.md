@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-18T23:40:30Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-19T00:00:06Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-18T23:40:28Z — 237 of 249 pairs priced
+- Last scan: 2026-10-19T00:00:02Z — 236 of 249 pairs priced
 - Scans in the last 24h: 47 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-18T18:49:14Z — Kalshi 129813 markets, Polymarket 20573 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 189 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 190 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 76
 - Positive pairs still in play: **181** (confirmed same bet: 0, not yet checked: 178)
-- Scans with at least one positive pair: 189
+- Scans with at least one positive pair: 190
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -28,9 +28,9 @@ Running since 2026-10-14. 189 scans so far. A pair counts as positive when buyin
 | KXHIGHLAX-26OCT17-B88.5 /  | no | +98.8¢ | +56.6¢ | 20 | 50 | 0 | >999% |
 | KXHIGHLAX-26OCT17-B90.5 /  | no | +98.8¢ | +63.1¢ | 19 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
-| Highest temperature in Los Angeles on Oct 18, / Will the highest temperature in Los Angeles b | no | +97.8¢ | +88.4¢ | 13 | 50 | 1 | >999% |
-| Highest temperature in Seattle on Oct 18, 202 / Will the highest temperature in Seattle be be | no | +96.3¢ | +18.2¢ | 17 | 28 | 1 | >999% |
-| Highest temperature in Seattle on Oct 18, 202 / Will the highest temperature in Seattle be be | no | +95.8¢ | +9.0¢ | 18 | 50 | 1 | >999% |
+| Highest temperature in Los Angeles on Oct 18, / Will the highest temperature in Los Angeles b | no | +98.2¢ | +90.5¢ | 14 | 50 | 1 | >999% |
+| Highest temperature in Seattle on Oct 18, 202 / Will the highest temperature in Seattle be be | no | +98.2¢ | +18.8¢ | 18 | 31 | 1 | >999% |
+| Highest temperature in Seattle on Oct 18, 202 / Will the highest temperature in Seattle be be | no | +98.0¢ | +10.0¢ | 19 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 3 run, 44 positive spreads seen; typical one lasted 2002 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 309. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
