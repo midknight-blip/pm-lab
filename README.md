@@ -1,30 +1,30 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-19T10:10:34Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-19T10:44:54Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-19T10:10:32Z — 239 of 246 pairs priced
+- Last scan: 2026-10-19T10:44:51Z — 239 of 246 pairs priced
 - Scans in the last 24h: 43 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-19T07:07:57Z — Kalshi 119779 markets, Polymarket 20764 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 205 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 206 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 84
-- Positive pairs still in play: **185** (confirmed same bet: 0, not yet checked: 182)
-- Scans with at least one positive pair: 205
+- Positive pairs still in play: **186** (confirmed same bet: 0, not yet checked: 183)
+- Scans with at least one positive pair: 206
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | Highest temperature in Seattle on Oct 18, 202 / Will the highest temperature in Seattle be be | no | +98.8¢ | +72.8¢ | 29 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +67.9¢ | +61.8¢ | 146 | 50 | 9 | >999% |
-| Al-Fayha vs Al Ahli Saudi Al-Fayha / Will Al Ahli Saudi Club win on 2026-10-19? | no | +58.2¢ | +57.2¢ | 14 | 50 | 0 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +67.9¢ | +61.8¢ | 147 | 50 | 9 | >999% |
+| Al-Fayha vs Al Ahli Saudi Al-Fayha / Will Al Ahli Saudi Club win on 2026-10-19? | no | +58.2¢ | +57.2¢ | 15 | 50 | 0 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B90.5 /  | no | +40.9¢ | +22.8¢ | 38 | 50 | 1 | >999% |
