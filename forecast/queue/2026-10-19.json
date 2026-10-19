@@ -1,0 +1,76 @@
+{
+ "batch": "2026-10-19",
+ "created": "2026-10-19T09:45:59Z",
+ "markets": [
+  {
+   "key": "kalshi:KXALBUMEQUIV-NOB26OCT22-7K",
+   "question": "No Bad Memories: First Week Album Equivalent Units \u2014 Above 7K",
+   "rules": "If No Bad Memories by The Avalanches has above 7K Album Equivalent Units during the October 16, 2026 - October 22, 2026, tracking week, then the market resolves to Yes. IMPORTANT INFORMATION: This event pertains to the U.S. and will resolve based on the value reported by Luminate\u2019s API as of 10:00 AM ET on the Sunday immediately following the October 16, 2026 - October 22, 2026 tracking week.\n\nLuminate Data, LLC is a neutral provider of market metrics which does not endorse, verify or participate in any way in the outcomes of any prediction market.\n\n",
+   "close": "2026-10-25T14:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXUFCFIGHT-26OCT24VOLEVL-VOL",
+   "question": "333: Alex Volkanovski vs Movsar Evloev \u2014 Alex Volkanovski",
+   "rules": "If Alex Volkanovski  wins the Alex Volkanovski vs Movsar Evloev professional MMA fight originally scheduled for Oct 24, 2026, then the market resolves to Yes. If the fight ends in a draw/no contest, both markets will resolve to $0.50. Note that any revisions after Expiration will not be considered. Therefore, if a fighter is disqualified, removed, or the official result of the fight is reversed or changed in any way after the Contract expires, that will not impact resolution. If the fight is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the fight is cancelled or not started within 48 hours of its originally scheduled start, both markets will resolve to a fair price.\n\nThis market and these products have not been endorsed by Zuffa LLC, d/b/a Ultimate Fighting Championship, UFC. Any references to the \u201cUFC,\u201d or any other associated marks are descriptive only, and do not indicate an endorsement of this product or any affiliation between Zuffa and Kalshi.",
+   "close": "2026-10-25T00:10:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXMISENATE-26-AELS",
+   "question": "Michigan Senate winner? (Person) \u2014 Abdul El-Sayed",
+   "rules": "If Abdul El-Sayed wins the 2026 Michigan Senate race, then the market resolves to Yes. The listed candidate must win the election as the nominee of the listed party. If the candidate fails to secure the nomination, this market resolves to No immediately. This market is eligible for accelerated determination after a consensus of media organizations project the winner. See full rules for details.",
+   "close": "2026-11-03T19:00:00Z",
+   "category": "elections"
+  },
+  {
+   "key": "kalshi:KXLULUCC-26NOV07-T65",
+   "question": "Lululemon Credit Card Spend in October \u2014 Above 65",
+   "rules": "If the Carbon Arc Lululemon Credit Card Spend (October 2026) for October 2026 is above 65 , then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 4th calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 4th.\n\nThe index measures year-over-year change, where 100 means Lululemon Credit Card Spend was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% more spend than year prior, 97 = 3% decline from year prior. The index is measured by Carbon Arc's aggregated U.S. credit and debit card transaction panel, matched to the same period of the prior year. The panel updates daily as new data arrives.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-14T05:00:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "kalshi:KXTRUMPMENTIONB-26OCT19-INVE",
+   "question": "What will Trump say during his announcement? \u2014 Invest / Invested / Investment",
+   "rules": "If \n Donald Trump says Invest / Invested / Investment as part of Executive Order Signing Ceremony and Announcement originally scheduled for October 19, 2026\n, then the market resolves to Yes. How this is resolved\nVideo of the Executive Order Signing Ceremony and Announcement originally scheduled for October 19, 2026 using the live broadcast or stream.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the Executive Order Signing Ceremony and Announcement originally scheduled for October 19, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nDonald Trump speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified, previously aired conte",
+   "close": "2026-11-02T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "poly:2110578",
+   "question": "Will Likud win 25-29 seats in the 2026 Israeli legislative election?",
+   "rules": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the number of seats won by the Likud party in the Israeli Knesset as a result of this election.\n\nIf the Likud party contests this election as part of a joint candidate list with one or more parties, all seats won by the joint candidate list will be counted. If the Likud party merges with another party prior to the election, all seats won by the resultant merged party, or any joint candidate list through which it contests the election, will be counted.\n\nIf the results of this election are not definitively known by October 31, 2027, 11:59 PM ET, this market will resolve to the lowest range bracket.\n\nThis market's resolution will be based solely on the number of seats won by the Likud party in this election.\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by Israel\u2019s Central Election Committee (Va'adet HaBehirot HaMerkazit) (https://www.gov.il/en/departments/central-elections-committee/govil-landing-page).",
+   "close": "2026-10-28T03:59:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "poly:5407572",
+   "question": "Will Ethereum reach $2,600 in October?",
+   "rules": "This market will resolve to \"Yes\" if any Binance 1 minute candle for ETH/USDT from the creation of this market through 11:59 PM ET on the last day of the month specified in the title has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No\". Price action before this market's creation will not be considered.\n\nThe resolution source for this market is Binance, specifically the ETH/USDT High prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-11-01T04:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXFAOFPI-26NOV06-T133.0",
+   "question": "FAO Food Price Index for October \u2014 Above 133.0",
+   "rules": "If the FAO Food Price Index for October 2026 is above 133.0, then the market resolves to Yes. The Underlying is the headline FAO Food Price Index, not the Cereal, Vegetable Oil, Meat, Dairy, or Sugar sub-index.\n\nThe relevant observation is the October 2026 monthly value first reported in FAO\u2019s Food Price Index scheduled for release on Nov 6, 2026. Subsequent revisions do not apply.",
+   "close": "2026-11-13T09:30:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXWTIW-26OCT2314-B98.50",
+   "question": "Oil Price (WTI) on Oct 23, 2026? \u2014 $98.00 to $98.99",
+   "rules": "If the daily settlement price for WTI crude oil(December 2026 contract) on October 23, 2026 is between 98.00-98.99 USD/Bbl, then the market resolves to Yes. The settlement value is rounded to the nearest 2 decimal places. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+   "close": "2026-10-23T18:30:00Z",
+   "category": "commodities"
+  },
+  {
+   "key": "poly:4319440",
+   "question": "Will Anthropic IPO by November 15, 2026?",
+   "rules": "This market will resolve to \"Yes\" if Anthropic shares are listed on a public securities exchange and open for trading by 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No.\"\n\nIf Anthropic is acquired by another company that is already public, this market will immediately resolve to \"No.\"\n\nThe primary resolution source for this market is official filings and announcements from Anthropic and the relevant securities exchange on which the shares are listed, including SEC filings (e.g., Form S-1, Form 8-A), exchange listing confirmations, and official press releases from Anthropic; however a consensus of credible reporting may also be used.",
+   "close": "2026-11-16T04:59:00Z",
+   "category": "finance"
+  }
+ ]
+}
