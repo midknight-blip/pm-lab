@@ -1,9 +1,9 @@
 {
- "last_scan": "2026-10-19T20:04:32Z",
+ "last_scan": "2026-10-19T20:43:38Z",
  "pairs_watched": 249,
  "pairs_priced": 249,
- "rows": 423,
- "positive_now": 44,
- "best_edge_now": 0.7886,
+ "rows": 416,
+ "positive_now": 43,
+ "best_edge_now": 0.819,
  "error": null
 }
