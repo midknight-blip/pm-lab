@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-19T06:15:09Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-19T07:07:57Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-19T06:15:06Z — 239 of 249 pairs priced
-- Scans in the last 24h: 46 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-19T01:01:40Z — Kalshi 121662 markets, Polymarket 20698 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 45 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-19T07:07:57Z — Kalshi 119779 markets, Polymarket 20764 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,9 +33,9 @@ Running since 2026-10-14. 200 scans so far. A pair counts as positive when buyin
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 3 run, 44 positive spreads seen; typical one lasted 2002 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 303. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - kalshi: Detroit: Stage of Elimination — 6 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 300. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Prime Minister of Israel after the next election? Benjamin Netanyahu — 13 outcomes, +4.0¢ per $1
+  - kalshi: Detroit: Stage of Elimination — 6 outcomes, +4.0¢ per $1
   - kalshi: Arizona State Senate winner? — 2 outcomes, +4.0¢ per $1
   - kalshi: Pro Baseball Championship Series MVP Winner — 23 outcomes, +4.0¢ per $1
   - polymarket: Who will be UFC Lightweight champion at the end of 2026? Justin Gaethj — 2 outcomes, +4.0¢ per $1
