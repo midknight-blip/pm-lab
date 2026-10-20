@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T12:38:05Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T13:01:46Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-20T12:38:02Z — 247 of 247 pairs priced
-- Scans in the last 24h: 39 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-20T07:01:05Z — Kalshi 131785 markets, Polymarket 21210 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-20T13:01:46Z — Kalshi 134308 markets, Polymarket 21007 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 247 scans so far. A pair counts as positive when buyin
 | KXHIGHAUS-26OCT19-B78.5 /  | no | +68.9¢ | +5.0¢ | 25 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 5 run, 78 positive spreads seen; typical one lasted 3188 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 307. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 312. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Pro Baseball Championship Series MVP Winner — 23 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Cape Town on October 20? 17°C — 3 outcomes, +4.0¢ per $1
   - polymarket: Procter & Gamble (PG) Q1 organic sales growth? 2.5% to 3.5% — 3 outcomes, +4.0¢ per $1
