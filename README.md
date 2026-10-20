@@ -1,38 +1,38 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T02:01:04Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T02:43:46Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-20T02:01:02Z — 248 of 248 pairs priced
-- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-20T02:43:43Z — 248 of 248 pairs priced
+- Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-20T01:03:05Z — Kalshi 133168 markets, Polymarket 20719 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 230 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 231 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 84
 - Positive pairs still in play: **215** (confirmed same bet: 0, not yet checked: 212)
-- Scans with at least one positive pair: 230
+- Scans with at least one positive pair: 231
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | KXHIGHTSEA-26OCT18-B60.5 /  | no | +98.8¢ | +72.8¢ | 29 | 50 | 0 | >999% |
-| Highest temperature in Houston on Oct 19, 202 / Will the highest temperature in Houston be be | no | +98.8¢ | +16.1¢ | 49 | 50 | 1 | >999% |
-| Highest temperature in Houston on Oct 19, 202 / Will the highest temperature in Houston be be | no | +98.8¢ | +16.2¢ | 51 | 50 | 1 | >999% |
-| Highest temperature in Atlanta on Oct 19, 202 / Will the highest temperature in Atlanta be be | no | +98.8¢ | +17.1¢ | 47 | 50 | 1 | >999% |
-| Highest temperature in Atlanta on Oct 19, 202 / Will the highest temperature in Atlanta be be | no | +98.8¢ | +17.6¢ | 41 | 50 | 1 | >999% |
+| Highest temperature in Houston on Oct 19, 202 / Will the highest temperature in Houston be be | no | +98.8¢ | +16.1¢ | 50 | 50 | 1 | >999% |
+| Highest temperature in Houston on Oct 19, 202 / Will the highest temperature in Houston be be | no | +98.8¢ | +16.2¢ | 52 | 50 | 1 | >999% |
+| Highest temperature in Atlanta on Oct 19, 202 / Will the highest temperature in Atlanta be be | no | +98.8¢ | +17.1¢ | 48 | 50 | 1 | >999% |
+| Highest temperature in Atlanta on Oct 19, 202 / Will the highest temperature in Atlanta be be | no | +98.8¢ | +17.9¢ | 42 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | no | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | Highest temperature in Austin on Oct 19, 2026 / Will the highest temperature in Austin be bet | no | +73.2¢ | +14.0¢ | 45 | 50 | 1 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +68.9¢ | +61.8¢ | 171 | 50 | 8 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +68.9¢ | +61.8¢ | 172 | 50 | 8 | >999% |
 | Highest temperature in Austin on Oct 19, 2026 / Will the highest temperature in Austin be bet | no | +68.9¢ | +5.0¢ | 25 | 50 | 1 | >999% |
 
-- Fast-check sessions (every 15 sec): 4 run, 69 positive spreads seen; typical one lasted 1755 sec, longest 120.0 min
+- Fast-check sessions (every 15 sec): 5 run, 78 positive spreads seen; typical one lasted 3188 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 306. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Prime Minister of Israel after the next election? Benjamin Netanyahu — 13 outcomes, +4.0¢ per $1
   - kalshi: Pro Baseball Championship Series MVP Winner — 23 outcomes, +4.0¢ per $1
