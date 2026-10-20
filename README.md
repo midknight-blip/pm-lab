@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T12:04:24Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T12:38:05Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-20T11:58:51Z — 247 of 247 pairs priced
-- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-20T12:38:02Z — 247 of 247 pairs priced
+- Scans in the last 24h: 39 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-20T07:01:05Z — Kalshi 131785 markets, Polymarket 21210 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 246 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 247 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 84
-- Positive pairs still in play: **220** (confirmed same bet: 0, not yet checked: 217)
-- Scans with at least one positive pair: 246
+- Positive pairs still in play: **221** (confirmed same bet: 0, not yet checked: 218)
+- Scans with at least one positive pair: 247
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -29,7 +29,7 @@ Running since 2026-10-14. 246 scans so far. A pair counts as positive when buyin
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | no | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXHIGHAUS-26OCT19-B80.5 /  | no | +73.2¢ | +14.0¢ | 45 | 50 | 1 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +68.9¢ | +62.8¢ | 187 | 50 | 8 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +68.9¢ | +62.8¢ | 188 | 50 | 8 | >999% |
 | KXHIGHAUS-26OCT19-B78.5 /  | no | +68.9¢ | +5.0¢ | 25 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 5 run, 78 positive spreads seen; typical one lasted 3188 sec, longest 120.0 min
