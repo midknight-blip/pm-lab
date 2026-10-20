@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T18:33:28Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T18:57:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-20T18:33:26Z — 243 of 247 pairs priced
-- Scans in the last 24h: 39 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-20T13:01:46Z — Kalshi 134308 markets, Polymarket 21007 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-20T18:57:21Z — Kalshi 146216 markets, Polymarket 20893 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 256 scans so far. A pair counts as positive when buyin
 | KXHIGHAUS-26OCT19-B78.5 /  | no | +68.9¢ | +5.0¢ | 25 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 5 run, 78 positive spreads seen; typical one lasted 3188 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 312. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - kalshi: Pro Baseball Championship Series MVP Winner — 23 outcomes, +4.0¢ per $1
-  - polymarket: Highest temperature in Cape Town on October 20? 17°C — 3 outcomes, +4.0¢ per $1
-  - polymarket: Procter & Gamble (PG) Q1 organic sales growth? 2.5% to 3.5% — 3 outcomes, +4.0¢ per $1
-  - polymarket: Borno, Nigeria Governor Election Winner Ibrahim Abba Gana — 3 outcomes, +4.0¢ per $1
-  - polymarket: Kano, Nigeria Governor Election Winner Abba Kabir Yusuf — 4 outcomes, +3.9¢ per $1
+- Same-site bundles in the last 3 days: 329. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Keisha Lance Bottoms runs behind Jon Ossoff by...? (First Round) 3-6 p — 3 outcomes, +4.0¢ per $1
+  - kalshi: Georgia State House winner? — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Lucknow on October 22? 31°C — 2 outcomes, +4.0¢ per $1
+  - polymarket: Huon Valley Mayoral Election Winner Paul Gibson — 3 outcomes, +4.0¢ per $1
+  - polymarket: Vertiv (VRT) Q3 adjusted operating margin? 24% to 26% — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
