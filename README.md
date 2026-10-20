@@ -1,15 +1,15 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T07:00:29Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-20T07:01:05Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-20T07:00:26Z — 245 of 248 pairs priced
-- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-20T01:03:05Z — Kalshi 133168 markets, Polymarket 20719 yes/no markets, 250 matched pairs
+- Last scan: 2026-10-20T06:12:43Z — 248 of 248 pairs priced
+- Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-20T07:01:05Z — Kalshi 131785 markets, Polymarket 21210 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -22,18 +22,18 @@ Running since 2026-10-14. 238 scans so far. A pair counts as positive when buyin
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | KXHIGHTSEA-26OCT18-B60.5 /  | no | +98.8¢ | +72.8¢ | 29 | 50 | 0 | >999% |
-| Highest temperature in Houston on Oct 19, 202 / Will the highest temperature in Houston be be | no | +98.8¢ | +16.8¢ | 55 | 50 | 1 | >999% |
-| Highest temperature in Houston on Oct 19, 202 / Will the highest temperature in Houston be be | no | +98.8¢ | +16.2¢ | 57 | 50 | 1 | >999% |
-| Highest temperature in Atlanta on Oct 19, 202 / Will the highest temperature in Atlanta be be | no | +98.8¢ | +17.2¢ | 51 | 50 | 1 | >999% |
-| Highest temperature in Atlanta on Oct 19, 202 / Will the highest temperature in Atlanta be be | no | +98.8¢ | +18.4¢ | 45 | 50 | 1 | >999% |
+| KXHIGHTHOU-26OCT19-B78.5 /  | no | +98.8¢ | +16.8¢ | 55 | 50 | 1 | >999% |
+| KXHIGHTHOU-26OCT19-B80.5 /  | no | +98.8¢ | +16.2¢ | 57 | 50 | 1 | >999% |
+| KXHIGHTATL-26OCT19-B70.5 /  | no | +98.8¢ | +17.2¢ | 51 | 50 | 1 | >999% |
+| KXHIGHTATL-26OCT19-B68.5 /  | no | +98.8¢ | +18.4¢ | 45 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | no | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
-| Highest temperature in Austin on Oct 19, 2026 / Will the highest temperature in Austin be bet | no | +73.2¢ | +14.0¢ | 45 | 50 | 1 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +68.9¢ | +61.8¢ | 179 | 50 | 8 | >999% |
-| Highest temperature in Austin on Oct 19, 2026 / Will the highest temperature in Austin be bet | no | +68.9¢ | +5.0¢ | 25 | 50 | 1 | >999% |
+| KXHIGHAUS-26OCT19-B80.5 /  | no | +73.2¢ | +14.0¢ | 45 | 50 | 1 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | no | +68.9¢ | +61.8¢ | 178 | 50 | 8 | >999% |
+| KXHIGHAUS-26OCT19-B78.5 /  | no | +68.9¢ | +5.0¢ | 25 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 5 run, 78 positive spreads seen; typical one lasted 3188 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 288. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 307. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Pro Baseball Championship Series MVP Winner — 23 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Cape Town on October 20? 17°C — 3 outcomes, +4.0¢ per $1
   - polymarket: Procter & Gamble (PG) Q1 organic sales growth? 2.5% to 3.5% — 3 outcomes, +4.0¢ per $1
