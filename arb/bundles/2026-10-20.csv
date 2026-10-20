@@ -1,0 +1,58 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-10-20T01:00:26Z,kalshi,KXATTYGENIL-26,Illinois Attorney General winner?,2,0.989,0.005,0.006,83.01,2027-01-16T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXSECSTATEMN-26NOV03,Minnesota Secretary of State winner?,4,0.97,0.015,0.015,211.0,2027-01-15T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,HOUSENJ5-26,NJ-05 House winner?,2,0.99,0.004,0.006,49.0,2027-01-04T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXCRITICSHAIR-27,Critics Choice Awards: Best Hair and Makeup,16,0.91,0.06,0.03,53.0,2027-01-03T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXCRITICSCOM-27,Critics Choice Awards: Best Comedy,16,0.93,0.064,0.006,4.0,2027-01-03T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXATTYGENRI-26,Rhode Island Attorney General winner?,2,0.986,0.003,0.011,60.02,2027-01-02T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXSTATELEG-VTSENA26,Vermont State Senate winner?,2,0.98,0.009,0.011,2639.2,2026-11-03T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.97,0.013,0.017,5293.0,2026-11-03T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXSTATELEG-MIHOUSE26,Michigan State House winner?,2,0.94,0.025,0.035,2549.0,2026-11-03T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXSTATELEG-GASEN26,Georgia State Senate winner?,2,0.97,0.017,0.013,4517.7,2026-11-03T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXSFD8-26,San Francisco District 8 Supervisor election winner?,4,0.96,0.032,0.008,5.0,2026-11-03T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.014,0.016,5.0,2026-11-03T15:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXCAELECTION-2637,CA-37 House winner?,2,0.98,0.007,0.013,5.0,2026-11-03T19:00:00Z
+2026-10-20T01:00:26Z,kalshi,KXDTEMMYS-COURTROOM26,Daytime Emmy Awards: Outstanding Legal / Courtroom Series,5,0.92,0.054,0.026,5.0,2026-10-31T17:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x58357926b2ce8ecefea46b56eb2214d83697a18d17c029f3f039b318e5033f00,Highest temperature in Mexico City on October 20? 24°C,5,0.958,0.0335,0.0085,,2026-10-20T12:00:00Z
+2026-10-20T01:00:26Z,polymarket,0xc6611d14c3c26c489fa70575f834fe9101e2233b3ebd732e103ebc2186588a00,United Airlines (UAL) Q3 consolidated passenger load factor? 84% to 85%,2,0.95,0.0199,0.0301,,2026-10-20T22:00:00Z
+2026-10-20T01:00:26Z,polymarket,0x26d7e9d9f9ea1160505ffcd861007a3c2d9d01ba3c56c9b699fe4fab1fc4ac00,Highest temperature in Manila on October 21? 34°C,3,0.95,0.0292,0.0208,,2026-10-21T12:00:00Z
+2026-10-20T01:00:26Z,polymarket,0x9a6d7bbd6202d448ece63546a07096d887043ffc5cc52a7b46f7ca97bfdce800,Highest temperature in Chicago on October 21? 70-71°F,3,0.956,0.0269,0.0171,,2026-10-21T12:00:00Z
+2026-10-20T01:00:26Z,polymarket,0x03c9c6d9f7b20aaa1f33f99bd24bd16e4e0e00cfa892dde097b800655490b200,Prime Minister of Israel after the next election? Benjamin Netanyahu,16,0.984,0.0,0.016,,2026-10-28T03:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x4b8c969f25f6eefe0f47ab9174e0cb16cef71c3e5b0399aeda5cceae8e125a00,Next Prime Minister of Serbia? Aleksandar Vučić,4,0.97,0.0185,0.0115,,2026-10-25T23:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xb1426cd17f313e13154246e232c31e35803db5f2540c264bd9c325762bbfd900,Billboard 200 #1 Album Week of October 31 You Seem Pretty Sad for a Girl So in Love - Olivia Rodrigo,3,0.95,0.0315,0.0185,,2026-10-28T03:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x810c4a572ab6658dd988c086161e43db5bf047d1aa1e1e16f49e52f47584c000,Ottawa Mayoral Election Winner Mark Sutcliffe,3,0.986,0.0069,0.0071,,2026-10-27T03:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x3d0d22b03315781881717db94c015f21a49d3322872fb441dd20c8b60070f900,How many Israeli elections before government formed? 1,2,0.95,0.0183,0.0317,,2026-10-27T23:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x18d3f72364ee8ae9685bd58a7459e99eeb63da1d751c63a20c82ca2a062a3800,"Zelenskyy # posts October 20 - October 27, 2026? 80-99",6,0.958,0.0332,0.0088,,2026-10-27T16:00:00Z
+2026-10-20T01:00:26Z,polymarket,0x47018373718fc2befbf478289cfc1596f9a4d901d0abe48611f5c2cfef5e2900,FC Barcelona vs. Deportivo Alavés FC Barcelona,2,0.98,0.0113,0.0087,,2026-10-31T20:00:00Z
+2026-10-20T01:00:26Z,polymarket,0xce2e0a042345fb5bf04ec3271236ecbc057d8a0a45eb4dc7428e808a6600d700,"Kingston, ON Mayoral Election Winner Bryan Paterson",2,0.985,0.0025,0.0125,,2026-10-27T03:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x7f0e606bb0cba33ed38d4a10ffdf4a4760058f022647a4665971fbd36793c300,Courtenay-Comox British Columbia Legislative Assembly Election Winner Brennan Day,3,0.97,0.0183,0.0117,,2026-10-25T03:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x1be3c2e942e527daf5d1b863b186ef71b8493e0817836d01946acc74aa768e00,Next Muse Spark Model (1.4+) released on...? No release by October 31,2,0.959,0.0023,0.0387,,2026-10-31T23:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xbed7638db44c1f30cabd3d4133eacc377a5567292764c0a11bfef4ff8172cd00,Who wins the Senate pending Hormuz Agreement before the midterms? No Hormuz Agreement,3,0.98,0.0098,0.0102,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x05792250237485e5011b761056f754df97b10e0f77f6ee1ee6a3d1468ba0a300,TX-04 House Election Winner Pat Fallon (R),2,0.992,0.0026,0.0054,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xd2b9f673add4cc4aed236d9a329f41e746c716da2da818bbece52754b0ded600,Michigan Senate Election: Macomb County Winner Abdul El-Sayed (D),2,0.95,0.0183,0.0317,,2026-11-03T23:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x5e8f092817348506cc4523e86ab15e9499a4a467fa358def6b74000c3c4ab000,Kansas Senate Election Margin of Victory Marshall 5-10%,3,0.96,0.0252,0.0148,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xffda4e12af88649b9b7b1a2e179d6d2a81f660b9faf0b90e7fda1367c5737a00,TN-04 House Election Winner Scott DesJarlais (R),2,0.993,0.0017,0.0053,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x96b129dab71acbf07d198a03ef92b525bf737c02b8d032f04817d07499df5700,Nevada Governor Election: Turnout 1.125M-1.2M,4,0.938,0.0268,0.0352,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xf65a562e91eee48f47a037ecbed722ab94f419aa1197d18183b06fe52b345600,IN-06 House Election Margin of Victory Republican 20-25%,3,0.969,0.0231,0.0079,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x68f65b29bd4ee52d1725342f7ade075ec951de66943c3d0716b081e87bc5af00,FL-11 House Election Margin of Victory Republican 9-12%,5,0.954,0.0299,0.0161,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xfa8946a8b2ce7d90dcf4e8977f6a694023da7aae9c0ff47789fc081d7fa6f200,Minnesota Senate and Governor Combo Dems sweep,2,0.965,0.0092,0.0258,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x9232448e9ab6b8404afa59c107bb8bb9cf0edad07ac9745469fb7f373ab35c00,IL-15 House Election Margin of Victory Democrat Wins,5,0.96,0.0297,0.0103,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x8ccff209caff06421f528d98cdb7a61c72c8189db81a9d0fa61414276c8d5400,Mississippi Senate Election: Turnout (First Round) 800K-900K,4,0.968,0.0262,0.0058,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x3a36afb1bced00e6c43684201139c912cf6a8f8416eefc47490b4b8cb3902200,Which party will win the Maine State Senate in 2026? Democratic Party,2,0.979,0.0045,0.0165,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xb07da6ff6623a59ecf810dd5c1fbd121b1d0cfd936f9493d3c8a9d36b6ac0800,How many House seats will the Democrats win in Minnesota? <3,3,0.955,0.0164,0.0286,,2026-11-04T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xa4193a606756908a48e30602c155adb3fa680628d534aaca3bd836ae67328b00,MLB: 2026 NL Hank Aaron Winner Sal Stewart,3,0.979,0.0007,0.0203,,2027-01-01T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x7eac04d8edc7adbcf34a1abe2cb8a9fb292ee926feaaff64b1c2bcb905111e00,MLB: 2026 AL Hank Aaron Winner Ben Rice,4,0.994,0.0005,0.0055,,2027-01-01T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x00bdc5f8e04c5940751a469eec7c8cc06b3e7e79011a7e2a50877c2181c0f500,UEFA Nations League 2026-27: Group D1 Winner Malta,2,0.97,0.0043,0.0257,,2026-12-02T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.972,0.0027,0.0254,,2026-12-19T00:00:00Z
+2026-10-20T01:00:26Z,polymarket,0x45ec1f7704d0ddd047e70443e830028d8801671283883ad1b46a29659488b600,Venezuela leader end of 2026? Nicolás Maduro,9,0.96,0.0153,0.0247,,2027-01-01T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x92fa5dc99566487b91775a40218e3462b16f4d35ae795fb2495c7613fd7bf000,How many different countries will Israel strike in 2026? 15+,4,0.965,0.0,0.035,,2027-01-01T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Sean Strickland,2,0.957,0.0047,0.0383,,2027-01-01T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x09e236705d5147e362548f09db0f6729ba78b900b0fc74ae47abda7f652c4d00,Dancing with the Stars S35: Winner? Tyler Cameron,6,0.945,0.0283,0.0268,,2027-04-01T03:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x93e19d9c550cc0c51c26cbf8007bbaa8ef99c5c699b1999d0873fe1a29fd3b00,Next High Representative for Bosnia and Herzegovina in 2026? No HR in 2026,3,0.947,0.0198,0.0332,,2027-01-01T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Brandon Moreno,2,0.984,0.0005,0.0155,,2027-01-01T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xd104a4f58a46fb5ed8f488ea647ea181fb9625e37ac9033038da300828e6d800,Fantasy Football: 2026-27 QB Points Leader Aaron Rodgers,2,0.963,0.0043,0.0327,,2027-01-27T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.95,0.011,0.039,,2027-02-07T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x955368b4be5980c014038613e6b023d97a0e9a428334f42b8136bba868a48b00,"Borno, Nigeria Governor Election Winner Babagana Buhari",3,0.951,0.0095,0.0395,,2027-02-07T04:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Tangles,8,0.975,0.0185,0.0065,,2027-03-14T23:59:00Z
+2026-10-20T01:00:26Z,polymarket,0xfbe9584ce9bf5fadd3a2e87f758cb62619d9b810b8e5bc76033d4d6f96144a00,#1 Searched Actor on Google 2026? Inde Navarrette,30,0.955,0.0289,0.0161,,2027-04-01T03:59:00Z
+2026-10-20T01:00:26Z,polymarket,0x075618cfcad2bfd274613928669f336a9ce9ae3b28128131b0e4eaa1fa5f6b00,#1 Searched Passing on Google in the US 2026? Dolly Parton,24,0.962,0.0287,0.0093,,2027-04-01T03:59:00Z
