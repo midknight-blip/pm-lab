@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-21T12:15:53Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-21T13:03:32Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-21T12:15:51Z — 245 of 249 pairs priced
-- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-21T07:04:06Z — Kalshi 147290 markets, Polymarket 21814 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-21T13:03:31Z — Kalshi 146825 markets, Polymarket 21676 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -28,17 +28,17 @@ Running since 2026-10-14. 284 scans so far. A pair counts as positive when buyin
 | KXHIGHTATL-26OCT19-B68.5 /  | no | +98.8¢ | +18.4¢ | 45 | 50 | 1 | >999% |
 | KXHIGHDEN-26OCT20-B72.5 /  | no | +98.7¢ | +9.2¢ | 36 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
-| Highest temperature in San Francisco on Oct 2 / Will the highest temperature in San Francisco | no | +98.2¢ | +12.3¢ | 54 | 50 | 0 | >999% |
+| KXHIGHTSFO-26OCT20-B68.5 /  | no | +98.2¢ | +12.3¢ | 54 | 50 | 0 | >999% |
 | KXHIGHTATL-26OCT20-B76.5 /  | no | +98.0¢ | +20.8¢ | 54 | 50 | 1 | >999% |
-| Highest temperature in San Francisco on Oct 2 / Will the highest temperature in San Francisco | no | +98.0¢ | +12.8¢ | 50 | 50 | 0 | >999% |
+| KXHIGHTSFO-26OCT20-B66.5 /  | no | +98.0¢ | +12.8¢ | 50 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 5 run, 78 positive spreads seen; typical one lasted 3188 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 378. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 383. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Second-best Text Arena Math AI Lab end of October? Google — 2 outcomes, +4.0¢ per $1
   - polymarket: Keisha Lance Bottoms runs behind Jon Ossoff by...? (First Round) 3-6 p — 3 outcomes, +4.0¢ per $1
   - kalshi: Georgia State House winner? — 2 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Lucknow on October 22? 31°C — 2 outcomes, +4.0¢ per $1
   - polymarket: Huon Valley Mayoral Election Winner Paul Gibson — 3 outcomes, +4.0¢ per $1
-  - polymarket: Vertiv (VRT) Q3 adjusted operating margin? 24% to 26% — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
