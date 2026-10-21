@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-21T16:06:20Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-21T16:44:43Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-21T16:06:17Z — 249 of 249 pairs priced
+- Last scan: 2026-10-21T16:44:40Z — 249 of 249 pairs priced
 - Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-21T13:03:31Z — Kalshi 146825 markets, Polymarket 21676 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 289 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 290 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 84
 - Positive pairs still in play: **256** (confirmed same bet: 0, not yet checked: 253)
-- Scans with at least one positive pair: 289
+- Scans with at least one positive pair: 290
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Running since 2026-10-14. 289 scans so far. A pair counts as positive when buyin
 | KXHIGHTATL-26OCT20-B76.5 /  | no | +98.0¢ | +20.8¢ | 54 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT20-B66.5 /  | no | +98.0¢ | +12.8¢ | 50 | 50 | 0 | >999% |
 
-- Fast-check sessions (every 15 sec): 5 run, 78 positive spreads seen; typical one lasted 3188 sec, longest 120.0 min
+- Fast-check sessions (every 15 sec): 6 run, 117 positive spreads seen; typical one lasted 1785 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 383. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Second-best Text Arena Math AI Lab end of October? Google — 2 outcomes, +4.0¢ per $1
   - polymarket: Keisha Lance Bottoms runs behind Jon Ossoff by...? (First Round) 3-6 p — 3 outcomes, +4.0¢ per $1
