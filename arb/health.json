@@ -1,9 +1,9 @@
 {
- "last_scan": "2026-10-22T07:53:29Z",
+ "last_scan": "2026-10-22T08:31:26Z",
  "pairs_watched": 249,
- "pairs_priced": 0,
- "rows": 0,
- "positive_now": 0,
- "best_edge_now": null,
- "error": "<HTTPError 503: 'Service Unavailable'>"
+ "pairs_priced": 249,
+ "rows": 412,
+ "positive_now": 44,
+ "best_edge_now": 0.1929,
+ "error": null
 }
