@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T12:54:16Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T13:03:11Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-22T12:54:14Z — 217 of 218 pairs priced
 - Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 1
-- Last market list refresh: 2026-10-22T07:05:02Z — Kalshi 151927 markets, Polymarket 22192 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-22T13:03:10Z — Kalshi 158207 markets, Polymarket 22069 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 321 scans so far. A pair counts as positive when buyin
 | KXHIGHTHOU-26OCT18-B72.5 /  | no | +32.1¢ | +16.0¢ | 16 | 33 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 7 run, 129 positive spreads seen; typical one lasted 2100 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 387. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 393. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Kansas Senate Election: Sedgwick County Winner Adam Hamilton (D) — 2 outcomes, +4.0¢ per $1
   - polymarket: Second-best Text Arena Math AI Lab end of October? Google — 2 outcomes, +4.0¢ per $1
   - polymarket: Keisha Lance Bottoms runs behind Jon Ossoff by...? (First Round) 3-6 p — 3 outcomes, +4.0¢ per $1
