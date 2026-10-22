@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T06:14:49Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T07:05:03Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-22T06:14:46Z — 238 of 248 pairs priced
-- Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-22T01:03:05Z — Kalshi 162017 markets, Polymarket 22018 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 36 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-22T07:05:02Z — Kalshi 151927 markets, Polymarket 22192 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -21,8 +21,8 @@ Running since 2026-10-14. 312 scans so far. A pair counts as positive when buyin
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| Highest temperature in Denver on Oct 21, 2026 / Will the highest temperature in Denver be bet | no | +98.8¢ | +16.2¢ | 36 | 50 | 1 | >999% |
-| Highest temperature in Denver on Oct 21, 2026 / Will the highest temperature in Denver be bet | no | +98.8¢ | +11.3¢ | 43 | 50 | 1 | >999% |
+| KXHIGHDEN-26OCT21-B74.5 /  | no | +98.8¢ | +16.2¢ | 36 | 50 | 1 | >999% |
+| KXHIGHDEN-26OCT21-B76.5 /  | no | +98.8¢ | +11.3¢ | 43 | 50 | 1 | >999% |
 | KXHIGHTSEA-26OCT18-B60.5 /  | no | +98.8¢ | +72.8¢ | 29 | 50 | 0 | >999% |
 | KXHIGHTHOU-26OCT19-B78.5 /  | no | +98.8¢ | +16.8¢ | 55 | 50 | 1 | >999% |
 | KXHIGHTHOU-26OCT19-B80.5 /  | no | +98.8¢ | +16.2¢ | 57 | 50 | 1 | >999% |
@@ -33,12 +33,12 @@ Running since 2026-10-14. 312 scans so far. A pair counts as positive when buyin
 | KXHIGHTSFO-26OCT20-B68.5 /  | no | +98.2¢ | +12.3¢ | 54 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 7 run, 129 positive spreads seen; typical one lasted 2100 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 386. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Niagara-on-the-Lake, ON Mayoral Election Winner Andrea Kaiser — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 387. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Kansas Senate Election: Sedgwick County Winner Adam Hamilton (D) — 2 outcomes, +4.0¢ per $1
   - polymarket: Second-best Text Arena Math AI Lab end of October? Google — 2 outcomes, +4.0¢ per $1
   - polymarket: Keisha Lance Bottoms runs behind Jon Ossoff by...? (First Round) 3-6 p — 3 outcomes, +4.0¢ per $1
   - kalshi: Georgia State House winner? — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Lucknow on October 22? 31°C — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 

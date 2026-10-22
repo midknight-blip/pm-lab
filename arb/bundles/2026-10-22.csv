@@ -67,3 +67,64 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-22T00:58:55Z,polymarket,0x8081be60a2c564046d6d1971a8bb76540e4d7e1eeb6a2b4712b414c48e363900,El Salvador Legislative Election: 3rd Place PCN,11,0.963,0.0,0.037,,2027-03-01T04:59:00Z
 2026-10-22T00:58:55Z,polymarket,0x2691d175a836dd78c6f180752d753910b8b021d73c2b9ac4addbe255d1ed3000,AFCON 2027 Qualifying: Group B Winner Angola,4,0.949,0.0218,0.0292,,2027-03-31T03:59:00Z
 2026-10-22T00:58:55Z,polymarket,0x4203a491b8986e29566169c9013ec9b19a2400ed0cd9dca46e8d8aa3880d1700,AFCON 2027 Qualifying: Group F Winner Central African Republic,4,0.965,0.0257,0.0093,,2027-03-31T03:59:00Z
+2026-10-22T07:01:54Z,kalshi,KXATTYGENIL-26,Illinois Attorney General winner?,2,0.987,0.005,0.008,1839.22,2027-01-16T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXSECSTATEAR-26NOV03,Arkansas Secretary of State winner?,3,0.98,0.012,0.008,50.0,2027-01-15T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXHOUSEWINSTATE-NJD,How many House seats will Democrats win in New Jersey?,5,0.95,0.035,0.015,0.14,2027-01-04T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXCRITICSCOM-27,Critics Choice Awards: Best Comedy,16,0.9,0.062,0.038,5.0,2027-01-03T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXATTYGENRI-26,Rhode Island Attorney General winner?,2,0.986,0.003,0.011,1328.01,2027-01-02T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXWTIVSBRENT-26DEC31,Annual Return: WTI vs. Brent?,2,0.96,0.016,0.024,0.07,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,kalshi,KXLOSEREELECTIONRSEN-2026,How many Republican senators will lose reelection in 2026?,4,0.934,0.041,0.025,1.0,2026-12-31T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXLEXMAYOR-26,Lexington mayoral election winner?,2,0.97,0.02,0.01,9.98,2026-12-15T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXSTATELEG-VTSENA26,Vermont State Senate winner?,2,0.98,0.009,0.011,1328.0,2026-11-03T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXSTATELEG-MNSEN26,Minnesota State Senate winner?,2,0.96,0.016,0.024,2073.0,2026-11-03T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXSTATELEG-MEHOUSE26,Maine State House winner?,2,0.96,0.014,0.026,2760.0,2026-11-03T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXSTATELEG-IASEN26,Iowa State Senate winner?,2,0.96,0.008,0.032,307.0,2026-11-03T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXSTATELEG-AKSEN26,Alaska State Senate winner?,2,0.97,0.012,0.018,1872.01,2026-11-03T15:00:00Z
+2026-10-22T07:01:54Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.014,0.016,5.0,2026-11-03T15:00:00Z
+2026-10-22T07:01:54Z,polymarket,0x4b8c969f25f6eefe0f47ab9174e0cb16cef71c3e5b0399aeda5cceae8e125a00,Next Prime Minister of Serbia? Aleksandar Vučić,3,0.982,0.0,0.018,,2026-10-25T23:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x4e9ccb83f6cb20c2ae99827e60dc1f8c3460ff555b6b1eb3f074e44cdb4d1800,Highest temperature in Beijing on October 23? 17°C,6,0.989,0.0,0.011,,2026-10-23T12:00:00Z
+2026-10-22T07:01:54Z,polymarket,0x551f17b506c2431a0a43997bafba0a4d1b9675ee170abfab68d8438d1d4dec00,Highest temperature in Helsinki on October 23? 12°C,2,0.96,0.0,0.04,,2026-10-23T12:00:00Z
+2026-10-22T07:01:54Z,polymarket,0xf19bc9aaebffc9b59a055135d85e38cb98bdc9afe82430e839700713ce41a800,Highest temperature in Munich on October 23? 13°C,4,0.97,0.0,0.03,,2026-10-23T12:00:00Z
+2026-10-22T07:01:54Z,polymarket,0xdeda6305580e4dce1b092d3583e168385970ae2304a4b81da8a2c2766cf99300,How many ships transit Bab el-Mandeb Strait week of October 19? 190-209,2,0.98,0.0,0.02,,2026-10-26T03:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xb00e3d838d4c6f2fd1b96309aa00f29ddce5b9473152af5ca3a767a3ba89db00,SpaceX' Market Cap end of October 2026? $1.75-$2.00T,4,0.965,0.0,0.035,,2026-10-31T23:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xe759ef566f2ab9c7a538aba6c741759687f0d86521e3c214865b3dca38a4cc00,Which company has the best AI model on LiveBench (Mathematics) end of October? Anthropic,8,0.973,0.0,0.027,,2026-11-01T03:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xde0aed957ba628b73a225bdec7a09a5ec324fdcaa2eef4b4e55b4329aa812a00,Which company has the best AI model on LiveBench (Overall) end of October? Anthropic,7,0.963,0.0,0.037,,2026-11-01T03:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x0663fd3641665ce69d152f3eab863d9475a31dade414513983588fb452a55200,Which company has the best Text Arena Math AI model end of October? Google,3,0.979,0.0,0.021,,2026-10-31T16:00:00Z
+2026-10-22T07:01:54Z,polymarket,0xe04f99ed9a37483b9fe48543d2111fe3088dba7f3597bdd3e967fe781d157400,United States Grand Prix: Driver Winner Max Verstappen,5,0.96,0.0333,0.0068,,2026-11-01T20:00:00Z
+2026-10-22T07:01:54Z,polymarket,0x47018373718fc2befbf478289cfc1596f9a4d901d0abe48611f5c2cfef5e2900,FC Barcelona vs. Deportivo Alavés Draw (FC Barcelona vs. Deportivo Alavés),2,0.97,0.0109,0.0191,,2026-10-31T20:00:00Z
+2026-10-22T07:01:54Z,polymarket,0xd7d887bceda710885e7c6bb32e42e584a60ae898a6b857bd61854adc3f406900,Glenorchy Mayoral Election Winner Nathan Volf,2,0.982,0.0,0.018,,2026-10-28T03:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xe80318744e2322ff6ea66c270f68ef0c95f88c32f8e719df0c9884b951034400,Ohio Senate Election Margin of Victory Brown 0-3%,7,0.971,0.0,0.029,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xc554983bbd2f04122fba8da657373238c8880c1fa1375184b7f8620ffea4b400,WI-05 House Election Margin of Victory Republican 20-25%,3,0.988,0.0,0.012,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x00afa0845cee2923c6b98fbfe23d80a418c6b4c89aeb405affc34b330157c700,NY-10 House Election Winner Jennifer Moore (R),2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x664a0ad15a485f7167d58ca6e36f3756f6b658a32e02822d5b07fcc213be5800,Texas Senate Election: Denton County Winner James Talarico (D),2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x1d4f255e3b7a60eebc635238afee027dc4725fb2e2a54cfb9cb47f6f69793800,NC-10 House Election Margin of Victory Republican 15-20%,3,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x9a7502f0bbfa671a8baaf746995e8073a379e6fc4d4150ef6394d422b367c700,How many House seats will the Democrats win in Colorado? 7+,3,0.96,0.0,0.04,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x6716a3603cd40a5a5844dcf4e21c622a5080411afbc65f630d85c66c6f217100,MD-04 House Election Winner George McDermott (R),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x13dd47f76814adac8f7ca5857a5156f99e608b9e40e77328588953a820f35d00,How many Independents will be elected to Congress? 0,2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xcde47f5334a193fc7a61191b72c07aa983011dd5237c1df413d08795a46f2100,PA-08 House Election Margin of Victory Republican 0-3%,6,0.969,0.0,0.031,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xba4c7405e375d516fffbe43f5dee82ac6c328762a7f32972910fcaf377f2c800,CO-06 House Election Margin of Victory Democrat 35-40%,3,0.977,0.0,0.023,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xfa8946a8b2ce7d90dcf4e8977f6a694023da7aae9c0ff47789fc081d7fa6f200,Minnesota Senate and Governor Combo Dems sweep,2,0.967,0.0,0.033,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xa7250063af84c3b709821786612d9bce8e7930f3ad09d85d8db132198aa78c00,Michigan Governor Election Margin of Victory Benson 6-9%,7,0.968,0.0,0.032,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x70503abc5626277b0d026d19cd7bb21c4bcf560a7f2c00d0408ed40f7dcdae00,GOP Black vote share? 12–13%,3,0.96,0.0,0.04,,2026-11-07T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xa44cdeb4d0e39cb337b395c2b650a41e9e0c85b638f2de7e73df9c385acb8000,How many House seats will the Democrats win in Wisconsin? 3,4,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x7eac04d8edc7adbcf34a1abe2cb8a9fb292ee926feaaff64b1c2bcb905111e00,MLB: 2026 AL Hank Aaron Winner Ben Rice,4,0.994,0.0005,0.0055,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.99,0.0,0.01,,2026-11-29T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.973,0.0027,0.0243,,2026-12-19T00:00:00Z
+2026-10-22T07:01:54Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? SpaceX,4,0.992,0.0,0.008,,2027-01-02T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Sean Strickland,2,0.986,0.0041,0.0099,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Larry Page",4,0.986,0.0,0.014,,2027-01-03T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x74ae042dc26bdf3adba173019759b01bb13017bd4932cdbc67d96f3934cf6500,Which movie has 2nd biggest opening weekend in 2026? Spider-Man: Brand New Day,2,0.99,0.0,0.01,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 16-19,4,0.992,0.0,0.008,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x45666c7bc2639a42e3bee3638568debe473143936e1f2a5565e5cdd3299e3300,VALORANT Offseason: Boaster Next Team Eternal Fire,4,0.95,0.0234,0.0266,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x93e19d9c550cc0c51c26cbf8007bbaa8ef99c5c699b1999d0873fe1a29fd3b00,Next High Representative for Bosnia and Herzegovina in 2026? Antonio Zanardi Landi,4,0.974,0.0,0.026,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x7b024853bdcb07c9e01281fdcba9a7caef41933bc67ab6a498f16405b4687600,Second-best AI Agent Lab end of December? OpenAI,3,0.98,0.0,0.02,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Islam Makhachev,3,0.976,0.0034,0.0206,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xfbe9584ce9bf5fadd3a2e87f758cb62619d9b810b8e5bc76033d4d6f96144a00,#1 Searched Actor on Google 2026? Timothée Chalamet,31,0.974,0.0,0.026,,2027-04-01T03:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x4f5a85d9ed8f13ee723cb30e29ba3c3fa9cd08f207cae5c8acc3cd8752c68800,South Korea Annual Inflation 2026 2.7% to 2.9%,2,0.984,0.0,0.016,,2027-01-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xb8941550c5f0f615b6f1e1fee3a1a0472b22d068c01a73a9248eb61f31519c00,Japan Core CPI YoY in 2026 4.0%+,6,0.994,0.0,0.006,,2027-04-01T03:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x7aa82c31937c91b1fc3d1f37ef60d3a0e8bded16eddd3c3cbcdd8e63dd606800,Which movie has biggest opening weekend in 2026? Avengers: Doomsday,2,0.96,0.0,0.04,,2027-02-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xcbf1bd7bce23bf8ef66f357da34a7bb3492173cbf254002ec34624eb17709f00,Which movie has biggest opening week in 2026? Avengers: Doomsday,2,0.99,0.0,0.01,,2027-02-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Swim – BTS,3,0.986,0.0,0.014,,2027-02-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0xdc032e06a7c29a5c62d7084023f4b5ed10a3311e571417a95c82e8c3e0b1ee00,Next Israeli Minister of National Security? No Next Minister by Feb 28,19,0.983,0.0,0.017,,2027-03-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x8ea8858b01bdaf6b48d5de9e876803584cda9033ef3bdae49f7a2583bd412c00,Which party will gain most seats in El Salvador Legislative Election? Solidary Force (FS),11,0.977,0.0,0.023,,2027-03-01T04:59:00Z
+2026-10-22T07:01:54Z,polymarket,0x87b0d09d2acc26117312791f30534274e5eddab87c4f1975474822ce38324200,AFCON 2027 Qualifying: Group L Winner Guinea-Bissau,4,0.944,0.0236,0.0324,,2027-03-31T03:59:00Z
