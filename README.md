@@ -1,28 +1,28 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T05:42:22Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T06:14:49Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-22T05:42:19Z — 239 of 248 pairs priced
-- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-22T06:14:46Z — 238 of 248 pairs priced
+- Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-22T01:03:05Z — Kalshi 162017 markets, Polymarket 22018 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 311 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 312 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 84
 - Positive pairs still in play: **284** (confirmed same bet: 0, not yet checked: 281)
-- Scans with at least one positive pair: 311
+- Scans with at least one positive pair: 312
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| Highest temperature in Denver on Oct 21, 2026 / Will the highest temperature in Denver be bet | no | +98.8¢ | +16.2¢ | 35 | 50 | 1 | >999% |
-| Highest temperature in Denver on Oct 21, 2026 / Will the highest temperature in Denver be bet | no | +98.8¢ | +10.8¢ | 42 | 50 | 1 | >999% |
+| Highest temperature in Denver on Oct 21, 2026 / Will the highest temperature in Denver be bet | no | +98.8¢ | +16.2¢ | 36 | 50 | 1 | >999% |
+| Highest temperature in Denver on Oct 21, 2026 / Will the highest temperature in Denver be bet | no | +98.8¢ | +11.3¢ | 43 | 50 | 1 | >999% |
 | KXHIGHTSEA-26OCT18-B60.5 /  | no | +98.8¢ | +72.8¢ | 29 | 50 | 0 | >999% |
 | KXHIGHTHOU-26OCT19-B78.5 /  | no | +98.8¢ | +16.8¢ | 55 | 50 | 1 | >999% |
 | KXHIGHTHOU-26OCT19-B80.5 /  | no | +98.8¢ | +16.2¢ | 57 | 50 | 1 | >999% |
