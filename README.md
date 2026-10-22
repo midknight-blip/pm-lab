@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T00:26:49Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T01:03:06Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-22T00:26:46Z — 247 of 249 pairs priced
 - Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-21T18:59:29Z — Kalshi 153780 markets, Polymarket 21650 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-22T01:03:05Z — Kalshi 162017 markets, Polymarket 22018 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 303 scans so far. A pair counts as positive when buyin
 | KXHIGHTSFO-26OCT20-B66.5 /  | no | +98.0¢ | +12.8¢ | 50 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 6 run, 117 positive spreads seen; typical one lasted 1785 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 389. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 386. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Niagara-on-the-Lake, ON Mayoral Election Winner Andrea Kaiser — 2 outcomes, +4.0¢ per $1
   - polymarket: Kansas Senate Election: Sedgwick County Winner Adam Hamilton (D) — 2 outcomes, +4.0¢ per $1
   - polymarket: Second-best Text Arena Math AI Lab end of October? Google — 2 outcomes, +4.0¢ per $1
   - polymarket: Keisha Lance Bottoms runs behind Jon Ossoff by...? (First Round) 3-6 p — 3 outcomes, +4.0¢ per $1
   - kalshi: Georgia State House winner? — 2 outcomes, +4.0¢ per $1
-  - polymarket: Highest temperature in Lucknow on October 22? 31°C — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
