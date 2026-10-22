@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T08:31:29Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T09:16:22Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-22T08:31:26Z — 249 of 249 pairs priced
+- Last scan: 2026-10-22T09:16:19Z — 249 of 249 pairs priced
 - Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 1
 - Last market list refresh: 2026-10-22T07:05:02Z — Kalshi 151927 markets, Polymarket 22192 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 315 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 316 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 84
-- Positive pairs still in play: **287** (confirmed same bet: 0, not yet checked: 284)
-- Scans with at least one positive pair: 314
+- Positive pairs still in play: **291** (confirmed same bet: 0, not yet checked: 288)
+- Scans with at least one positive pair: 315
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
