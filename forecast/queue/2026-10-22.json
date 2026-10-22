@@ -1,0 +1,76 @@
+{
+ "batch": "2026-10-22",
+ "created": "2026-10-22T09:44:36Z",
+ "markets": [
+  {
+   "key": "kalshi:KXPAYROLLS-26OCT-T50000",
+   "question": "Jobs numbers in October 2026? \u2014 Above 50,000",
+   "rules": "If the increase in total non-farm payroll employment is above 50000 as reported by the Bureau of Labor Statistics Monthly Employment Situation Report for the month of October 2026, then the market resolves to Yes. The market closes at 8:29 AM ET on the expected date of the data release.",
+   "close": "2026-11-06T15:00:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXRT-CAT-55",
+   "question": "The Cat in the Hat \u00b7 Rotten Tomatoes score \u2014 Above 55",
+   "rules": "If The Cat in the Hat has a Tomatometer score of above 55 on Nov 9, 2026 at 10:00 AM ET, then the market resolves to Yes. The \"Fresh!\" and \"Certified Fresh!\" subtitles are meant for illustrative purposes only. The Tomatometer score must be above the strike value to resolve as YES (for example, a score of 75 would resolve \"Above 75\" as No.) The market will be determined the Monday after wide release at 10:00 AM ET.\n\nThis market and these products have not been endorsed by Rotten Tomatoes. Any references to Rotten Tomatoes or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between Rotten Tomatoes and Kalshi.",
+   "close": "2026-11-09T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXMLB-26-TB",
+   "question": "Pro Baseball Champion \u2014 Tampa Bay",
+   "rules": "If Tampa Bay wins the 2026 Pro Baseball Championship, then the market resolves to Yes. Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-01T04:00:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXSHELCC-26NOV07-T103",
+   "question": "Shell Credit Card Spend in October \u2014 Above 103",
+   "rules": "If the Carbon Arc Shell Credit Card Spend (October 2026) for October 2026 is above 103 , then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 4th calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 4th.\n\nThe index measures year-over-year change, where 100 means Shell Credit Card Spend was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% more spend than year prior, 97 = 3% decline from year prior. The index is measured by Carbon Arc's aggregated U.S. credit and debit card transaction panel, matched to the same period of the prior year. The panel updates daily as new data arrives.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-14T05:00:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "kalshi:KXTRUMPMENTION-26OCT22-FRAU",
+   "question": "What will Trump say during his rally in Iowa? \u2014 Fraud (3+ times)",
+   "rules": "If \n Donald Trump says Fraud (3+ times) as part of Midterm Rally in Sioux City, Iowa originally scheduled for October 22, 2026\n, then the market resolves to Yes. How this is resolved\nVideo of the Midterm Rally in Sioux City, Iowa originally scheduled for October 22, 2026 using the live broadcast or stream.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the Midterm Rally in Sioux City, Iowa originally scheduled for October 22, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nDonald Trump speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified, previously aired content, archival footage, and recordings captured at times, places",
+   "close": "2026-11-05T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "kalshi:KXLTGOVTX-26-DEM",
+   "question": "Texas Lieutenant Governor winner? \u2014 Vikki Goodwin",
+   "rules": "If a representative of the Democratic party is sworn in as the Lieutenant Governor of Texas for the term beginning in 2027, then the market resolves to Yes. This market is eligible for accelerated determination after a consensus of media organizations project the winner. See full rules for details.",
+   "close": "2026-11-10T15:00:00Z",
+   "category": "elections"
+  },
+  {
+   "key": "kalshi:KXIMPEACH-27-AUG01",
+   "question": "Will Trump be impeached? \u2014 Before Aug 1, 2027",
+   "rules": "If the President of the United States has been impeached before Aug 1, 2027, then the market resolves to Yes. ",
+   "close": "2026-11-03T15:00:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "poly:5889111",
+   "question": "Will the price of Bitcoin be above $82,000 on October 25?",
+   "rules": "This market will resolve to \"Yes\" if the Binance 1 minute candle for BTC/USDT closing at 12:00 in the ET timezone (noon) on the date specified in the title has a final \"Close\" price higher than the price specified in the title. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.\n\nPrice precision is determined by the number of decimal places in the source.",
+   "close": "2026-10-25T16:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "poly:4824602",
+   "question": "Will Student List \u2013 Students Win win the most seats in the 2026 Serbian parliamentary election?",
+   "rules": "Parliamentary elections to elect the 250 members of the National Assembly of Serbia are scheduled to take place on October 25, 2026.\n\nThis market will resolve to the electoral list that wins the greatest number of seats in the National Assembly of Serbia as a result of this election.\n\nElectoral lists will be primarily ranked by the number of seats won in the specified election. If two or more lists are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If lists remain tied, ties will be broken by alphabetical order of the listed names. This market will resolve to the list that occupies the highest finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named electoral list, as it appears on the ballot and official proclamations, regardless of which parties make up the list or how its members later organize themselves in the National Assembly.\n\nIf the results of the specified election are not definitively known by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections, ",
+   "close": "2026-10-25T23:59:00Z",
+   "category": "other"
+  },
+  {
+   "key": "kalshi:KXSILVERMON-26OCT3017-T56.99",
+   "question": "Silver price on October 30, 2026 at 5:00 PM EDT? \u2014 Above $56.99",
+   "rules": "If the close price of the 1-minute candlestick for silver on October 30, 2026 at 5:00 PM EDT is above 56.99 USD/t.oz, then the market resolves to Yes. The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+   "close": "2026-10-30T21:00:00Z",
+   "category": "commodities"
+  }
+ ]
+}
