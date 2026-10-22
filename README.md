@@ -1,36 +1,36 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T09:16:22Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-22T10:04:20Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-22T09:16:19Z — 249 of 249 pairs priced
+- Last scan: 2026-10-22T10:04:17Z — 218 of 218 pairs priced
 - Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 1
 - Last market list refresh: 2026-10-22T07:05:02Z — Kalshi 151927 markets, Polymarket 22192 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 316 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 317 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
-- Positive pairs ruled out as different bets after reading the rules: 84
-- Positive pairs still in play: **291** (confirmed same bet: 0, not yet checked: 288)
-- Scans with at least one positive pair: 315
+- Positive pairs ruled out as different bets after reading the rules: 156
+- Positive pairs still in play: **220** (confirmed same bet: 0, not yet checked: 214)
+- Scans with at least one positive pair: 316
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| KXHIGHDEN-26OCT21-B74.5 /  | no | +98.8¢ | +16.2¢ | 36 | 50 | 1 | >999% |
-| KXHIGHDEN-26OCT21-B76.5 /  | no | +98.8¢ | +11.3¢ | 43 | 50 | 1 | >999% |
-| KXHIGHTSEA-26OCT18-B60.5 /  | no | +98.8¢ | +72.8¢ | 29 | 50 | 0 | >999% |
-| KXHIGHTHOU-26OCT19-B78.5 /  | no | +98.8¢ | +16.8¢ | 55 | 50 | 1 | >999% |
-| KXHIGHTHOU-26OCT19-B80.5 /  | no | +98.8¢ | +16.2¢ | 57 | 50 | 1 | >999% |
-| KXHIGHTATL-26OCT19-B70.5 /  | no | +98.8¢ | +17.2¢ | 51 | 50 | 1 | >999% |
-| KXHIGHTATL-26OCT19-B68.5 /  | no | +98.8¢ | +18.4¢ | 45 | 50 | 1 | >999% |
-| KXHIGHDEN-26OCT20-B72.5 /  | no | +98.7¢ | +9.2¢ | 36 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
-| KXHIGHTSFO-26OCT20-B68.5 /  | no | +98.2¢ | +12.3¢ | 54 | 50 | 0 | >999% |
+| KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
+| KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +73.9¢ | +62.8¢ | 253 | 50 | 6 | >999% |
+| KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
+| KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
+| KXHIGHMIA-26OCT16-B90.5 /  | no | +40.9¢ | +22.8¢ | 38 | 50 | 1 | >999% |
+| KXHIGHDEN-26OCT18-B76.5 /  | no | +40.8¢ | +8.5¢ | 16 | 50 | 1 | >999% |
+| KXLIGAFGAME-26OCT17ATHVAL-ATH /  | no | +39.8¢ | +18.1¢ | 54 | 50 | 0 | >999% |
+| KXHIGHMIA-26OCT18-B80.5 /  | no | +37.6¢ | +21.7¢ | 10 | 50 | 1 | >999% |
+| KXHIGHTHOU-26OCT18-B72.5 /  | no | +32.1¢ | +16.0¢ | 16 | 33 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 7 run, 129 positive spreads seen; typical one lasted 2100 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 387. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
