@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-23T17:57:00Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-23T18:28:19Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-23T17:56:57Z — 247 of 250 pairs priced
+- Last scan: 2026-10-23T18:28:17Z — 247 of 250 pairs priced
 - Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-23T13:00:52Z — Kalshi 166157 markets, Polymarket 21459 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 366 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 367 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
 - Positive pairs still in play: **258** (confirmed same bet: 0, not yet checked: 252)
-- Scans with at least one positive pair: 365
+- Scans with at least one positive pair: 366
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -26,8 +26,8 @@ Running since 2026-10-14. 366 scans so far. A pair counts as positive when buyin
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +73.9¢ | +62.8¢ | 253 | 50 | 6 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
-| Highest temperature in Dallas on Oct 23, 2026 / Will the highest temperature in Dallas be bet | no | +45.6¢ | +14.9¢ | 7 | 50 | 1 | >999% |
-| Highest temperature in Atlanta on Oct 23, 202 / Will the highest temperature in Atlanta be be | no | +42.0¢ | +22.4¢ | 17 | 50 | 1 | >999% |
+| Highest temperature in Dallas on Oct 23, 2026 / Will the highest temperature in Dallas be bet | no | +45.6¢ | +21.9¢ | 8 | 50 | 1 | >999% |
+| Highest temperature in Atlanta on Oct 23, 202 / Will the highest temperature in Atlanta be be | no | +42.0¢ | +22.3¢ | 18 | 50 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B90.5 /  | no | +40.9¢ | +22.8¢ | 38 | 50 | 1 | >999% |
 | KXHIGHDEN-26OCT18-B76.5 /  | no | +40.8¢ | +8.5¢ | 16 | 50 | 1 | >999% |
 | KXLIGAFGAME-26OCT17ATHVAL-ATH /  | no | +39.8¢ | +18.1¢ | 54 | 50 | 0 | >999% |
