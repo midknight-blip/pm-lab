@@ -1,36 +1,36 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-23T18:58:55Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-23T19:10:42Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-23T18:28:17Z — 247 of 250 pairs priced
-- Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-23T19:10:39Z — 249 of 249 pairs priced
+- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-23T18:58:54Z — Kalshi 168686 markets, Polymarket 20889 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 367 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 368 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
-- Positive pairs still in play: **258** (confirmed same bet: 0, not yet checked: 252)
-- Scans with at least one positive pair: 366
+- Positive pairs still in play: **268** (confirmed same bet: 0, not yet checked: 262)
+- Scans with at least one positive pair: 367
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +73.9¢ | +62.8¢ | 253 | 50 | 6 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +83.9¢ | +62.8¢ | 254 | 50 | 4 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
-| Highest temperature in Dallas on Oct 23, 2026 / Will the highest temperature in Dallas be bet | no | +45.6¢ | +21.9¢ | 8 | 50 | 1 | >999% |
-| Highest temperature in Atlanta on Oct 23, 202 / Will the highest temperature in Atlanta be be | no | +42.0¢ | +22.3¢ | 18 | 50 | 1 | >999% |
+| Highest temperature in Dallas on Oct 23, 2026 / Will the highest temperature in Dallas be bet | no | +45.6¢ | +26.9¢ | 9 | 50 | 1 | >999% |
+| Highest temperature in Atlanta on Oct 23, 202 / Will the highest temperature in Atlanta be be | no | +43.2¢ | +22.4¢ | 19 | 50 | 1 | >999% |
+| Highest temperature in Atlanta on Oct 23, 202 / Will the highest temperature in Atlanta be be | no | +41.3¢ | +10.3¢ | 19 | 50 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B90.5 /  | no | +40.9¢ | +22.8¢ | 38 | 50 | 1 | >999% |
 | KXHIGHDEN-26OCT18-B76.5 /  | no | +40.8¢ | +8.5¢ | 16 | 50 | 1 | >999% |
-| KXLIGAFGAME-26OCT17ATHVAL-ATH /  | no | +39.8¢ | +18.1¢ | 54 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 8 run, 144 positive spreads seen; typical one lasted 2445 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 410. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
