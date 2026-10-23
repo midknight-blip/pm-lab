@@ -1,0 +1,54 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-10-23T01:02:35Z,kalshi,KXATTYGENIL-26,Illinois Attorney General winner?,2,0.987,0.005,0.008,2371.01,2027-01-16T15:00:00Z
+2026-10-23T01:02:35Z,kalshi,KXATTYGENRI-26,Rhode Island Attorney General winner?,2,0.986,0.003,0.011,2077.01,2027-01-02T15:00:00Z
+2026-10-23T01:02:35Z,kalshi,KXGOOGLESEARCH-ATH27,Google’s Year in Search 2026 Global - Athletes: #1 search,11,0.91,0.054,0.036,6.42,2027-01-01T15:00:00Z
+2026-10-23T01:02:35Z,kalshi,KXLOSEREELECTIONRSEN-2026,How many Republican senators will lose reelection in 2026?,4,0.943,0.041,0.016,1.0,2026-12-31T15:00:00Z
+2026-10-23T01:02:35Z,kalshi,KXCBDINDONESIA-26NOV18,Bank Indonesia rate decision in November,5,0.94,0.039,0.021,0.01,2026-11-18T08:30:00Z
+2026-10-23T01:02:35Z,kalshi,KXSTATELEG-MNSEN26,Minnesota State Senate winner?,2,0.96,0.016,0.024,1281.84,2026-11-03T15:00:00Z
+2026-10-23T01:02:35Z,kalshi,KXSTATELEG-MEHOUSE26,Maine State House winner?,2,0.98,0.011,0.009,2329.7,2026-11-03T15:00:00Z
+2026-10-23T01:02:35Z,kalshi,KXGUAMGOV-26,Guam Governor winner?,2,0.94,0.031,0.029,8.0,2026-11-03T15:00:00Z
+2026-10-23T01:02:35Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.96,0.014,0.026,5.0,2026-11-03T15:00:00Z
+2026-10-23T01:02:35Z,polymarket,0xe056b1d143ffe847cf10ee6bb234f5b0f3bb58f87b7859f640475892328a8900,Cúcuta Deportivo FC vs. Águilas Doradas Rionegro Águilas Doradas Rionegro,2,0.97,0.0248,0.0052,,2026-10-27T23:00:00Z
+2026-10-23T01:02:35Z,polymarket,0xf375b7379232d8c099855a54eb85f51e4bff8e08b7c768caf934d38ced5fe400,Highest temperature in Wellington on October 23? 20°C,6,0.993,0.0,0.007,,2026-10-23T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x64af8316976c4b677981fc21c74383bbc1b264bbc10f77e9ffed4c0bba9ffa00,Highest temperature in Paris on October 24? 15°C,3,0.99,0.0,0.01,,2026-10-24T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x4583fb41dfd8f57fdb9f6f9526c07a86d4e47f6fc561283de7246679b36e0600,Billboard Hot 100 #2 Song Week of October 31 Housewife - Tate McRae,4,0.978,0.0,0.022,,2026-10-27T23:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x0ea52e06febc48cdd9aa16f4c67e89414aa2606dcb8cd3831053905250e23d00,Highest temperature in Cape Town on October 23? 24°C,4,0.988,0.0,0.012,,2026-10-23T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x57a9aaf3169c3958e5fc5c48d89319e61c43a9d0f2b592313ac68ba6ca6d6800,Highest temperature in Shenzhen on October 24? 32°C,3,0.99,0.0,0.01,,2026-10-24T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x03dd1b670e5fae77a85ec15c87b9089137765b8d0ad75c30d4207a39a8d31000,Highest temperature in Warsaw on October 23? 14°C,5,0.989,0.0,0.011,,2026-10-23T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0xda53c5c4f6c4f90a446fbead13c95383ab42fcb4b8e6bba73bdf7d695c052900,Highest temperature in Austin on October 24? 86-87°F,3,0.973,0.0,0.027,,2026-10-24T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x9864cbdba96b295ff0f8bca65b3bd2afe533792ef2c57e3709513c753d45df00,Highest temperature in Denver on October 23? 78-79°F,3,0.98,0.0,0.02,,2026-10-23T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x0d4aa10e9b2a2169a5b57788d83e64cdda9820588a788fc47bd831d1c68d4e00,Highest temperature in Helsinki on October 24? 12°C,2,0.98,0.0,0.02,,2026-10-24T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x8043eafd1c01ccf5db80d20e685b4895f20e31e67770104a79987baaa880e700,Košice Mayoral Election Winner Jaroslav Polaček,2,0.969,0.0,0.031,,2026-10-25T03:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xa1d17e3360fa1b4b400f65a5681aff097d98d6ba503f89af2d65b19a19bed000,Highest temperature in Cape Town on October 24? 22°C,3,0.97,0.0,0.03,,2026-10-24T12:00:00Z
+2026-10-23T01:02:35Z,polymarket,0xe04f99ed9a37483b9fe48543d2111fe3088dba7f3597bdd3e967fe781d157400,United States Grand Prix: Driver Winner Max Verstappen,6,0.937,0.0326,0.0304,,2026-11-01T20:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x345e5c0720880d4d14169eb24262d198bd76f031a4ebf95f8a031ef0922ffe00,2nd Largest Company end of October 2026? Apple,5,0.977,0.0,0.023,,2026-11-01T03:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x08bf3f714805b8a2bafc534c4073d9d914f423fc7a7f11541104e66b447e7000,Which company has the best AI Agent end of October? Anthropic,5,0.965,0.0,0.035,,2026-11-01T03:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x09000d5770a97b7c758cfed65bad848e3bbbc3caa803ac432503334dde0a9100,Texas Railroad Commissioner Election Winner Jon Rosenthal (D),2,0.98,0.0,0.02,,2026-11-03T23:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xe759ef566f2ab9c7a538aba6c741759687f0d86521e3c214865b3dca38a4cc00,Which company has the best AI model on LiveBench (Mathematics) end of October? Anthropic,6,0.966,0.0,0.034,,2026-11-01T03:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x92a81baacdf5d0957d560334c81cdbfd7e5b0c16d4395e4f09829d3335fa1100,Next Gemini Pro Model released on...? No release by October 31,3,0.99,0.0,0.01,,2026-10-31T23:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x891ad6d5c7b1484a3d7f00dd1af32c7c6e11cd0f69e9d415182f455b1c105d00,2026 Williamson County Judge Election Winner Heather Jefts,2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xd658d11617b74fc2c4e4c5cf41b3f67656d671cd3447d456d98641712c304100,Kentucky Senate Election: Turnout 1.7M-1.8M,7,0.977,0.0,0.023,,2026-11-04T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xa9a94f9ec1a552a7624cd8fce0144e6856ffdc76ad4cf592bf935762af532d00,October Unemployment Rate 4.1%,3,0.97,0.0,0.03,,2026-11-06T13:30:00Z
+2026-10-23T01:02:35Z,polymarket,0xff6626080842288dc4187f9ed8306a14031ed9b5beb75f93da60eb7fdb162a00,IL-17 House Election Margin of Victory Democrat 20-25%,3,0.968,0.0,0.032,,2026-11-04T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x121676994823b2beb45d895ae21e49ae1ad702eb5a49ff4857fe8b17ec472500,TN-02 House Election Margin of Victory Republican 20-25%,5,0.967,0.0,0.033,,2026-11-04T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x633f33294cd28aa3439d0d56f88e0812cca889953d2392b8eaf5e82ecd5fcc00,CVS Health (CVS) Q3 medical benefit ratio (MBR)? 89% to 90.5%,4,0.985,0.0,0.015,,2026-11-04T14:30:00Z
+2026-10-23T01:02:35Z,polymarket,0x61eab1c95d2db9f8ce8c6fe551fa4d4c5eda174dbc85c71f94dad5064e9bf000,2026 Harris County Judge Election Winner Orlando Sanchez,2,0.993,0.0,0.007,,2026-11-04T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x7eac04d8edc7adbcf34a1abe2cb8a9fb292ee926feaaff64b1c2bcb905111e00,MLB: 2026 AL Hank Aaron Winner Ben Rice,4,0.994,0.0005,0.0055,,2027-01-01T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x287c87a661e4e7a72ef2cc5caafbc1f89c99a7e3eb5e56fc65ec2d976d3d5800,Spain General Election: Toledo Winner PP,5,0.976,0.0,0.024,,2026-11-30T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.99,0.0,0.01,,2026-11-29T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x10c3fd8241ead5cdf2414e7b5201da66779ef215aedf7f7daa9fddfc5caab400,Copa do Brasil: 2026 Champion Palmeiras,4,0.96,0.033,0.007,,2026-12-06T23:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.973,0.0027,0.0243,,2026-12-19T00:00:00Z
+2026-10-23T01:02:35Z,polymarket,0x37f30a5f57a58379105596977171312d17f049340c17583cbff1eab08e7e0e00,MLB: AL Comeback Player of the Year Royce Lewis,2,0.988,0.0006,0.0114,,2027-01-01T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",4,0.989,0.0,0.011,,2027-01-01T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Larry Page",5,0.992,0.0,0.008,,2027-01-03T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x60840607f1f408f7b14dc9b95f1b43582e77b7b8400fc901f9471ad8aba3b800,Where will Trump and Putin meet next in 2026? China,6,0.973,0.0,0.027,,2027-01-01T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x09e236705d5147e362548f09db0f6729ba78b900b0fc74ae47abda7f652c4d00,Dancing with the Stars S35: Winner? Ezra Frech,6,0.988,0.0,0.012,,2027-04-01T03:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x0684ae140578e16c1cd73a949faae70129c3eb622c11a5a1f92e98b156be9d00,People's Sexiest Man Alive 2026 Clavicular,4,0.971,0.0,0.029,,2027-01-01T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x28d86160a457973201450d750bf95dfdae85a289b16ddb432745888114810100,Alphabet’s Market Cap end of 2026? $4.00-$4.50T,3,0.98,0.0,0.02,,2026-12-31T23:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x82ee452cd1098e4b6a878a0bdcadf255026aa4747e54edc7cecef9e716381500,Venezuela de facto leader end of 2026? Delcy Rodríguez,4,0.974,0.0,0.026,,2026-12-31T00:00:00Z
+2026-10-23T01:02:35Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Bola Tinubu,5,0.962,0.0,0.038,,2027-01-17T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xbcded829ea9cba0227ba0a48e85257f9829ded5334a18413d77fd13b5e0e6100,AFC Asian Cup 2027: Group D Winner Australia,4,0.969,0.0195,0.0115,,2027-02-06T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xb92f8e48ca62b1cfb98c2807891103e134a0eb86f65911dd74bfe6cce507ee00,"Kano, Nigeria Governor Election Winner Abba Kabir Yusuf",4,0.977,0.0,0.023,,2027-02-07T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Nasir Idris",2,0.993,0.0,0.007,,2027-02-07T04:59:00Z
+2026-10-23T01:02:35Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.993,0.0,0.007,,2027-03-14T23:59:00Z
+2026-10-23T01:02:35Z,polymarket,0x075618cfcad2bfd274613928669f336a9ce9ae3b28128131b0e4eaa1fa5f6b00,#1 Searched Passing on Google in the US 2026? Lindsey Graham,24,0.973,0.0,0.027,,2027-04-01T03:59:00Z
