@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-23T12:24:17Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-23T13:00:53Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-23T12:24:14Z — 243 of 244 pairs priced
-- Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-23T07:03:16Z — Kalshi 160476 markets, Polymarket 21484 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 37 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-23T13:00:52Z — Kalshi 166157 markets, Polymarket 21459 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 358 scans so far. A pair counts as positive when buyin
 | KXHIGHTHOU-26OCT18-B72.5 /  | no | +32.1¢ | +16.0¢ | 16 | 33 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 7 run, 129 positive spreads seen; typical one lasted 2100 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 418. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Second-best Text Arena Math AI Lab end of October? Google — 2 outcomes, +4.0¢ per $1
-  - polymarket: Keisha Lance Bottoms runs behind Jon Ossoff by...? (First Round) 3-6 p — 3 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 415. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Georgia State House winner? — 2 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Lucknow on October 22? 31°C — 2 outcomes, +4.0¢ per $1
   - polymarket: Huon Valley Mayoral Election Winner Paul Gibson — 3 outcomes, +4.0¢ per $1
+  - polymarket: Vertiv (VRT) Q3 adjusted operating margin? 24% to 26% — 2 outcomes, +4.0¢ per $1
+  - polymarket: Nevada Governor Election: Washoe County Winner Aaron Ford (D) — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 

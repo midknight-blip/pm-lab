@@ -108,3 +108,71 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-23T06:59:58Z,polymarket,0xbcded829ea9cba0227ba0a48e85257f9829ded5334a18413d77fd13b5e0e6100,AFC Asian Cup 2027: Group D Winner Australia,4,0.969,0.0195,0.0115,,2027-02-06T04:59:00Z
 2026-10-23T06:59:58Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Abubakar Malami",2,0.993,0.0,0.007,,2027-02-07T04:59:00Z
 2026-10-23T06:59:58Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.994,0.0,0.006,,2027-03-14T23:59:00Z
+2026-10-23T12:57:20Z,kalshi,KXHFINSERVICECHAIR-27,Who will be Chair of House Financial Services?,5,0.97,0.023,0.007,0.01,2027-02-01T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXATTYGENIL-26,Illinois Attorney General winner?,2,0.987,0.005,0.008,2480.01,2027-01-16T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXBRRATECUT-27JAN01,Number of Brazil rate cuts in 2026?,3,0.95,0.038,0.012,1.59,2027-01-08T16:30:00Z
+2026-10-23T12:57:20Z,kalshi,KXHOUSEWINSTATE-NJD,How many House seats will Democrats win in New Jersey?,5,0.95,0.034,0.016,0.14,2027-01-04T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXATTYGENRI-26,Rhode Island Attorney General winner?,2,0.986,0.003,0.011,2367.01,2027-01-02T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXGOOGLESEARCH-ATH27,Google’s Year in Search 2026 Global - Athletes: #1 search,11,0.92,0.055,0.025,30.0,2027-01-01T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXLOSEREELECTIONRSEN-2026,How many Republican senators will lose reelection in 2026?,4,0.933,0.04,0.027,1.0,2026-12-31T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXCBDINDONESIA-26NOV18,Bank Indonesia rate decision in November,5,0.94,0.039,0.021,0.01,2026-11-18T08:30:00Z
+2026-10-23T12:57:20Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.98,0.013,0.007,2986.51,2026-11-03T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXSTATELEG-MEHOUSE26,Maine State House winner?,2,0.98,0.011,0.009,2352.9,2026-11-03T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.96,0.022,0.018,45.0,2026-11-03T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXGUAMGOV-26,Guam Governor winner?,2,0.94,0.03,0.03,0.1,2026-11-03T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.015,0.015,200.0,2026-11-03T15:00:00Z
+2026-10-23T12:57:20Z,kalshi,KXLBPGAME-26OCT232130TORSAB,Toros Del Valle vs Sabios de Manizales,2,0.98,0.013,0.007,0.52,2026-10-24T04:30:00Z
+2026-10-23T12:57:20Z,polymarket,0xd250d8f3dff4f57da82aed42d654928d8ca718dc481db88ee83c4b020deb9300,Highest temperature in Mexico City on October 24? 21°C,3,0.96,0.0,0.04,,2026-10-24T12:00:00Z
+2026-10-23T12:57:20Z,polymarket,0xefe29ac6c39848b39e65a3f50e41d8447b5b12e6ba5f0e44818cb295bae31200,Brazil Presidential Election Second Round: 1st Place in Amazonas Flavio Bolsonaro,2,0.99,0.0,0.01,,2026-10-26T03:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x706b93ddbaf5ea0491db888cbf38e963154dec734a87fe9677a5c35d04f06600,Highest temperature in Miami on October 24? 84-85°F,3,0.98,0.0,0.02,,2026-10-24T12:00:00Z
+2026-10-23T12:57:20Z,polymarket,0xf96e02cd74328e8092efe7220551ab62f8a013ba05c9fc37e2e09f3e5d563300,Who will receive the first mandate to form Israel's next government? Benjamin Netanyahu,2,0.99,0.0,0.01,,2026-10-28T03:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x0a18c9c0add8d8b448aa126dbc3e185d81a1585e28242473e75358ca8dca6d00,"Oshawa, ON Mayoral Election Winner Tito-Dante Marimpietri",2,0.963,0.0,0.037,,2026-10-27T03:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x2f405240397ab7e375d39316ecdcc71af71ee287a0c154776a92939f76541300,Highest temperature in Sao Paulo on October 23? 23°C,4,0.975,0.0,0.025,,2026-10-23T12:00:00Z
+2026-10-23T12:57:20Z,polymarket,0x5993f4428daa4d8a14bf63493895a90ded737928f027a99b9e10639b9e832600,Highest temperature in Lucknow on October 25? 31°C,2,0.98,0.0,0.02,,2026-10-25T12:00:00Z
+2026-10-23T12:57:20Z,polymarket,0xdbd619b826b37fa2f4da940985687c9da9dc21e8b0a541d636712f4180b6dd00,Lowest temperature in London on October 24? 8°C,2,0.98,0.0,0.02,,2026-10-24T12:00:00Z
+2026-10-23T12:57:20Z,polymarket,0x1d55cd85eeb5909f2d60e768330614713db9c0456edfa3d2d9646cd17db7f200,Lowest temperature in Los Angeles on October 23? 60-61°F,2,0.979,0.0,0.021,,2026-10-23T12:00:00Z
+2026-10-23T12:57:20Z,polymarket,0xbed7638db44c1f30cabd3d4133eacc377a5567292764c0a11bfef4ff8172cd00,Who wins the Senate pending Hormuz Agreement before the midterms? Hormuz Agreement; R Senate,3,0.991,0.0,0.009,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xb5a82f561e624a4e1a5a67111702727e52cb0630e457d81dea08b00fc7cb3000,IN-08 House Election Winner Mary Allen (D),2,0.994,0.0,0.006,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xcce444be8e0ba4327872109d909e3f3afcebdcd4906b3ed507708c1ba3e75100,NJ-02 House Election Winner Jeff Van Drew (R),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xe04f99ed9a37483b9fe48543d2111fe3088dba7f3597bdd3e967fe781d157400,United States Grand Prix: Driver Winner Max Verstappen,4,0.93,0.0311,0.0389,,2026-11-01T20:00:00Z
+2026-10-23T12:57:20Z,polymarket,0xb00e3d838d4c6f2fd1b96309aa00f29ddce5b9473152af5ca3a767a3ba89db00,SpaceX' Market Cap end of October 2026? $2.00-$2.25T,4,0.96,0.0,0.04,,2026-10-31T23:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x08bf3f714805b8a2bafc534c4073d9d914f423fc7a7f11541104e66b447e7000,Which company has the best AI Agent end of October? Anthropic,2,0.99,0.0,0.01,,2026-11-01T03:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x2c0b30566d58f846c442d8292f49601d6a423f07b6ab7701211cd4efb7858800,NY-23 House Election Margin of Victory Republican 25-30%,3,0.973,0.0,0.027,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x22debb71d78013e5377fb5c359ac29331fad187cb282e6569ef142bbb6792f00,GPU rental prices (H200) end of October? $5.50+,2,0.969,0.0,0.031,,2026-11-01T03:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x6338ca5c1bc424f9c68a615eaeec3539bbb25cc88e7818dcdf03b4897971e100,Core PCE YoY - September 2026 3.0%,3,0.962,0.0,0.038,,2026-10-29T13:30:00Z
+2026-10-23T12:57:20Z,polymarket,0x0053dba9466b5db2abbe085200a65218a682bdf53f7ecefb291824bb9f3a4700,North Carolina Supreme Court Election Winner Anita Earls (D),2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x35e33aaed100bdc09217eb326dc43444d492cd4a5504149b41a237e546c67b00,What will Idaho voters choose as their state gun? Winchester Model 1873,3,0.97,0.0,0.03,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x1f0c99081b1862488a70703a29efba42d1ccf8185f54208529c3b852e9486800,Second-best AI Lab end of October? Google,2,0.99,0.0,0.01,,2026-10-31T16:00:00Z
+2026-10-23T12:57:20Z,polymarket,0xc5c48ea1cf335cdb71386200f090db44f1021d9759509c7c52471e3edfc2fe00,How many House seats will the Democrats win in South Carolina? 1,2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xf98770cb3d10a96142522248b579fe6b06ba5be89a9bfd37737acb23117de500,IL-08 House Election Margin of Victory Democrat 20-25%,4,0.975,0.0,0.025,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xfa8946a8b2ce7d90dcf4e8977f6a694023da7aae9c0ff47789fc081d7fa6f200,Minnesota Senate and Governor Combo Dems sweep,2,0.984,0.0,0.016,,2026-11-04T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x13dd47f76814adac8f7ca5857a5156f99e608b9e40e77328588953a820f35d00,How many Independents will be elected to Congress? 0,2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xc9e968dc310e7475290dc04af6a7d60785aacdc1dae58f0398f53568c2287d00,New York Governor Election: Nassau County Winner Kathy Hochul (D),2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xea9bda9d5d65a7f15664bc1a6f831dd456f2cdcf7f7fc816c6f02a021d5a8000,October Inflation US - Monthly 0.3%,4,0.98,0.0,0.02,,2026-11-11T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x93495273027fa4e83806a2f202e472771a1ad1570aa760af76da5a996cb3e600,Which party will win white women in the midterms? Democrats,2,0.99,0.0,0.01,,2026-11-07T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x6981a54c7c5e52428526c463eb7b7875094dd03976d1abca3f672c07d2feee00,MLB Postseason: Home Run Leader Jake Bauers,6,0.96,0.0317,0.0083,,2026-11-16T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x9d5f4d15e5ad34d4dfc02f2264930aea78afbf11dfa3f96bdf2ee00bb9a30700,UEFA Nations League 2026-27: Group B3 Winner Austria,4,0.979,0.0123,0.0087,,2026-12-02T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x15b69b0fa0735fe7ca5e27e81b16181f863424f3e452680b610fc8e1fe843700,UEFA Nations League 2026-27: Group C2 Winner Cyprus,2,0.97,0.0109,0.0191,,2026-12-02T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x9e120fd235f7a5d83bfe66c346885042e87ce5aea14c3c597042fe8418f44b00,Hsinchu County Magistrate Election Winner Cheng Chao-fang,4,0.963,0.0,0.037,,2026-11-29T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xbb85f11e66cc263e31c671922c8aab5366539e7ab3220e58c1a92b280d980300,Victoria Parliamentary Election: 3rd Place Greens,8,0.968,0.0,0.032,,2026-11-29T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.973,0.0027,0.0243,,2026-12-19T00:00:00Z
+2026-10-23T12:57:20Z,polymarket,0x37f30a5f57a58379105596977171312d17f049340c17583cbff1eab08e7e0e00,MLB: AL Comeback Player of the Year Royce Lewis,2,0.986,0.0006,0.0134,,2027-01-01T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x99fab5ae06906b775e553d7a73356e31e5ddabb44e088ce71644e0f9dca4b800,General Mills Q2 organic net sales growth? -1.5% to 0%,6,0.988,0.0,0.012,,2026-12-23T14:30:00Z
+2026-10-23T12:57:20Z,polymarket,0x878e61490b553fa5d1f23b3c3a76c256e233fd602af847140030d61ffa4c2400,Which company has best AI model end of 2026? Google,13,0.985,0.0,0.015,,2026-12-31T17:00:00Z
+2026-10-23T12:57:20Z,polymarket,0xdcd7daabcacdc4ecf4f9a48d0a2708b52f356dd086c8070992136da62eb72b00,How many Fed rate cuts in 2026? 0 (0 bps),9,0.994,0.0,0.006,,2027-01-01T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",3,0.985,0.0,0.015,,2027-01-01T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x26ae4e5f24dbcaaa8e1314bd98f138b1d231174bcda91134c896a22e36d7a900,Golden Boy 2026 Winner Pau Cubarsi,6,0.989,0.002,0.009,,2026-12-31T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x23f22a07cdf0289e4bd88261329ef6841128d4d53ae3bf303dcfc7463b22da00,Oura IPO Closing Market Cap $12.5B–$15B,3,0.979,0.0,0.021,,2027-01-01T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x0684ae140578e16c1cd73a949faae70129c3eb622c11a5a1f92e98b156be9d00,People's Sexiest Man Alive 2026 Clavicular,4,0.981,0.0,0.019,,2027-01-01T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xcc0cde288c886a081cfed6c17d3f8433c6cdfb2275987c28da2e5b1fd2e22300,#2 AI Lab end of December? (Style Control On) Meta,3,0.993,0.0,0.007,,2027-01-01T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x8499d554f37681143da8ef941a439c1331efabdc68e56fc05c50e69b2981cb00,How many SpaceX launches in 2026? 180-199,3,0.969,0.0,0.031,,2027-01-01T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x2cfba6a0d7a46c48e5df36917953c125035c1d2340a7de68f273f93aa004ef00,Melbourne's wettest month of 2026? November,4,0.961,0.0,0.039,,2027-01-09T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Bola Tinubu,5,0.969,0.0,0.031,,2027-01-17T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x7aa82c31937c91b1fc3d1f37ef60d3a0e8bded16eddd3c3cbcdd8e63dd606800,Which movie has biggest opening weekend in 2026? Spider-Man: Brand New Day,4,0.992,0.0,0.008,,2027-02-01T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x84decfb4b0e12deb2bdba538219aa33bf9e44131e1a98a028de4b3114d4ede00,"Akwa Ibom, Nigeria Governor Election Winner Eno Umo Bassey",6,0.969,0.0,0.031,,2027-02-07T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xbcded829ea9cba0227ba0a48e85257f9829ded5334a18413d77fd13b5e0e6100,AFC Asian Cup 2027: Group D Winner Iraq,4,0.969,0.0195,0.0115,,2027-02-06T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xb92f8e48ca62b1cfb98c2807891103e134a0eb86f65911dd74bfe6cce507ee00,"Kano, Nigeria Governor Election Winner Abba Kabir Yusuf",4,0.967,0.0,0.033,,2027-02-07T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x3dfb3317e621664c96ec774e0d42bf618581ab9c23643675855742e31f334b00,"Benue, Nigeria Governor Election Winner Alia Hyacinth Iormem",6,0.962,0.0,0.038,,2027-02-07T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Abubakar Malami",2,0.993,0.0,0.007,,2027-02-07T04:59:00Z
+2026-10-23T12:57:20Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.991,0.0,0.009,,2027-03-14T23:59:00Z
+2026-10-23T12:57:20Z,polymarket,0x20f0398a5f2aec814fe3e30f2c5e8475955232cc1a7a0f035c57fe55a1b2be00,New South Wales Parliamentary Election: 2nd Place Liberal–National,4,0.974,0.0,0.026,,2027-03-28T03:59:00Z
