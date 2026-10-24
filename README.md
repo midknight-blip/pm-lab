@@ -1,33 +1,33 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T22:52:00Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T23:16:06Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-24T22:51:58Z — 243 of 247 pairs priced
+- Last scan: 2026-10-24T23:16:04Z — 243 of 247 pairs priced
 - Scans in the last 24h: 45 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-24T18:52:21Z — Kalshi 165204 markets, Polymarket 22564 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 419 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 420 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
-- Positive pairs still in play: **298** (confirmed same bet: 0, not yet checked: 292)
-- Scans with at least one positive pair: 418
+- Positive pairs still in play: **299** (confirmed same bet: 0, not yet checked: 293)
+- Scans with at least one positive pair: 419
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +98.8¢ | +8.4¢ | 43 | 50 | 1 | >999% |
+| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +98.8¢ | +9.4¢ | 44 | 50 | 1 | >999% |
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
-| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +98.4¢ | +12.4¢ | 38 | 50 | 1 | >999% |
+| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +98.4¢ | +13.2¢ | 39 | 50 | 1 | >999% |
+| Highest temperature in Dallas on Oct 24, 2026 / Will the highest temperature in Dallas be bet | no | +98.4¢ | +11.6¢ | 49 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
-| Highest temperature in Dallas on Oct 24, 2026 / Will the highest temperature in Dallas be bet | no | +94.1¢ | +11.2¢ | 48 | 50 | 1 | >999% |
+| Highest temperature in Dallas on Oct 24, 2026 / Will the highest temperature in Dallas be bet | no | +97.9¢ | +13.0¢ | 53 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
-| Highest temperature in Dallas on Oct 24, 2026 / Will the highest temperature in Dallas be bet | no | +93.2¢ | +13.0¢ | 52 | 50 | 1 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +89.9¢ | +66.8¢ | 296 | 50 | 3 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
