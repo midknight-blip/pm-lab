@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T00:30:31Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T01:08:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-24T00:30:28Z — 237 of 249 pairs priced
 - Scans in the last 24h: 38 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-23T18:58:54Z — Kalshi 168686 markets, Polymarket 20889 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-24T01:08:20Z — Kalshi 170038 markets, Polymarket 21586 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 378 scans so far. A pair counts as positive when buyin
 | KXHIGHDEN-26OCT18-B76.5 /  | no | +40.8¢ | +8.5¢ | 16 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 8 run, 144 positive spreads seen; typical one lasted 2445 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 410. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Highest temperature in Amsterdam on October 22? 13°C — 3 outcomes, +4.0¢ per $1
-  - polymarket: Highest temperature in NYC on October 22? 68-69°F — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 400. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: How many 6.5 or above earthquakes worldwide October 19 - October 25? 1 — 2 outcomes, +4.0¢ per $1
   - polymarket: Second-best Text Arena Math AI Lab end of October? Google — 2 outcomes, +4.0¢ per $1
-  - polymarket: Central Bank of Colombia decision in October No change — 2 outcomes, +4.0¢ per $1
-  - polymarket: IL-12 House Election Margin of Victory Republican 30-35% — 3 outcomes, +4.0¢ per $1
+  - polymarket: Niagara-on-the-Lake, ON Mayoral Election Winner Andrea Kaiser — 2 outcomes, +4.0¢ per $1
+  - polymarket: How many House seats will the Democrats win in Minnesota? 4 — 2 outcomes, +4.0¢ per $1
+  - polymarket: Pennsylvania State Senate Winner 2026? Democratic Party — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 

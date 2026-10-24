@@ -1,0 +1,55 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-10-24T01:04:10Z,kalshi,KXHFINSERVICECHAIR-27,Who will be Chair of House Financial Services?,5,0.95,0.024,0.026,0.01,2027-02-01T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXHOUSERACE-NY13-26,NY-13 House winner?,2,0.99,0.003,0.007,14.0,2027-01-04T17:00:00Z
+2026-10-24T01:04:10Z,kalshi,HOUSENJ5-26,NJ-05 House winner?,2,0.99,0.004,0.006,36.01,2027-01-04T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,HOUSECA47-26,CA-47 House winner?,2,0.987,0.007,0.006,23.0,2027-01-04T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXLOSEREELECTIONRSEN-2026,How many Republican senators will lose reelection in 2026?,4,0.943,0.041,0.016,2.4,2026-12-31T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXNCAAMBAPRANK-26W2R1,College Basketball (M): #1 Ranked Team on Nov 9 AP Poll,11,0.9,0.06,0.04,200.0,2026-12-15T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXCBDINDONESIA-26NOV18,Bank Indonesia rate decision in November,5,0.94,0.039,0.021,0.01,2026-11-18T08:30:00Z
+2026-10-24T01:04:10Z,kalshi,KXSTATELEG-MNSEN26,Minnesota State Senate winner?,2,0.96,0.016,0.024,357.01,2026-11-03T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.96,0.014,0.026,1288.98,2026-11-03T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXSTATELEG-MEHOUSE26,Maine State House winner?,2,0.98,0.011,0.009,2174.7,2026-11-03T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.96,0.022,0.018,389.01,2026-11-03T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXGUAMGOV-26,Guam Governor winner?,2,0.94,0.029,0.031,11.65,2026-11-03T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXFLINTMAYOR-26,Flint Mayoral Election,2,0.97,0.015,0.015,200.0,2026-11-03T15:00:00Z
+2026-10-24T01:04:10Z,kalshi,KXVHGCB-26OCT24,"Generic congressional ballot on Oct 24, 2026?",9,0.93,0.039,0.031,0.01,2026-10-24T21:05:00Z
+2026-10-24T01:04:10Z,polymarket,0x8ca1d25c488843cf3f36c1157897ce371419d7153af59d84301414aaa47bda00,Toronto Mayoral Election Winner Brad Bradford,2,0.99,0.0,0.01,,2026-10-27T03:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x2255153e50e2504e4def67ceb10460f1498ccbb1488f2620e5ecdf3d798abe00,Highest temperature in Chengdu on October 24? 19°C,3,0.99,0.0,0.01,,2026-10-24T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xcc92e6f8f4f2699f4efc4f056ae291dbee99396892be4c850b972917c3c30e00,Highest temperature in Paris on October 25? 17°C,3,0.99,0.0,0.01,,2026-10-25T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0x9db3a259af379ac08dd13a55a636820d49f0320edc4bbaebc445b23e128cc500,How many 6.5 or above earthquakes worldwide October 19 - October 25? 1,3,0.979,0.0,0.021,,2026-10-26T03:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x331ca665a455c482eab2a1b9c253744125a8ebba932a94caea21d921d6a27800,"Bitcoin price on October 25? 78,000-80,000",3,0.957,0.0331,0.0099,,2026-10-25T16:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xf9966321d70d9f6de9219fe23dffcada5191622ad6979bfe1bfa09a0bfee9d00,Highest temperature in Istanbul on October 24? 22°C or higher,5,0.994,0.0,0.006,,2026-10-24T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xda53c5c4f6c4f90a446fbead13c95383ab42fcb4b8e6bba73bdf7d695c052900,Highest temperature in Austin on October 24? 88-89°F,2,0.96,0.0,0.04,,2026-10-24T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xc3a3222485042445ae298508a91efb4d7b30f557c338062214b3ad9f1cabcd00,Lowest temperature in London on October 25? 9°C,2,0.99,0.0,0.01,,2026-10-25T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xf96e02cd74328e8092efe7220551ab62f8a013ba05c9fc37e2e09f3e5d563300,Who will receive the first mandate to form Israel's next government? Gadi Eizenkot,2,0.96,0.0,0.04,,2026-10-28T03:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xab67dc97a8a406837b9d34738514c58aa57760efa8b1fc04482c367fc68f1600,Highest temperature in Tokyo on October 25? 24°C,6,0.96,0.0,0.04,,2026-10-25T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0x553fd2f571bad4ca75e9ee6b7174bbb0638b2ffd905e3494f782ba2718199800,Highest temperature in Busan on October 25? 19°C,3,0.99,0.0,0.01,,2026-10-25T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xd170bb5c7b72d8c02d0a643ff977a83db8f1fe7b3bd9b6a165aad5abe50aa300,Highest temperature in Madrid on October 25? 22°C,3,0.99,0.0,0.01,,2026-10-25T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xd2be05f40c45ec98e9310ebcca2d539dcbc8eb047ee76df96181b7cdead60200,Highest temperature in Wellington on October 25? 17°C,4,0.979,0.0,0.021,,2026-10-25T12:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xf5d39ac35b002e09e137fe8ae5f5e92fcb133d467cabd91231e9ac7a4eb0a200,Democratic nomination odds leader on October 31? Jon Ossoff,3,0.97,0.0,0.03,,2026-10-31T16:00:00Z
+2026-10-24T01:04:10Z,polymarket,0xb00e3d838d4c6f2fd1b96309aa00f29ddce5b9473152af5ca3a767a3ba89db00,SpaceX' Market Cap end of October 2026? $1.75-$2.00T,3,0.976,0.0,0.024,,2026-10-31T23:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x7bb86d564851020d8c2dbfa7458e38b151c66f60024b2f9ce5a4a810a49faf00,Second-best Text Arena Math AI Lab end of October? Anthropic,2,0.96,0.0,0.04,,2026-11-01T03:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x7e0df9ae39bec1545da7c04ea51797c6d405ee3a1b5de499b061b3c096b37b00,Elon Musk Net Worth on October 31? $900B-$1.00T,3,0.986,0.0,0.014,,2026-11-01T03:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x0053dba9466b5db2abbe085200a65218a682bdf53f7ecefb291824bb9f3a4700,North Carolina Supreme Court Election Winner Anita Earls (D),2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x33e5744ab7e1c2469d9e41fd9762f9a0d36b58158abfc56cc2d819a9ac5d6c00,"""Resident Evil"" total domestic gross by October 31? 150 - 160m",2,0.994,0.0,0.006,,2026-10-31T23:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xc0338bf1af0952cb95909d27d86f0736fc2a10cef103a6d7bb0a22a598fc9b00,AR-03 House Election Margin of Victory Republican 25-30%,4,0.962,0.0,0.038,,2026-11-04T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xb07da6ff6623a59ecf810dd5c1fbd121b1d0cfd936f9493d3c8a9d36b6ac0800,How many House seats will the Democrats win in Minnesota? 4,2,0.96,0.0,0.04,,2026-11-04T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x1cab89150139f4019809ba90de5b5b0fb14086c6875b36def2dea358e9226600,"Fall Elections Combo: Brazil, Israel, US Senate Bolsonaro, Eizenkot, Dems",7,0.963,0.0,0.037,,2026-11-05T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x17bbae142e62e841bcc1a0fa8e92e9a880518b325f0331a73772fd199f411d00,October Inflation China - Annual 0.9% to 1.0%,5,0.96,0.0,0.04,,2026-11-09T23:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x294160f685889a55f5fc523402f5a5927277e7706e0819041555db40517a7000,The Streamer Awards: Streamer of the Year IShowSpeed,2,0.965,0.0,0.035,,2026-11-12T00:00:00Z
+2026-10-24T01:04:10Z,polymarket,0x117930555168ca3c385c4337faa4fc136b7e4bb7f0f8f24035e1225bbfdce200,Price of Dozen Eggs in October? $2.10 to $2.20,7,0.99,0.0,0.01,,2026-11-11T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xe052e9ff883ba773eacf97ba9d62383ed7103c3f1b9c7a792ce24efd86188900,New Zealand legislative election winner? Labour Party,6,0.988,0.0,0.012,,2026-11-08T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x7b67de3ec670ffabd30efac21b26aedc6140533f7669156a516415b322b82a00,Lowest Mississippi level at Baton Rouge by November 30? 6.00 ft or more,5,0.983,0.0,0.017,,2026-12-02T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.99,0.0,0.01,,2026-11-29T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,23,0.973,0.0027,0.0243,,2026-12-19T00:00:00Z
+2026-10-24T01:04:10Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? Kraken,10,0.979,0.0,0.021,,2027-01-02T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Sean Strickland,2,0.99,0.0044,0.0056,,2027-01-01T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xbe1e1cc4a3bbaf5b0331e7c36f0e45049715663aeab08c116b6144ef583b0000,Where will the next US-Iran senior diplomatic meeting take place...? Kazakhstan,12,0.974,0.0,0.026,,2027-01-01T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x2cfba6a0d7a46c48e5df36917953c125035c1d2340a7de68f273f93aa004ef00,Melbourne's wettest month of 2026? October,4,0.986,0.0,0.014,,2027-01-09T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xebefb7b22618995247e20ddcb558d0cd3660be7912a5b7043983819bec08bb00,Pro Football: 2026-27 Rushing Touchdowns Leader Jaxson Dart,8,0.954,0.0389,0.0071,,2027-01-27T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xb8941550c5f0f615b6f1e1fee3a1a0472b22d068c01a73a9248eb61f31519c00,Japan Core CPI YoY in 2026 2.0-2.4%,3,0.994,0.0,0.006,,2027-04-01T03:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x7aa82c31937c91b1fc3d1f37ef60d3a0e8bded16eddd3c3cbcdd8e63dd606800,Which movie has biggest opening weekend in 2026? Spider-Man: Brand New Day,4,0.992,0.0,0.008,,2027-02-01T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x4c39d2d8c7d06e8058b5835d69943a34f0988495222478e01e08de9ad6603b00,Eurozone Annual GDP Growth 2026 1.0-2.0%,9,0.983,0.0,0.017,,2027-02-01T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xbcded829ea9cba0227ba0a48e85257f9829ded5334a18413d77fd13b5e0e6100,AFC Asian Cup 2027: Group D Winner Singapore,4,0.964,0.0203,0.0157,,2027-02-06T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Abubakar Malami",2,0.987,0.0,0.013,,2027-02-07T04:59:00Z
+2026-10-24T01:04:10Z,polymarket,0xfbe9584ce9bf5fadd3a2e87f758cb62619d9b810b8e5bc76033d4d6f96144a00,#1 Searched Actor on Google 2026? Jacob Elordi,30,0.972,0.0,0.028,,2027-04-01T03:59:00Z
