@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T12:50:03Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T12:57:30Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-24T12:50:00Z — 228 of 247 pairs priced
 - Scans in the last 24h: 41 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-24T07:01:44Z — Kalshi 164099 markets, Polymarket 21763 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-24T12:57:30Z — Kalshi 168264 markets, Polymarket 21629 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 399 scans so far. A pair counts as positive when buyin
 | KXHIGHDEN-26OCT18-B76.5 /  | no | +40.8¢ | +8.5¢ | 16 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 391. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 409. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Second-best Text Arena Math AI Lab end of October? Google — 2 outcomes, +4.0¢ per $1
   - polymarket: Kansas Senate Election: Sedgwick County Winner Adam Hamilton (D) — 2 outcomes, +4.0¢ per $1
   - polymarket: How many House seats will the Democrats win in Minnesota? 4 — 2 outcomes, +4.0¢ per $1
