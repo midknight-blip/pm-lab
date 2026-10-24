@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T18:19:24Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T18:52:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-24T18:19:22Z — 224 of 247 pairs priced
-- Scans in the last 24h: 44 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-24T12:57:30Z — Kalshi 168264 markets, Polymarket 21629 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 43 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-24T18:52:21Z — Kalshi 165204 markets, Polymarket 22564 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -21,10 +21,10 @@ Running since 2026-10-14. 410 scans so far. A pair counts as positive when buyin
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| Royal Antwerp vs Royal Charleroi Royal Antwer / Will Royal Charleroi SC win on 2026-10-24? | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
+| KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +89.9¢ | +66.8¢ | 296 | 50 | 3 | >999% |
+| KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +89.9¢ | +66.8¢ | 296 | 50 | 3 | >999% |
 | Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +89.9¢ | +6.8¢ | 34 | 50 | 1 | >999% |
 | Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +88.9¢ | +8.5¢ | 29 | 50 | 1 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
@@ -33,7 +33,7 @@ Running since 2026-10-14. 410 scans so far. A pair counts as positive when buyin
 | KXHIGHTATL-26OCT23-B74.5 /  | no | +43.2¢ | +22.3¢ | 20 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 380. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 394. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Highest temperature in Miami on October 22? 84-85°F — 3 outcomes, +4.0¢ per $1
   - polymarket: Niagara-on-the-Lake, ON Mayoral Election Winner Andrea Kaiser — 2 outcomes, +4.0¢ per $1
   - polymarket: Kansas Senate Election: Sedgwick County Winner Adam Hamilton (D) — 2 outcomes, +4.0¢ per $1
