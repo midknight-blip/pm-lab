@@ -1,36 +1,36 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T17:51:43Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T18:19:24Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-24T17:51:40Z — 225 of 247 pairs priced
+- Last scan: 2026-10-24T18:19:22Z — 224 of 247 pairs priced
 - Scans in the last 24h: 44 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-24T12:57:30Z — Kalshi 168264 markets, Polymarket 21629 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 409 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 410 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
 - Positive pairs still in play: **291** (confirmed same bet: 0, not yet checked: 285)
-- Scans with at least one positive pair: 408
+- Scans with at least one positive pair: 409
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | Royal Antwerp vs Royal Charleroi Royal Antwer / Will Royal Charleroi SC win on 2026-10-24? | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +89.9¢ | +66.8¢ | 295 | 50 | 4 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +89.9¢ | +66.8¢ | 296 | 50 | 3 | >999% |
+| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +89.9¢ | +6.8¢ | 34 | 50 | 1 | >999% |
+| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +88.9¢ | +8.5¢ | 29 | 50 | 1 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
 | KXHIGHTDAL-26OCT23-B82.5 /  | no | +45.6¢ | +22.4¢ | 12 | 50 | 1 | >999% |
 | KXHIGHTATL-26OCT23-B74.5 /  | no | +43.2¢ | +22.3¢ | 20 | 50 | 1 | >999% |
-| KXHIGHTATL-26OCT23-B72.5 /  | no | +41.3¢ | +10.3¢ | 19 | 50 | 1 | >999% |
-| KXHIGHMIA-26OCT16-B90.5 /  | no | +40.9¢ | +22.8¢ | 38 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 380. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
