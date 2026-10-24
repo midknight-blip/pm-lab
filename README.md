@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T18:58:30Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-24T19:24:30Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-24T18:58:27Z — 247 of 247 pairs priced
+- Last scan: 2026-10-24T19:24:27Z — 247 of 247 pairs priced
 - Scans in the last 24h: 44 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-24T18:52:21Z — Kalshi 165204 markets, Polymarket 22564 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 411 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 412 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
-- Positive pairs still in play: **294** (confirmed same bet: 0, not yet checked: 288)
-- Scans with at least one positive pair: 410
+- Positive pairs still in play: **295** (confirmed same bet: 0, not yet checked: 289)
+- Scans with at least one positive pair: 411
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -25,12 +25,12 @@ Running since 2026-10-14. 411 scans so far. A pair counts as positive when buyin
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +89.9¢ | +66.8¢ | 296 | 50 | 3 | >999% |
-| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +89.9¢ | +7.3¢ | 35 | 50 | 1 | >999% |
-| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +88.9¢ | +9.0¢ | 30 | 50 | 1 | >999% |
+| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +89.9¢ | +7.3¢ | 36 | 50 | 1 | >999% |
+| Highest temperature in Miami on Oct 24, 2026? / Will the highest temperature in Miami be betw | no | +88.9¢ | +9.5¢ | 31 | 50 | 1 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
-| KXHIGHTDAL-26OCT23-B82.5 /  | no | +45.6¢ | +22.4¢ | 12 | 50 | 1 | >999% |
-| Highest temperature in Dallas on Oct 24, 2026 / Will the highest temperature in Dallas be bet | no | +45.2¢ | +10.3¢ | 40 | 50 | 1 | >999% |
+| Highest temperature in Dallas on Oct 24, 2026 / Will the highest temperature in Dallas be bet | no | +48.0¢ | +10.5¢ | 41 | 50 | 1 | >999% |
+| Highest temperature in Dallas on Oct 24, 2026 / Will the highest temperature in Dallas be bet | no | +46.0¢ | +12.7¢ | 45 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 368. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
