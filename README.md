@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-25T12:58:02Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-25T13:26:00Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-25T12:49:26Z — 235 of 247 pairs priced
+- Last scan: 2026-10-25T13:25:57Z — 247 of 247 pairs priced
 - Scans in the last 24h: 45 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-25T12:58:02Z — Kalshi 152860 markets, Polymarket 21868 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 444 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 445 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
 - Positive pairs still in play: **311** (confirmed same bet: 0, not yet checked: 305)
-- Scans with at least one positive pair: 443
+- Scans with at least one positive pair: 444
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -29,16 +29,16 @@ Running since 2026-10-14. 444 scans so far. A pair counts as positive when buyin
 | KXHIGHTSFO-26OCT24-B74.5 /  | no | +98.8¢ | +98.8¢ | 12 | 50 | 0 | >999% |
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +94.2¢ | +66.8¢ | 297 | 50 | 3 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +89.9¢ | +66.8¢ | 296 | 50 | 3 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 388. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Highest temperature in Wellington on October 23? 20°C — 4 outcomes, +4.0¢ per $1
-  - polymarket: Highest temperature in Dallas on October 23? 82-83°F — 2 outcomes, +4.0¢ per $1
-  - polymarket: Highest temperature in Karachi on October 23? 36°C — 3 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 355. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Highest temperature in NYC on October 24? 60-61°F — 2 outcomes, +4.0¢ per $1
   - polymarket: Eurozone GDP growth in Q3 2026 1.2-1.5% — 2 outcomes, +4.0¢ per $1
-  - polymarket: Khamenei # posts October 23 - October 30, 2026? <5 — 4 outcomes, +4.0¢ per $1
+  - polymarket: How many House seats will the Democrats win in South Carolina? 1 — 2 outcomes, +4.0¢ per $1
+  - polymarket: PA-04 House Election Margin of Victory Democrat 20-25% — 4 outcomes, +4.0¢ per $1
+  - polymarket: AL-05 House Election Margin of Victory Republican 20-25% — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
