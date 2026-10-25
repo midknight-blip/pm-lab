@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-24T12:01:02Z",
+ "updated": "2026-10-25T11:59:18Z",
  "forecasts_made": 30,
  "awaiting_price": 0,
- "pending": 26,
+ "pending": 25,
  "void": 0,
  "all": {
-  "n": 4,
-  "brier_claude": 0.1277,
-  "brier_market": 0.1221,
-  "claude_minus_market": 0.0056,
-  "std_error": 0.0774,
-  "paper_bets": 4,
-  "paper_staked": 1.41,
-  "paper_pnl": 0.535,
-  "paper_roi": 0.38,
+  "n": 5,
+  "brier_claude": 0.1694,
+  "brier_market": 0.1467,
+  "claude_minus_market": 0.0228,
+  "std_error": 0.0624,
+  "paper_bets": 5,
+  "paper_staked": 1.91,
+  "paper_pnl": 0.017,
+  "paper_roi": 0.009,
   "bet_wins": 2
  },
  "disagree_10pts_plus": {
@@ -66,15 +66,15 @@
    "bet_wins": 0
   },
   "sports": {
-   "n": 1,
-   "brier_claude": 0.1369,
-   "brier_market": 0.2256,
-   "claude_minus_market": -0.0887,
-   "std_error": null,
-   "paper_bets": 1,
-   "paper_staked": 0.53,
-   "paper_pnl": 0.452,
-   "paper_roi": 0.853,
+   "n": 2,
+   "brier_claude": 0.2367,
+   "brier_market": 0.2353,
+   "claude_minus_market": 0.0013,
+   "std_error": 0.0901,
+   "paper_bets": 2,
+   "paper_staked": 1.03,
+   "paper_pnl": -0.066,
+   "paper_roi": -0.064,
    "bet_wins": 1
   }
  }
