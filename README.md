@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-25T00:21:47Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-25T00:58:41Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-25T00:21:44Z — 243 of 247 pairs priced
-- Scans in the last 24h: 45 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-24T18:52:21Z — Kalshi 165204 markets, Polymarket 22564 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 44 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-25T00:58:40Z — Kalshi 157978 markets, Polymarket 22104 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 422 scans so far. A pair counts as positive when buyin
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 368. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 386. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Visa (V) Q4 payments volume growth (constant dollars)? 9.5% to 10.5% — 4 outcomes, +4.0¢ per $1
   - polymarket: Niagara-on-the-Lake, ON Mayoral Election Winner Andrea Kaiser — 2 outcomes, +4.0¢ per $1
   - polymarket: Apple’s Market Cap end of 2026? $5.00-$5.50T — 3 outcomes, +4.0¢ per $1
