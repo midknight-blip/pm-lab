@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-25T18:53:34Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-25T19:00:15Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-25T18:20:38Z — 226 of 247 pairs priced
+- Last scan: 2026-10-25T19:00:12Z — 247 of 247 pairs priced
 - Scans in the last 24h: 45 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-25T18:53:33Z — Kalshi 149039 markets, Polymarket 22176 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 455 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 456 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
-- Positive pairs still in play: **313** (confirmed same bet: 0, not yet checked: 307)
-- Scans with at least one positive pair: 454
+- Positive pairs still in play: **323** (confirmed same bet: 0, not yet checked: 317)
+- Scans with at least one positive pair: 455
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -30,15 +30,15 @@ Running since 2026-10-14. 455 scans so far. A pair counts as positive when buyin
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +94.8¢ | +66.9¢ | 307 | 50 | 2 | >999% |
-| KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
+| Lowest temperature in Los Angeles on Oct 25,  / Will the lowest temperature in Los Angeles be | no | +94.3¢ | +94.3¢ | 1 | 16 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 379. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Highest temperature in NYC on October 24? 60-61°F — 2 outcomes, +4.0¢ per $1
-  - polymarket: Eurozone GDP growth in Q3 2026 1.2-1.5% — 2 outcomes, +4.0¢ per $1
-  - polymarket: How many House seats will the Democrats win in South Carolina? 1 — 2 outcomes, +4.0¢ per $1
-  - polymarket: PA-04 House Election Margin of Victory Democrat 20-25% — 4 outcomes, +4.0¢ per $1
-  - polymarket: AL-05 House Election Margin of Victory Republican 20-25% — 3 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 347. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Highest temperature in Austin on October 24? 88-89°F — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Cape Town on October 24? 22°C — 3 outcomes, +4.0¢ per $1
+  - polymarket: October Unemployment Rate 4.1% — 3 outcomes, +4.0¢ per $1
+  - polymarket: Central Bank of Colombia decision in October No change — 2 outcomes, +4.0¢ per $1
+  - polymarket: CZ # posts October 23 - October 30, 2026? 20-39 — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
