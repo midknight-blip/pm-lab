@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-25T19:37:07Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-25T20:01:08Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-25T19:37:05Z — 247 of 247 pairs priced
+- Last scan: 2026-10-25T20:01:06Z — 247 of 247 pairs priced
 - Scans in the last 24h: 45 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-25T18:53:33Z — Kalshi 149039 markets, Polymarket 22176 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 457 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 458 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
 - Positive pairs still in play: **323** (confirmed same bet: 0, not yet checked: 317)
-- Scans with at least one positive pair: 456
+- Scans with at least one positive pair: 457
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@ Running since 2026-10-14. 457 scans so far. A pair counts as positive when buyin
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +94.8¢ | +66.9¢ | 307 | 50 | 2 | >999% |
-| Lowest temperature in Los Angeles on Oct 25,  / Will the lowest temperature in Los Angeles be | no | +94.3¢ | +94.3¢ | 2 | 16 | 1 | >999% |
+| Lowest temperature in Los Angeles on Oct 25,  / Will the lowest temperature in Los Angeles be | no | +94.3¢ | +94.3¢ | 3 | 16 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 347. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
