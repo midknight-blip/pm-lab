@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T07:08:27Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T07:34:36Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-26T06:32:55Z — 240 of 248 pairs priced
+- Last scan: 2026-10-26T07:34:34Z — 248 of 248 pairs priced
 - Scans in the last 24h: 42 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-26T07:08:26Z — Kalshi 138162 markets, Polymarket 22389 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 475 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 476 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
-- Positive pairs still in play: **334** (confirmed same bet: 0, not yet checked: 328)
-- Scans with at least one positive pair: 474
+- Positive pairs still in play: **338** (confirmed same bet: 0, not yet checked: 332)
+- Scans with at least one positive pair: 475
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -29,7 +29,7 @@ Running since 2026-10-14. 475 scans so far. A pair counts as positive when buyin
 | KXHIGHCHI-26OCT25-B72.5 /  | no | +98.8¢ | +7.3¢ | 52 | 50 | 1 | >999% |
 | KXHIGHCHI-26OCT25-B74.5 /  | no | +98.8¢ | +10.9¢ | 48 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT24-B74.5 /  | no | +98.8¢ | +98.8¢ | 12 | 50 | 0 | >999% |
-| Highest temperature in Los Angeles on Oct 25, / Will the highest temperature in Los Angeles b | no | +98.8¢ | +24.4¢ | 53 | 50 | 1 | >999% |
+| Highest temperature in Los Angeles on Oct 25, / Will the highest temperature in Los Angeles b | no | +98.8¢ | +24.8¢ | 54 | 50 | 0 | >999% |
 | KXHIGHDEN-26OCT25-B56.5 /  | no | +98.8¢ | +7.2¢ | 30 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
