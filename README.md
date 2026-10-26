@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T18:57:52Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T19:05:47Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-26T18:57:49Z — 235 of 235 pairs priced
-- Scans in the last 24h: 32 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-26T15:00:26Z — Kalshi 142016 markets, Polymarket 22147 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 31 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-26T19:05:46Z — Kalshi 141634 markets, Polymarket 22480 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 487 scans so far. A pair counts as positive when buyin
 | KXLIGAFGAME-26OCT17ATHVAL-ATH /  | no | +39.8¢ | +18.1¢ | 54 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 10 run, 163 positive spreads seen; typical one lasted 2850 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 326. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 345. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Austin on October 24? 88-89°F — 2 outcomes, +4.0¢ per $1
   - polymarket: Who will receive the first mandate to form Israel's next government? G — 2 outcomes, +4.0¢ per $1
