@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T01:05:55Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T01:14:02Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-26T01:05:52Z — 237 of 247 pairs priced
-- Scans in the last 24h: 45 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-25T18:53:33Z — Kalshi 149039 markets, Polymarket 22176 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 44 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-26T01:14:01Z — Kalshi 139613 markets, Polymarket 22605 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 467 scans so far. A pair counts as positive when buyin
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 325. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 353. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Highest temperature in Cape Town on October 24? 22°C — 3 outcomes, +4.0¢ per $1
   - polymarket: Central Bank of Colombia decision in October No change — 2 outcomes, +4.0¢ per $1
   - polymarket: CZ # posts October 23 - October 30, 2026? 20-39 — 2 outcomes, +4.0¢ per $1
+  - polymarket: Second-best AI Lab end of October? Anthropic — 2 outcomes, +4.0¢ per $1
   - polymarket: How many House seats will the Democrats win in South Carolina? 1 — 2 outcomes, +4.0¢ per $1
-  - polymarket: Nebraska Senate Election: Turnout 750K-800K — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
