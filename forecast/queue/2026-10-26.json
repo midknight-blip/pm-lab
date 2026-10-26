@@ -1,0 +1,76 @@
+{
+ "batch": "2026-10-26",
+ "created": "2026-10-26T09:53:07Z",
+ "markets": [
+  {
+   "key": "kalshi:KXCA11PERSON-26-SWIE",
+   "question": "CA-11 House winner?  \u2014 Scott Wiener",
+   "rules": "If Scott Wiener wins the CA-11 House election in 2026, then the market resolves to Yes. This market is eligible for accelerated determination after a consensus of media organizations project the winner. See full rules for details.",
+   "close": "2026-11-03T15:00:00Z",
+   "category": "elections"
+  },
+  {
+   "key": "kalshi:KXDWTSELIMINATION-26OCT28-TCAM",
+   "question": "Dancing with the Stars \u00b7 Episode 8 Elimination \u2014 Tyler Cameron",
+   "rules": "If Tyler Cameron and their partner are officially eliminated from Dancing with the Stars Season 35 before Oct 28, 2026, then the market resolves to Yes. How this is resolved\nThe declaration must be made through official program broadcast, website, verified social media, or press releases.\nIf the season is canceled without declaring eliminations, the market resolves to No.\n\nPayout criteria\nElimination includes being voted off, evicted, knocked out, removed from further contention, voluntary withdrawal, disqualification, or producer removal.\nMultiple simultaneous eliminations count.\nInitial elimination counts even if the contestant later returns.\n\nDoesn't count for payout\nEliminations immediately reversed in the same episode don't count.\nTemporary suspensions, medical holds, or being runner-up in the finale don't count as elimination. \n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-10-28T14:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXARMOMINF-26NOV12-T2.2",
+   "question": "Argentina inflation rate MoM for October \u2014 Above 2.2%",
+   "rules": "If the Argentina inflation rate MoM for October 2026 is above 2.2%, then the market resolves to Yes. ",
+   "close": "2026-11-19T21:30:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXBOXING-26OCT31CALVARMBILLI-CALVAR",
+   "question": "Canelo Alvarez vs Christian Mbilli \u2014 Canelo Alvarez",
+   "rules": "If Canelo Alvarez wins the Canelo Alvarez vs Christian Mbilli boxing match originally scheduled for Oct 31, 2026, then the market resolves to Yes. The following market refers to the Canelo Alvarez vs Christian Mbilli boxing match originally scheduled for Oct 31, 2026. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-01T09:00:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXTRUMPMENTION-26OCT26-ELEC",
+   "question": "What will Trump say during his rally in Corinth, Mississippi? \u2014 Electricity",
+   "rules": "If \n Donald Trump says Electricity as part of Midterm Rally in Corinth, Mississippi originally scheduled for October 26, 2026\n, then the market resolves to Yes. How this is resolved\nVideo of the Midterm Rally in Corinth, Mississippi originally scheduled for October 26, 2026 using the live broadcast or stream.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the Midterm Rally in Corinth, Mississippi originally scheduled for October 26, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nDonald Trump speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified, previously aired content, archival footage, and recordings captured at times,",
+   "close": "2026-11-09T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "kalshi:KXBABELMANDEBWEEKLY-26NOV01-T210",
+   "question": "Traffic through the Bab el-Mandeb Strait? (10/26 - 11/1) \u2014 Above 210",
+   "rules": "If the number of transit calls through the Bab el-Mandeb Strait as reported by the IMF PortWatch is above 210 from Oct 26, 2026 to Nov 1, 2026, then the market resolves to Yes. The total is calculated by summing daily counts from Oct 26, 2026 to Nov 1, 2026. The market will resolve no earlier than Tuesday at 9 AM following the end of the period, once complete data is available.",
+   "close": "2026-11-03T15:00:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "kalshi:KXSBUXFT-26NOV08-T97",
+   "question": "Starbucks Foot Traffic in October \u2014 Above 97",
+   "rules": "If the Carbon Arc Starbucks Foot Traffic (October 2026) for October 2026 is above 97, then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 7th calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 7th.",
+   "close": "2026-11-15T06:30:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "poly:5786295",
+   "question": "Will commitments to the 1W public sale exceed $30M?",
+   "rules": "This market will resolve to \"Yes\" if total commitments to the official 1W public sale exceed the specified value at any point before November 2, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is the headline pool total displayed on the official 1W Token Sale page at https://1wtoken.com/ (the \"US$[amount] of US$[allocation]\" figure). Total commitments refers to this gross pool amount, including any oversubscription above the sale's allocation, and not the final allocated amount after excess deposits are refunded. If the sale page displays only a net or allocated figure rather than the gross pool amount, official announcements of the gross amount from 1W will be used. The sale accepts deposits in US dollar stablecoins (USDC), which are counted as US dollars at 1:1.\n\nIf the displayed figure exceeds the specified value at any point before November 2, 2026, 11:59 PM ET, this market will resolve to \"Yes\" regardless of subsequent refunds or cancellations. A displayed figure exactly equal to the specified value will not qualify. If the figure on the sale page is unavailable, official announcements from 1W (https://x.com/1winToken) may",
+   "close": "2026-11-03T04:59:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "poly:562802",
+   "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+   "rules": "This market will resolve according to the party that wins control of the United States House of Representatives in the 2026 United States midterm election.\n\nA party wins control of the United States House of Representatives if it wins a majority of the chamber\u2019s voting seats. If no party wins a majority of voting seats, the chamber will be deemed controlled by the party with which the first elected Speaker of the House of the Congress that convenes after the 2026 midterm election is affiliated.\n\nThe following rules govern the counting of seats for determining which party wins control of the chamber.\n\nAll House elections in the 2026 United States midterm election that elect voting members and determine representation in the upcoming 120th Congress are included. Where a seat is decided by a runoff, the runoff result will determine attribution of that seat.\n\nSeats are attributed to the party under which the member was elected. If a member-elect changes party affiliation, or vacates their seat, between election day and the formal organization of Congress, the seat is attributed to the party under which the member was elected.\n\nHouse members elected as independents who formally caucus w",
+   "close": "2026-11-04T04:59:00Z",
+   "category": "other"
+  },
+  {
+   "key": "kalshi:KXWTI-26NOV03-T111.99",
+   "question": "Oil Price (WTI) on Election Day (November 3, 2026)? \u2014 $112 or above",
+   "rules": "If the front-month settle price for a barrel of West Texas Intermediate oil on November 03, 2026 is above $111.99, then the market resolves to Yes. ",
+   "close": "2026-11-03T15:00:00Z",
+   "category": "commodities"
+  }
+ ]
+}
