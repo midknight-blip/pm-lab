@@ -1028,5 +1028,335 @@
   "status": "different",
   "note": "Kalshi counts Senate Yeas on the bill (any vote); Poly counts only the first vote on final passage. Cloture vs passage counts can differ.",
   "checked": "2026-10-22"
+ },
+ "KXHIGHTATL-26OCT23-B74.5|6005154": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHAUS-26OCT23-B84.5|6005185": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT23-B84.5|6005142": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTATL-26OCT23-B72.5|6005153": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHAUS-26OCT23-B86.5|6005186": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTATL-26OCT23-B70.5|6005152": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHAUS-26OCT23-B88.5|6005187": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHDEN-26OCT23-B76.5|6005194": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT23-B82.5|6005141": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT23-B86.5|6005143": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHAUS-26OCT23-B90.5|6005188": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHMIA-26OCT24-B84.5|6037820": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT24-B84.5|6037807": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSFO-26OCT24-B68.5|6038986": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSEA-26OCT24-B56.5|6038963": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT24-B82.5|6037806": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT24-B86.5|6037808": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSEA-26OCT24-B54.5|6038962": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT24-B72.5|6037830": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXLOWTMIA-26OCT24-B72.5|6037482": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHMIA-26OCT24-B86.5|6037821": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHMIA-26OCT24-B82.5|6037819": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT24-B68.5|6037828": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT24-B70.5|6037829": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHMIA-26OCT24-B80.5|6037818": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSFO-26OCT24-B70.5|6038987": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSFO-26OCT24-B72.5|6038988": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSEA-26OCT24-B58.5|6038964": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT24-B74.5|6037831": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSEA-26OCT25-B56.5|6079063": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT25-B72.5|6076533": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSEA-26OCT25-B54.5|6079062": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT25-B76.5|6076535": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT25-B74.5|6076534": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSFO-26OCT24-B74.5|6038989": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHLAX-26OCT25-B78.5|6079074": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHDEN-26OCT25-B56.5|6076555": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHLAX-26OCT25-B76.5|6079073": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHLAX-26OCT25-B74.5|6079072": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHLAX-26OCT25-B80.5|6079075": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSEA-26OCT25-B60.5|6079065": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSEA-26OCT25-B58.5|6079064": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXLOWTLAX-26OCT25-B58.5|6078408": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT25-B70.5|6076532": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHDEN-26OCT25-B60.5|6076557": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHDEN-26OCT25-B58.5|6076556": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT26-B80.5|6111413": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT26-B78.5|6111412": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHDEN-26OCT25-B62.5|6076558": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSFO-26OCT26-B66.5|6116631": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSFO-26OCT26-B64.5|6116630": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXLOWTLAX-26OCT25-B60.5|6078409": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT26-B62.5|6112497": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT26-B82.5|6111414": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXLOWTLAX-26OCT26-B58.5|6114882": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSFO-26OCT26-B68.5|6116632": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT26-B64.5|6112499": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTDAL-26OCT26-B84.5|6111415": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHCHI-26OCT26-B66.5|6112500": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "checked": "2026-10-26"
+ },
+ "KXHIGHTSFO-26OCT26-B62.5|6116629": {
+  "status": "different",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "checked": "2026-10-26"
+ },
+ "KXTOPMODEL-26OCT31-GEMI|6065166": {
+  "status": "different",
+  "note": "Kalshi checks Oct 31 10am ET; Poly checks arena.ai on Nov 2 noon ET. Leaderboard can change in between.",
+  "checked": "2026-10-26"
+ },
+ "KXCOPADOBRASIL-26-PAL|3957746": {
+  "status": "same",
+  "note": "Both: Palmeiras wins 2026 Copa do Brasil. Only gap is Poly's 'Other' if final slips past Dec 20. Edge is real on paper but ~0.6 contracts deep ($0.04).",
+  "checked": "2026-10-26"
+ },
+ "KXRANKLISTGOOGLESEARCHTOP5-26DEC-DON|4425410": {
+  "status": "different",
+  "note": "Kalshi uses Google's Global People list; Poly uses the United States list.",
+  "checked": "2026-10-26"
+ },
+ "KX10YRDIRLM-26OCT30L-T4.91|5194815": {
+  "status": "different",
+  "note": "Kalshi below 4.91% Oct 1-30 vs Poly below 4.90% Oct 2-31. Threshold and window differ.",
+  "checked": "2026-10-26"
+ },
+ "KXNHLATLANTIC-27-TB|5659320": {
+  "status": "same",
+  "note": "Both: Lightning win 2026-27 Atlantic Division per final NHL standings incl. tiebreakers. Only gap is Poly 'Other' if season not finished by Jun 30 2027.",
+  "checked": "2026-10-26"
+ },
+ "KXNHLMETROPOLITAN-27-CAR|5659341": {
+  "status": "same",
+  "note": "Both: Hurricanes win 2026-27 Metropolitan Division per final NHL standings. Only gap is Poly 'Other' if season not finished by Jun 30 2027.",
+  "checked": "2026-10-26"
  }
 }
