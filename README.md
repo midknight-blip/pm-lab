@@ -1,36 +1,36 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T09:16:04Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T10:13:22Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-26T09:16:02Z — 238 of 248 pairs priced
-- Scans in the last 24h: 41 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-26T10:13:20Z — 223 of 223 pairs priced
+- Scans in the last 24h: 40 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-26T07:08:26Z — Kalshi 138162 markets, Polymarket 22389 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 478 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 479 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
-- Positive pairs ruled out as different bets after reading the rules: 156
-- Positive pairs still in play: **338** (confirmed same bet: 0, not yet checked: 332)
-- Scans with at least one positive pair: 477
+- Positive pairs ruled out as different bets after reading the rules: 219
+- Positive pairs still in play: **275** (confirmed same bet: 3, not yet checked: 266)
+- Scans with at least one positive pair: 478
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| KXHIGHMIA-26OCT24-B84.5 /  | no | +98.8¢ | +14.4¢ | 53 | 50 | 1 | >999% |
-| KXHIGHTDAL-26OCT24-B84.5 /  | no | +98.8¢ | +13.3¢ | 60 | 50 | 1 | >999% |
-| KXHIGHTDAL-26OCT24-B82.5 /  | no | +98.8¢ | +14.9¢ | 64 | 50 | 1 | >999% |
-| KXHIGHMIA-26OCT24-B82.5 /  | no | +98.8¢ | +16.7¢ | 48 | 50 | 1 | >999% |
-| KXHIGHTSFO-26OCT24-B72.5 /  | no | +98.8¢ | +98.8¢ | 21 | 50 | 0 | >999% |
-| KXHIGHCHI-26OCT25-B72.5 /  | no | +98.8¢ | +7.3¢ | 52 | 50 | 1 | >999% |
-| KXHIGHCHI-26OCT25-B74.5 /  | no | +98.8¢ | +10.9¢ | 48 | 50 | 1 | >999% |
-| KXHIGHTSFO-26OCT24-B74.5 /  | no | +98.8¢ | +98.8¢ | 12 | 50 | 0 | >999% |
-| Highest temperature in Los Angeles on Oct 25, / Will the highest temperature in Los Angeles b | no | +98.8¢ | +24.8¢ | 54 | 50 | 0 | >999% |
-| KXHIGHDEN-26OCT25-B56.5 /  | no | +98.8¢ | +7.2¢ | 30 | 50 | 1 | >999% |
+| KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
+| KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +94.8¢ | +68.9¢ | 319 | 50 | 2 | >999% |
+| KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
+| KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
+| KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
+| KXHIGHMIA-26OCT16-B90.5 /  | no | +40.9¢ | +22.8¢ | 38 | 50 | 1 | >999% |
+| KXHIGHDEN-26OCT18-B76.5 /  | no | +40.8¢ | +8.5¢ | 16 | 50 | 1 | >999% |
+| KXLIGAFGAME-26OCT17ATHVAL-ATH /  | no | +39.8¢ | +18.1¢ | 54 | 50 | 0 | >999% |
+| KXHIGHMIA-26OCT18-B80.5 /  | no | +37.6¢ | +21.7¢ | 10 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 356. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
