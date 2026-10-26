@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T00:01:12Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-26T01:05:55Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-26T00:01:09Z — 240 of 247 pairs priced
+- Last scan: 2026-10-26T01:05:52Z — 237 of 247 pairs priced
 - Scans in the last 24h: 45 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-25T18:53:33Z — Kalshi 149039 markets, Polymarket 22176 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 466 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 467 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 156
 - Positive pairs still in play: **326** (confirmed same bet: 0, not yet checked: 320)
-- Scans with at least one positive pair: 465
+- Scans with at least one positive pair: 466
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -26,19 +26,19 @@ Running since 2026-10-14. 466 scans so far. A pair counts as positive when buyin
 | KXHIGHTDAL-26OCT24-B82.5 /  | no | +98.8¢ | +14.9¢ | 64 | 50 | 1 | >999% |
 | KXHIGHMIA-26OCT24-B82.5 /  | no | +98.8¢ | +16.7¢ | 48 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT24-B72.5 /  | no | +98.8¢ | +98.8¢ | 21 | 50 | 0 | >999% |
-| Highest temperature in Chicago on Oct 25, 202 / Will the highest temperature in Chicago be be | no | +98.8¢ | +6.2¢ | 44 | 50 | 1 | >999% |
-| Highest temperature in Chicago on Oct 25, 202 / Will the highest temperature in Chicago be be | no | +98.8¢ | +7.9¢ | 40 | 50 | 1 | >999% |
+| Highest temperature in Chicago on Oct 25, 202 / Will the highest temperature in Chicago be be | no | +98.8¢ | +6.2¢ | 45 | 50 | 1 | >999% |
+| Highest temperature in Chicago on Oct 25, 202 / Will the highest temperature in Chicago be be | no | +98.8¢ | +8.3¢ | 41 | 50 | 1 | >999% |
 | KXHIGHTSFO-26OCT24-B74.5 /  | no | +98.8¢ | +98.8¢ | 12 | 50 | 0 | >999% |
+| Highest temperature in Denver on Oct 25, 2026 / Will the highest temperature in Denver be bet | no | +98.8¢ | +3.8¢ | 22 | 50 | 1 | >999% |
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
-| KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 9 run, 150 positive spreads seen; typical one lasted 3023 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 347. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Highest temperature in Austin on October 24? 88-89°F — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 325. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Highest temperature in Cape Town on October 24? 22°C — 3 outcomes, +4.0¢ per $1
-  - polymarket: October Unemployment Rate 4.1% — 3 outcomes, +4.0¢ per $1
   - polymarket: Central Bank of Colombia decision in October No change — 2 outcomes, +4.0¢ per $1
   - polymarket: CZ # posts October 23 - October 30, 2026? 20-39 — 2 outcomes, +4.0¢ per $1
+  - polymarket: How many House seats will the Democrats win in South Carolina? 1 — 2 outcomes, +4.0¢ per $1
+  - polymarket: Nebraska Senate Election: Turnout 750K-800K — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
