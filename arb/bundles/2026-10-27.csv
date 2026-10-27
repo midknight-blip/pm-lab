@@ -198,3 +198,65 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-27T13:01:46Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.979,0.0,0.021,,2027-03-14T23:59:00Z
 2026-10-27T13:01:46Z,polymarket,0x4203a491b8986e29566169c9013ec9b19a2400ed0cd9dca46e8d8aa3880d1700,AFCON 2027 Qualifying: Group F Winner Burkina Faso,4,0.957,0.0268,0.0162,,2027-03-31T03:59:00Z
 2026-10-27T13:01:46Z,polymarket,0x322cd4b2e64209e7f2bfe89ddd815fe61b949b37e2b2333a7f9e21d2b9561d00,Turner Prize 2026 Winner Simeon Barclay,4,0.975,0.0,0.025,,2027-04-01T03:59:00Z
+2026-10-27T18:57:15Z,kalshi,KXNCAAMBAPRANK-26W2R1,College Basketball (M): #1 Ranked Team on Nov 9 AP Poll,11,0.9,0.06,0.04,200.0,2026-12-15T15:00:00Z
+2026-10-27T18:57:15Z,kalshi,KXSTATELEG-TXHOUS26,Texas State House winner?,2,0.96,0.027,0.013,1226.7,2026-11-03T15:00:00Z
+2026-10-27T18:57:15Z,kalshi,KXSTATELEG-MNHOUSE26,Minnesota State House winner?,2,0.98,0.013,0.007,2646.0,2026-11-03T15:00:00Z
+2026-10-27T18:57:15Z,kalshi,KXSTATELEG-MIHOUSE26,Michigan State House winner?,2,0.96,0.026,0.014,1902.0,2026-11-03T15:00:00Z
+2026-10-27T18:57:15Z,kalshi,KXSTATELEG-MEHOUSE26,Maine State House winner?,2,0.98,0.011,0.009,1983.0,2026-11-03T15:00:00Z
+2026-10-27T18:57:15Z,kalshi,KXSTATELEG-IAHOUSE26,Iowa State House winner?,2,0.96,0.014,0.026,1349.84,2026-11-03T15:00:00Z
+2026-10-27T18:57:15Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.96,0.022,0.018,382.0,2026-11-03T15:00:00Z
+2026-10-27T18:57:15Z,kalshi,KXTOPMODEL-26OCT31,Top AI model this month,3,0.97,0.013,0.017,1.0,2026-10-31T14:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x246b5df931589bd2ffe2c3ed6216e7a612542ad094b46129409fd7291a71c600,CD Manacor vs. Villarreal CF CD Manacor,2,0.961,0.0039,0.0352,,2026-10-27T20:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x9c9fb2f9a90592f4f8949c866426991538e351180cd2f890a851d7e91e158900,"Elon Musk # tweets October 29 - October 31, 2026? 140-164",5,0.982,0.0,0.018,,2026-10-31T16:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x87a73ab87341a2e7d51188a5b1a9c12f253336fbf5bd01d2c8912e47949cfc00,Highest temperature in Miami on October 28? 86-87°F,3,0.988,0.0,0.012,,2026-10-28T12:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x418a659bf462a64d913f806b2e2acc652ae21f52a801d92af89e06305ba9a900,Highest temperature in Taipei on October 28? 24°C,4,0.981,0.0,0.019,,2026-10-28T12:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x4b667379f1dc5370c56d840f06d3303c456ab6f5ea82954ab70250293a43fd00,#2 AI Lab end of October? (Style Control On) Meta,2,0.98,0.0,0.02,,2026-10-31T16:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x15e0fcc9525321b97c6b20b0e8ce62bbbad234309707e59bae9996d0ccb5b000,Highest temperature in Jeddah on October 28? 36°C,3,0.988,0.0,0.012,,2026-10-28T12:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x9ca66e17e75497c4d038ee028f09b37bf82fa3b7b02faf343d733c27ce48e400,Highest temperature in Karachi on October 28? 38°C,2,0.98,0.0,0.02,,2026-10-28T12:00:00Z
+2026-10-27T18:57:15Z,polymarket,0xab8b53b3b5071a67f8c0b3ebde8f42710510a38502878fffc2220e0b2ca37c00,"What will the biggest earthquake be on October 27, 2026? 6.1 or more",4,0.993,0.0,0.007,,2026-10-28T18:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x3d4c082bfa83f1f2ac145ffa45ac62e17225cbf5a54c21d1496b63b94649ee00,#2 Spotify Artist in October? Rihanna,2,0.98,0.0,0.02,,2026-10-31T23:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xacb220e9696d65c771e0468f04fd39ac39dc039e97ee4af7177bce7562e01400,Highest temperature in Milan on October 29? 19°C,2,0.99,0.0,0.01,,2026-10-29T12:00:00Z
+2026-10-27T18:57:15Z,polymarket,0x89307c6fcd593f22e1cefcca198a6ac35939349b08ce2d7853597a4909fac900,TX-21 House Election Winner Kristin Hook (D),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x0cb6512c9af9716bc7ad2fae61cb87830a711e36249b9bc3b738f5761bdc1600,NC-09 House Election Winner Richard Hudson (R),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x5ad74344df8a162bdff762081ed6df4f3122b9dc6511833d6135797b94acb400,Billboard Hot 100 #1 Song Week of November 7 Choosin' Texas - Ella Langley,2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xec0506fe7655fa94d9e280b1c8102a1f44ddf5a5b40c55fbdb54fbbbf1f15200,Michigan Senate Election: Genesee County Winner Mike Rogers (R),2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x284bd4583b406d514c579d8caccb6e3ec8b4123eff23f9bc3a95eca7616d8c00,Oregon Governor Election Winner Tina Kotek (D),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xcacbf6921d22dfa9d6d5bdabfad30116bfdd799e31151547f1692f6d22667d00,MA-08 House Election Margin of Victory Democrat 45-50%,3,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x3953e9ecf726461974217a18a03010ffd401bdb149511d8ad37988cd51cb2300,NC-03 House Election Margin of Victory Democrat 6%+,9,0.974,0.0,0.026,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x5e8f092817348506cc4523e86ab15e9499a4a467fa358def6b74000c3c4ab000,Kansas Senate Election Margin of Victory Marshall 5-10%,3,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x83e03a8520ea80f65432650cbed81c2ad7660bba178ea206959c026a857a7800,McDonald's (MCD) Q3 global comparable sales growth? 0% to 1%,2,0.99,0.0,0.01,,2026-11-04T14:30:00Z
+2026-10-27T18:57:15Z,polymarket,0xb3ae5f7a3603b493a8d1af40a7fa5795b7317aad010312be123b8b2d703fc400,NY-17 House Election Winner Cait Conley (D),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xc48b270652241641cb965b962a5fc3d0c2da9916bd82f821cdf8321be4041900,MD-08 House Election Margin of Victory Democrat 55-60%,4,0.991,0.0,0.009,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x280b26dac6e034e4a88c8fe26049e2c57353c63763acc1490780fe1a060a1100,MS-03 House Election Margin of Victory (First Round) Republican 20-25%,4,0.967,0.0,0.033,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x6f380b30b95f8fc47e40ed5d1042872862951f1d44b3f637a25c08545ef10d00,FL-14 House Election Winner Kathy Castor (D),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x1d8582476532652645cdf7aad76947c7d52a25d5406f1bfe320c64cfd14e2800,FL-01 House Election Margin of Victory Democrat Wins,6,0.967,0.0,0.033,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x64ad9ea254f5e2cf4ef05556382a0bc9075bfc8d2ffb7486c3091447f0ba0000,"Georgia Senate and Governor Combo Reps win Gov, Dems win Senate",2,0.97,0.0,0.03,,2026-11-04T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x0c4f81b814fccfa02ad1db8b4aa72e96c36aa079d3a63a85adc4677dd2193900,Ontario Liberal Party Leadership Election Winner Navdeep Bains,2,0.98,0.0,0.02,,2026-11-10T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x6981a54c7c5e52428526c463eb7b7875094dd03976d1abca3f672c07d2feee00,MLB Postseason: Home Run Leader Ben Rice,6,0.936,0.027,0.037,,2026-11-16T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x4bcf537542dc5cae365f9a8e4bdd5075f5e146774ef3320e26d449ae40fbbc00,CMA Single of the Year 2026 Somewhere Over Laredo (Lainey Wilson),2,0.98,0.0,0.02,,2026-11-19T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x26fb4a37ce422e81354090b3fdf1a198507701eaa666d8be6dc0dab9cb6f4e00,MLS: 2026 Golden Boot Winner Lionel Messi,2,0.961,0.0024,0.0366,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xa2e764d8d430aadbfd6a7a2c56721a930ba54b53fb94c4a55465da105de12000,UEFA Nations League 2026-27: Group C3 Winner Faroe Islands,2,0.989,0.0008,0.0102,,2026-12-02T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xbc55599c69369d10f4f2407d2b6ff83f736bb2476dabbeddc07cb22896bd3e00,MLB: NL Rookie of the Year Carson Benge,6,0.964,0.0089,0.0271,,2026-12-19T00:00:00Z
+2026-10-27T18:57:15Z,polymarket,0xdcd7daabcacdc4ecf4f9a48d0a2708b52f356dd086c8070992136da62eb72b00,How many Fed rate cuts in 2026? 2 (50 bps),13,0.987,0.0,0.013,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,14,0.978,0.0,0.022,,2026-12-31T17:00:00Z
+2026-10-27T18:57:15Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,OpenAI IPO Closing Market Cap 1.25T–1.5T,4,0.982,0.0,0.018,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 6,2,0.98,0.0,0.02,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,9,0.98,0.0,0.02,,2027-02-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x45cdcf8fe6b29dac90645a79c1722f09acfe10ec176fa58125cab411bee57d00,GPU rental prices (H100) end of 2026? $4.00+,4,0.986,0.0,0.014,,2026-12-31T23:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x4b60ddc022fdaefb01e717f01dc516a029a70a61fd9f7b4192a2ed30c59bbc00,#1 Searched Person on Google in the US 2026? Lindsay Clancy,33,0.96,0.0,0.04,,2027-04-01T03:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x23f22a07cdf0289e4bd88261329ef6841128d4d53ae3bf303dcfc7463b22da00,Oura IPO Closing Market Cap <$7.5B,2,0.966,0.0,0.034,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x45666c7bc2639a42e3bee3638568debe473143936e1f2a5565e5cdd3299e3300,VALORANT Offseason: Boaster Next Team Gentle Mates,4,0.978,0.009,0.013,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Alexander Volkanovski,2,0.991,0.0027,0.0063,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x8499d554f37681143da8ef941a439c1331efabdc68e56fc05c50e69b2981cb00,How many SpaceX launches in 2026? 160-179,5,0.981,0.0,0.019,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x9c0d8e7c9b1f0001a4ac7d938a3aeb1a5ba0d3c523a9a5152f32eee502c48c00,VALORANT Offseason: brawk Next Team Sentinels,12,0.958,0.0293,0.0127,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Michael Morales,2,0.981,0.001,0.018,,2027-01-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Bola Tinubu,5,0.981,0.0,0.019,,2027-01-17T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x62510d5a1381260381989f3b299989e23cd9e3005523e1cb1016b9ba28dbfb00,ATP 2026 End of Year Rankings: Player to be Number 1 Carlos Alcaraz,3,0.994,0.0008,0.0052,,2027-01-15T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xd104a4f58a46fb5ed8f488ea647ea181fb9625e37ac9033038da300828e6d800,Fantasy Football: 2026-27 QB Points Leader Kyler Murray,2,0.965,0.006,0.029,,2027-01-27T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xcbf1bd7bce23bf8ef66f357da34a7bb3492173cbf254002ec34624eb17709f00,Which movie has biggest opening week in 2026? Avengers: Doomsday,4,0.982,0.0,0.018,,2027-02-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Babydoll – Dominic Fike,13,0.989,0.0,0.011,,2027-02-01T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Abubakar Malami",2,0.987,0.0,0.013,,2027-02-07T04:59:00Z
+2026-10-27T18:57:15Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.963,0.0,0.037,,2027-03-14T23:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x1fb4a4a618e0e71fcaae203561090e843b39c6d28d38b5007c75c653d3b87f00,New South Wales Parliamentary Election Winner Labor,4,0.98,0.0,0.02,,2027-03-28T03:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x4203a491b8986e29566169c9013ec9b19a2400ed0cd9dca46e8d8aa3880d1700,AFCON 2027 Qualifying: Group F Winner Central African Republic,4,0.957,0.0268,0.0162,,2027-03-31T03:59:00Z
+2026-10-27T18:57:15Z,polymarket,0x075618cfcad2bfd274613928669f336a9ce9ae3b28128131b0e4eaa1fa5f6b00,#1 Searched Passing on Google in the US 2026? Dolly Parton,24,0.972,0.0,0.028,,2027-04-01T03:59:00Z

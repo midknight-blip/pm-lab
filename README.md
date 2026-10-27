@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-27T18:38:24Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-27T19:00:15Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-27T18:38:21Z — 238 of 249 pairs priced
-- Scans in the last 24h: 34 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-27T13:04:37Z — Kalshi 147219 markets, Polymarket 22189 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 33 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-27T19:00:14Z — Kalshi 148278 markets, Polymarket 21559 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -26,19 +26,19 @@ Running since 2026-10-14. 520 scans so far. A pair counts as positive when buyin
 | Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +98.0¢ | +68.9¢ | 360 | 50 | 0 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | VfL Bochum vs FSV Mainz: Correct Score VfL Bo / Will VfL Bochum win on 2026-10-27? | no | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
-| Al Nassr vs Al Wasl Al Nassr / Will Al Wasl FC win on 2026-10-26? | no | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
+| KXAFCCLGAME-26OCT26ALNWAS-ALN /  | no | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
 | Highest temperature in Dallas on Oct 27, 2026 / Will the highest temperature in Dallas be bet | no | +56.8¢ | +7.8¢ | 25 | 50 | 1 | >999% |
 | VfL Bochum vs FSV Mainz: Correct Score FSV Ma / Will 1. FSV Mainz 05 win on 2026-10-27? | no | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 | Highest temperature in Dallas on Oct 27, 2026 / Will the highest temperature in Dallas be bet | no | +52.7¢ | +14.2¢ | 37 | 50 | 1 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 11 run, 175 positive spreads seen; typical one lasted 3660 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 357. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 364. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
-  - polymarket: AL-05 House Election Margin of Victory Republican 20-25% — 3 outcomes, +4.0¢ per $1
   - kalshi: Top AI model this month — 3 outcomes, +4.0¢ per $1
   - polymarket: Lowest temperature in Seoul (Incheon) on October 26? 15°C — 3 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Karachi on October 26? 38°C — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Jeddah on October 26? 36°C — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
