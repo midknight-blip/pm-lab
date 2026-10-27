@@ -1,44 +1,44 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-27T12:11:19Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-27T12:56:17Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-27T12:03:27Z — 244 of 244 pairs priced
-- Scans in the last 24h: 31 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-27T12:56:14Z — 243 of 244 pairs priced
+- Scans in the last 24h: 32 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-27T07:04:37Z — Kalshi 144749 markets, Polymarket 22918 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 512 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 513 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 219
 - Positive pairs still in play: **312** (confirmed same bet: 3, not yet checked: 303)
-- Scans with at least one positive pair: 511
+- Scans with at least one positive pair: 512
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
-| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +95.8¢ | +68.9¢ | 352 | 50 | 1 | >999% |
+| Reserve Bank of New Zealand rate decision in  / Reserve Bank of New Zealand increases interes | unsure | +96.2¢ | +68.9¢ | 353 | 50 | 1 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
-| Al Nassr vs Al Wasl Al Nassr / Will Al Wasl FC win on 2026-10-26? | no | +74.7¢ | +68.4¢ | 30 | 50 | 0 | >999% |
+| Al Nassr vs Al Wasl Al Nassr / Will Al Wasl FC win on 2026-10-26? | no | +74.7¢ | +68.4¢ | 31 | 50 | 0 | >999% |
 | KXHIGHTSEA-26OCT17-B60.5 /  | no | +51.7¢ | +6.2¢ | 16 | 46 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B88.5 /  | no | +48.2¢ | +25.6¢ | 37 | 50 | 1 | >999% |
-| Highest temperature in Chicago on Oct 27, 202 / Will the highest temperature in Chicago be be | no | +42.3¢ | +35.7¢ | 16 | 29 | 1 | >999% |
+| Highest temperature in Chicago on Oct 27, 202 / Will the highest temperature in Chicago be be | no | +42.3¢ | +36.2¢ | 17 | 34 | 1 | >999% |
 | KXHIGHMIA-26OCT16-B90.5 /  | no | +40.9¢ | +22.8¢ | 38 | 50 | 1 | >999% |
 | KXHIGHDEN-26OCT18-B76.5 /  | no | +40.8¢ | +8.5¢ | 16 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 11 run, 175 positive spreads seen; typical one lasted 3660 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 357. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 339. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
-  - polymarket: How many House seats will the Democrats win in Minnesota? 4 — 2 outcomes, +4.0¢ per $1
-  - polymarket: #1 Searched Actor on Google 2026? Jacob Elordi — 30 outcomes, +4.0¢ per $1
   - polymarket: AL-05 House Election Margin of Victory Republican 20-25% — 3 outcomes, +4.0¢ per $1
   - kalshi: Top AI model this month — 3 outcomes, +4.0¢ per $1
+  - polymarket: Lowest temperature in Seoul (Incheon) on October 26? 15°C — 3 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Karachi on October 26? 38°C — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
