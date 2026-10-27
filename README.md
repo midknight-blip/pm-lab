@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-27T12:56:17Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-27T13:04:38Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-27T12:56:14Z — 243 of 244 pairs priced
 - Scans in the last 24h: 32 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-27T07:04:37Z — Kalshi 144749 markets, Polymarket 22918 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-27T13:04:37Z — Kalshi 147219 markets, Polymarket 22189 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 513 scans so far. A pair counts as positive when buyin
 | KXHIGHDEN-26OCT18-B76.5 /  | no | +40.8¢ | +8.5¢ | 16 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 11 run, 175 positive spreads seen; typical one lasted 3660 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 339. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 357. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
   - polymarket: AL-05 House Election Margin of Victory Republican 20-25% — 3 outcomes, +4.0¢ per $1
   - kalshi: Top AI model this month — 3 outcomes, +4.0¢ per $1
