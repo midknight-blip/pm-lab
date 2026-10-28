@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-28T17:37:53Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-28T18:21:34Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-28T17:37:49Z — 247 of 250 pairs priced
+- Last scan: 2026-10-28T18:21:32Z — 247 of 250 pairs priced
 - Scans in the last 24h: 31 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-28T13:18:32Z — Kalshi 153993 markets, Polymarket 21655 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 549 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 550 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 311
-- Positive pairs still in play: **252** (confirmed same bet: 5, not yet checked: 241)
-- Scans with at least one positive pair: 548
+- Positive pairs still in play: **254** (confirmed same bet: 5, not yet checked: 243)
+- Scans with at least one positive pair: 549
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -25,9 +25,9 @@ Running since 2026-10-14. 549 scans so far. A pair counts as positive when buyin
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | no | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
-| Bank of Korea rate decision in November Hike  / Will the Bank of Korea hike by 25 bps at the  | no | +81.0¢ | +77.8¢ | 14 | 36 | 28 | >999% |
+| Bank of Korea rate decision in November Hike  / Will the Bank of Korea hike by 25 bps at the  | no | +81.0¢ | +77.0¢ | 15 | 48 | 28 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | no | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
-| CMA Awards: Female Vocalist of the Year Ella  / Will Ella Langley win Female Vocalist of the  | no | +62.6¢ | +62.4¢ | 5 | 30 | 21 | >999% |
+| CMA Awards: Female Vocalist of the Year Ella  / Will Ella Langley win Female Vocalist of the  | no | +62.6¢ | +62.0¢ | 6 | 30 | 21 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | no | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 | KXLIGAFGAME-26OCT17ATHVAL-ATH /  | no | +39.8¢ | +18.1¢ | 54 | 50 | 0 | >999% |
 | KXISLGAME-26OCT251455HAJHTA-HTA /  | no | +30.3¢ | +30.3¢ | 4 | 50 | 1 | >999% |
