@@ -108,3 +108,52 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-28T07:12:35Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Nasir Idris",2,0.984,0.0,0.016,,2027-02-07T04:59:00Z
 2026-10-28T07:12:35Z,polymarket,0x247c0ab972478b9747c8fc8e487e9f34dd630214323c8abf87a2e93e74246100,AFC Asian Cup 2027: Group C Winner China,4,0.965,0.0213,0.0137,,2027-02-06T04:59:00Z
 2026-10-28T07:12:35Z,polymarket,0x4203a491b8986e29566169c9013ec9b19a2400ed0cd9dca46e8d8aa3880d1700,AFCON 2027 Qualifying: Group F Winner Central African Republic,4,0.956,0.0267,0.0173,,2027-03-31T03:59:00Z
+2026-10-28T13:11:03Z,kalshi,KXWILCOJUDGE-26,Williamson County Judge winner?,2,0.96,0.033,0.007,11.0,2026-12-15T15:00:00Z
+2026-10-28T13:11:03Z,kalshi,KXDENTONCOUNTYJUDGE-26,Denton County Judge winner?,2,0.98,0.013,0.007,5.0,2026-12-15T15:00:00Z
+2026-10-28T13:11:03Z,kalshi,KXSTATELEG-MIHOUSE26,Michigan State House winner?,2,0.94,0.026,0.034,2194.0,2026-11-03T15:00:00Z
+2026-10-28T13:11:03Z,kalshi,KXSTATELEG-MEHOUSE26,Maine State House winner?,2,0.98,0.011,0.009,3037.1,2026-11-03T15:00:00Z
+2026-10-28T13:11:03Z,kalshi,KXSTATELEG-IAHOUSE26,Iowa State House winner?,2,0.96,0.014,0.026,5476.92,2026-11-03T15:00:00Z
+2026-10-28T13:11:03Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.94,0.023,0.037,1642.0,2026-11-03T15:00:00Z
+2026-10-28T13:11:03Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.96,0.022,0.018,4722.0,2026-11-03T15:00:00Z
+2026-10-28T13:11:03Z,polymarket,0xc64e29efbfccb16035e7099030691303599a1cc9cab8114ecf48251c0b770500,How many dissent at the October Fed meeting? 0,3,0.97,0.0,0.03,,2026-10-28T15:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x79f6b40270d54dfaee75b41d616a739b13f1831985a57c80322a544a713e3900,CD Anaitasuna vs. Deportivo Alavés CD Anaitasuna,2,0.969,0.0042,0.0268,,2026-10-28T18:00:00Z
+2026-10-28T13:11:03Z,polymarket,0xd63b3d0a08e47fdf6a8c3c4883ca02c0f8e10a762b75de2d14966d9f96576200,VfL Wolfsburg vs. Feyenoord Rotterdam Feyenoord Rotterdam,2,0.978,0.0037,0.0183,,2026-10-28T18:00:00Z
+2026-10-28T13:11:03Z,polymarket,0xb1eee47e2c89543b3bcf546978ee96194ce190728100c94a220dd03f85939300,Lowest temperature in Wellington on October 29? 13°C,2,0.98,0.0,0.02,,2026-10-29T12:00:00Z
+2026-10-28T13:11:03Z,polymarket,0x1ebf417de540841af5ed0ffe3dce23f4c5b9b7c8b46a2898ab3e06db3a389f00,Lowest temperature in NYC on October 29? 52-53°F,3,0.98,0.0,0.02,,2026-10-29T12:00:00Z
+2026-10-28T13:11:03Z,polymarket,0x78b7efcbbca44df7166e957d1c56c45b5c4c3cb8d897abcb0f45f70c63b31700,Highest temperature in San Francisco on October 29? 68-69°F,3,0.98,0.0,0.02,,2026-10-29T12:00:00Z
+2026-10-28T13:11:03Z,polymarket,0xcce444be8e0ba4327872109d909e3f3afcebdcd4906b3ed507708c1ba3e75100,NJ-02 House Election Winner Zack Mullock (D),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x89307c6fcd593f22e1cefcca198a6ac35939349b08ce2d7853597a4909fac900,TX-21 House Election Winner Kristin Hook (D),2,0.988,0.0,0.012,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x979df22a021033e6be42d71b762923af27b9ecebca34a3e508a67fdbd053ae00,"Elon Musk # tweets October 30 - November 6, 2026? 80-99",24,0.966,0.0,0.034,,2026-11-06T17:00:00Z
+2026-10-28T13:11:03Z,polymarket,0xbc6b7d2ecd9c016eebb86c7835322e7293f1d8b98b88453ca4013706b1f94500,How many Senate and House seats will Republicans have after the midterms? ≤46 and ≤192,13,0.975,0.0,0.025,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x41cd30e692fb65b718b237d59e5d3c9e506040634557d5c3ea5a5bc9ca2e1700,IL-04 House Election Winner Patty Garcia (D),2,0.986,0.0,0.014,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x12737d63bf4e3df6bb5ea90c236024c1fd71b35da572f0e4693815eeb34aa200,Florida Governor Election Margin of Victory Donalds 9-12%,6,0.964,0.0,0.036,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xb42fceda65e6e6701af246b8a6aad4196142fbee9bf27e2de7a9ae2651c51800,Oklahoma Senate Election Margin of Victory Republican 20-25%,5,0.984,0.0,0.016,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xd31eb10bd876025a67f86c2489c22c2d1c5569aee5e820e3e3d31b5b6a974800,NM-02 House Election Margin of Victory Democrat 10-15%,4,0.975,0.0,0.025,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x6a1793e65e3aa70e0db13be8b177dec324e5669a77e693fbb95ee340673e6900,Next Mayor of eThekwini (Durban)? Haniff Hoosen,2,0.987,0.0,0.013,,2026-11-05T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x276d4e07cef70e86f89cda9776bebda9fa4a34688915b18c44180888be913d00,NY-24 House Election Margin of Victory Republican 10-15%,5,0.978,0.0,0.022,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xc0338bf1af0952cb95909d27d86f0736fc2a10cef103a6d7bb0a22a598fc9b00,AR-03 House Election Margin of Victory Republican 10-15%,4,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xa9a94f9ec1a552a7624cd8fce0144e6856ffdc76ad4cf592bf935762af532d00,October Unemployment Rate 4.2%,3,0.98,0.0,0.02,,2026-11-06T13:30:00Z
+2026-10-28T13:11:03Z,polymarket,0xa99ac620acd76d4c9da33425fc099d61498dbcf32f855474ed713f990b947200,IN-08 House Election Margin of Victory Republican 25-30%,8,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xe0d360976c7422bdcd2ef41e19dd319761639d565db83ae511ca275d11a33f00,How strong will Arnab be? Very severe cyclonic storm,4,0.976,0.0124,0.0116,,2026-11-10T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x10c2eaac88dde5c52231148c0e09add5f210341a360867a2ca88f04e21fada00,MLB Postseason: World Series MVP Jackson Chourio,10,0.956,0.0321,0.0119,,2026-11-16T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xfba7a96f82dc2c0cecc40f8d4fcc5601e960791c8708b57c605484fba2c83300,WNBA Playoffs: Finals MVP Kiah Stokes,3,0.94,0.0244,0.0356,,2026-11-15T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.96,0.0,0.04,,2026-11-29T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x50ab25ac01ba3e08cacea3f698d184a8ff9f27d3de95cef95b19748813a48600,Miaoli County Magistrate Election Winner Chung Tung-chin,2,0.982,0.0,0.018,,2026-11-29T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x68f750aaf0a8356f341fc94b08da06ecaaf40367ad5d8c4ded62057b0744c100,UEFA Nations League 2026-27: Group B4 Winner Bosnia and Herzegovina,2,0.976,0.0186,0.0054,,2026-12-02T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xa2e764d8d430aadbfd6a7a2c56721a930ba54b53fb94c4a55465da105de12000,UEFA Nations League 2026-27: Group C3 Winner Faroe Islands,2,0.985,0.001,0.014,,2026-12-02T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700,Fed Decision in December? 25 bps increase,5,0.993,0.0,0.007,,2026-12-09T23:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x069e99843fa38058edd49123522971b647e07badcd4d97fa81c06284ac52b100,NCAA Football 2026 American Conference: Winner Army Black Knights,9,0.944,0.0388,0.0172,,2026-12-20T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xa1c5a67660f7de9f3c97371853de6295107b83d87f1874889ae692f10122e000,Region with the Most Teams in the Worlds 2026 Knockout Stage LCK (South Korea),4,0.967,0.0163,0.0167,,2026-12-15T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x45ec1f7704d0ddd047e70443e830028d8801671283883ad1b46a29659488b600,Venezuela leader end of 2026? Nicolás Maduro,11,0.985,0.0,0.015,,2027-01-01T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xdcd7daabcacdc4ecf4f9a48d0a2708b52f356dd086c8070992136da62eb72b00,How many Fed rate cuts in 2026? 0 (0 bps),11,0.993,0.0,0.007,,2027-01-01T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xbe1e1cc4a3bbaf5b0331e7c36f0e45049715663aeab08c116b6144ef583b0000,Where will the next US-Iran senior diplomatic meeting take place...? No Meeting by December 31,7,0.984,0.0,0.016,,2027-01-01T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x339a89111ad048709ef27ac9da11e70a28ceaae3a4f494e949c9d68be7c39a00,Bitcoin vs. Gold vs. S&P 500 in 2026 S&P 500,2,0.99,0.0,0.01,,2027-01-01T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Jensen Huang",3,0.986,0.0,0.014,,2027-01-03T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Movsar Evloev,2,0.99,0.0027,0.0073,,2027-01-01T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Peter Obi,5,0.989,0.0,0.011,,2027-01-17T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xcbf1bd7bce23bf8ef66f357da34a7bb3492173cbf254002ec34624eb17709f00,Which movie has biggest opening week in 2026? Avengers: Doomsday,2,0.99,0.0,0.01,,2027-02-01T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0xf620a4934e56c56c64150a7eab56eaa4114b664b5efc5cc9105bc8479c64b000,#2 Spotify Artist 2026 Taylor Swift,2,0.96,0.0,0.04,,2027-02-01T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Beauty And A Beat – Justin Bieber & Nicki Minaj,3,0.96,0.0,0.04,,2027-02-01T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Nasir Idris",2,0.986,0.0,0.014,,2027-02-07T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x247c0ab972478b9747c8fc8e487e9f34dd630214323c8abf87a2e93e74246100,AFC Asian Cup 2027: Group C Winner China,4,0.967,0.0226,0.0104,,2027-02-06T04:59:00Z
+2026-10-28T13:11:03Z,polymarket,0x8081be60a2c564046d6d1971a8bb76540e4d7e1eeb6a2b4712b414c48e363900,El Salvador Legislative Election: 3rd Place PDC,11,0.986,0.0,0.014,,2027-03-01T04:59:00Z
