@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-28T13:14:16Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-28T13:18:33Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-28T13:06:02Z — 237 of 248 pairs priced
 - Scans in the last 24h: 31 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-28T13:14:15Z — Kalshi 156748 markets, Polymarket 21647 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-28T13:18:32Z — Kalshi 153993 markets, Polymarket 21655 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -27,7 +27,7 @@ Running since 2026-10-14. 544 scans so far. A pair counts as positive when buyin
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | no | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
-| KXCBDECISIONKOREA-26NOV25-H25P /  | no | +81.0¢ | +80.6¢ | 9 | 36 | 29 | >999% |
+| Bank of Korea rate decision in November Hike  / Will the Bank of Korea hike by 25 bps at the  | no | +81.0¢ | +80.6¢ | 9 | 36 | 29 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | no | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | no | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 | KXLIGAFGAME-26OCT17ATHVAL-ATH /  | no | +39.8¢ | +18.1¢ | 54 | 50 | 0 | >999% |
