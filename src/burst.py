@@ -20,6 +20,8 @@ def closest_pairs(pairs):
     for path in logs:
         for r in csv.DictReader(open(path)):
             e = float(r["net_edge"])
+            if e >= 0.15:  # implausibly large: a rules gap or a frozen price, not worth watching
+                continue
             if e > best.get(r["pair_id"], -9):
                 best[r["pair_id"]] = e
     ranked = sorted(pairs, key=lambda p: best.get(p["pair_id"], -9), reverse=True)

@@ -1,4 +1,24 @@
 {
+ "KX10YRDIRLM-26OCT30L-T4.91|5194815": {
+  "checked": "2026-10-26",
+  "note": "Kalshi below 4.91% Oct 1-30 vs Poly below 4.90% Oct 2-31. Threshold and window differ.",
+  "status": "different"
+ },
+ "KX10YRDIRLM-26OCT30L-T5.01|5194813": {
+  "checked": "2026-10-22",
+  "note": "Kalshi below 5.01% vs Poly below 5.00%, and Oct 1-30 vs Oct 2-31 window. Off by one basis point.",
+  "status": "different"
+ },
+ "KX10YRDIRLM-26OCT30L-T5.06|5194812": {
+  "checked": "2026-10-22",
+  "note": "Kalshi below 5.06% vs Poly below 5.05%, and Oct 1-30 vs Oct 2-31 window.",
+  "status": "different"
+ },
+ "KX10YRDIRLM-26OCT30L-T5.10|5194811": {
+  "checked": "2026-10-22",
+  "note": "Kalshi: below 5.10% Oct 1-30; Poly: below 5.09% Oct 2-31. Thresholds and windows both differ (a 5.09% print is Kalshi Yes, Poly No).",
+  "status": "different"
+ },
  "KX2YRDIRLM-26OCT30L-T4.74|5194863": {
   "checked": "2026-10-15",
   "note": "Kalshi: below 4.74% Oct 1-30; Polymarket: below 4.73% Oct 2-31. A 4.73% print or an Oct 1 / Oct 31 dip settles them differently.",
@@ -9,10 +29,20 @@
   "note": "Kalshi: below 4.96% Oct 1-30; Polymarket: below 4.95% Oct 2-31. Threshold and window both differ.",
   "status": "different"
  },
+ "KXCBDECISIONNZ-26OCT27-H25P|3212218": {
+  "checked": "2026-10-22",
+  "note": "Pair dropped from matched list, rules not available; 74c edge is not credible as a real spread.",
+  "status": "unsure"
+ },
  "KXCBDSWISS-26DEC10-H25P|4911209": {
   "checked": "2026-10-14",
   "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
   "status": "different"
+ },
+ "KXCOPADOBRASIL-26-PAL|3957746": {
+  "checked": "2026-10-26",
+  "note": "Both: Palmeiras wins 2026 Copa do Brasil. Only gap is Poly's 'Other' if final slips past Dec 20. Edge is real on paper but ~0.6 contracts deep ($0.04).",
+  "status": "same"
  },
  "KXEARNINGSMENTIONGM-26OCT20-BATT|5674607": {
   "checked": "2026-10-14",
@@ -44,6 +74,16 @@
   "note": "Polymarket settles on CNN national House exit poll at noon ET Nov 6 (alphabetical tie-break); Kalshi's shown text names no source or tie rule.",
   "status": "unsure"
  },
+ "KXGAMEAWARDS-2026-GTA|3344896": {
+  "checked": "2026-10-28",
+  "note": "Both: GTA VI wins 2026 Game Awards GOTY. Poly breaks ties alphabetically; Kalshi text silent on ties. Small tie risk.",
+  "status": "same"
+ },
+ "KXHIGHAUS-26OCT17-B66.5|5723192": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
  "KXHIGHAUS-26OCT17-B68.5|5723193": {
   "checked": "2026-10-19",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
@@ -52,6 +92,261 @@
  "KXHIGHAUS-26OCT17-B70.5|5723194": {
   "checked": "2026-10-19",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT19-B76.5|5798094": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT19-B78.5|5798095": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT19-B80.5|5798096": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT19-B82.5|5798097": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT22-B84.5|5963444": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT22-B86.5|5963445": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT22-B88.5|5963446": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT22-B90.5|5963447": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT23-B84.5|6005185": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT23-B86.5|6005186": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT23-B88.5|6005187": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT23-B90.5|6005188": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT27-B80.5|6181565": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT27-B82.5|6181566": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT27-B84.5|6181567": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT27-B86.5|6181568": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT28-B82.5|6243125": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT28-B84.5|6243126": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHAUS-26OCT28-B86.5|6243127": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT16-B60.5|5680559": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT16-B62.5|5680560": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT16-B64.5|5680561": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT16-B66.5|5680562": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT21-B68.5|5916851": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT21-B70.5|5916852": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT21-B72.5|5916853": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT21-B74.5|5916854": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT22-B68.5|5963433": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT22-B70.5|5963434": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT22-B72.5|5963435": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT22-B74.5|5963436": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT24-B68.5|6037828": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT24-B70.5|6037829": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT24-B72.5|6037830": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT24-B74.5|6037831": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT25-B70.5|6076532": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT25-B72.5|6076533": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT25-B74.5|6076534": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT25-B76.5|6076535": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT26-B62.5|6112497": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT26-B64.5|6112499": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT26-B66.5|6112500": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT26-B68.5|6112501": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT27-B66.5|6181551": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT27-B68.5|6181552": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT27-B70.5|6181553": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT27-B72.5|6181554": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT28-B72.5|6244743": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT28-B74.5|6244744": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT28-B76.5|6244745": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHCHI-26OCT28-B78.5|6244746": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
  },
  "KXHIGHDEN-26OCT14-B48.5|5600412": {
@@ -72,6 +367,91 @@
  "KXHIGHDEN-26OCT14-B54.5|5600415": {
   "checked": "2026-10-14",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT18-B70.5|5769314": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT18-B72.5|5769315": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT18-B74.5|5769316": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT18-B76.5|5769317": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT20-B70.5|5862252": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT20-B72.5|5862253": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT20-B74.5|5862254": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT20-B76.5|5862255": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT21-B74.5|5917562": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT21-B76.5|5917563": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT21-B78.5|5917564": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT21-B80.5|5917565": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT23-B76.5|6005194": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT25-B56.5|6076555": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT25-B58.5|6076556": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT25-B60.5|6076557": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHDEN-26OCT25-B62.5|6076558": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
   "status": "different"
  },
  "KXHIGHLAX-26OCT14-B72.5|5602380": {
@@ -104,9 +484,89 @@
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
   "status": "different"
  },
+ "KXHIGHLAX-26OCT17-B92.5|5726929": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT17-B94.5|5726930": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT18-B78.5|5772112": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT18-B80.5|5772113": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT18-B82.5|5772114": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
  "KXHIGHLAX-26OCT18-B84.5|5772115": {
   "checked": "2026-10-19",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT22-B66.5|5967365": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT22-B68.5|5967366": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT22-B70.5|5967367": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT25-B74.5|6079072": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT25-B76.5|6079073": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT25-B78.5|6079074": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT25-B80.5|6079075": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT27-B70.5|6184951": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT27-B72.5|6184952": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT27-B74.5|6184953": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHLAX-26OCT27-B76.5|6184954": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
  },
  "KXHIGHMIA-26OCT14-B84.5|5600380": {
@@ -164,6 +624,41 @@
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
   "status": "different"
  },
+ "KXHIGHMIA-26OCT15-B92.5|5644701": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT16-B86.5|5681173": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT16-B88.5|5681174": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT16-B90.5|5681175": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT16-B92.5|5681176": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT17-B84.5|5724275": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT17-B86.5|5724276": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
  "KXHIGHMIA-26OCT17-B88.5|5724277": {
   "checked": "2026-10-19",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
@@ -172,6 +667,236 @@
  "KXHIGHMIA-26OCT17-B90.5|5724278": {
   "checked": "2026-10-19",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT18-B80.5|5769281": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT18-B82.5|5769282": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT18-B84.5|5769283": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT18-B86.5|5769284": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT22-B80.5|5965225": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT22-B82.5|5965226": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT22-B84.5|5965227": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT22-B86.5|5965228": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT24-B80.5|6037818": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT24-B82.5|6037819": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT24-B84.5|6037820": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT24-B86.5|6037821": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT28-B82.5|6243115": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT28-B84.5|6243116": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT28-B86.5|6243117": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHMIA-26OCT28-B88.5|6243118": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT18-B62.5|5769270": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT18-B64.5|5769271": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT18-B66.5|5769272": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT18-B68.5|5769273": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT19-B66.5|5798060": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT19-B68.5|5798061": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT19-B70.5|5798062": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT19-B72.5|5798063": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT20-B72.5|5863887": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT20-B74.5|5863888": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT20-B76.5|5863889": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT20-B78.5|5863890": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT21-B72.5|5916828": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT21-B74.5|5916829": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT21-B76.5|5916830": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT21-B78.5|5916831": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT22-B72.5|5963421": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT22-B74.5|5963422": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT22-B76.5|5963423": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT22-B78.5|5963424": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT23-B68.5|6005151": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT23-B70.5|6005152": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT23-B72.5|6005153": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT23-B74.5|6005154": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT27-B72.5|6181529": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT27-B74.5|6181530": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT27-B76.5|6181531": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT28-B70.5|6244731": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT28-B72.5|6244732": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTATL-26OCT28-B74.5|6244733": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
  },
  "KXHIGHTDAL-26OCT14-B90.5|5600359": {
@@ -214,6 +939,216 @@
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
   "status": "different"
  },
+ "KXHIGHTDAL-26OCT15-B94.5|5644680": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT16-B68.5|5681149": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT16-B70.5|5681150": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT16-B72.5|5681151": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT16-B74.5|5681152": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT23-B82.5|6005141": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT23-B84.5|6005142": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT23-B86.5|6005143": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT23-B88.5|6005144": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT24-B82.5|6037806": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT24-B84.5|6037807": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT24-B86.5|6037808": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT26-B78.5|6111412": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT26-B80.5|6111413": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT26-B82.5|6111414": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT26-B84.5|6111415": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT27-B80.5|6180617": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT27-B82.5|6180618": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT27-B84.5|6180619": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT27-B86.5|6180620": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT28-B82.5|6243104": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT28-B84.5|6243105": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTDAL-26OCT28-B86.5|6243106": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT18-B72.5|5769679": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT18-B74.5|5769680": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT18-B76.5|5769681": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT18-B78.5|5769682": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT19-B76.5|5798104": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT19-B78.5|5798105": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT19-B80.5|5798106": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT19-B82.5|5798107": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT20-B80.5|5862263": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT20-B82.5|5862264": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT20-B84.5|5862265": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT20-B86.5|5862266": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT22-B82.5|5963466": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT22-B84.5|5963467": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT22-B86.5|5963468": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT22-B88.5|5963469": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT27-B80.5|6181585": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT27-B82.5|6181586": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTHOU-26OCT27-B84.5|6181587": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
  "KXHIGHTSEA-26OCT14-B62.5|5602367": {
   "checked": "2026-10-14",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
@@ -254,9 +1189,104 @@
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
   "status": "different"
  },
+ "KXHIGHTSEA-26OCT15-B74.5|5646762": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT17-B60.5|5726913": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT17-B64.5|5726915": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT18-B56.5|5772103": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
  "KXHIGHTSEA-26OCT18-B58.5|5772104": {
   "checked": "2026-10-19",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Same rule gap as earlier weather pairs; ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT18-B60.5|5772105": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT22-B56.5|5967348": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT22-B58.5|5967349": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT22-B60.5|5967350": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT24-B54.5|6038962": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT24-B56.5|6038963": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT24-B58.5|6038964": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT25-B54.5|6079062": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT25-B56.5|6079063": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT25-B58.5|6079064": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT25-B60.5|6079065": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT27-B54.5|6184940": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT27-B56.5|6184941": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT27-B58.5|6184942": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSEA-26OCT27-B60.5|6184943": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
  },
  "KXHIGHTSFO-26OCT15-B78.5|5602395": {
@@ -283,6 +1313,186 @@
   "checked": "2026-10-14",
   "note": "Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings, which often miss the peak by a degree. Systematic rule gap, not arbitrage.",
   "status": "different"
+ },
+ "KXHIGHTSFO-26OCT16-B82.5|5682814": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT16-B84.5|5682815": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT16-B86.5|5682816": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT16-B88.5|5682817": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT17-B80.5|5726936": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT17-B82.5|5726937": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT17-B84.5|5726938": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT20-B64.5|5869218": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT20-B66.5|5869219": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT20-B68.5|5869220": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT20-B70.5|5869221": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT24-B68.5|6038986": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT24-B70.5|6038987": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT24-B72.5|6038988": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT24-B74.5|6038989": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT26-B62.5|6116629": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT26-B64.5|6116630": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT26-B66.5|6116631": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT26-B68.5|6116632": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT27-B60.5|6184964": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT27-B62.5|6184965": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT27-B64.5|6184966": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXHIGHTSFO-26OCT27-B66.5|6184967": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXLOWTCHI-26OCT20-B46.5|5863486": {
+  "checked": "2026-10-22",
+  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
+  "status": "different"
+ },
+ "KXLOWTLAX-26OCT25-B58.5|6078408": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXLOWTLAX-26OCT25-B60.5|6078409": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXLOWTLAX-26OCT26-B58.5|6114882": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXLOWTMIA-26OCT21-B72.5|5917290": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXLOWTMIA-26OCT24-B70.5|6037481": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXLOWTMIA-26OCT24-B72.5|6037482": {
+  "checked": "2026-10-26",
+  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
+  "status": "different"
+ },
+ "KXLOWTMIA-26OCT25-B68.5|6076133": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXLOWTMIA-26OCT26-B74.5|6111939": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXLOWTMIA-26OCT27-B72.5|6181180": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXLOWTMIA-26OCT27-B74.5|6181181": {
+  "checked": "2026-10-28",
+  "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
+  "status": "different"
+ },
+ "KXNHLATLANTIC-27-TB|5659320": {
+  "checked": "2026-10-26",
+  "note": "Both: Lightning win 2026-27 Atlantic Division per final NHL standings incl. tiebreakers. Only gap is Poly 'Other' if season not finished by Jun 30 2027.",
+  "status": "same"
+ },
+ "KXNHLMETROPOLITAN-27-CAR|5659341": {
+  "checked": "2026-10-26",
+  "note": "Both: Hurricanes win 2026-27 Metropolitan Division per final NHL standings. Only gap is Poly 'Other' if season not finished by Jun 30 2027.",
+  "status": "same"
  },
  "KXPRESMATCHUP-28NOV07-AOCJVAN|561229": {
   "checked": "2026-10-14",
@@ -554,10 +1764,45 @@
   "note": "Kalshi uses Google's Global people list; Polymarket uses the United States list.",
   "status": "different"
  },
+ "KXRANKLISTGOOGLESEARCHTOP5-26DEC-DON|4425410": {
+  "checked": "2026-10-26",
+  "note": "Kalshi uses Google's Global People list; Poly uses the United States list.",
+  "status": "different"
+ },
+ "KXRANKLISTGOOGLESEARCHTOP5-26DEC-NICO|4425409": {
+  "checked": "2026-10-22",
+  "note": "Kalshi uses Google's Global People list; Poly uses the United States People list.",
+  "status": "different"
+ },
+ "KXSAUDIPLGAME-26OCT19FAYAAS-FAY|5339864": {
+  "checked": "2026-10-22",
+  "note": "Pair dropped from matched list, rules not available; 93.7c edge around game end looks like a stale price on a decided game.",
+  "status": "unsure"
+ },
+ "KXSP500ADDQ-26DEC31-SOFI|6329956": {
+  "checked": "2026-10-28",
+  "note": "Both resolve on S&P announcing SoFi's addition by Dec 31 2026 (Kalshi: announced or added Oct 1-Dec 31). Effectively same.",
+  "status": "same"
+ },
  "KXSTATELEG-AZSEN26-R|4443406": {
   "checked": "2026-10-15",
   "note": "Polymarket has tie rule (Senate President's party) and an 'Other' outcome; Kalshi's excerpt shows neither.",
   "status": "unsure"
+ },
+ "KXTOPMODEL-26OCT31-GEMI|6065166": {
+  "checked": "2026-10-26",
+  "note": "Kalshi checks Oct 31 10am ET; Poly checks arena.ai on Nov 2 noon ET. Leaderboard can change in between.",
+  "status": "different"
+ },
+ "KXUSACOMPANYSTAKE-27JAN01-UMAC|2591124": {
+  "checked": "2026-10-22",
+  "note": "Kalshi says 'has taken a stake before Jan 1' with no stake definition shown; Poly defines stake narrowly (equity/convertibles, takes during window). Could differ on pre-existing or indirect stakes.",
+  "status": "unsure"
+ },
+ "KXVOTECLARITY-26MAY16-T58|3210154": {
+  "checked": "2026-10-22",
+  "note": "Kalshi counts Senate Yeas on the bill (any vote); Poly counts only the first vote on final passage. Cloture vs passage counts can differ.",
+  "status": "different"
  },
  "KXVPRESNOMR-28-TSCO|561273": {
   "checked": "2026-10-14",
@@ -653,710 +1898,5 @@
   "checked": "2026-10-14",
   "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
   "status": "different"
- },
- "KXHIGHDEN-26OCT21-B74.5|5917562": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHDEN-26OCT21-B76.5|5917563": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTSEA-26OCT18-B60.5|5772105": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT19-B78.5|5798105": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT19-B68.5|5798061": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT19-B80.5|5798106": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT19-B70.5|5798062": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHDEN-26OCT20-B72.5|5862253": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTSFO-26OCT20-B68.5|5869220": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT20-B76.5|5863889": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTSFO-26OCT20-B66.5|5869219": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT20-B74.5|5863888": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHDEN-26OCT20-B70.5|5862252": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHAUS-26OCT19-B80.5|5798096": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHAUS-26OCT19-B78.5|5798095": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHCHI-26OCT21-B70.5|5916852": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHCHI-26OCT21-B72.5|5916853": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHMIA-26OCT22-B84.5|5965227": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT20-B80.5|5862263": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT21-B76.5|5916830": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT21-B74.5|5916829": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT20-B82.5|5862264": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXLOWTCHI-26OCT20-B46.5|5863486": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHMIA-26OCT22-B80.5|5965225": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT22-B86.5|5963468": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT22-B78.5|5963424": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTSFO-26OCT20-B64.5|5869218": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT22-B82.5|5963466": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHAUS-26OCT19-B76.5|5798094": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHLAX-26OCT22-B68.5|5967366": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTSEA-26OCT22-B56.5|5967348": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHMIA-26OCT22-B82.5|5965226": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT22-B76.5|5963423": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT19-B82.5|5798107": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHAUS-26OCT22-B88.5|5963446": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTSFO-26OCT20-B70.5|5869221": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHAUS-26OCT22-B84.5|5963444": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT20-B72.5|5863887": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTSEA-26OCT22-B58.5|5967349": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHCHI-26OCT22-B72.5|5963435": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHDEN-26OCT21-B78.5|5917564": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTSEA-26OCT22-B60.5|5967350": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT22-B84.5|5963467": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT19-B66.5|5798060": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT19-B76.5|5798104": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHCHI-26OCT22-B74.5|5963436": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT22-B74.5|5963422": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT21-B78.5|5916831": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHLAX-26OCT22-B70.5|5967367": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHCHI-26OCT21-B74.5|5916854": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHMIA-26OCT22-B86.5|5965228": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHDEN-26OCT20-B74.5|5862254": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT21-B72.5|5916828": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHCHI-26OCT22-B70.5|5963434": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT20-B78.5|5863890": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHAUS-26OCT22-B86.5|5963445": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT20-B84.5|5862265": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT22-B72.5|5963421": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT19-B72.5|5798063": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHLAX-26OCT22-B66.5|5967365": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHAUS-26OCT19-B82.5|5798097": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHCHI-26OCT21-B68.5|5916851": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT22-B88.5|5963469": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHAUS-26OCT22-B90.5|5963447": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHCHI-26OCT22-B68.5|5963433": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTHOU-26OCT20-B86.5|5862266": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXHIGHDEN-26OCT20-B76.5|5862255": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
-  "checked": "2026-10-22"
- },
- "KXSAUDIPLGAME-26OCT19FAYAAS-FAY|5339864": {
-  "status": "unsure",
-  "note": "Pair dropped from matched list, rules not available; 93.7c edge around game end looks like a stale price on a decided game.",
-  "checked": "2026-10-22"
- },
- "KXCBDECISIONNZ-26OCT27-H25P|3212218": {
-  "status": "unsure",
-  "note": "Pair dropped from matched list, rules not available; 74c edge is not credible as a real spread.",
-  "checked": "2026-10-22"
- },
- "KX10YRDIRLM-26OCT30L-T5.10|5194811": {
-  "status": "different",
-  "note": "Kalshi: below 5.10% Oct 1-30; Poly: below 5.09% Oct 2-31. Thresholds and windows both differ (a 5.09% print is Kalshi Yes, Poly No).",
-  "checked": "2026-10-22"
- },
- "KX10YRDIRLM-26OCT30L-T5.01|5194813": {
-  "status": "different",
-  "note": "Kalshi below 5.01% vs Poly below 5.00%, and Oct 1-30 vs Oct 2-31 window. Off by one basis point.",
-  "checked": "2026-10-22"
- },
- "KX10YRDIRLM-26OCT30L-T5.06|5194812": {
-  "status": "different",
-  "note": "Kalshi below 5.06% vs Poly below 5.05%, and Oct 1-30 vs Oct 2-31 window.",
-  "checked": "2026-10-22"
- },
- "KXUSACOMPANYSTAKE-27JAN01-UMAC|2591124": {
-  "status": "unsure",
-  "note": "Kalshi says 'has taken a stake before Jan 1' with no stake definition shown; Poly defines stake narrowly (equity/convertibles, takes during window). Could differ on pre-existing or indirect stakes.",
-  "checked": "2026-10-22"
- },
- "KXRANKLISTGOOGLESEARCHTOP5-26DEC-NICO|4425409": {
-  "status": "different",
-  "note": "Kalshi uses Google's Global People list; Poly uses the United States People list.",
-  "checked": "2026-10-22"
- },
- "KXVOTECLARITY-26MAY16-T58|3210154": {
-  "status": "different",
-  "note": "Kalshi counts Senate Yeas on the bill (any vote); Poly counts only the first vote on final passage. Cloture vs passage counts can differ.",
-  "checked": "2026-10-22"
- },
- "KXHIGHTATL-26OCT23-B74.5|6005154": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHAUS-26OCT23-B84.5|6005185": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT23-B84.5|6005142": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTATL-26OCT23-B72.5|6005153": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHAUS-26OCT23-B86.5|6005186": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTATL-26OCT23-B70.5|6005152": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHAUS-26OCT23-B88.5|6005187": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHDEN-26OCT23-B76.5|6005194": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT23-B82.5|6005141": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT23-B86.5|6005143": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHAUS-26OCT23-B90.5|6005188": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHMIA-26OCT24-B84.5|6037820": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT24-B84.5|6037807": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSFO-26OCT24-B68.5|6038986": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSEA-26OCT24-B56.5|6038963": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT24-B82.5|6037806": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT24-B86.5|6037808": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSEA-26OCT24-B54.5|6038962": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT24-B72.5|6037830": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXLOWTMIA-26OCT24-B72.5|6037482": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHMIA-26OCT24-B86.5|6037821": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHMIA-26OCT24-B82.5|6037819": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT24-B68.5|6037828": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT24-B70.5|6037829": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHMIA-26OCT24-B80.5|6037818": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSFO-26OCT24-B70.5|6038987": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSFO-26OCT24-B72.5|6038988": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSEA-26OCT24-B58.5|6038964": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT24-B74.5|6037831": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSEA-26OCT25-B56.5|6079063": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT25-B72.5|6076533": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSEA-26OCT25-B54.5|6079062": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT25-B76.5|6076535": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT25-B74.5|6076534": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSFO-26OCT24-B74.5|6038989": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHLAX-26OCT25-B78.5|6079074": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHDEN-26OCT25-B56.5|6076555": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHLAX-26OCT25-B76.5|6079073": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHLAX-26OCT25-B74.5|6079072": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHLAX-26OCT25-B80.5|6079075": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSEA-26OCT25-B60.5|6079065": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSEA-26OCT25-B58.5|6079064": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXLOWTLAX-26OCT25-B58.5|6078408": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT25-B70.5|6076532": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHDEN-26OCT25-B60.5|6076557": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHDEN-26OCT25-B58.5|6076556": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT26-B80.5|6111413": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT26-B78.5|6111412": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHDEN-26OCT25-B62.5|6076558": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSFO-26OCT26-B66.5|6116631": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSFO-26OCT26-B64.5|6116630": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXLOWTLAX-26OCT25-B60.5|6078409": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT26-B62.5|6112497": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT26-B82.5|6111414": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXLOWTLAX-26OCT26-B58.5|6114882": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSFO-26OCT26-B68.5|6116632": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT26-B64.5|6112499": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHTDAL-26OCT26-B84.5|6111415": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXHIGHCHI-26OCT26-B66.5|6112500": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs. Chicago also uses different stations (Midway vs O'Hare).",
-  "checked": "2026-10-26"
- },
- "KXHIGHTSFO-26OCT26-B62.5|6116629": {
-  "status": "different",
-  "note": "Weather pair: Kalshi settles on the daily climate report (true peak, whole \u00b0F); Polymarket on hourly METAR readings, which can miss the peak. Same rule gap as all earlier weather pairs.",
-  "checked": "2026-10-26"
- },
- "KXTOPMODEL-26OCT31-GEMI|6065166": {
-  "status": "different",
-  "note": "Kalshi checks Oct 31 10am ET; Poly checks arena.ai on Nov 2 noon ET. Leaderboard can change in between.",
-  "checked": "2026-10-26"
- },
- "KXCOPADOBRASIL-26-PAL|3957746": {
-  "status": "same",
-  "note": "Both: Palmeiras wins 2026 Copa do Brasil. Only gap is Poly's 'Other' if final slips past Dec 20. Edge is real on paper but ~0.6 contracts deep ($0.04).",
-  "checked": "2026-10-26"
- },
- "KXRANKLISTGOOGLESEARCHTOP5-26DEC-DON|4425410": {
-  "status": "different",
-  "note": "Kalshi uses Google's Global People list; Poly uses the United States list.",
-  "checked": "2026-10-26"
- },
- "KX10YRDIRLM-26OCT30L-T4.91|5194815": {
-  "status": "different",
-  "note": "Kalshi below 4.91% Oct 1-30 vs Poly below 4.90% Oct 2-31. Threshold and window differ.",
-  "checked": "2026-10-26"
- },
- "KXNHLATLANTIC-27-TB|5659320": {
-  "status": "same",
-  "note": "Both: Lightning win 2026-27 Atlantic Division per final NHL standings incl. tiebreakers. Only gap is Poly 'Other' if season not finished by Jun 30 2027.",
-  "checked": "2026-10-26"
- },
- "KXNHLMETROPOLITAN-27-CAR|5659341": {
-  "status": "same",
-  "note": "Both: Hurricanes win 2026-27 Metropolitan Division per final NHL standings. Only gap is Poly 'Other' if season not finished by Jun 30 2027.",
-  "checked": "2026-10-26"
  }
 }

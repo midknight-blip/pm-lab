@@ -17,9 +17,16 @@ MAX_CLOSE_GAP_DAYS = 4
 MAX_DAYS_OUT = 180  # money locked up longer than this isn't worth it for a small account
 
 
+# Series whose settlement rules differ systematically between the sites (checked by hand):
+# weather (climate report vs hourly readings) and word-mention markets (who counts as speaking).
+SKIP_SERIES = ("KXHIGH", "KXLOWT")
+
+
 def kalshi_rows(events):
     rows = []
     for e in events:
+        if e.get("event_ticker", "").startswith(SKIP_SERIES) or "MENTION" in e.get("event_ticker", ""):
+            continue
         for m in e.get("markets", []):
             if m.get("status") not in ("active", "open"):
                 continue
