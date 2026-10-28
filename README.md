@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-28T18:21:34Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-28T19:07:10Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-28T18:21:32Z — 247 of 250 pairs priced
-- Scans in the last 24h: 31 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-28T13:18:32Z — Kalshi 153993 markets, Polymarket 21655 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 30 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-28T19:07:09Z — Kalshi 154391 markets, Polymarket 21454 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 550 scans so far. A pair counts as positive when buyin
 | KXISLGAME-26OCT251455HAJHTA-HTA /  | no | +30.3¢ | +30.3¢ | 4 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 12 run, 184 positive spreads seen; typical one lasted 3578 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 359. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 343. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
-  - kalshi: Top AI model this month — 3 outcomes, +4.0¢ per $1
-  - polymarket: #2 Spotify Artist in October? Rihanna — 2 outcomes, +4.0¢ per $1
-  - polymarket: Vermont Governor Election: Turnout 300K-325K — 3 outcomes, +4.0¢ per $1
-  - polymarket: 3rd Largest Company end of October? Alphabet — 2 outcomes, +4.0¢ per $1
+  - polymarket: Lowest temperature in Wellington on October 27? 10°C — 3 outcomes, +4.0¢ per $1
+  - polymarket: Second-best AI Lab end of October? Anthropic — 2 outcomes, +4.0¢ per $1
+  - polymarket: NY-20 House Election Margin of Victory Democrat 25-30% — 3 outcomes, +4.0¢ per $1
+  - polymarket: Which movie has biggest opening week in 2026? Avengers: Doomsday — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
