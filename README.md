@@ -1,28 +1,28 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-28T06:09:53Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-28T07:06:28Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-28T06:09:50Z — 241 of 249 pairs priced
+- Last scan: 2026-10-28T07:06:25Z — 230 of 249 pairs priced
 - Scans in the last 24h: 32 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-28T01:17:47Z — Kalshi 153073 markets, Polymarket 21403 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 536 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 537 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 219
 - Positive pairs still in play: **334** (confirmed same bet: 3, not yet checked: 325)
-- Scans with at least one positive pair: 535
+- Scans with at least one positive pair: 536
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
-| Highest temperature in San Francisco on Oct 2 / Will the highest temperature in San Francisco | no | +98.8¢ | +10.3¢ | 38 | 50 | 1 | >999% |
-| Highest temperature in San Francisco on Oct 2 / Will the highest temperature in San Francisco | no | +98.8¢ | +13.8¢ | 40 | 50 | 1 | >999% |
+| Highest temperature in San Francisco on Oct 2 / Will the highest temperature in San Francisco | no | +98.8¢ | +10.5¢ | 39 | 50 | 0 | >999% |
+| Highest temperature in San Francisco on Oct 2 / Will the highest temperature in San Francisco | no | +98.8¢ | +14.2¢ | 41 | 50 | 0 | >999% |
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXHIGHTSFO-26OCT17-B82.5 /  | no | +98.3¢ | +4.5¢ | 16 | 50 | 1 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
@@ -33,12 +33,12 @@ Running since 2026-10-14. 536 scans so far. A pair counts as positive when buyin
 | KXCBDECISIONKOREA-26NOV25-H25P /  | no | +81.0¢ | +80.6¢ | 9 | 36 | 29 | >999% |
 
 - Fast-check sessions (every 15 sec): 11 run, 175 positive spreads seen; typical one lasted 3660 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 369. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 348. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
-  - kalshi: Top AI model this month — 3 outcomes, +4.0¢ per $1
   - polymarket: Lowest temperature in Seoul (Incheon) on October 26? 15°C — 3 outcomes, +4.0¢ per $1
-  - polymarket: New South Wales Parliamentary Election Winner Labor — 4 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Karachi on October 26? 38°C — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Jeddah on October 26? 36°C — 3 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Amsterdam on October 26? 14°C — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
