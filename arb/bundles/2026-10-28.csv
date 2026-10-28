@@ -58,3 +58,53 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-28T01:14:19Z,polymarket,0x1fb4a4a618e0e71fcaae203561090e843b39c6d28d38b5007c75c653d3b87f00,New South Wales Parliamentary Election Winner Labor,4,0.96,0.0,0.04,,2027-03-28T03:59:00Z
 2026-10-28T01:14:19Z,polymarket,0x4203a491b8986e29566169c9013ec9b19a2400ed0cd9dca46e8d8aa3880d1700,AFCON 2027 Qualifying: Group F Winner Central African Republic,4,0.957,0.0268,0.0162,,2027-03-31T03:59:00Z
 2026-10-28T01:14:19Z,polymarket,0x075618cfcad2bfd274613928669f336a9ce9ae3b28128131b0e4eaa1fa5f6b00,#1 Searched Passing on Google in the US 2026? Dolly Parton,24,0.968,0.0,0.032,,2027-04-01T03:59:00Z
+2026-10-28T07:12:35Z,kalshi,KXDENTONCOUNTYJUDGE-26,Denton County Judge winner?,2,0.98,0.013,0.007,5.0,2026-12-15T15:00:00Z
+2026-10-28T07:12:35Z,kalshi,KXSTATELEG-MIHOUSE26,Michigan State House winner?,2,0.94,0.026,0.034,2538.0,2026-11-03T15:00:00Z
+2026-10-28T07:12:35Z,kalshi,KXSTATELEG-MEHOUSE26,Maine State House winner?,2,0.98,0.011,0.009,4974.2,2026-11-03T15:00:00Z
+2026-10-28T07:12:35Z,kalshi,KXSTATELEG-IAHOUSE26,Iowa State House winner?,2,0.96,0.014,0.026,4598.83,2026-11-03T15:00:00Z
+2026-10-28T07:12:35Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.94,0.023,0.037,1978.0,2026-11-03T15:00:00Z
+2026-10-28T07:12:35Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.96,0.022,0.018,8233.0,2026-11-03T15:00:00Z
+2026-10-28T07:12:35Z,kalshi,KXPASEN-262,Pennsylvania State Senate winner?,2,0.96,0.033,0.007,303.01,2026-11-03T15:00:00Z
+2026-10-28T07:12:35Z,polymarket,0xd8efccd5e735b0b3425ee866d812531685a2a40c6e811334ac731c696ed7e700,CD Tarancón vs. Levante UD Levante UD,2,0.98,0.009,0.011,,2026-10-28T18:00:00Z
+2026-10-28T07:12:35Z,polymarket,0x69c1d11bcc306c0d847be89838340476c19270066093f33168bbcafd60e7a500,Highest temperature in Cape Town on October 29? 25°C,5,0.989,0.0,0.011,,2026-10-29T12:00:00Z
+2026-10-28T07:12:35Z,polymarket,0x79f6b40270d54dfaee75b41d616a739b13f1831985a57c80322a544a713e3900,CD Anaitasuna vs. Deportivo Alavés CD Anaitasuna,2,0.977,0.0028,0.0202,,2026-10-28T18:00:00Z
+2026-10-28T07:12:35Z,polymarket,0x1ee00f981707eebdc2e7e4f31f768a8a53882202ae9e4c23f3f59ba328bfa600,Highest temperature in Atlanta on October 29? 76-77°F,3,0.98,0.0,0.02,,2026-10-29T12:00:00Z
+2026-10-28T07:12:35Z,polymarket,0xd882419a141045f7c218e52d99a52c80cc2c844592df9b31870d75dc2e034a00,Highest temperature in Wuhan on October 29? 18°C,5,0.977,0.0,0.023,,2026-10-29T12:00:00Z
+2026-10-28T07:12:35Z,polymarket,0xf3a7c59a301c2ceed05ae14657442be7ab67fd2250b6e4aa30188fa7089d9b00,Highest temperature in Warsaw on October 29? 10°C,7,0.97,0.0,0.03,,2026-10-29T12:00:00Z
+2026-10-28T07:12:35Z,polymarket,0x0166f786f623b7e60617deb67113a68d7c923af62c7a57eee10ba708f6239a00,CDA Navalcarnero vs. Real Betis Balompié Draw (CDA Navalcarnero vs. Real Betis Balompié),2,0.98,0.0082,0.0118,,2026-10-28T20:00:00Z
+2026-10-28T07:12:35Z,polymarket,0x8ba27504d2dec97c15410ef0bd5bab9bc7cf8533014a30327cb145bfd6350300,Will Claude go down on __ days in October? 5-7,3,0.988,0.0,0.012,,2026-11-01T03:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x4b3b9d240921b26cb4c74f9ba3d1a47c2520fa656cbe929b6a42e1266fa3e700,Second-Best Chinese AI Company end of October? Alibaba,4,0.972,0.0,0.028,,2026-10-31T16:00:00Z
+2026-10-28T07:12:35Z,polymarket,0x6644c7a6346745d6cd2d054f8bb137c6f93f7392db582a306255949698ef2300,Highest temperature in San Francisco on October 28? 68-69°F,4,0.994,0.0,0.006,,2026-10-28T12:00:00Z
+2026-10-28T07:12:35Z,polymarket,0x89307c6fcd593f22e1cefcca198a6ac35939349b08ce2d7853597a4909fac900,TX-21 House Election Winner Kristin Hook (D),2,0.991,0.0,0.009,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x8fe1f6f7a02cdbcbccfd4d85cc031c7d0bc23606a4ec5d8992ce16a74d5b7f00,VA-05 House Election Winner John McGuire (R),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x41cd30e692fb65b718b237d59e5d3c9e506040634557d5c3ea5a5bc9ca2e1700,IL-04 House Election Winner Patty Garcia (D),2,0.985,0.0,0.015,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xe033da9c6445f26c609ae61bd53e2930c446499a31bbd8d1d2efb6330d68ee00,Wisconsin Governor Election Margin of Victory Crowley 6-9%,6,0.968,0.0,0.032,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x5b5499a301fc7cd8079253e5d247354c08df7ba3949f964f8df12ce773120e00,IA-02 House Election Margin of Victory Democrat 0-3%,4,0.992,0.0,0.008,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xd4076918da86d3dc9f7307c2500d26e7c07409c56ccecb2dbe4174acdbe95800,Iowa Senate Election: Turnout 1.45M-1.5M,5,0.983,0.0,0.017,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x054431531bb28bc6a93addd268c4d290ddfc69d93b3f84f21bb92b43f972fa00,Allstate (ALL) Q3 property-liability combined ratio? 86% to 88%,3,0.99,0.0,0.01,,2026-11-04T23:00:00Z
+2026-10-28T07:12:35Z,polymarket,0xdb568762798e740888c7a3acc8e9631151168ed1e816a08bd231c6afc8e36800,FL-08 House Election Winner Mike Haridopolos (R),2,0.993,0.0,0.007,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x5e8f092817348506cc4523e86ab15e9499a4a467fa358def6b74000c3c4ab000,Kansas Senate Election Margin of Victory Marshall 5-10%,3,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x19d181a9b6149731b2aa06ec083d39d70ae35ffc8264ba0f1127b933e0d5dd00,MD-01 House Election Margin of Victory Republican 15-18%,4,0.963,0.0,0.037,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xc48b270652241641cb965b962a5fc3d0c2da9916bd82f821cdf8321be4041900,MD-08 House Election Margin of Victory Democrat 55-60%,4,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x6f18a5ba793cb91bdd1f822cba1d99193f79d3ad01fce46db7649d59809f8900,FL-15 House Election Margin of Victory Republican 15-20%,3,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x39df1b14dd4e1a8522307e5a4791e8ec5b22b0c4fc39a261e1caa26a3030b400,Kansas Senate Election: Sedgwick County Winner Adam Hamilton (D),2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x3a1f9ce1e021b9cabd7cb8d4ee9a4e1c1cb51cc53f05b65687d35bdeb8ad1600,NC-14 House Election Margin of Victory Republican 15-20%,4,0.986,0.0,0.014,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x2931bb079f461470a2665b8da45623513fd859ae3407d2a2e12ce5e70eb06900,Which party will win the Arizona State Senate in 2026? Republican Party,2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x54e887bd993cd074f181dfdc7edf94d61a707d4274efbb04065047e6abdcfa00,Spain General Election: Burgos Winner Broad Front (FA),5,0.97,0.0,0.03,,2026-11-30T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.98,0.0,0.02,,2026-11-29T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x50ab25ac01ba3e08cacea3f698d184a8ff9f27d3de95cef95b19748813a48600,Miaoli County Magistrate Election Winner Chung Tung-chin,2,0.991,0.0,0.009,,2026-11-29T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xa2e764d8d430aadbfd6a7a2c56721a930ba54b53fb94c4a55465da105de12000,UEFA Nations League 2026-27: Group C3 Winner Faroe Islands,2,0.99,0.0009,0.0091,,2026-12-02T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xdcd7daabcacdc4ecf4f9a48d0a2708b52f356dd086c8070992136da62eb72b00,How many Fed rate cuts in 2026? 0 (0 bps),6,0.986,0.0,0.014,,2027-01-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x74ae042dc26bdf3adba173019759b01bb13017bd4932cdbc67d96f3934cf6500,Which movie has 2nd biggest opening weekend in 2026? Avengers: Doomsday,2,0.97,0.0,0.03,,2027-01-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",3,0.977,0.0,0.023,,2027-01-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xbe1e1cc4a3bbaf5b0331e7c36f0e45049715663aeab08c116b6144ef583b0000,Where will the next US-Iran senior diplomatic meeting take place...? No Meeting by December 31,8,0.965,0.0,0.035,,2027-01-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,2,0.971,0.0,0.029,,2027-02-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x4b60ddc022fdaefb01e717f01dc516a029a70a61fd9f7b4192a2ed30c59bbc00,#1 Searched Person on Google in the US 2026? Lindsay Clancy,33,0.96,0.0,0.04,,2027-04-01T03:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Islam Makhachev,2,0.973,0.0011,0.0259,,2027-01-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Movsar Evloev,2,0.991,0.0027,0.0063,,2027-01-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Peter Obi,5,0.979,0.0,0.021,,2027-01-17T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xcbf1bd7bce23bf8ef66f357da34a7bb3492173cbf254002ec34624eb17709f00,Which movie has biggest opening week in 2026? Avengers: Doomsday,2,0.96,0.0,0.04,,2027-02-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0xf620a4934e56c56c64150a7eab56eaa4114b664b5efc5cc9105bc8479c64b000,#2 Spotify Artist 2026 Taylor Swift,3,0.969,0.0,0.031,,2027-02-01T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x5bf3abbd36a45d9e4ac9f11a74291ede7dd593bc0148af5b3cb00bce0daaca00,"Kebbi, Nigeria Governor Election Winner Nasir Idris",2,0.984,0.0,0.016,,2027-02-07T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x247c0ab972478b9747c8fc8e487e9f34dd630214323c8abf87a2e93e74246100,AFC Asian Cup 2027: Group C Winner China,4,0.965,0.0213,0.0137,,2027-02-06T04:59:00Z
+2026-10-28T07:12:35Z,polymarket,0x4203a491b8986e29566169c9013ec9b19a2400ed0cd9dca46e8d8aa3880d1700,AFCON 2027 Qualifying: Group F Winner Central African Republic,4,0.956,0.0267,0.0173,,2027-03-31T03:59:00Z
