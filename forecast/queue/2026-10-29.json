@@ -1,0 +1,76 @@
+{
+ "batch": "2026-10-29",
+ "created": "2026-10-29T09:57:53Z",
+ "markets": [
+  {
+   "key": "kalshi:KXDWTSELIMINATION-26NOV03-JDEW",
+   "question": "Dancing with the Stars \u00b7 Episode 9 Elimination \u2014 Jenna Dewan",
+   "rules": "If Jenna Dewan and their partner are officially eliminated from Dancing with the Stars Season 35 before Nov 3, 2026, then the market resolves to Yes. How this is resolved\nThe declaration must be made through official program broadcast, website, verified social media, or press releases.\nIf the season is canceled without declaring eliminations, the market resolves to No.\n\nPayout criteria\nElimination includes being voted off, evicted, knocked out, removed from further contention, voluntary withdrawal, disqualification, or producer removal.\nMultiple simultaneous eliminations count.\nInitial elimination counts even if the contestant later returns.\n\nDoesn't count for payout\nEliminations immediately reversed in the same episode don't count.\nTemporary suspensions, medical holds, or being runner-up in the finale don't count as elimination. \n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-03T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXTRUMPMENTION-26NOV01-FRAU",
+   "question": "What will Trump say during his rally in Dubuque, Iowa? \u2014 Fraud (3+ times)",
+   "rules": "If \n Donald Trump says Fraud (3+ times) as part of midterm rally in Dubuque, Iowa originally scheduled for November 1, 2026\n, then the market resolves to Yes. How this is resolved\nVideo of the midterm rally in Dubuque, Iowa originally scheduled for November 1, 2026 using the live broadcast or stream.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the midterm rally in Dubuque, Iowa originally scheduled for November 1, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nDonald Trump speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified, previously aired content, archival footage, and recordings captured at times, places, or even",
+   "close": "2026-11-15T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "kalshi:KXSTATELEG-MISEN26-R",
+   "question": "Michigan State Senate winner? \u2014 Republican party",
+   "rules": "If the Republican party wins the Michigan State Senate in 2026, then the market resolves to Yes. Winning is defined as holding more seats than any other party two weeks after the State Senate is sat for the session following the election. If both parties are tied, then the market resolves to No. This market is also eligible for accelerated determination after a consensus of media organizations project the winner. See full rules for details.",
+   "close": "2026-11-03T15:00:00Z",
+   "category": "elections"
+  },
+  {
+   "key": "kalshi:KXNFLGAME-26NOV01TENCIN-CIN",
+   "question": "Tennessee vs Cincinnati \u2014 Cincinnati",
+   "rules": "If Cincinnati wins the Tennessee vs Cincinnati Pro Football game originally scheduled for Nov 1, 2026, then the market resolves to Yes. The following market refers to the team who wins the Tennessee vs Cincinnati Pro Football game originally scheduled for Nov 1, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-01T21:00:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXAAAGASW-26NOV02-4.2000",
+   "question": "US gas prices this week \u2014 Above 4.2000",
+   "rules": "If average regular gas prices for United States are strictly greater than $4.2000 on Nov 2, 2026 according to AAA, then the market resolves to Yes. ",
+   "close": "2026-11-02T15:00:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXBABELMANDEBWEEKLY-26NOV01-T205",
+   "question": "Traffic through the Bab el-Mandeb Strait? (10/26 - 11/1) \u2014 Above 205",
+   "rules": "If the number of transit calls through the Bab el-Mandeb Strait as reported by the IMF PortWatch is above 205 from Oct 26, 2026 to Nov 1, 2026, then the market resolves to Yes. The total is calculated by summing daily counts from Oct 26, 2026 to Nov 1, 2026. The market will resolve no earlier than Tuesday at 9 AM following the end of the period, once complete data is available.",
+   "close": "2026-11-03T15:00:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "poly:631045",
+   "question": "Will the Republicans win the Florida Senate race in 2026?",
+   "rules": "This market will resolve according to the winner of the 2026 Florida U.S. Senate special election currently scheduled for November 3, inclusive of any run-offs.\n\nA candidate shall be considered to represent a party in the event that he or she is the nominee of the party in question. Candidates other than the Democratic or Republican nominee (e.g., Greens, Libertarian, independent) may be added at a later date.\n\nCandidates who run as independents will not be encompassed by the \u201cDemocrat\u201d or \u201cRepublican\u201d options regardless of any affiliation they may have with the party.\n\nThe candidates may be named in the contract for the convenience of traders. In the event that any named candidate is replaced as the nominee of their respective party prior to election day, the name in the contract will be updated and the market will resolve based on the replacement nominee of the party.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven\u2019t called the race in this state for the same candidate, this market will resolve based on the official certification.",
+   "close": "2026-11-04T04:59:00Z",
+   "category": "other"
+  },
+  {
+   "key": "kalshi:KXSHELCC-26NOV07-T99",
+   "question": "Shell Credit Card Spend in October \u2014 Above 99",
+   "rules": "If the Carbon Arc Shell Credit Card Spend (October 2026) for October 2026 is above 99 , then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 4th calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 4th.\n\nThe index measures year-over-year change, where 100 means Shell Credit Card Spend was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% more spend than year prior, 97 = 3% decline from year prior. The index is measured by Carbon Arc's aggregated U.S. credit and debit card transaction panel, matched to the same period of the prior year. The panel updates daily as new data arrives.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-14T05:00:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "poly:5611740",
+   "question": "Will XRP reach $1.40 in October?",
+   "rules": "This market will resolve to \"Yes\" if any Binance 1 minute candle for XRP/USDT from the creation of this market through 11:59 PM ET on the last day of the month specified in the title has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No\". Price action before this market's creation will not be considered.\n\nThe resolution source for this market is Binance, specifically the XRP/USDT High prices available at https://www.binance.com/en/trade/XRP_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance XRP/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-11-01T04:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXRAINWKND-26OCT31-NOLA",
+   "question": "Where will it rain this weekend (Oct 31 - Nov 1)? \u2014 New Orleans",
+   "rules": "If the total precipitation at CLIMSY in New Orleans on any day within October 31, 2026 through November 1, 2026 is strictly greater than 0 inches, then the market resolves to Yes. Not all weather data is the same. While checking a source like AccuWeather or Google Weather may help guide your decision, the official and final value used to determine this market as reported by the Weather Company.\n\nReading weather data\nData for CLIMSY can be found at https://weather.com/kalshi.\n\u201cTrace\u201d amounts (T) and missing daily precipitation values are counted as 0 inches. ",
+   "close": "2026-11-03T04:59:59Z",
+   "category": "climate and weather"
+  }
+ ]
+}
