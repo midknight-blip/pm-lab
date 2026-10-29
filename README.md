@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-29T06:10:06Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-29T07:07:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-29T06:10:04Z — 245 of 246 pairs priced
+- Last scan: 2026-10-29T07:07:18Z — 245 of 246 pairs priced
 - Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-29T01:16:15Z — Kalshi 161859 markets, Polymarket 21679 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 565 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 566 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 311
 - Positive pairs still in play: **258** (confirmed same bet: 5, not yet checked: 247)
-- Scans with at least one positive pair: 564
+- Scans with at least one positive pair: 565
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Running since 2026-10-14. 565 scans so far. A pair counts as positive when buyin
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | no | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
-| Bank of Korea rate decision in November Hike  / Will the Bank of Korea hike by 25 bps at the  | no | +81.0¢ | +65.0¢ | 30 | 48 | 28 | >999% |
+| Bank of Korea rate decision in November Hike  / Will the Bank of Korea hike by 25 bps at the  | no | +81.0¢ | +65.0¢ | 31 | 50 | 28 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | no | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
 | CMA Awards: Female Vocalist of the Year Ella  / Will Ella Langley win Female Vocalist of the  | no | +62.6¢ | +62.0¢ | 6 | 30 | 21 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | no | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
@@ -33,12 +33,12 @@ Running since 2026-10-14. 565 scans so far. A pair counts as positive when buyin
 | KXISLGAME-26OCT251455HAJHTA-HTA /  | no | +30.3¢ | +30.3¢ | 4 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 13 run, 197 positive spreads seen; typical one lasted 3420 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 345. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 326. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
   - kalshi: Top AI model this month — 3 outcomes, +4.0¢ per $1
-  - polymarket: Lowest temperature in Wellington on October 27? 10°C — 3 outcomes, +4.0¢ per $1
-  - polymarket: #1 Free App in the US Apple App Store on October 30? Capital One Mobil — 3 outcomes, +4.0¢ per $1
-  - polymarket: Vermont Governor Election: Turnout 300K-325K — 3 outcomes, +4.0¢ per $1
-  - polymarket: Second-best AI Lab end of October? Anthropic — 2 outcomes, +4.0¢ per $1
+  - polymarket: Lowest temperature in NYC on October 27? 50-51°F — 3 outcomes, +4.0¢ per $1
+  - polymarket: CZ # posts October 27 - November 3, 2026? 20-39 — 2 outcomes, +4.0¢ per $1
+  - polymarket: How many House seats will the Democrats win in Ohio? 5 — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
