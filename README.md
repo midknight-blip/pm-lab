@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-29T18:42:09Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-29T19:08:55Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-29T18:42:05Z — 245 of 245 pairs priced
 - Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-29T13:16:50Z — Kalshi 155602 markets, Polymarket 21653 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-29T19:08:54Z — Kalshi 160608 markets, Polymarket 21520 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 579 scans so far. A pair counts as positive when buyin
 | KXISLGAME-26OCT251455HAJHTA-HTA /  | no | +30.3¢ | +30.3¢ | 4 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 13 run, 197 positive spreads seen; typical one lasted 3420 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 353. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 374. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
-  - polymarket: Central Bank of Colombia decision in October No change — 2 outcomes, +4.0¢ per $1
-  - polymarket: Which movie has biggest opening week in 2026? Avengers: Doomsday — 2 outcomes, +4.0¢ per $1
-  - polymarket: Top Spotify Song 2026 Beauty And A Beat – Justin Bieber & Nicki Minaj — 3 outcomes, +4.0¢ per $1
   - kalshi: Top AI model this month — 3 outcomes, +4.0¢ per $1
+  - polymarket: Central Bank of Colombia decision in October No change — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Munich on October 28? 11°C — 3 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Milan on October 28? 17°C — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
