@@ -29,9 +29,24 @@
   "note": "Kalshi: below 4.96% Oct 1-30; Polymarket: below 4.95% Oct 2-31. Threshold and window both differ.",
   "status": "different"
  },
+ "KXAFCCLGAME-26OCT26ALNWAS-ALN|6185980": {
+  "checked": "2026-10-29",
+  "note": "No longer in matched list; game played Oct 26.",
+  "status": "unsure"
+ },
+ "KXCBDECISIONKOREA-26NOV25-H25P|3940931": {
+  "checked": "2026-10-29",
+  "note": "Kalshi is hike MORE than 25bp; Poly is hike of exactly 25bp. Different outcomes.",
+  "status": "different"
+ },
  "KXCBDECISIONNZ-26OCT27-H25P|3212218": {
   "checked": "2026-10-22",
   "note": "Pair dropped from matched list, rules not available; 74c edge is not credible as a real spread.",
+  "status": "unsure"
+ },
+ "KXCBDECISIONRUSSIA-26DEC18-C25P|4570987": {
+  "checked": "2026-10-29",
+  "note": "No longer in matched list; can't see Poly rules.",
   "status": "unsure"
  },
  "KXCBDSWISS-26DEC10-H25P|4911209": {
@@ -39,10 +54,25 @@
   "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
   "status": "different"
  },
+ "KXCMA-FVOTY26-ELAN|4663837": {
+  "checked": "2026-10-29",
+  "note": "Rules match (Ella Langley wins 2026 CMA Female Vocalist), but a 62c edge at size 30 is implausible; suspect a stale or mis-mapped price. Hold out until prices are checked.",
+  "status": "unsure"
+ },
  "KXCOPADOBRASIL-26-PAL|3957746": {
   "checked": "2026-10-26",
   "note": "Both: Palmeiras wins 2026 Copa do Brasil. Only gap is Poly's 'Other' if final slips past Dec 20. Edge is real on paper but ~0.6 contracts deep ($0.04).",
   "status": "same"
+ },
+ "KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055|5662334": {
+  "checked": "2026-10-29",
+  "note": "No longer in matched list; exact-score market, already settled.",
+  "status": "unsure"
+ },
+ "KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051|5662332": {
+  "checked": "2026-10-29",
+  "note": "No longer in matched list; exact-score market, already settled.",
+  "status": "unsure"
  },
  "KXEARNINGSMENTIONGM-26OCT20-BATT|5674607": {
   "checked": "2026-10-14",
@@ -1778,6 +1808,16 @@
   "checked": "2026-10-22",
   "note": "Pair dropped from matched list, rules not available; 93.7c edge around game end looks like a stale price on a decided game.",
   "status": "unsure"
+ },
+ "KXSAUDIPLGAME-26OCT30SHAAAS-SHA|5785537": {
+  "checked": "2026-10-29",
+  "note": "Kalshi = Al-Shabab wins, Poly = Al Ahli wins. Draw makes both lose; not complements.",
+  "status": "different"
+ },
+ "KXSP500ADDQ-26DEC31-ALNY|6329951": {
+  "checked": "2026-10-29",
+  "note": "Both: S&P announces ALNY addition by Dec 31 2026. Only edge case is a pre-Oct-1 announcement, which hasn't happened.",
+  "status": "same"
  },
  "KXSP500ADDQ-26DEC31-SOFI|6329956": {
   "checked": "2026-10-28",
