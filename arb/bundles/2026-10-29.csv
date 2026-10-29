@@ -64,3 +64,67 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-29T01:12:43Z,polymarket,0x331ab76d05752d2d4f9420e1c467274ae85851b242ada44607b01a3e912e3e00,El Salvador Legislative Election: 2nd Place FMLN,11,0.984,0.0,0.016,,2027-03-01T04:59:00Z
 2026-10-29T01:12:43Z,polymarket,0x8081be60a2c564046d6d1971a8bb76540e4d7e1eeb6a2b4712b414c48e363900,El Salvador Legislative Election: 3rd Place Nuevas Ideas (NI),11,0.961,0.0,0.039,,2027-03-01T04:59:00Z
 2026-10-29T01:12:43Z,polymarket,0x1fb4a4a618e0e71fcaae203561090e843b39c6d28d38b5007c75c653d3b87f00,New South Wales Parliamentary Election Winner Liberal–National,4,0.98,0.0,0.02,,2027-03-28T03:59:00Z
+2026-10-29T07:13:06Z,kalshi,KXSTATELEG-MIHOUSE26,Michigan State House winner?,2,0.96,0.026,0.014,672.0,2026-11-03T15:00:00Z
+2026-10-29T07:13:06Z,kalshi,KXSTATELEG-IAHOUSE26,Iowa State House winner?,2,0.96,0.014,0.026,2750.8,2026-11-03T15:00:00Z
+2026-10-29T07:13:06Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.95,0.031,0.019,1103.0,2026-11-03T15:00:00Z
+2026-10-29T07:13:06Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.94,0.023,0.037,1678.77,2026-11-03T15:00:00Z
+2026-10-29T07:13:06Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.96,0.022,0.018,4283.0,2026-11-03T15:00:00Z
+2026-10-29T07:13:06Z,kalshi,KXSTATELEG-AKSEN26,Alaska State Senate winner?,2,0.96,0.014,0.026,1471.0,2026-11-03T15:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xb55dbcdd46074050d02ce666f6b6f1ef2ffd1652d2b41569a99ee5628a4f4400,Israel Election: Bloc Seat Margin of Victory Bibi 7+ seats,3,0.969,0.0,0.031,,2026-10-28T03:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xf5d39ac35b002e09e137fe8ae5f5e92fcb133d467cabd91231e9ac7a4eb0a200,Democratic nomination odds leader on October 31? Gavin Newsom,5,0.966,0.0,0.034,,2026-10-31T16:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xa6834b0a77e02a11e949a147d893dec5559d0302bb6ad9e4c422d0a49e0d7800,Lowest temperature in Paris on October 29? 6°C,4,0.993,0.0,0.007,,2026-10-29T12:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xc21162fa3e53ab5656cbf20f1d8ec659bb6b14cb6266306b7fe6cea443833600,"Bitcoin price on November 1? 80,000-82,000",7,0.916,0.0453,0.0387,,2026-11-01T17:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xc38583df17f4b218d3172787fc0f4f8027d9266dfbd6dfe9470bea4a34c36f00,AD Sporting Hortaleza vs. Sevilla FC Sevilla FC,2,0.98,0.002,0.018,,2026-10-29T20:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xe8398ee6cd61b257ac1b5c653dd51c572b4f46520af40bfab7fcea3027a07400,AE Prat vs. Athletic Club Athletic Club,2,0.99,0.0034,0.0066,,2026-10-29T20:00:00Z
+2026-10-29T07:13:06Z,polymarket,0x2f0e6e62124568d17ce51eceaa4479f86634a276fa9c6fb7b8df543ee4934600,Ribadesella CF vs. Real Racing Club Ribadesella CF,2,0.966,0.0041,0.0299,,2026-10-29T20:00:00Z
+2026-10-29T07:13:06Z,polymarket,0x4608606a5d12bd263102cce3795822182a886ddc5d836039ff219205ccc7c500,Highest temperature in Denver on October 29? 66-67°F,3,0.98,0.0,0.02,,2026-10-29T12:00:00Z
+2026-10-29T07:13:06Z,polymarket,0x33e5744ab7e1c2469d9e41fd9762f9a0d36b58158abfc56cc2d819a9ac5d6c00,"""Resident Evil"" total domestic gross by October 31? 150 - 160m",2,0.993,0.0,0.007,,2026-10-31T23:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x19d9477e222248af81c32c26b832910a94254411559a380acc618523414e5800,Highest temperature in Mexico City on October 30? 25°C,2,0.99,0.0,0.01,,2026-10-30T12:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xee633991d26b5539e91830cb010f02f30209a9e45115422863815fac0c5dc300,"""Wildwood"" 2nd Weekend Box Office 5m-7m",3,0.99,0.0,0.01,,2026-11-01T12:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xa6966d9d96129298b414a75c172e340a6b35c1fd8bc490f66b9f3bfe030c2900,Highest temperature in Qingdao on October 30? 24°C,3,0.99,0.0,0.01,,2026-10-30T12:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xd4f5b07abb77b3dfb948417d334176504bc5b88c516fcd52c1239a2202b4c000,Highest temperature in Taipei on October 30? 28°C,3,0.96,0.0,0.04,,2026-10-30T12:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xb1b8b298ec587c212d485e1322028bf5ed74ae31efd708e5b47e4d51a06dfc00,Israeli Legislative Election: Vote Share Margin of Victory Likud 3%+,2,0.994,0.0,0.006,,2026-10-28T03:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xd57337b36cddc7494174b3e570840387e340ff09c40e41d9d1a51b5f79650200,Lowest temperature in Seoul (Incheon) on October 30? 10°C,3,0.98,0.0,0.02,,2026-10-30T12:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xcbb939d39b03dc059f846d20adf82fb83b97ece08aa90c3b6c268521b457fb00,"Ted Cruz # posts October 23 - October 30, 2026? 120-139",3,0.976,0.0,0.024,,2026-10-30T16:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xda955e65203ced65f983c4bcbb9a24ce5262e316f6c4f5c1382a12c7c310b700,Montana Senate Election Winner Kurt Alme (R),2,0.992,0.0,0.008,,2026-11-04T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x6f380b30b95f8fc47e40ed5d1042872862951f1d44b3f637a25c08545ef10d00,FL-14 House Election Winner Kathy Castor (D),2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x09000d5770a97b7c758cfed65bad848e3bbbc3caa803ac432503334dde0a9100,Texas Railroad Commissioner Election Winner Jon Rosenthal (D),2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x54e886788069016eacd1f35668072585d04bffeb65327e87ea1850c2b1b68200,Iowa Senate Election Margin of Victory Hinson 0-3%,6,0.985,0.0,0.015,,2026-11-04T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x30387e3a39211ca5a666cd22f0f0fa0287e9900b808a765a88af2c4f87570900,"Donald Trump # Truth Social posts October 27 - November 3, 2026? 200+",5,0.965,0.0,0.035,,2026-11-03T17:00:00Z
+2026-10-29T07:13:06Z,polymarket,0xe033da9c6445f26c609ae61bd53e2930c446499a31bbd8d1d2efb6330d68ee00,Wisconsin Governor Election Margin of Victory Crowley 6-9%,6,0.987,0.0,0.013,,2026-11-04T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x64ad9ea254f5e2cf4ef05556382a0bc9075bfc8d2ffb7486c3091447f0ba0000,"Georgia Senate and Governor Combo Reps win Gov, Dems win Senate",2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xa14b883f4246cc79243adebf9d9e28c4b6f5452089a590929a8afb10814fc000,Solana price on November 3? 100-110,2,0.94,0.0349,0.0251,,2026-11-03T17:00:00Z
+2026-10-29T07:13:06Z,polymarket,0x229757bd0865f94a8bb2aace51031ad3c2e28dec0ca62d6c7797e04c76a9c800,AL-07 House Election Margin of Victory Democrat 25-30%,4,0.97,0.0,0.03,,2026-11-04T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x93495273027fa4e83806a2f202e472771a1ad1570aa760af76da5a996cb3e600,Which party will win white women in the midterms? Democrats,2,0.99,0.0,0.01,,2026-11-07T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x891ad6d5c7b1484a3d7f00dd1af32c7c6e11cd0f69e9d415182f455b1c105d00,2026 Williamson County Judge Election Winner Heather Jefts,2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xa2f9796f899b51498c1587522d069c5ce5d8ef800e22707537620c59bc679200,TX-03 House Election Winner Evan Hunt (D),2,0.993,0.0,0.007,,2026-11-04T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xd6a6202111e9ac246a53402039d8c9da83bf221f0c0e9d7dde1e19d5d3851f00,Core CPI YoY - October 2026 2.6%,10,0.993,0.0,0.007,,2026-11-11T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x1e9627ad2cab6a2e5aa714445e512fc6534d106d182a06435c08b77df7ece800,Core CPI MoM - October 2026 ≤0.0%,5,0.978,0.0,0.022,,2026-11-11T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x500e204ee9d2d160591aff4905104102de7f1ab15ab9ec7330cb36d4369fdb00,MLB: 2026 AL MVP  Corey Seager,2,0.98,0.0009,0.0191,,2026-11-13T00:00:00Z
+2026-10-29T07:13:06Z,polymarket,0x2a44b4d8c0bd5cd0ca33c1b1abe85838b5e8fa6d0f1b058eb945c68fc1a19b00,Ljubljana Mayoral Election Winner Aleš Primc,4,0.994,0.0,0.006,,2026-11-16T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x59094a426b39287926020c81d620193937704a965579bcc3d53b1081fe141600,Spain General Election: Cáceres Winner PSOE,5,0.983,0.0,0.017,,2026-11-30T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x1024dce5f71fa0a22f4d1bf48c0f52b59e2fb020f9b3d6971193229fafd05400,Best Chinese AI Company end of November? Alibaba,3,0.972,0.0,0.028,,2026-12-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xdcb07d1e116208a53f814f16df2b30d048aaeb196b1b82b280c44956c0412200,Spain General Election: Seville Winner PSOE,5,0.965,0.0,0.035,,2026-11-30T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.98,0.0,0.02,,2026-11-29T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x3024e529aa8fbb5a6993c86a751fc73efbd8c20958e04845501a440eb9639300,Spain General Election: Santa Cruz de Tenerife Winner Broad Front (FA),5,0.987,0.0,0.013,,2026-11-30T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xea16159953b94b86a175b2c7ed3e1e5295111549c8953a7730c456dbcffb5800,Which company has the best Code Arena WebDev AI model end of November? Google,13,0.978,0.0,0.022,,2026-12-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xa2e764d8d430aadbfd6a7a2c56721a930ba54b53fb94c4a55465da105de12000,UEFA Nations League 2026-27: Group C3 Winner Faroe Islands,2,0.979,0.0013,0.0197,,2026-12-02T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x68f750aaf0a8356f341fc94b08da06ecaaf40367ad5d8c4ded62057b0744c100,UEFA Nations League 2026-27: Group B4 Winner Sweden,2,0.965,0.0183,0.0167,,2026-12-02T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x8d902f6493aa4b434c1dc3635fe7963274518b6fd6d8498fb783d2b29fd52c00,The Game Awards: Best Multiplayer Deadlock,11,0.982,0.0,0.018,,2027-01-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? SpaceX,3,0.994,0.0,0.006,,2027-01-02T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x53f0744accd8ee5d067a97910a657eab88af746ff9132b7a28f16b9541853900,How many more Millennium Prize Problems will AI solve in 2026? 0,4,0.989,0.0,0.011,,2027-01-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x74ae042dc26bdf3adba173019759b01bb13017bd4932cdbc67d96f3934cf6500,Which movie has 2nd biggest opening weekend in 2026? Avengers: Doomsday,2,0.98,0.0,0.02,,2027-01-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",4,0.987,0.0,0.013,,2027-01-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Movsar Evloev,2,0.991,0.0028,0.0062,,2027-01-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x92fa5dc99566487b91775a40218e3462b16f4d35ae795fb2495c7613fd7bf000,How many different countries will Israel strike in 2026? 12,5,0.962,0.0,0.038,,2027-01-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Khamzat Chimaev,3,0.982,0.003,0.015,,2027-01-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x42a4feb11c65c59e723dc039f9a7e5ef316ebeb7b76120c63cab570afb894500,Pro Football: NFC East Champion New York Giants,3,0.97,0.0174,0.0126,,2027-01-04T00:00:00Z
+2026-10-29T07:13:06Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.972,0.0037,0.0243,,2027-01-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x809e81d2ad9f4141c7dc615ca53153e169402415dd60e592e6ec360fed5ae200,League of Legends Global Power Rankings Post Worlds: Rank 1 GEN,8,0.944,0.0326,0.0234,,2027-01-15T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x5479086eb11a13ace6454674c82fc9e44681a89a7029f45f8710550331a85300,Argentina Official USD Exchange Rate end of 2026? (Higher Brackets) 1800.00–1899.99,4,0.994,0.0,0.006,,2026-12-31T00:00:00Z
+2026-10-29T07:13:06Z,polymarket,0x4b60ddc022fdaefb01e717f01dc516a029a70a61fd9f7b4192a2ed30c59bbc00,#1 Searched Person on Google in the US 2026? Lindsay Clancy,33,0.987,0.0,0.013,,2027-04-01T03:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Bola Tinubu,8,0.984,0.0017,0.0143,,2027-01-17T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0xd0d2cb4c30f1d17e10ba41cedefd3e332a1db50628b08aea889df6b5f7200c00,#2 Spotify Song 2026 End of Beginning – Djo,2,0.99,0.0,0.01,,2027-02-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Beauty And A Beat – Justin Bieber & Nicki Minaj,3,0.961,0.0,0.039,,2027-02-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x331ab76d05752d2d4f9420e1c467274ae85851b242ada44607b01a3e912e3e00,El Salvador Legislative Election: 2nd Place FMLN,11,0.983,0.0,0.017,,2027-03-01T04:59:00Z
+2026-10-29T07:13:06Z,polymarket,0x1fb4a4a618e0e71fcaae203561090e843b39c6d28d38b5007c75c653d3b87f00,New South Wales Parliamentary Election Winner Liberal–National,4,0.98,0.0,0.02,,2027-03-28T03:59:00Z
