@@ -52,3 +52,50 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-30T01:16:06Z,polymarket,0xc37d76499ff5d4d0b10e7f7b858af4f81885978234b7f3f63ab4caea2becad00,"Adamawa, Nigeria Governor Election Winner Ahmed Galadima",5,0.973,0.0,0.027,,2027-02-07T04:59:00Z
 2026-10-30T01:16:06Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Otu Bassey Edet",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
 2026-10-30T01:16:06Z,polymarket,0x3dd2b3ec7e116ec9ef752295511673991101300606bca28a00edcb22e5ed1a00,Fed Decision in March? 25 bps increase,5,0.987,0.0,0.013,,2027-03-18T03:59:00Z
+2026-10-30T07:13:35Z,kalshi,KXINXVSBTC-26DEC31,Annual Return: S&P 500 Total Return Vs. BTC?,2,0.98,0.009,0.011,5.45,2027-01-01T04:59:00Z
+2026-10-30T07:13:35Z,kalshi,KXLOSEREELECTIONRSEN-2026,How many Republican senators will lose reelection in 2026?,4,0.93,0.043,0.027,1.0,2026-12-31T15:00:00Z
+2026-10-30T07:13:35Z,kalshi,KXSTATELEG-MISEN26,Michigan State Senate winner?,2,0.97,0.018,0.012,3412.23,2026-11-03T15:00:00Z
+2026-10-30T07:13:35Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.94,0.031,0.029,4134.59,2026-11-03T15:00:00Z
+2026-10-30T07:13:35Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.95,0.024,0.026,2202.0,2026-11-03T15:00:00Z
+2026-10-30T07:13:35Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.94,0.021,0.039,8031.0,2026-11-03T15:00:00Z
+2026-10-30T07:13:35Z,kalshi,KXNFLRACE-26NOV01KCDEN-35,Kansas City vs Denver: Race to 35 Points,3,0.95,0.023,0.027,0.01,2026-11-02T00:25:00Z
+2026-10-30T07:13:35Z,kalshi,KXNFLRACE-26NOV01CLEPIT-35,Cleveland vs Pittsburgh: Race to 35 Points,3,0.94,0.022,0.038,0.01,2026-11-01T21:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x7d0ca7f06880ee30b026b73d9f8d5a3837657ceeaf45913da7629156baf89800,Avg. # of ships transiting Bab el-Mandeb Strait end of October? 25-29,2,0.96,0.0,0.04,,2026-11-01T03:59:00Z
+2026-10-30T07:13:35Z,polymarket,0xd84d936855594e1c53305b2438f63b3a8c56085b4b36aab26c5693f9bf815b00,Bulgaria Presidential Election Second Round: Turnout 24%+,2,0.96,0.0,0.04,,2026-11-02T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x72700a5018c90b221a92703b2a06882d59af27db5c20d3b35e6b8482ab977500,Nevada Attorney General Election Winner Adriana Guzmán Fralick (R),2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x9c9c2bdd36182d3a36f1de5db1c7a2aee0604acfb5ab16862ec88e1443448a00,MI-04 House Election Winner Bill Huizenga (R),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x198451862c8a0b2e89c981e9cd0f4a6b8e28e915a7e24ba6336066640fa23400,Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern Warfare 4,2,0.97,0.0,0.03,,2026-11-04T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x8b68b4144b2b3481b3c27c27754bb129431cb1979d340bd672be033cbf535100,Next Fable Model (5.2+) released on...? No release by October 31,2,0.986,0.0,0.014,,2026-11-01T03:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x129cc9b2f44b31c0bb6686abb5d1d41b8807c0418a301c8616cba9286e784700,How many 5.5 or above earthquakes worldwide October 26 - November 1? more than 13,2,0.969,0.0,0.031,,2026-11-02T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x8f6e82f6786e17ea8ec3111fb2d55b1003118f04d66738b4eef19d629c21c800,Highest temperature in NYC on October 31? 58-59°F,3,0.99,0.0,0.01,,2026-10-31T12:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x7adb9ab098af9a0cf963be64894fdfac5f175d1e71067a6c0579a163c8c6bd00,Highest temperature in Miami on October 31? 86-87°F,3,0.99,0.0,0.01,,2026-10-31T12:00:00Z
+2026-10-30T07:13:35Z,polymarket,0xb101ddc7743a9e28e6f4fa6d8d91cfd5e7116bc86f4087b09b35acc58eafc500,Highest temperature in Miami on October 30? 84-85°F,2,0.96,0.0,0.04,,2026-10-30T12:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x95357a596aafddfb7ad55fcc5638e6563233e9f3e5091c04ba176d7ad0217700,Highest temperature in Toronto on October 31? 15°C,3,0.96,0.0,0.04,,2026-10-31T12:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x15f2cf11f8c3ba4f669f966d41b44479862169cff38c08028dacab6792e59000,Highest temperature in Chongqing on October 31? 18°C,4,0.962,0.0,0.038,,2026-10-31T12:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x597b0cfe7ec72e14dea4ed9d460afed2735030c0ad9572a4560993aed0a40c00,Highest temperature in Buenos Aires on October 31? 26°C,3,0.97,0.0,0.03,,2026-10-31T12:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x77a7e972819a174ca09b6b7c7ef132ca14bacb36ecf3e2b4f448e893cf639b00,Highest temperature in Warsaw on October 31? 9°C,3,0.98,0.0,0.02,,2026-10-31T12:00:00Z
+2026-10-30T07:13:35Z,polymarket,0xd159ea9d05ade42745df8a26159440a4eebb1c23b2263d71b4e6ca5c5ccf0300,Second-best AI Agent Lab end of October? Google,2,0.97,0.0,0.03,,2026-10-31T16:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x2647a2d4b96224eb23eda68dba8fd7ec9992a8820590fcafb6d5a41f472b9c00,How many UKMTO notices October 26–November 1? 4-7,2,0.98,0.0,0.02,,2026-11-02T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0xbc5adcdbf54a067c4af357d221d1f7f67c493d8f40d99074ff1564aeed1d6e00,Lowest temperature in Miami on October 30? 74-75°F,3,0.992,0.0,0.008,,2026-10-30T12:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x3c762a566199e8b9f8d30fcb8ef416b27a30bbd6ac0182ff61cbe9227713e000,"NYC Mayor # posts October 27 - November 3, 2026? 20-39",2,0.96,0.0,0.04,,2026-11-03T17:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x327729ecb1076f70198f3a6ccc93bd37c9504d3c22294051475cb30b5f5b2000,South Carolina Senate Election: Greenville County Winner Annie Andrews (D),2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x1cab89150139f4019809ba90de5b5b0fb14086c6875b36def2dea358e9226600,"Fall Elections Combo: Brazil, Israel, US Senate Lula, Netanyahu, Dems",4,0.982,0.0,0.018,,2026-11-05T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x9a64a86155e0c0406f8a4d9a708a1d74558698f4f5df6ab5be322abc3a107600,Which party will win white voters in the midterms? Democrats,2,0.99,0.0,0.01,,2026-11-07T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x9f99036fbe17f7c21258b76d6195fecf309f188e06252ebf25d3bad771727b00,Sport Lisboa e Benfica vs. KKS Lech Poznań Draw (Sport Lisboa e Benfica vs. KKS Lech Poznań),2,0.97,0.0124,0.0176,,2026-11-05T20:00:00Z
+2026-10-30T07:13:35Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Su Ching-chuan,2,0.97,0.0,0.03,,2026-11-29T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x57e3a869e2beb75e7cadf392efb395f6e226b20a3de65e48ccc21893890e8d00,Brazil GDP Growth in Q3 2026 (QoQ)? -0.3% to -0.1%,3,0.98,0.0,0.02,,2026-12-02T00:00:00Z
+2026-10-30T07:13:35Z,polymarket,0xbb85f11e66cc263e31c671922c8aab5366539e7ab3220e58c1a92b280d980300,Victoria Parliamentary Election: 3rd Place One Nation,2,0.99,0.0,0.01,,2026-11-29T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0xbae6dc0f580109d4772c31ef5e7ab4e8aa72249b3159855b22a3d0ac1b60a800,Reserve Bank of India decision in December No Change,5,0.983,0.0,0.017,,2026-12-04T00:00:00Z
+2026-10-30T07:13:35Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",3,0.965,0.0,0.035,,2027-01-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,11,0.974,0.0,0.026,,2026-12-31T17:00:00Z
+2026-10-30T07:13:35Z,polymarket,0x60840607f1f408f7b14dc9b95f1b43582e77b7b8400fc901f9471ad8aba3b800,Where will Trump and Putin meet next in 2026? China,4,0.965,0.0,0.035,,2027-01-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x53f0744accd8ee5d067a97910a657eab88af746ff9132b7a28f16b9541853900,How many more Millennium Prize Problems will AI solve in 2026? 0,6,0.988,0.0,0.012,,2027-01-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x74ae042dc26bdf3adba173019759b01bb13017bd4932cdbc67d96f3934cf6500,Which movie has 2nd biggest opening weekend in 2026? Spider-Man: Brand New Day,3,0.961,0.0,0.039,,2027-02-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Larry Ellison",5,0.991,0.0,0.009,,2027-01-03T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Movsar Evloev,2,0.984,0.0025,0.0135,,2027-01-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Grand Theft Auto VI,3,0.987,0.0,0.013,,2027-01-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x5a4fcfaad1885518f378328cf38d17cf43d89546ce4fe84b755f937eacb34d00,Top US Spotify Song 2026 Choosin Texas – Ella Langley,8,0.978,0.0,0.022,,2027-02-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 12-15,7,0.977,0.0,0.023,,2027-01-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Otu Bassey Edet",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0xc6ebdac9f7eb2d7fee967565eae5d3b062d9b4ccb2bfa02758936e6845497900,Next Israeli Minister of Defense? No Next Minister by Feb 28,19,0.99,0.0,0.01,,2027-03-01T04:59:00Z
+2026-10-30T07:13:35Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.977,0.0156,0.0074,,2027-03-31T03:59:00Z
