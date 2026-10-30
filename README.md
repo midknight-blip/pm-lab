@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-30T18:07:49Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-30T18:55:34Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-30T18:07:46Z — 245 of 247 pairs priced
+- Last scan: 2026-10-30T18:55:31Z — 245 of 247 pairs priced
 - Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-30T13:13:09Z — Kalshi 165984 markets, Polymarket 21879 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 607 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 608 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 313
 - Positive pairs still in play: **279** (confirmed same bet: 6, not yet checked: 262)
-- Scans with at least one positive pair: 606
+- Scans with at least one positive pair: 607
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@ Running since 2026-10-14. 607 scans so far. A pair counts as positive when buyin
 | KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1 /  | no | +67.6¢ | +66.1¢ | 14 | 50 | 0 | >999% |
 | CMA Awards: Female Vocalist of the Year Ella  / Will Ella Langley win Female Vocalist of the  | unsure | +62.6¢ | +62.0¢ | 6 | 30 | 21 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
-| SV 07 Elversberg vs FSV Mainz: Correct Score  / Will 1. FSV Mainz 05 win on 2026-10-30? | no | +43.6¢ | +40.6¢ | 34 | 50 | 0 | >999% |
+| SV 07 Elversberg vs FSV Mainz: Correct Score  / Will 1. FSV Mainz 05 win on 2026-10-30? | no | +44.6¢ | +40.6¢ | 35 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 14 run, 206 positive spreads seen; typical one lasted 3368 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 359. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
