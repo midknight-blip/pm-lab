@@ -1,36 +1,36 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-30T01:19:07Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-30T02:05:38Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-30T01:09:36Z — 245 of 245 pairs priced
+- Last scan: 2026-10-30T02:05:35Z — 245 of 245 pairs priced
 - Scans in the last 24h: 28 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-30T01:19:06Z — Kalshi 165239 markets, Polymarket 22237 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 587 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 588 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 313
-- Positive pairs still in play: **264** (confirmed same bet: 6, not yet checked: 247)
-- Scans with at least one positive pair: 586
+- Positive pairs still in play: **275** (confirmed same bet: 6, not yet checked: 258)
+- Scans with at least one positive pair: 587
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
+| Bank of England rate decision in November Hik / Bank of England increases interest rates by 2 | no | +96.6¢ | +96.6¢ | 1 | 50 | 7 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
+| Le Havre AC vs Paris Saint-Germain: Correct S / Will Paris Saint-Germain FC win on 2026-10-30 | no | +67.6¢ | +67.6¢ | 1 | 50 | 1 | >999% |
 | CMA Awards: Female Vocalist of the Year Ella  / Will Ella Langley win Female Vocalist of the  | unsure | +62.6¢ | +62.0¢ | 6 | 30 | 21 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
-| SV 07 Elversberg vs FSV Mainz: Correct Score  / Will 1. FSV Mainz 05 win on 2026-10-30? | no | +40.6¢ | +40.6¢ | 14 | 50 | 1 | >999% |
-| KXLIGAFGAME-26OCT17ATHVAL-ATH /  | no | +39.8¢ | +18.1¢ | 54 | 50 | 0 | >999% |
-| KXISLGAME-26OCT251455HAJHTA-HTA /  | no | +30.3¢ | +30.3¢ | 4 | 50 | 1 | >999% |
+| Bank of Israel rate decision in November Cut  / Will the Bank of Israel decrease the Bank of  | no | +42.6¢ | +42.6¢ | 1 | 20 | 25 | >999% |
 
 - Fast-check sessions (every 15 sec): 13 run, 197 positive spreads seen; typical one lasted 3420 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 377. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
