@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-30T18:55:34Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-30T19:02:00Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-30T18:55:31Z — 245 of 247 pairs priced
 - Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-30T13:13:09Z — Kalshi 165984 markets, Polymarket 21879 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-30T19:01:59Z — Kalshi 166486 markets, Polymarket 21677 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 608 scans so far. A pair counts as positive when buyin
 | SV 07 Elversberg vs FSV Mainz: Correct Score  / Will 1. FSV Mainz 05 win on 2026-10-30? | no | +44.6¢ | +40.6¢ | 35 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 14 run, 206 positive spreads seen; typical one lasted 3368 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 359. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - kalshi: College Basketball (M): #1 Ranked Team on Nov 9 AP Poll — 11 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 349. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Highest temperature in Karachi on October 28? 38°C — 2 outcomes, +4.0¢ per $1
-  - polymarket: How many UK parliamentary by-elections in 2026? 6 — 2 outcomes, +4.0¢ per $1
-  - polymarket: #1 Searched Person on Google in the US 2026? Lindsay Clancy — 33 outcomes, +4.0¢ per $1
-  - polymarket: Which movie has biggest opening week in 2026? Avengers: Doomsday — 2 outcomes, +4.0¢ per $1
+  - polymarket: How many 6.5 or above earthquakes worldwide October 26 - November 1? 0 — 3 outcomes, +4.0¢ per $1
+  - polymarket: Which party will win Latino men in the midterms? Democrats — 2 outcomes, +4.0¢ per $1
+  - polymarket: Pingtung County Magistrate Election Winner Su Ching-chuan — 2 outcomes, +4.0¢ per $1
+  - polymarket: Top US Spotify Song 2026 Choosin Texas – Ella Langley — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 

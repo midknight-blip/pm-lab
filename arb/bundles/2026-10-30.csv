@@ -141,3 +141,43 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-30T13:10:01Z,polymarket,0xc37d76499ff5d4d0b10e7f7b858af4f81885978234b7f3f63ab4caea2becad00,"Adamawa, Nigeria Governor Election Winner Wafarinyi Theman Dalatu",5,0.984,0.0,0.016,,2027-02-07T04:59:00Z
 2026-10-30T13:10:01Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Otu Bassey Edet",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
 2026-10-30T13:10:01Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.986,0.0,0.014,,2027-03-14T23:59:00Z
+2026-10-30T18:59:21Z,kalshi,KXINXVSBTC-26DEC31,Annual Return: S&P 500 Total Return Vs. BTC?,2,0.97,0.008,0.022,126.42,2027-01-01T04:59:00Z
+2026-10-30T18:59:21Z,kalshi,KXLOSEREELECTIONRSEN-2026,How many Republican senators will lose reelection in 2026?,4,0.926,0.041,0.033,11.67,2026-12-31T15:00:00Z
+2026-10-30T18:59:21Z,kalshi,KXSTATELEG-TXHOUS26,Texas State House winner?,2,0.94,0.028,0.032,5252.38,2026-11-03T15:00:00Z
+2026-10-30T18:59:21Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.94,0.03,0.03,4752.43,2026-11-03T15:00:00Z
+2026-10-30T18:59:21Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.95,0.035,0.015,3869.01,2026-11-03T15:00:00Z
+2026-10-30T18:59:21Z,kalshi,KXSTATELEG-MISEN26,Michigan State Senate winner?,2,0.97,0.018,0.012,3208.7,2026-11-03T15:00:00Z
+2026-10-30T18:59:21Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.94,0.031,0.029,5826.45,2026-11-03T15:00:00Z
+2026-10-30T18:59:21Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.95,0.024,0.026,3131.0,2026-11-03T15:00:00Z
+2026-10-30T18:59:21Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.94,0.021,0.039,6915.0,2026-11-03T15:00:00Z
+2026-10-30T18:59:21Z,kalshi,KXNETFLIXRANKSHOW-26NOV02,Top US Netflix Show this week?,13,0.94,0.026,0.034,17.45,2026-11-03T15:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x7395ab20cf3adba8ef157424d6d9b20a00547275d3144eb9965eff9f80204e00,Alaska Governor Election Winner   Jonathan Kreiss-Tomkins,2,0.991,0.0,0.009,,2026-11-04T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x198451862c8a0b2e89c981e9cd0f4a6b8e28e915a7e24ba6336066640fa23400,Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern Warfare 4,2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0xa0ce49f776db40a20d70aac5910d1b2ab004c4c807683ae6914afb57bf3c0200,Highest temperature in Amsterdam on October 31? 11°C,4,0.972,0.0,0.028,,2026-10-31T12:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x552cf85157c81bdc5c46a5b8731a5a6b60025fbfd6b2c2c1bb9ae980c1659700,Highest temperature in Kuala Lumpur on October 31? 33°C,3,0.961,0.0,0.039,,2026-10-31T12:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x89d3d94cf1556e3d2270a6b43488ebabadb35bf98b2ba720d4ab31c4ef454b00,Best Chinese AI Company end of October? Xiaomi,2,0.987,0.0,0.013,,2026-10-31T16:00:00Z
+2026-10-30T18:59:21Z,polymarket,0xe80318744e2322ff6ea66c270f68ef0c95f88c32f8e719df0c9884b951034400,Ohio Senate Election Margin of Victory Brown 6-9%,5,0.97,0.0,0.03,,2026-11-04T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0xb77f445cd49b48aa555ad836565cf96d6d2b2218932d95e04632d36499966b00,Highest temperature in Wellington on November 1? 16°C,2,0.96,0.0,0.04,,2026-11-01T12:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x0be8d72875d9b4cb60026b1b3318986ea7c892b8ef25a7bb1c9cc5d02a1a2b00,Highest temperature in Denver on October 30? 66-67°F,6,0.979,0.0,0.021,,2026-10-30T12:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x55f1596fec74b595375e488a8ef0886dca8b540ad9bac14b06cb3a93ca6f4200,Highest temperature in Dallas on October 31? 74-75°F,5,0.981,0.0,0.019,,2026-10-31T12:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x2647a2d4b96224eb23eda68dba8fd7ec9992a8820590fcafb6d5a41f472b9c00,How many UKMTO notices October 26–November 1? 8-11,2,0.98,0.0,0.02,,2026-11-02T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x300d7f265b7aa792d51b960eb8aed9f3338f3fa39171e35df78e4cd9499e0800,CA-04 House Election Winner (by individual) Mike Thompson,2,0.99,0.0,0.01,,2026-11-05T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x93495273027fa4e83806a2f202e472771a1ad1570aa760af76da5a996cb3e600,Which party will win white women in the midterms? Democrats,2,0.98,0.0,0.02,,2026-11-07T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x1203dc4615378f62f46736a494c08db8db8b13d4f06d7af1460f88833a49f800,FC København vs. SK Iberia 1999 FC København,2,0.97,0.0117,0.0183,,2026-11-05T20:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x9f99036fbe17f7c21258b76d6195fecf309f188e06252ebf25d3bad771727b00,Sport Lisboa e Benfica vs. KKS Lech Poznań Draw (Sport Lisboa e Benfica vs. KKS Lech Poznań),2,0.96,0.012,0.028,,2026-11-05T20:00:00Z
+2026-10-30T18:59:21Z,polymarket,0xfff6c7951c0b3e95c3e5b730c9999576bf14cfc6cf53b35d607dccbbe261af00,SE Palmeiras vs. Clube do Remo SE Palmeiras,2,0.95,0.0144,0.0356,,2026-11-05T22:30:00Z
+2026-10-30T18:59:21Z,polymarket,0x39e75b3b1a24db7f05669896b096a596e5dd4c0b49b0a540512cbdb1e10e5a00,CR Flamengo vs. Grêmio FBPA Draw (CR Flamengo vs. Grêmio FBPA),2,0.96,0.012,0.028,,2026-11-04T22:30:00Z
+2026-10-30T18:59:21Z,polymarket,0xb4911383f8e6d69e82f53d8946cf9020164ccb326c2fc08463d7e2897fc65500,Next Mayor of Johannesburg? Loyiso Masuku,5,0.982,0.0,0.018,,2026-11-17T23:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x4db6e12e0f8d14b1bae7195baa044a7aefc88ce43c56a12c8ee57bbb041f6e00,Which company has the best Text Arena Math AI model end of November? Google,2,0.97,0.0,0.03,,2026-12-01T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,11,0.96,0.0,0.04,,2026-12-31T17:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x2a4a952b6008b8b88d0cfd0a62c522c69f993f5d3da13da94dd3a408cd9ed200,Where will Zelenskyy and Putin meet next before 2027? Turkey,12,0.988,0.0,0.012,,2027-01-01T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x60840607f1f408f7b14dc9b95f1b43582e77b7b8400fc901f9471ad8aba3b800,Where will Trump and Putin meet next in 2026? China,5,0.982,0.0,0.018,,2027-01-01T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 12-15,7,0.985,0.0,0.015,,2027-01-01T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Elon Musk",3,0.99,0.0,0.01,,2027-01-03T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x98b606dad0946169a25e3f1ef2abd54984aa4104569c21576ff9c876afccd700,Bitcoin best month in 2026? August,3,0.974,0.0097,0.0163,,2027-01-01T05:00:00Z
+2026-10-30T18:59:21Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Phantom Blade Zero,5,0.991,0.0,0.009,,2027-01-01T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x99745214f10e59fb12022e6bb65e2704a4b9644ca127e469cee3673a05228900,Top Spotify Album 2026 Debí Tirar Más Fotos,7,0.992,0.0,0.008,,2027-02-01T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x6ceb0d1c3c020b91ebaea787667b4f2359242f0e45f09611c8f537f98b64f500,Brazil Annual Inflation 2026 5.50-5.99%,10,0.975,0.0,0.025,,2027-01-13T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
+2026-10-30T18:59:21Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.971,0.0,0.029,,2027-03-14T23:59:00Z
+2026-10-30T18:59:21Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.972,0.0153,0.0127,,2027-03-31T03:59:00Z
