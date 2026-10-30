@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-30T01:09:39Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-30T01:19:07Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-10-30T01:09:36Z — 245 of 245 pairs priced
 - Scans in the last 24h: 28 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-29T19:08:54Z — Kalshi 160608 markets, Polymarket 21520 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-10-30T01:19:06Z — Kalshi 165239 markets, Polymarket 22237 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 587 scans so far. A pair counts as positive when buyin
 | KXISLGAME-26OCT251455HAJHTA-HTA /  | no | +30.3¢ | +30.3¢ | 4 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 13 run, 197 positive spreads seen; typical one lasted 3420 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 355. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 377. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Central Bank of Colombia decision in October No change — 2 outcomes, +4.0¢ per $1
   - polymarket: Lowest temperature in Paris on October 28? 5°C — 3 outcomes, +4.0¢ per $1
   - polymarket: 3rd Largest Company end of October? Alphabet — 2 outcomes, +4.0¢ per $1
