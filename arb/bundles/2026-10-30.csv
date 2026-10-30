@@ -99,3 +99,45 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-30T07:13:35Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Otu Bassey Edet",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
 2026-10-30T07:13:35Z,polymarket,0xc6ebdac9f7eb2d7fee967565eae5d3b062d9b4ccb2bfa02758936e6845497900,Next Israeli Minister of Defense? No Next Minister by Feb 28,19,0.99,0.0,0.01,,2027-03-01T04:59:00Z
 2026-10-30T07:13:35Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.977,0.0156,0.0074,,2027-03-31T03:59:00Z
+2026-10-30T13:10:01Z,kalshi,KXATTYGENNV-26,Nevada Attorney General winner?,2,0.97,0.016,0.014,2220.9,2027-01-06T15:00:00Z
+2026-10-30T13:10:01Z,kalshi,KXSTATELEG-TXHOUS26,Texas State House winner?,2,0.96,0.027,0.013,3310.0,2026-11-03T15:00:00Z
+2026-10-30T13:10:01Z,kalshi,KXSTATELEG-MISEN26,Michigan State Senate winner?,2,0.97,0.018,0.012,3139.23,2026-11-03T15:00:00Z
+2026-10-30T13:10:01Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.94,0.031,0.029,3845.59,2026-11-03T15:00:00Z
+2026-10-30T13:10:01Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.95,0.024,0.026,1544.0,2026-11-03T15:00:00Z
+2026-10-30T13:10:01Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.94,0.021,0.039,7934.0,2026-11-03T15:00:00Z
+2026-10-30T13:10:01Z,kalshi,KXNFLRACE-26NOV01KCDEN-35,Kansas City vs Denver: Race to 35 Points,3,0.95,0.023,0.027,0.01,2026-11-02T00:25:00Z
+2026-10-30T13:10:01Z,kalshi,KXNFLRACE-26NOV01CLEPIT-35,Cleveland vs Pittsburgh: Race to 35 Points,3,0.96,0.023,0.017,0.01,2026-11-01T21:00:00Z
+2026-10-30T13:10:01Z,kalshi,KXHIGHTEWR-26OCT30,"Highest temperature in Newark on Oct 30, 2026?",6,0.95,0.043,0.007,0.01,2026-10-31T19:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x7d0ca7f06880ee30b026b73d9f8d5a3837657ceeaf45913da7629156baf89800,Avg. # of ships transiting Bab el-Mandeb Strait end of October? 25-29,2,0.96,0.0,0.04,,2026-11-01T03:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x72700a5018c90b221a92703b2a06882d59af27db5c20d3b35e6b8482ab977500,Nevada Attorney General Election Winner Adriana Guzmán Fralick (R),2,0.99,0.0,0.01,,2026-11-03T23:59:00Z
+2026-10-30T13:10:01Z,polymarket,0xc21162fa3e53ab5656cbf20f1d8ec659bb6b14cb6266306b7fe6cea443833600,"Bitcoin price on November 1? <72,000",5,0.928,0.0443,0.0277,,2026-11-01T17:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x7adb9ab098af9a0cf963be64894fdfac5f175d1e71067a6c0579a163c8c6bd00,Highest temperature in Miami on October 31? 86-87°F,3,0.98,0.0,0.02,,2026-10-31T12:00:00Z
+2026-10-30T13:10:01Z,polymarket,0xa0ce49f776db40a20d70aac5910d1b2ab004c4c807683ae6914afb57bf3c0200,Highest temperature in Amsterdam on October 31? 12°C,5,0.98,0.0,0.02,,2026-10-31T12:00:00Z
+2026-10-30T13:10:01Z,polymarket,0xe80318744e2322ff6ea66c270f68ef0c95f88c32f8e719df0c9884b951034400,Ohio Senate Election Margin of Victory Brown 6-9%,5,0.964,0.0,0.036,,2026-11-04T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x8f6e82f6786e17ea8ec3111fb2d55b1003118f04d66738b4eef19d629c21c800,Highest temperature in NYC on October 31? 58-59°F,3,0.98,0.0,0.02,,2026-10-31T12:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x89d3d94cf1556e3d2270a6b43488ebabadb35bf98b2ba720d4ab31c4ef454b00,Best Chinese AI Company end of October? Moonshot,5,0.988,0.0,0.012,,2026-10-31T16:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x3f824942b41547b6742d2be8bd0ce1b76c0ffb41ae7a3bbbe656912e24ef0a00,Highest temperature in Munich on October 31? 8°C,4,0.961,0.0,0.039,,2026-10-31T12:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x597b0cfe7ec72e14dea4ed9d460afed2735030c0ad9572a4560993aed0a40c00,Highest temperature in Buenos Aires on October 31? 26°C,3,0.99,0.0,0.01,,2026-10-31T12:00:00Z
+2026-10-30T13:10:01Z,polymarket,0xe10befc24f9ed4b1169e63949dd389df6f570eb4dcd18338a958737cb05cf200,Highest temperature in Seattle on October 31? 50-51°F,3,0.99,0.0,0.01,,2026-10-31T12:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x15f2cf11f8c3ba4f669f966d41b44479862169cff38c08028dacab6792e59000,Highest temperature in Chongqing on October 31? 18°C,3,0.99,0.0,0.01,,2026-10-31T12:00:00Z
+2026-10-30T13:10:01Z,polymarket,0xe759ef566f2ab9c7a538aba6c741759687f0d86521e3c214865b3dca38a4cc00,Which company has the best AI model on LiveBench (Mathematics) end of October? Other,2,0.983,0.0007,0.0163,,2026-10-31T23:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x28520f155d597a896bea5865f5625f1cdc64574c3a19f0325f6fbc97fae10d00,Next Prime Minister of New Zealand? Christopher Luxon,7,0.99,0.0,0.01,,2026-11-08T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x9a64a86155e0c0406f8a4d9a708a1d74558698f4f5df6ab5be322abc3a107600,Which party will win white voters in the midterms? Democrats,2,0.99,0.0,0.01,,2026-11-07T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x7cf30a2dee667c42d1ab5513af0efa5687fc52634a92765db8ebaea286de3600,"White House # posts October 30 - November 6, 2026? 200+",2,0.97,0.0,0.03,,2026-11-06T17:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x896dc595186d77ae01f234599e506579018c12473e1138756eb1141d1c678400,"Bitcoin price on November 4? 78,000-80,000",7,0.927,0.0535,0.0195,,2026-11-04T17:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x9f99036fbe17f7c21258b76d6195fecf309f188e06252ebf25d3bad771727b00,Sport Lisboa e Benfica vs. KKS Lech Poznań Draw (Sport Lisboa e Benfica vs. KKS Lech Poznań),2,0.96,0.012,0.028,,2026-11-05T20:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x8f14f57ffaf0bbc777be06d4e275bf0dfe32fa40eeb588752f7ca9eab7afb400,2026 Taiwanese Local Elections: Party Winner Democratic Progressive Party (DPP),2,0.985,0.0,0.015,,2026-11-29T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Su Ching-chuan,2,0.98,0.0,0.02,,2026-11-29T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x1e5566c3a55460fde009407a06536a0f6040d11feaff6eb65995f0b79e04d400,Tainan Mayor Election Winner Chen Ting-fei,2,0.981,0.0,0.019,,2026-11-29T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0xd1dae9b7a4d2dc2ee926122b07bde454e05943d4ba9c9b4e0ebf4da9da4aa700,Largest Company end of December 2026? NVIDIA,8,0.967,0.0,0.033,,2027-01-01T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",7,0.99,0.0,0.01,,2027-01-01T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,10,0.964,0.0,0.036,,2026-12-31T17:00:00Z
+2026-10-30T13:10:01Z,polymarket,0x60840607f1f408f7b14dc9b95f1b43582e77b7b8400fc901f9471ad8aba3b800,Where will Trump and Putin meet next in 2026? China,6,0.976,0.0,0.024,,2027-01-01T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x5a4fcfaad1885518f378328cf38d17cf43d89546ce4fe84b755f937eacb34d00,Top US Spotify Song 2026 Choosin Texas – Ella Langley,8,0.964,0.0,0.036,,2027-02-01T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,3,0.988,0.0,0.012,,2027-02-01T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Steve Ballmer",3,0.983,0.0,0.017,,2027-01-03T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 12-15,7,0.977,0.0,0.023,,2027-01-01T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0xa8cba0039f41801c327419428ad901551dd2043e4d3d4b14f24f8c6e76a8d700,NCAA Football: 2027 National Champion Miami Hurricanes,12,0.965,0.0253,0.0097,,2027-01-26T00:00:00Z
+2026-10-30T13:10:01Z,polymarket,0xc37d76499ff5d4d0b10e7f7b858af4f81885978234b7f3f63ab4caea2becad00,"Adamawa, Nigeria Governor Election Winner Wafarinyi Theman Dalatu",5,0.984,0.0,0.016,,2027-02-07T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Otu Bassey Edet",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
+2026-10-30T13:10:01Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Wildwood,8,0.986,0.0,0.014,,2027-03-14T23:59:00Z
