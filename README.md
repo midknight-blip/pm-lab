@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-31T06:18:33Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-31T07:10:49Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-31T06:18:30Z — 244 of 247 pairs priced
-- Scans in the last 24h: 30 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-31T01:18:45Z — Kalshi 169765 markets, Polymarket 22147 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-31T07:10:48Z — Kalshi 176032 markets, Polymarket 22135 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -29,11 +29,11 @@ Running since 2026-10-14. 623 scans so far. A pair counts as positive when buyin
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
 | KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1 /  | no | +67.6¢ | +66.1¢ | 14 | 50 | 0 | >999% |
-| CMA Awards: Female Vocalist of the Year Ella  / Will Ella Langley win Female Vocalist of the  | unsure | +62.6¢ | +62.0¢ | 6 | 30 | 21 | >999% |
+| KXCMA-FVOTY26-ELAN /  | unsure | +62.6¢ | +62.0¢ | 6 | 30 | 21 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 15 run, 213 positive spreads seen; typical one lasted 3316 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 338. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 358. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Pingtung County Magistrate Election Winner Su Ching-chuan — 2 outcomes, +4.0¢ per $1
   - polymarket: #1 Searched Person on Google in the US 2026? Lindsay Clancy — 33 outcomes, +4.0¢ per $1
   - polymarket: Which movie has biggest opening week in 2026? Avengers: Doomsday — 2 outcomes, +4.0¢ per $1
