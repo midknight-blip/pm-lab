@@ -1,0 +1,39 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-10-31T01:15:18Z,kalshi,KXINXVSBTC-26DEC31,Annual Return: S&P 500 Total Return Vs. BTC?,2,0.97,0.008,0.022,115.66,2027-01-01T04:59:00Z
+2026-10-31T01:15:18Z,kalshi,KXSTATELEG-TXHOUS26,Texas State House winner?,2,0.94,0.028,0.032,3171.38,2026-11-03T15:00:00Z
+2026-10-31T01:15:18Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.94,0.03,0.03,4317.89,2026-11-03T15:00:00Z
+2026-10-31T01:15:18Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.94,0.035,0.025,4095.14,2026-11-03T15:00:00Z
+2026-10-31T01:15:18Z,kalshi,KXSTATELEG-MISEN26,Michigan State Senate winner?,2,0.97,0.018,0.012,3958.0,2026-11-03T15:00:00Z
+2026-10-31T01:15:18Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.94,0.031,0.029,3723.45,2026-11-03T15:00:00Z
+2026-10-31T01:15:18Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.95,0.024,0.026,2418.0,2026-11-03T15:00:00Z
+2026-10-31T01:15:18Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.94,0.021,0.039,5704.12,2026-11-03T15:00:00Z
+2026-10-31T01:15:18Z,kalshi,KXNFLMOSTRECYDS-26NOV01BALBUF,Baltimore vs Buffalo: Most Receiving Yards,6,0.94,0.049,0.011,1.0,2026-11-01T21:00:00Z
+2026-10-31T01:15:18Z,polymarket,0xd84d936855594e1c53305b2438f63b3a8c56085b4b36aab26c5693f9bf815b00,Bulgaria Presidential Election Second Round: Turnout 24%+,2,0.97,0.0,0.03,,2026-11-02T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x198451862c8a0b2e89c981e9cd0f4a6b8e28e915a7e24ba6336066640fa23400,Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern Warfare 4,2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x769792cb35cb05e1dc08b76f8affd547127e08dc5c9af7232ac835ed84b70700,Highest temperature in Singapore on November 1? 32°C,3,0.972,0.0,0.028,,2026-11-01T12:00:00Z
+2026-10-31T01:15:18Z,polymarket,0xa6febfee3e99ea9c6e89d1943a025f77238c5501399ecff22c90798279a40900,Highest temperature in Qingdao on October 31? 19°C,3,0.977,0.0,0.023,,2026-10-31T12:00:00Z
+2026-10-31T01:15:18Z,polymarket,0x300d7f265b7aa792d51b960eb8aed9f3338f3fa39171e35df78e4cd9499e0800,CA-04 House Election Winner (by individual) Mike Thompson,2,0.98,0.0,0.02,,2026-11-05T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x93495273027fa4e83806a2f202e472771a1ad1570aa760af76da5a996cb3e600,Which party will win white women in the midterms? Democrats,2,0.98,0.0,0.02,,2026-11-07T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x9f99036fbe17f7c21258b76d6195fecf309f188e06252ebf25d3bad771727b00,Sport Lisboa e Benfica vs. KKS Lech Poznań Draw (Sport Lisboa e Benfica vs. KKS Lech Poznań),2,0.96,0.012,0.028,,2026-11-05T20:00:00Z
+2026-10-31T01:15:18Z,polymarket,0xfff6c7951c0b3e95c3e5b730c9999576bf14cfc6cf53b35d607dccbbe261af00,SE Palmeiras vs. Clube do Remo SE Palmeiras,2,0.95,0.0144,0.0356,,2026-11-05T22:30:00Z
+2026-10-31T01:15:18Z,polymarket,0xeeb161f7aa387593f7cd1415dedb85c988c30d85183ec6338e44f88c3e624f00,Israel Election: Otzma # of seats? 8-9,4,0.966,0.0,0.034,,2026-11-30T23:59:00Z
+2026-10-31T01:15:18Z,polymarket,0xa938b50a20961e02c4d349f50a99e19a954d4d2b1182e188bc0ec0fa5b648200,Which company has the best AI model on LiveBench (Mathematics) end of November? Other,6,0.981,0.0048,0.0142,,2026-12-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0xbb85f11e66cc263e31c671922c8aab5366539e7ab3220e58c1a92b280d980300,Victoria Parliamentary Election: 3rd Place One Nation,2,0.974,0.0,0.026,,2026-11-29T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x2b1b578d3f36aaba97e231143b94da67e13a16fcd3f0856d56bc49c919489600,MLB: AL Platinum Glove Winner Vladimir Guerrero Jr.,7,0.957,0.0163,0.0267,,2027-01-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? OpenAI,10,0.986,0.0,0.014,,2027-01-02T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x5a4fcfaad1885518f378328cf38d17cf43d89546ce4fe84b755f937eacb34d00,Top US Spotify Song 2026 Choosin Texas – Ella Langley,13,0.973,0.0,0.027,,2027-02-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,13,0.976,0.0,0.024,,2027-02-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Drop Dead – Olivia Rodrigo,14,0.984,0.0,0.016,,2027-02-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Michael Dell",4,0.99,0.0,0.01,,2027-01-03T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x98b606dad0946169a25e3f1ef2abd54984aa4104569c21576ff9c876afccd700,Bitcoin best month in 2026? October,3,0.974,0.0095,0.0165,,2027-01-01T05:00:00Z
+2026-10-31T01:15:18Z,polymarket,0x60840607f1f408f7b14dc9b95f1b43582e77b7b8400fc901f9471ad8aba3b800,Where will Trump and Putin meet next in 2026? China,6,0.983,0.0,0.017,,2027-01-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 12-15,7,0.987,0.0,0.013,,2027-01-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0xdcde9595b01e2d8e7efc4ac0fc26a87bc476d7de33b7ac7073f6f7832c56ef00,Which movie has 3rd biggest opening weekend in 2026? Toy Story 5,3,0.979,0.0,0.021,,2027-01-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x35b94160948b5bb04a55a5d0cacf63ed43beb69e2661361c1dbc3fcb867bed00,MLS: 2026 Most Valuable Player Lionel Messi,2,0.981,0.0013,0.0177,,2027-01-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0xbf17bd440e263ff25b13e6dbd0a49699fadd457e31130238fe8bb468bb3a8100,"What will S&P 500 (SPX) close at end of 2026? <$6,000",3,0.965,0.0,0.035,,2026-12-31T21:00:00Z
+2026-10-31T01:15:18Z,polymarket,0x7aa82c31937c91b1fc3d1f37ef60d3a0e8bded16eddd3c3cbcdd8e63dd606800,Which movie has biggest opening weekend in 2026? Spider-Man: Brand New Day,4,0.982,0.0,0.018,,2027-02-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0xcbf1bd7bce23bf8ef66f357da34a7bb3492173cbf254002ec34624eb17709f00,Which movie has biggest opening week in 2026? Avengers: Doomsday,4,0.962,0.0,0.038,,2027-02-01T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.971,0.0,0.029,,2027-02-07T04:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Sierra Leone,4,0.972,0.0106,0.0175,,2027-03-31T03:59:00Z
+2026-10-31T01:15:18Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.972,0.0153,0.0127,,2027-03-31T03:59:00Z

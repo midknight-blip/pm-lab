@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-31T00:42:32Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-31T01:18:46Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-10-31T00:42:30Z — 230 of 245 pairs priced
-- Scans in the last 24h: 30 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-10-30T19:01:59Z — Kalshi 166486 markets, Polymarket 21677 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-10-31T01:18:45Z — Kalshi 169765 markets, Polymarket 22147 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -23,7 +23,7 @@ Running since 2026-10-14. 616 scans so far. A pair counts as positive when buyin
 |---|---|---|---|---|---|---|---|
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
-| SV 07 Elversberg vs FSV Mainz: Correct Score  / Will SV 07 Elversberg win on 2026-10-30? | no | +98.0¢ | +84.6¢ | 3 | 50 | 0 | >999% |
+| KXBUNDESLIGASCORE-26OCT30SVEM05-SVE5M051 /  | no | +98.0¢ | +84.6¢ | 3 | 50 | 0 | >999% |
 | KXCBDECISIONENGLAND-26NOV05-H25P /  | no | +96.8¢ | +96.7¢ | 14 | 50 | 6 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
@@ -33,12 +33,12 @@ Running since 2026-10-14. 616 scans so far. A pair counts as positive when buyin
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 14 run, 206 positive spreads seen; typical one lasted 3368 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 349. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Highest temperature in Karachi on October 28? 38°C — 2 outcomes, +4.0¢ per $1
-  - polymarket: How many 6.5 or above earthquakes worldwide October 26 - November 1? 0 — 3 outcomes, +4.0¢ per $1
-  - polymarket: Which party will win Latino men in the midterms? Democrats — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 338. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Pingtung County Magistrate Election Winner Su Ching-chuan — 2 outcomes, +4.0¢ per $1
-  - polymarket: Top US Spotify Song 2026 Choosin Texas – Ella Langley — 3 outcomes, +4.0¢ per $1
+  - polymarket: #1 Searched Person on Google in the US 2026? Lindsay Clancy — 33 outcomes, +4.0¢ per $1
+  - polymarket: Which movie has biggest opening week in 2026? Avengers: Doomsday — 2 outcomes, +4.0¢ per $1
+  - polymarket: #2 Spotify Artist 2026 Taylor Swift — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Houston on October 29? 80-81°F — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
