@@ -90,3 +90,40 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-10-31T07:07:50Z,polymarket,0xe330d2ab0b4436490a7fdbbe3f22030e9936cba4e3ac482a8e309470b6adf500,Oscars 2027: Best Animated Feature Film Winner Toy Story 5,8,0.96,0.0,0.04,,2027-03-14T23:59:00Z
 2026-10-31T07:07:50Z,polymarket,0x00774fb5c71d1fd22e5603e56cb8028039d1c5c116a78af288b026dda97bd200,What will the peak RONI be for the 2026–27 El Niño? 2.25–2.5,5,0.989,0.0,0.011,,2027-04-01T03:59:00Z
 2026-10-31T07:07:50Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.973,0.0154,0.0116,,2027-03-31T03:59:00Z
+2026-10-31T13:01:32Z,kalshi,KXINXVSBTC-26DEC31,Annual Return: S&P 500 Total Return Vs. BTC?,2,0.97,0.008,0.022,14.66,2027-01-01T04:59:00Z
+2026-10-31T13:01:32Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.94,0.03,0.03,4917.89,2026-11-03T15:00:00Z
+2026-10-31T13:01:32Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.94,0.035,0.025,5613.05,2026-11-03T15:00:00Z
+2026-10-31T13:01:32Z,kalshi,KXSTATELEG-MISEN26,Michigan State Senate winner?,2,0.97,0.018,0.012,2366.68,2026-11-03T15:00:00Z
+2026-10-31T13:01:32Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.94,0.031,0.029,5291.0,2026-11-03T15:00:00Z
+2026-10-31T13:01:32Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.95,0.024,0.026,3856.75,2026-11-03T15:00:00Z
+2026-10-31T13:01:32Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.94,0.021,0.039,5356.89,2026-11-03T15:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x7395ab20cf3adba8ef157424d6d9b20a00547275d3144eb9965eff9f80204e00,Alaska Governor Election Winner   Jonathan Kreiss-Tomkins,2,0.989,0.0,0.011,,2026-11-04T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x92b911f687702286acdcfab14a9baba163f47d4030edcf9a73f0393edc2f0900,2026 Tarrant County Judge Election Winner Tim O'Hare,2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x62fddb39179557622c9797942ad22ad608c42e2908d2dbce94bb3389ec275500,How many Mexico border seats will Dems win in the house? 9+,2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x89d3d94cf1556e3d2270a6b43488ebabadb35bf98b2ba720d4ab31c4ef454b00,Best Chinese AI Company end of October? Xiaomi,3,0.981,0.0,0.019,,2026-10-31T16:00:00Z
+2026-10-31T13:01:32Z,polymarket,0xf644bdc3a1fad750099f15bba2c86615d0ad678f67d2fd3f5f13ee7e05c9c300,Highest temperature in Houston on November 1? 82-83°F,5,0.99,0.0,0.01,,2026-11-01T12:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x11ed0a288b1657c391bdd094edf5a4ffe8599fac882e7d56239c880d18e82400,Highest temperature in Dallas on November 1? 78-79°F,6,0.964,0.0,0.036,,2026-11-01T12:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x4f1e6da26ba63f9f74aeaf9fd345e0f1cde3bdada9b1b1ef14fd8b3ed229f400,Which party will hold more governorships after the midterms? Democratic Party,2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0xf64c40d6d03e43de8a0987d526dee5303d008c31f03d5b03cacbc37ce90f8600,Highest temperature in San Francisco on November 1? 62-63°F,3,0.981,0.0,0.019,,2026-11-01T12:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x16f99da2e5fbee4a455f57639933d224ec43c64e3add038d262ca3c8e778ec00,What will be the top US Netflix show this week? (November 3) The One About Matthew Perry: Limited Series,2,0.983,0.0,0.017,,2026-11-04T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0xf8fafb2e0be23149ff2fc536eaf7ee2b9c39b907f29934e05680496237308800,Lowest temperature in Paris on November 1? 5°C,2,0.97,0.0,0.03,,2026-11-01T12:00:00Z
+2026-10-31T13:01:32Z,polymarket,0xe3c5c8a9507c6b29e2fba0960e6d56784982244b03bd6f0dcd8caf43d58a6e00,Atalanta BC vs. Qairat FK Atalanta BC,2,0.97,0.0117,0.0183,,2026-11-05T17:45:00Z
+2026-10-31T13:01:32Z,polymarket,0x9f99036fbe17f7c21258b76d6195fecf309f188e06252ebf25d3bad771727b00,Sport Lisboa e Benfica vs. KKS Lech Poznań Draw (Sport Lisboa e Benfica vs. KKS Lech Poznań),2,0.96,0.012,0.028,,2026-11-05T20:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x8f14f57ffaf0bbc777be06d4e275bf0dfe32fa40eeb588752f7ca9eab7afb400,2026 Taiwanese Local Elections: Party Winner Democratic Progressive Party (DPP),2,0.974,0.0,0.026,,2026-11-29T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0xc5dc9a3c146179b2c1e098ea44fd26a7b95a21dfda73ca12797dfcb68bec1600,OpenAI’s valuation end of November 2026? $1.30T+,7,0.963,0.0,0.037,,2026-11-30T17:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x928ac4e47c23b65843f00539e67d2c660e78d2e16f6c1aeafb3b935eb4d58e00,MotoGP World Champion (2026) Marc Marquez,2,0.978,0.0081,0.0139,,2026-11-29T23:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x7f29f973c38f4675eb225c902036e38270d439d9831d267dc0185221c6bc5c00,Second-best AI Lab end of November? Anthropic,3,0.97,0.0,0.03,,2026-12-01T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x0667904c82a6a71f7b5bb7edb673962322530a8494e91524280d19eca4a29000,Israel Election: The Joint List vote share? 5.5-6.5%,2,0.994,0.0,0.006,,2026-11-30T23:59:00Z
+2026-10-31T13:01:32Z,polymarket,0xbae6dc0f580109d4772c31ef5e7ab4e8aa72249b3159855b22a3d0ac1b60a800,Reserve Bank of India decision in December 25 bps increase,5,0.963,0.0,0.037,,2026-12-04T00:00:00Z
+2026-10-31T13:01:32Z,polymarket,0xbc55599c69369d10f4f2407d2b6ff83f736bb2476dabbeddc07cb22896bd3e00,MLB: NL Rookie of the Year Carson Benge,6,0.98,0.0051,0.0149,,2026-12-19T00:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x5a4fcfaad1885518f378328cf38d17cf43d89546ce4fe84b755f937eacb34d00,Top US Spotify Song 2026 Choosin Texas – Ella Langley,13,0.978,0.0,0.022,,2027-02-01T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,11,0.972,0.0,0.028,,2026-12-31T17:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x98b606dad0946169a25e3f1ef2abd54984aa4104569c21576ff9c876afccd700,Bitcoin best month in 2026? October,3,0.971,0.0096,0.0194,,2027-01-01T05:00:00Z
+2026-10-31T13:01:32Z,polymarket,0x2a4a952b6008b8b88d0cfd0a62c522c69f993f5d3da13da94dd3a408cd9ed200,Where will Zelenskyy and Putin meet next before 2027? Switzerland,12,0.99,0.0,0.01,,2027-01-01T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0xfd721b5e50e7bc3ec7627f8284abcc47f4a4b464d31b33de80adcd7ea1b9aa00,"Lowest Great Salt Lake elevation in 2026? 4,189.3 or 4,189.4 ft",3,0.973,0.0,0.027,,2027-01-02T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x35b94160948b5bb04a55a5d0cacf63ed43beb69e2661361c1dbc3fcb867bed00,MLS: 2026 Most Valuable Player Lionel Messi,2,0.986,0.0021,0.0119,,2027-01-01T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x832b97540e925a5348a91203a275eb955645196bb5b0106c7750f7c91eb3cb00,LoL Offseason: Diable Next Team JD Gaming,7,0.938,0.0289,0.0331,,2027-01-01T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0xcbf1bd7bce23bf8ef66f357da34a7bb3492173cbf254002ec34624eb17709f00,Which movie has biggest opening week in 2026? Avengers: Doomsday,4,0.982,0.0,0.018,,2027-02-01T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x90b76298028604e4cc48f56853826f09547f2ca80e810d70fc3b4f41eeb7bc00,AFC Asian Cup 2027: Group F Winner Qatar,4,0.951,0.0175,0.0315,,2027-02-06T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
+2026-10-31T13:01:32Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.955,0.0146,0.0304,,2027-03-31T03:59:00Z
