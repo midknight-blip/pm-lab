@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-31T07:10:49Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-10-31T07:27:47Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-10-31T06:18:30Z — 244 of 247 pairs priced
-- Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-10-31T07:27:44Z — 248 of 248 pairs priced
+- Scans in the last 24h: 30 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-10-31T07:10:48Z — Kalshi 176032 markets, Polymarket 22135 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 623 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 624 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 313
 - Positive pairs still in play: **283** (confirmed same bet: 6, not yet checked: 266)
-- Scans with at least one positive pair: 622
+- Scans with at least one positive pair: 623
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,12 +33,12 @@ Running since 2026-10-14. 623 scans so far. A pair counts as positive when buyin
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 15 run, 213 positive spreads seen; typical one lasted 3316 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 358. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Pingtung County Magistrate Election Winner Su Ching-chuan — 2 outcomes, +4.0¢ per $1
-  - polymarket: #1 Searched Person on Google in the US 2026? Lindsay Clancy — 33 outcomes, +4.0¢ per $1
-  - polymarket: Which movie has biggest opening week in 2026? Avengers: Doomsday — 2 outcomes, +4.0¢ per $1
-  - polymarket: #2 Spotify Artist 2026 Taylor Swift — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 339. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Highest temperature in Houston on October 29? 80-81°F — 2 outcomes, +4.0¢ per $1
+  - polymarket: #2 Spotify Artist 2026 Taylor Swift — 2 outcomes, +4.0¢ per $1
+  - polymarket: Top Spotify Song 2026 Beauty And A Beat – Justin Bieber & Nicki Minaj — 3 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Jeddah on October 29? 34°C — 3 outcomes, +4.0¢ per $1
+  - polymarket: Bulgaria Presidential Election Second Round: Turnout 24%+ — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
