@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-01T19:01:25Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-01T19:22:08Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-01T18:39:11Z — 228 of 248 pairs priced
+- Last scan: 2026-11-01T19:22:06Z — 247 of 247 pairs priced
 - Scans in the last 24h: 32 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-01T19:01:24Z — Kalshi 180405 markets, Polymarket 21968 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 672 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 673 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 313
-- Positive pairs still in play: **295** (confirmed same bet: 6, not yet checked: 278)
-- Scans with at least one positive pair: 671
+- Positive pairs still in play: **297** (confirmed same bet: 6, not yet checked: 280)
+- Scans with at least one positive pair: 672
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,12 +33,12 @@ Running since 2026-10-14. 672 scans so far. A pair counts as positive when buyin
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 15 run, 213 positive spreads seen; typical one lasted 3316 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 278. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 237. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Avg. # of ships transiting Bab el-Mandeb Strait end of October? 25-29 — 2 outcomes, +4.0¢ per $1
+  - polymarket: NYC Mayor # posts October 27 - November 3, 2026? 20-39 — 2 outcomes, +4.0¢ per $1
+  - polymarket: MI-04 House Election Winner Bill Huizenga (R) — 2 outcomes, +4.0¢ per $1
   - polymarket: Which party will hold more governorships after the midterms? Democrati — 2 outcomes, +4.0¢ per $1
-  - polymarket: NY-19 House Election Margin of Victory Democrat 9-12% — 2 outcomes, +4.0¢ per $1
-  - polymarket: 3rd Largest Company end of December 2026? Microsoft — 7 outcomes, +4.0¢ per $1
-  - polymarket: Cross River, Nigeria Governor Election Winner Otu Bassey Edet — 2 outcomes, +4.0¢ per $1
+  - polymarket: Pingtung County Magistrate Election Winner Su Ching-chuan — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
