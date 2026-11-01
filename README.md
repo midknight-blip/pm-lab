@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-01T07:10:15Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-01T07:19:09Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-01T07:10:13Z — 242 of 249 pairs priced
 - Scans in the last 24h: 33 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-01T01:28:26Z — Kalshi 164911 markets, Polymarket 22989 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-01T07:19:08Z — Kalshi 161105 markets, Polymarket 22414 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 656 scans so far. A pair counts as positive when buyin
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 15 run, 213 positive spreads seen; typical one lasted 3316 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 315. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Highest temperature in Taipei on October 30? 28°C — 3 outcomes, +4.0¢ per $1
-  - polymarket: Which party will win white women in the midterms? Republicans — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 291. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: When will Gemini Carbon be released? November 2–November 8 — 10 outcomes, +4.0¢ per $1
+  - polymarket: Which party will hold more governorships after the midterms? Democrati — 2 outcomes, +4.0¢ per $1
   - polymarket: Pingtung County Magistrate Election Winner Su Ching-chuan — 2 outcomes, +4.0¢ per $1
   - polymarket: How many more Millennium Prize Problems will AI solve in 2026? 0 — 2 outcomes, +4.0¢ per $1
-  - polymarket: When will Gemini Carbon be released? November 2–November 8 — 10 outcomes, +4.0¢ per $1
+  - polymarket: Avg. # of ships transiting Bab el-Mandeb Strait end of October? 25-29 — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
