@@ -124,3 +124,40 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-01T13:03:39Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.971,0.0105,0.0185,,2027-03-31T03:59:00Z
 2026-11-01T13:03:39Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.968,0.0219,0.0101,,2027-03-31T03:59:00Z
 2026-11-01T13:03:39Z,polymarket,0xd1bee68c25dbc80169d350950490dfde993b7660228596d99e2768d58f01b600,UFC: Who will Carlos Ulberg fight next? Magomed Ankalaev,4,0.968,0.0179,0.0141,,2027-05-01T03:59:00Z
+2026-11-01T18:57:13Z,kalshi,KXEFLCUP-27,EFL Cup Champion,8,0.91,0.054,0.036,8.0,2027-03-21T17:00:00Z
+2026-11-01T18:57:13Z,kalshi,KXHOUSERACE-TN03-26,TN-03 House winner?,2,0.99,0.003,0.007,16.0,2027-01-04T17:00:00Z
+2026-11-01T18:57:13Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.94,0.031,0.029,85.0,2027-02-27T15:00:00Z
+2026-11-01T18:57:13Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.95,0.035,0.015,3488.34,2027-02-27T15:00:00Z
+2026-11-01T18:57:13Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.97,0.022,0.008,4552.0,2027-02-25T15:00:00Z
+2026-11-01T18:57:13Z,kalshi,KXNFLMOSTRECYDS-26NOV01LACLAR,Los Angeles C vs Los Angeles R: Most Receiving Yards,7,0.93,0.044,0.026,1.0,2026-11-02T03:05:00Z
+2026-11-01T18:57:13Z,polymarket,0x49eec5508ecdc9291ff849faa4bb7fbcee6d5ded94cefd3d8d64c39332d2fc00,Vålerenga Fotball vs. Tromsø IL Vålerenga Fotball,2,0.971,0.0026,0.0264,,2026-11-01T18:15:00Z
+2026-11-01T18:57:13Z,polymarket,0x4f1e6da26ba63f9f74aeaf9fd345e0f1cde3bdada9b1b1ef14fd8b3ed229f400,Which party will hold more governorships after the midterms? Democratic Party,2,0.98,0.009,0.011,,2026-11-04T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x4f555110ed819b5035272469d8b03257af91a8e24d4a5ab74e4884071952b400,Highest temperature in Dallas on November 2? 84-85°F,4,0.94,0.034,0.026,,2026-11-02T12:00:00Z
+2026-11-01T18:57:13Z,polymarket,0xcecc36c4de5ac60428de891cbc699e86bed9f41106771f44bc3f15b1c2947a00,Panathinaikos Athens vs. AEK Athens Panathinaikos Athens,2,0.969,0.0033,0.0277,,2026-11-01T17:30:00Z
+2026-11-01T18:57:13Z,polymarket,0x198451862c8a0b2e89c981e9cd0f4a6b8e28e915a7e24ba6336066640fa23400,Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern Warfare 4,2,0.96,0.0,0.04,,2026-11-04T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x602f504438baf8260a4372d751df3e85a3d69072cf388f33ab3dee282d4e7500,Highest temperature in Qingdao on November 2? 19°C,2,0.94,0.0237,0.0363,,2026-11-02T12:00:00Z
+2026-11-01T18:57:13Z,polymarket,0x8960be33f2828cd705b0058a44ccec98823b1c987d678052192e6346cdffd600,Paris Saint-Germain FC vs. ES Troyes AC Paris Saint-Germain FC,2,0.97,0.0102,0.0198,,2026-11-07T19:45:00Z
+2026-11-01T18:57:13Z,polymarket,0xabc3b26cf74f39d6d85de2744031123a17bcca5b0655ac5890fca135b7246800,Which party will win Latino men in the midterms? Republicans,2,0.98,0.0123,0.0077,,2026-11-07T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0xa2dacba1454e6d4965b1325fe9f4c75eb8b595cc3f4b94886e49ad24d2b86c00,"White House # posts November 3 - November 10, 2026? 200+",5,0.954,0.0089,0.0371,,2026-11-10T17:00:00Z
+2026-11-01T18:57:13Z,polymarket,0xf205a25c769d2c3cf2aea211f9872653968bde6d68291f1f074ea8809e9a7500,US Tornadoes in October 2026 35 - 59,2,0.989,0.0009,0.0101,,2026-11-11T16:00:00Z
+2026-11-01T18:57:13Z,polymarket,0x8ddd2c7addaf373b916c337ac958751440f2d8bf593864cecc3e585b251b2600,Anthropic IPO Date November 19,9,0.994,0.0,0.006,,2026-12-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x4bcf537542dc5cae365f9a8e4bdd5075f5e146774ef3320e26d449ae40fbbc00,CMA Single of the Year 2026 Somewhere Over Laredo (Lainey Wilson),2,0.98,0.0073,0.0127,,2026-11-19T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x4db6e12e0f8d14b1bae7195baa044a7aefc88ce43c56a12c8ee57bbb041f6e00,Which company has the best Text Arena Math AI model end of November? Google,2,0.971,0.02,0.009,,2026-12-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year TacticalRab,11,0.973,0.018,0.009,,2026-12-15T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x251819c3bf668e4790cce9b9755c627683101f701c3b1e31e1dfe5f18bcec200,MLB: AL Manager of the Year Chad Tracy,2,0.967,0.001,0.032,,2027-01-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Khamzat Chimaev,3,0.985,0.0039,0.0111,,2027-01-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x92fa5dc99566487b91775a40218e3462b16f4d35ae795fb2495c7613fd7bf000,How many different countries will Israel strike in 2026? 8,7,0.984,0.0,0.016,,2027-01-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x1f39774c717a44598675107e7d4e28380142ec1556f76f3887c43a656e404100,Who will be UFC Pound-For-Pound #1 at the end of 2026? Islam Makhachev,2,0.982,0.0006,0.0174,,2026-12-31T00:00:00Z
+2026-11-01T18:57:13Z,polymarket,0xc6fda46eb47fed35b13868c4b244f1b123ec37b5fce11f8d73dc4463054f1a00,Third-best AI Lab end of December? Anthropic,3,0.946,0.0228,0.0312,,2027-01-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x98b606dad0946169a25e3f1ef2abd54984aa4104569c21576ff9c876afccd700,Bitcoin best month in 2026? August,2,0.973,0.0095,0.0175,,2027-01-01T05:00:00Z
+2026-11-01T18:57:13Z,polymarket,0xebe55e097f065c94a72edc69111ceccdb1e944c6880f92f41157212f386cea00,Which company has the best Text Arena Math AI model end of December? Google,2,0.96,0.0197,0.0203,,2027-01-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x1b08fa819d20f297501589363dec9ec1782da6e655356345c186e835024b2400,Second-best Code Arena WebDev AI Lab end of December? Anthropic,3,0.951,0.0223,0.0267,,2027-01-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Joshua Van,2,0.989,0.0006,0.0104,,2027-01-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Babydoll – Dominic Fike,13,0.977,0.0139,0.0091,,2027-02-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x3dfb3317e621664c96ec774e0d42bf618581ab9c23643675855742e31f334b00,"Benue, Nigeria Governor Election Winner Alia Hyacinth Iormem",6,0.958,0.0213,0.0207,,2027-02-07T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Namadi Umar Alhaji",2,0.98,0.0072,0.0128,,2027-02-07T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.98,0.0107,0.0093,,2027-02-07T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.98,0.0096,0.0104,,2027-02-07T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0xb92f8e48ca62b1cfb98c2807891103e134a0eb86f65911dd74bfe6cce507ee00,"Kano, Nigeria Governor Election Winner Mohammad Raji",4,0.972,0.0175,0.0105,,2027-02-07T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0xc6ebdac9f7eb2d7fee967565eae5d3b062d9b4ccb2bfa02758936e6845497900,Next Israeli Minister of Defense? No Next Minister by Feb 28,19,0.937,0.0277,0.0353,,2027-03-01T04:59:00Z
+2026-11-01T18:57:13Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.977,0.0108,0.0122,,2027-03-31T03:59:00Z
