@@ -1,0 +1,56 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-01T01:24:26Z,kalshi,KXATTYGENNV-26,Nevada Attorney General winner?,2,0.984,0.01,0.006,0.01,2027-01-06T15:00:00Z
+2026-11-01T01:24:26Z,kalshi,KXHOUSERACE-TN03-26,TN-03 House winner?,2,0.99,0.003,0.007,17.0,2027-01-04T17:00:00Z
+2026-11-01T01:24:26Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.95,0.035,0.015,3078.57,2026-11-03T15:00:00Z
+2026-11-01T01:24:26Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.93,0.032,0.038,4782.45,2026-11-03T15:00:00Z
+2026-11-01T01:24:26Z,kalshi,KXSTATELEG-AZSEN26,Arizona State Senate winner?,2,0.95,0.024,0.026,3709.34,2026-11-03T15:00:00Z
+2026-11-01T01:24:26Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.94,0.021,0.039,7350.89,2026-11-03T15:00:00Z
+2026-11-01T01:24:26Z,kalshi,KXNETFLIXRANKMOVIERUNNERUP-26NOV02,#2 US Netflix Movie this week?,12,0.95,0.042,0.008,5.0,2026-11-03T15:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x0cb6512c9af9716bc7ad2fae61cb87830a711e36249b9bc3b738f5761bdc1600,NC-09 House Election Winner Richard Hudson (R),2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x4f1e6da26ba63f9f74aeaf9fd345e0f1cde3bdada9b1b1ef14fd8b3ed229f400,Which party will hold more governorships after the midterms? Democratic Party,2,0.97,0.0,0.03,,2026-11-04T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x62fddb39179557622c9797942ad22ad608c42e2908d2dbce94bb3389ec275500,How many Mexico border seats will Dems win in the house? 9+,2,0.98,0.0,0.02,,2026-11-04T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xa4da3926198d679cdf25dac2ea06485c7bd7c57b4f3b1fdda1d2f0aee4c53f00,Highest temperature in Guangzhou on November 1? 31°C,3,0.96,0.0,0.04,,2026-11-01T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x354df259a76182986628fa0c5dffc0a5df3092e721439f359fd911974b134200,Highest temperature in London on November 2? 12°C,2,0.96,0.0,0.04,,2026-11-02T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0xe6688394cfac8338771731dec8ae0310059eef78dcd19c46982db15d83c78b00,Highest temperature in Buenos Aires on November 1? 25°C,4,0.97,0.0,0.03,,2026-11-01T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x298f58f390fbe3aa3c38821c79f430545f9d6bbd177d38d83f737be4e4682d00,Highest temperature in Lucknow on November 1? 27°C,3,0.98,0.0,0.02,,2026-11-01T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0xd75a0561c4b21b6203a6c9deec94ccf8e1964892d4f3e1485377d230b6ec2600,Highest temperature in Hong Kong on November 2? 31°C,4,0.983,0.0,0.017,,2026-11-02T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x10d704d3c9297f1bae4233153de59b79e78f69740ed9510a54aca45f6caac800,Highest temperature in NYC on November 2? 64-65°F,3,0.97,0.0,0.03,,2026-11-02T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0xa6c7e5b9c2bb01e0bfad813537eb564010c10492cd4efcaa181efe1b4e93f400,Highest temperature in Chicago on November 1? 64-65°F,4,0.988,0.0,0.012,,2026-11-01T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0xded6fc7e5559e7655fded13366321948c0fcd8579a2ad2ecfe67ee3624c60500,Highest temperature in Cape Town on November 2? 21°C,4,0.982,0.0,0.018,,2026-11-02T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x2451a4c3fb251e3659b1410719b6d4e6ce0d47e8ad44061b94000cce6f27a100,Highest temperature in Mexico City on November 2? 27°C or higher,2,0.98,0.0,0.02,,2026-11-02T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x1935342f99f39c0c91b761d2a2d0e75433cf93876745f51bb138b5ee73d1a900,Highest temperature in Tokyo on November 2? 18°C,4,0.97,0.0,0.03,,2026-11-02T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0xd46d43c661ab41af2a118e3b479a5032bbb2a162155735c851edc9035589d700,Highest temperature in Chicago on November 2? 62-63°F,3,0.98,0.0,0.02,,2026-11-02T12:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x4f528e2e2adcec5b525e48a3572478642eb46f31e87d34e9f3c755026cf36a00,#1 Spotify song in the US this week? (November 6) Thriller - Michael Jackson,2,0.97,0.0,0.03,,2026-11-07T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x6ff5ac39bc2c69affcb4dbf04f057d2c8db7aa9ee27154788ffde65db97d7e00,New Zealand Election: 3rd Place Labour Party,4,0.994,0.0,0.006,,2026-11-08T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x294160f685889a55f5fc523402f5a5927277e7706e0819041555db40517a7000,The Streamer Awards: Streamer of the Year IShowSpeed,3,0.984,0.0,0.016,,2026-11-12T00:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x93495273027fa4e83806a2f202e472771a1ad1570aa760af76da5a996cb3e600,Which party will win white women in the midterms? Republicans,2,0.96,0.0,0.04,,2026-11-07T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xd1f0b44c4f5cdd054de03fd13103c821308cb8eb1e4b8a9db0fd6cda75a05600,"NYC Mayor # posts October 30 - November 6, 2026? 40-59",2,0.97,0.0,0.03,,2026-11-06T17:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x134d988c61ba14c64cd4ec4f04b2d17a8720db71a6460191c252c84ad0825b00,Sporting CP vs. Moreirense FC Draw (Sporting CP vs. Moreirense FC),2,0.95,0.0123,0.0377,,2026-11-07T20:30:00Z
+2026-11-01T01:24:26Z,polymarket,0x8960be33f2828cd705b0058a44ccec98823b1c987d678052192e6346cdffd600,Paris Saint-Germain FC vs. ES Troyes AC Paris Saint-Germain FC,2,0.97,0.0102,0.0198,,2026-11-07T19:45:00Z
+2026-11-01T01:24:26Z,polymarket,0x7514e2d378f0aa728b764039ad5d7f1b984f5f46c96494d6cee7e56e95d3ee00,Arsenal FC vs. Hull City AFC Draw (Arsenal FC vs. Hull City AFC),2,0.96,0.012,0.028,,2026-11-07T15:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x4bcf537542dc5cae365f9a8e4bdd5075f5e146774ef3320e26d449ae40fbbc00,CMA Single of the Year 2026 Choosin' Texas (Ella Langley),2,0.99,0.0,0.01,,2026-11-19T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x0c89e9acdcc7306292ab71b2e42846616e8c21a9f4170af0c8c7007e352a6800,CMA Vocal Group of the Year 2026 The Red Clay Strays,2,0.975,0.0,0.025,,2026-11-19T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xdae27d4e85c40772bc552a10826354d0eff05500d6daf8cdcc7ead9fcd56d200,GPU rental prices (RTX 5090) end of November? <$0.55,5,0.988,0.0,0.012,,2026-12-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x31e79d914ff53603ee1de349e2201f9090f8a362bf2a99475c246930bc018100,Which company has the best Image-to-Video AI end of November? Google,16,0.978,0.0,0.022,,2026-12-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xa8ae07d3ffe3d78b4be9266d50988bab63ca499a2ca7d649f47c79b1b2d4c000,Third-best AI Agent Lab end of November? Google,3,0.967,0.0,0.033,,2026-12-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xbc55599c69369d10f4f2407d2b6ff83f736bb2476dabbeddc07cb22896bd3e00,MLB: NL Rookie of the Year Carson Benge,6,0.979,0.0051,0.0159,,2026-12-19T00:00:00Z
+2026-11-01T01:24:26Z,polymarket,0x7120cf4bd56bb5403af77b80aaaa26958afcaf96842ec3dfcc3cf13935316e00,2nd Largest Company end of December 2026? Apple,4,0.993,0.0,0.007,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x5a4fcfaad1885518f378328cf38d17cf43d89546ce4fe84b755f937eacb34d00,Top US Spotify Song 2026 Choosin Texas – Ella Langley,13,0.981,0.0,0.019,,2027-02-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Drop Dead – Olivia Rodrigo,14,0.968,0.0,0.032,,2027-02-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Michael Dell",4,0.983,0.0,0.017,,2027-01-03T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xd1dae9b7a4d2dc2ee926122b07bde454e05943d4ba9c9b4e0ebf4da9da4aa700,Largest Company end of December 2026? Tesla,8,0.989,0.0,0.011,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",5,0.984,0.0,0.016,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xbc61afc46a56047818b73e1500123335d5d40fd7dadc4270ef4997b60d87bb00,3rd Largest Company end of December 2026? Alphabet,5,0.994,0.0,0.006,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x53f0744accd8ee5d067a97910a657eab88af746ff9132b7a28f16b9541853900,How many more Millennium Prize Problems will AI solve in 2026? 0,3,0.971,0.0,0.029,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Khamzat Chimaev,3,0.969,0.0045,0.0265,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x35b94160948b5bb04a55a5d0cacf63ed43beb69e2661361c1dbc3fcb867bed00,MLS: 2026 Most Valuable Player Lionel Messi,2,0.978,0.003,0.019,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x1b08fa819d20f297501589363dec9ec1782da6e655356345c186e835024b2400,Second-best Code Arena WebDev AI Lab end of December? OpenAI,3,0.966,0.0,0.034,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x2a4a952b6008b8b88d0cfd0a62c522c69f993f5d3da13da94dd3a408cd9ed200,Where will Zelenskyy and Putin meet next before 2027? China,8,0.967,0.0,0.033,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Justin Gaethje,2,0.973,0.0045,0.0225,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x44bd07117f65bede325cefbe62f51dc59a221e5e473afc2da2962d73edc7ba00,Second-Best Chinese AI Company end of December? Alibaba,5,0.969,0.0,0.031,,2027-01-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0xcbf1bd7bce23bf8ef66f357da34a7bb3492173cbf254002ec34624eb17709f00,Which movie has biggest opening week in 2026? Avengers: Doomsday,4,0.992,0.0,0.008,,2027-02-01T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x90b76298028604e4cc48f56853826f09547f2ca80e810d70fc3b4f41eeb7bc00,AFC Asian Cup 2027: Group F Winner Japan,4,0.951,0.0175,0.0315,,2027-02-06T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0,0.03,,2027-02-07T04:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x16d3534ee9f0c78ff3bc88dd1f9c4907535cd195553dd272a0980cfae9f85300,AFCON 2027 Qualifying: Group H Winner Libya,4,0.948,0.0294,0.0226,,2027-03-31T03:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.969,0.0152,0.0158,,2027-03-31T03:59:00Z
+2026-11-01T01:24:26Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.972,0.0106,0.0175,,2027-03-31T03:59:00Z
