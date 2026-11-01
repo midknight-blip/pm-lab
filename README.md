@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-01T12:20:27Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-01T13:06:26Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-01T12:20:24Z — 245 of 248 pairs priced
 - Scans in the last 24h: 32 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-01T07:19:08Z — Kalshi 161105 markets, Polymarket 22414 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-01T13:06:26Z — Kalshi 164627 markets, Polymarket 21782 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 663 scans so far. A pair counts as positive when buyin
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 15 run, 213 positive spreads seen; typical one lasted 3316 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 291. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 302. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: When will Gemini Carbon be released? November 2–November 8 — 10 outcomes, +4.0¢ per $1
   - polymarket: Which party will hold more governorships after the midterms? Democrati — 2 outcomes, +4.0¢ per $1
   - polymarket: Pingtung County Magistrate Election Winner Su Ching-chuan — 2 outcomes, +4.0¢ per $1
