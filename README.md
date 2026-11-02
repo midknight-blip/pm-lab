@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T13:51:33Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T14:52:03Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-02T13:51:30Z — 247 of 247 pairs priced
-- Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-11-02T14:52:02Z — 247 of 247 pairs priced
+- Scans in the last 24h: 28 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-02T13:27:31Z — Kalshi 164898 markets, Polymarket 21681 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 693 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 694 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 316
 - Positive pairs still in play: **300** (confirmed same bet: 6, not yet checked: 278)
-- Scans with at least one positive pair: 692
+- Scans with at least one positive pair: 693
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -26,8 +26,8 @@ Running since 2026-10-14. 693 scans so far. A pair counts as positive when buyin
 | KXBUNDESLIGASCORE-26OCT30SVEM05-SVE5M051 /  | unsure | +98.0¢ | +84.6¢ | 3 | 50 | 0 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
+| Al Wasl vs Al Quwa Al Jawiya Al Wasl / Will Al Quwa Al Jawiya win on 2026-11-02? | no | +74.7¢ | +72.1¢ | 2 | 50 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
-| Al Wasl vs Al Quwa Al Jawiya Al Wasl / Will Al Quwa Al Jawiya win on 2026-11-02? | no | +69.5¢ | +69.5¢ | 1 | 50 | 0 | >999% |
 | KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1 /  | unsure | +67.6¢ | +66.1¢ | 14 | 50 | 0 | >999% |
 | KXCMA-FVOTY26-ELAN /  | unsure | +62.6¢ | +62.0¢ | 6 | 30 | 21 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
