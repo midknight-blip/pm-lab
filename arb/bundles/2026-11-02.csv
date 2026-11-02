@@ -130,3 +130,54 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-02T13:24:52Z,polymarket,0x984d5980953cbd4c90aaee09692f0c5cfeea7dddfeccb542714b5462e7ba8a00,Next Israeli Minister of Foreign Affairs? No Next Minister by Feb 28,15,0.937,0.0269,0.0361,,2027-03-01T04:59:00Z
 2026-11-02T13:24:52Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.969,0.0104,0.0206,,2027-03-31T03:59:00Z
 2026-11-02T13:24:52Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.958,0.0212,0.0208,,2027-03-31T03:59:00Z
+2026-11-02T19:10:29Z,kalshi,KXNFLH2HWINS-27JACDAL,Jacksonville vs Dallas: Head-to-Head Win Total,2,0.96,0.018,0.022,5.0,2027-01-18T15:00:00Z
+2026-11-02T19:10:29Z,kalshi,KXNFLH2HWINS-27HOUDEN,Houston vs Denver: Head-to-Head Win Total,2,0.95,0.017,0.033,5.0,2027-01-18T15:00:00Z
+2026-11-02T19:10:29Z,kalshi,KXUNSEC-27JAN,Who will be the next UN Secretary-General?,17,0.92,0.065,0.015,3.0,2027-01-05T15:00:00Z
+2026-11-02T19:10:29Z,kalshi,KXHOUSERACE-TX01-26,TX-01 House winner?,2,0.989,0.005,0.006,0.01,2027-01-04T17:00:00Z
+2026-11-02T19:10:29Z,kalshi,KXHOUSERACE-NJ12-26,NJ-12 House winner?,2,0.989,0.005,0.006,8.0,2027-01-04T17:00:00Z
+2026-11-02T19:10:29Z,kalshi,KXHOUSERACE-CA20-26,CA-20 House winner?,2,0.987,0.005,0.008,0.99,2027-01-04T17:00:00Z
+2026-11-02T19:10:29Z,kalshi,HOUSECA41-26,CA-41 House winner?,2,0.988,0.005,0.007,110.0,2027-01-04T15:00:00Z
+2026-11-02T19:10:29Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.96,0.031,0.009,1769.05,2027-02-27T15:00:00Z
+2026-11-02T19:10:29Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.95,0.035,0.015,3063.41,2027-02-27T15:00:00Z
+2026-11-02T19:10:29Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.95,0.022,0.028,4233.17,2027-02-25T15:00:00Z
+2026-11-02T19:10:29Z,polymarket,0x0b7a341be732aeea866593ba5fd3ad73095c10c4768c78a8ad47d527074d7000,Sønderjyske Fodbold vs. FC København FC København,2,0.968,0.0021,0.0299,,2026-11-02T18:00:00Z
+2026-11-02T19:10:29Z,polymarket,0x870916f0d70791a9e2606fd732a08ab84beb9adb413c53cc49d3f6050e075300,Landskrona BoIS vs. Orebro SK Landskrona BoIS,2,0.96,0.0171,0.0229,,2026-11-02T18:05:00Z
+2026-11-02T19:10:29Z,polymarket,0x88062bf99fc061e3f2fd23a63250b20aea3f10984824439c671de542fe155e00,US Sassuolo Calcio vs. ACF Fiorentina - Exact Score US Sassuolo Calcio 3 - 3 ACF Fiorentina,14,0.932,0.028,0.04,,2026-11-02T17:30:00Z
+2026-11-02T19:10:29Z,polymarket,0x4f1e6da26ba63f9f74aeaf9fd345e0f1cde3bdada9b1b1ef14fd8b3ed229f400,Which party will hold more governorships after the midterms? Republican Party,2,0.98,0.0084,0.0116,,2026-11-04T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x6c230052c2dc1af2b6b604dc75823b14427ea072216d3f90f6498b5cfe4d6300,Highest temperature in Madrid on November 3? 16°C,3,0.967,0.0261,0.0069,,2026-11-03T12:00:00Z
+2026-11-02T19:10:29Z,polymarket,0xd84d936855594e1c53305b2438f63b3a8c56085b4b36aab26c5693f9bf815b00,Bulgaria Presidential Election Second Round: Turnout 24%+,2,0.993,0.0004,0.0066,,2026-11-02T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x12737d63bf4e3df6bb5ea90c236024c1fd71b35da572f0e4693815eeb34aa200,Florida Governor Election Margin of Victory Donalds 3-6%,6,0.964,0.0307,0.0053,,2026-11-04T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xb3b88b351b4d3385c6abfc22237689a2de43e8fd7f1ffb5d18bb6dc560b8c200,Highest temperature in Toronto on November 3? 21°C,2,0.95,0.0137,0.0363,,2026-11-03T12:00:00Z
+2026-11-02T19:10:29Z,polymarket,0xaed3ac953e4ee9308068650220eff47180e95c09f1f5a8bee6beab8c7c2a7a00,"CZ # posts October 27 - November 3, 2026? 60-79",2,0.962,0.0076,0.0304,,2026-11-03T17:00:00Z
+2026-11-02T19:10:29Z,polymarket,0xcfd9d8d528c681b8f737731795edcf68a02aaf6d473d748a60337f2e93507b00,Highest temperature in Karachi on November 3? 36°C,2,0.95,0.0245,0.0255,,2026-11-03T12:00:00Z
+2026-11-02T19:10:29Z,polymarket,0x28688389fadaf5415e43c5d8400659a6322b9022affd10efd06b092eecbc2100,Abdul El-Sayed runs behind Jocelyn Benson by...? 3-6 points behind,2,0.97,0.0178,0.0122,,2026-11-04T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xcf73cef393946e6b2fe4ff39e9afbb1afae804258aa36ca807e8473162517400,"Ted Cruz # posts November 3 - November 10, 2026? 140-159",8,0.939,0.0389,0.0221,,2026-11-10T17:00:00Z
+2026-11-02T19:10:29Z,polymarket,0x2b8ce983e8e1ee337a2f79f95260e19e01314aebe66bc6c28f760eb2c98c7e00,Argentina Monthly Inflation - October 1.6 to 1.8%,3,0.941,0.0276,0.0314,,2026-11-12T19:00:00Z
+2026-11-02T19:10:29Z,polymarket,0x3271820fb4683c005f09c8dba42535ae27eb9af46396b07a2b2911218336b200,UK GDP growth in Q3 2026 (QoQ)? 0.8–0.9%,3,0.933,0.0275,0.0395,,2026-11-13T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xa8ae07d3ffe3d78b4be9266d50988bab63ca499a2ca7d649f47c79b1b2d4c000,Third-best AI Agent Lab end of November? OpenAI,4,0.936,0.0249,0.0391,,2026-12-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x3024e529aa8fbb5a6993c86a751fc73efbd8c20958e04845501a440eb9639300,Spain General Election: Santa Cruz de Tenerife Winner PP,5,0.975,0.0188,0.0062,,2026-11-30T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x50ab25ac01ba3e08cacea3f698d184a8ff9f27d3de95cef95b19748813a48600,Miaoli County Magistrate Election Winner Chung Tung-chin,2,0.97,0.0074,0.0226,,2026-11-29T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x59094a426b39287926020c81d620193937704a965579bcc3d53b1081fe141600,Spain General Election: Cáceres Winner PSOE,5,0.976,0.0183,0.0057,,2026-11-30T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year Caedrel,11,0.973,0.018,0.009,,2026-12-15T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x251819c3bf668e4790cce9b9755c627683101f701c3b1e31e1dfe5f18bcec200,MLB: AL Manager of the Year Chad Tracy,5,0.98,0.0014,0.0187,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,13,0.985,0.0,0.015,,2026-12-31T17:00:00Z
+2026-11-02T19:10:29Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",4,0.979,0.0022,0.0188,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Justin Gaethje,2,0.976,0.0035,0.0205,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x34b1b095b8e075e65697b0458b8e3675f3e27fa0375328e5041ddf2d4bc74f00,VALORANT Offseason: Asuna Next Team LOUD,2,0.967,0.013,0.02,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xebe55e097f065c94a72edc69111ceccdb1e944c6880f92f41157212f386cea00,Which company has the best Text Arena Math AI model end of December? Anthropic,2,0.96,0.0199,0.0201,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xdcde9595b01e2d8e7efc4ac0fc26a87bc476d7de33b7ac7073f6f7832c56ef00,Which movie has 3rd biggest opening weekend in 2026? Toy Story 5,3,0.953,0.0128,0.0343,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Alexander Volkanovski,2,0.969,0.0011,0.0299,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Islam Makhachev,2,0.967,0.001,0.032,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x6ad14ba180910ac32a564c4448702a1da31aa19b2f35818a7aea07947a6feb00,Who will be the next to leave the Trump Cabinet? None before 2027,4,0.934,0.027,0.039,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x35b94160948b5bb04a55a5d0cacf63ed43beb69e2661361c1dbc3fcb867bed00,MLS: 2026 Most Valuable Player Lionel Messi,5,0.967,0.0036,0.0294,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xa395d64b26804a479d54282c91e619db9075b7851928cc3adbbc4d6001482100,LoL Offseason: Deft Next Team HANJIN BRION,3,0.976,0.0021,0.0219,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x45666c7bc2639a42e3bee3638568debe473143936e1f2a5565e5cdd3299e3300,VALORANT Offseason: Boaster Next Team Gentle Mates,6,0.984,0.0061,0.0099,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x25351cc3f008ba7643a547f97b36de5a9912ab137cc5b8d0b4e34b83e7e61f00,VALORANT Offseason: Sato Next Team G2 Esports,3,0.967,0.0037,0.0293,,2027-01-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x247c0ab972478b9747c8fc8e487e9f34dd630214323c8abf87a2e93e74246100,AFC Asian Cup 2027: Group C Winner Iran,4,0.948,0.0132,0.0388,,2027-02-06T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0105,0.0195,,2027-02-07T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xb92f8e48ca62b1cfb98c2807891103e134a0eb86f65911dd74bfe6cce507ee00,"Kano, Nigeria Governor Election Winner Mohammad Raji",4,0.961,0.0163,0.0227,,2027-02-07T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.978,0.0071,0.0149,,2027-02-07T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x984d5980953cbd4c90aaee09692f0c5cfeea7dddfeccb542714b5462e7ba8a00,Next Israeli Minister of Foreign Affairs? No Next Minister by Feb 28,15,0.944,0.0274,0.0286,,2027-03-01T04:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x322cd4b2e64209e7f2bfe89ddd815fe61b949b37e2b2333a7f9e21d2b9561d00,Turner Prize 2026 Winner Kira Freije,4,0.935,0.0357,0.0293,,2027-04-01T03:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.962,0.0101,0.0279,,2027-03-31T03:59:00Z
+2026-11-02T19:10:29Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.968,0.0215,0.0105,,2027-03-31T03:59:00Z
