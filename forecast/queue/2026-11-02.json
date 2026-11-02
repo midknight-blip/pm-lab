@@ -1,0 +1,76 @@
+{
+ "batch": "2026-11-02",
+ "created": "2026-11-02T10:12:59Z",
+ "markets": [
+  {
+   "key": "kalshi:KXAKSENATE-26NOV03-MPEL",
+   "question": "Alaska Senate winner? (Person) \u2014 Mary Peltola",
+   "rules": "If Mary Peltola wins the 2026 Alaska Senate election, then the market resolves to Yes.  ",
+   "close": "2026-11-10T15:00:00Z",
+   "category": "elections"
+  },
+  {
+   "key": "kalshi:KXEARNINGSMENTIONSHOP-26NOV03-SERV",
+   "question": "What will Shopify say during their next earnings call? \u2014 Service",
+   "rules": "If Service is said by any Shopify Inc. representative (including the operator of the call) during the next Shopify Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes. How this is resolved\nVideo of the Shopify Inc. earnings call.\nIf a consensus by Kalshi employees cannot be reached using video, transcripts of the Shopify Inc. earnings call will be used according to the news publications listed in the contract. \n\nPayout criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word.\n\nDoesn't count for payout\nGrammatical/tense inflections.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-17T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "kalshi:KXTRUTHSOCIAL-26NOV07-B269",
+   "question": "Trump Truth Social posts this week? (11/1-11/7) \u2014 260-279",
+   "rules": "If the number of Truth Social posts by Donald Trump from Nov 1, 2026 to Nov 7, 2026 is between 260 and 279, then the market resolves to Yes. How this is resolved\n\nThe observation period begins at 12:00:00 AM ET on Nov 1, 2026 and ends at 11:59:59 PM ET on Nov 7, 2026.\nThe primary resolution source for this market is Roll Call.\nIn the event that Roll Call data is unavailable or inaccurate, alternative sources may be used at Kalshi's discretion.\n\nPayout criteria\n\nTruths, ReTruths, and Quote Truths are included in the total count.\nReplies are included if captured by Roll Call.\n\"Between\" is inclusive of the lower and upper bound.\n\nDoesn\u2019t count for payout: Posts deleted as of 12:00 AM ET.",
+   "close": "2026-11-08T15:00:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "kalshi:KXUCLGAME-26NOV04AEKRMA-RMA",
+   "question": "AEK Athens vs Real Madrid \u2014 Real Madrid",
+   "rules": "If Real Madrid wins the AEK Athens vs Real Madrid professional Champions League soccer game originally scheduled for Nov 4, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes. The following market refers to the AEK Athens vs Real Madrid professional Champions League soccer game originally scheduled for Nov 4, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Yes. If the game is cancelled or rescheduled to over 48 hours away, the market will resolve to a fair price in accordance with the rules.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-04T20:45:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXPAYROLLS-26OCT-T30000",
+   "question": "Jobs numbers in October 2026? \u2014 Above 30,000",
+   "rules": "If the increase in total non-farm payroll employment is above 30000 as reported by the Bureau of Labor Statistics Monthly Employment Situation Report for the month of October 2026, then the market resolves to Yes. The market closes at 8:29 AM ET on the expected date of the data release.",
+   "close": "2026-11-06T15:00:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "poly:6507414",
+   "question": "Will Ethereum reach $2,500 in November?",
+   "rules": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for ETH/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the ETH/USDT High prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-12-01T05:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXCVXCC-26NOV07-T109",
+   "question": "Chevron Credit Card Spend in October \u2014 Above 109",
+   "rules": "If the Carbon Arc Chevron Credit Card Spend (October 2026) for October 2026 is above 109 , then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 4th calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 4th.\n\nThe index measures year-over-year change, where 100 means Chevron Credit Card Spend was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% more spend than year prior, 97 = 3% decline from year prior. The index is measured by Carbon Arc's aggregated U.S. credit and debit card transaction panel, matched to the same period of the prior year. The panel updates daily as new data arrives.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-14T05:00:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "kalshi:KXRT-WILD-92",
+   "question": "Wild Horse Nine \u00b7 Rotten Tomatoes score \u2014 Above 92",
+   "rules": "If Wild Horse Nine has a Tomatometer score of above 92 on Nov 9, 2026 at 10:00 AM ET, then the market resolves to Yes. The \"Fresh!\" and \"Certified Fresh!\" subtitles are meant for illustrative purposes only. The Tomatometer score must be above the strike value to resolve as YES (for example, a score of 75 would resolve \"Above 75\" as No.) The market will be determined the Monday after wide release at 10:00 AM ET.\n\nThis market and these products have not been endorsed by Rotten Tomatoes. Any references to Rotten Tomatoes or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between Rotten Tomatoes and Kalshi.",
+   "close": "2026-11-09T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "poly:6328749",
+   "question": "Next Fable Model (5.2+) released by November 19, 2026?",
+   "rules": "This market will resolve to \"Yes\" if Anthropic's next Fable model (5.2+) is made available to the general public between market creation and the specified date (ET). Otherwise, this market will resolve to \"No\".\n\nA qualifying model must have a name or model identifier that includes \"Fable\" and be designated as version 5.2 or higher, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, a version 5.2 or higher named in the same manner as Claude Fable 5 or Claude Fable 5.1 would qualify, including a new whole-number generation such as Claude Fable 6, while models whose name does not include \"Fable\" or which retain a version designation below 5.2, such as Claude Fable 5.1 or Claude Mythos 5.1, will not qualify.\n\nA qualifying model must be launched and publicly accessible, including via open beta or open rolling waitlist signups. A closed beta or any form of private access will not suffice. The release must either be clearly defined and publicly announced by Anthropic as accessible to the general public, or otherwise be made publicly accessible and explicitly labeled on the company's official website. Labeling errors, placeholder text, or ve",
+   "close": "2026-11-20T04:59:00Z",
+   "category": "other"
+  },
+  {
+   "key": "kalshi:KXGOLDMON-26NOV3017-T4043.99",
+   "question": "Gold price on Nov 30, 2026 at 5:00 PM EST? \u2014 Above $4043.99",
+   "rules": "If the close price of the 1-minute candlestick for gold on November 30, 2026 at 5:00 PM EST is above 4043.99 USD/t.oz, then the market resolves to Yes. The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+   "close": "2026-11-30T22:00:00Z",
+   "category": "commodities"
+  }
+ ]
+}
