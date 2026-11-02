@@ -1,30 +1,30 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T08:29:36Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T09:35:41Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-02T08:29:33Z — 247 of 247 pairs priced
+- Last scan: 2026-11-02T09:35:39Z — 246 of 247 pairs priced
 - Scans in the last 24h: 31 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-02T07:43:15Z — Kalshi 160966 markets, Polymarket 22524 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 688 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 689 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 313
 - Positive pairs still in play: **301** (confirmed same bet: 6, not yet checked: 284)
-- Scans with at least one positive pair: 687
+- Scans with at least one positive pair: 688
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
 | KXBUNDESLIGASCORE-26OCT30SVEM05-SVE5M051 /  | no | +98.0¢ | +84.6¢ | 3 | 50 | 0 | >999% |
-| Bank of England rate decision in November Hik / Bank of England increases interest rates by 2 | no | +96.9¢ | +96.7¢ | 15 | 50 | 4 | >999% |
+| Bank of England rate decision in November Hik / Bank of England increases interest rates by 2 | no | +96.9¢ | +96.7¢ | 16 | 50 | 4 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
