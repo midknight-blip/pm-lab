@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T07:04:41Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T07:43:15Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-02T07:04:39Z — 243 of 247 pairs priced
-- Scans in the last 24h: 32 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-02T01:25:04Z — Kalshi 160909 markets, Polymarket 22202 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 31 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-02T07:43:15Z — Kalshi 160966 markets, Polymarket 22524 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -24,7 +24,7 @@ Running since 2026-10-14. 687 scans so far. A pair counts as positive when buyin
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
 | KXBUNDESLIGASCORE-26OCT30SVEM05-SVE5M051 /  | no | +98.0¢ | +84.6¢ | 3 | 50 | 0 | >999% |
-| KXCBDECISIONENGLAND-26NOV05-H25P /  | no | +96.8¢ | +96.7¢ | 14 | 50 | 6 | >999% |
+| Bank of England rate decision in November Hik / Bank of England increases interest rates by 2 | no | +96.8¢ | +96.7¢ | 14 | 50 | 6 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
@@ -33,12 +33,12 @@ Running since 2026-10-14. 687 scans so far. A pair counts as positive when buyin
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 15 run, 213 positive spreads seen; typical one lasted 3316 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 233. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 240. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Avg. # of ships transiting Bab el-Mandeb Strait end of October? 25-29 — 2 outcomes, +4.0¢ per $1
-  - polymarket: Bulgaria Presidential Election Second Round: Turnout 24%+ — 2 outcomes, +4.0¢ per $1
+  - polymarket: Iran leader end of 2026? Mojtaba Khamenei — 11 outcomes, +4.0¢ per $1
+  - polymarket: Cross River, Nigeria Governor Election Winner Arthur Jarvis — 2 outcomes, +4.0¢ per $1
+  - polymarket: Oscars 2027: Best Animated Feature Film Winner Toy Story 5 — 8 outcomes, +4.0¢ per $1
   - polymarket: Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern  — 2 outcomes, +4.0¢ per $1
-  - polymarket: Highest temperature in Miami on October 30? 84-85°F — 2 outcomes, +4.0¢ per $1
-  - polymarket: Highest temperature in Toronto on October 31? 15°C — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 

@@ -37,3 +37,44 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-02T01:22:09Z,polymarket,0x984d5980953cbd4c90aaee09692f0c5cfeea7dddfeccb542714b5462e7ba8a00,Next Israeli Minister of Foreign Affairs? Benjamin Netanyahu,15,0.94,0.0268,0.0331,,2027-03-01T04:59:00Z
 2026-11-02T01:22:09Z,polymarket,0x2c797e8c5a61544cc9006ca030be86ea89a7be45e5fe7f133f247fd6ae760a00,Oscars 2027: Best Animated Short Film Winner God is Shy,11,0.947,0.0416,0.0114,,2027-03-14T23:59:00Z
 2026-11-02T01:22:09Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.972,0.0106,0.0175,,2027-03-31T03:59:00Z
+2026-11-02T07:39:58Z,kalshi,KXNFLH2HWINS-27HOUDEN,Houston vs Denver: Head-to-Head Win Total,2,0.97,0.017,0.013,136.41,2027-01-18T15:00:00Z
+2026-11-02T07:39:58Z,kalshi,KXATTYGENOH-26,Ohio Attorney General winner?,2,0.95,0.036,0.014,189.01,2027-01-15T15:00:00Z
+2026-11-02T07:39:58Z,kalshi,KXDENTONCOUNTYJUDGE-26,Denton County Judge winner?,2,0.98,0.013,0.007,20.0,2026-12-15T15:00:00Z
+2026-11-02T07:39:58Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.96,0.031,0.009,911.76,2027-02-27T15:00:00Z
+2026-11-02T07:39:58Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.95,0.035,0.015,2738.84,2027-02-27T15:00:00Z
+2026-11-02T07:39:58Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.95,0.022,0.028,3471.0,2027-02-25T15:00:00Z
+2026-11-02T07:39:58Z,polymarket,0xe49aff5564d3a6a38c1820fd3702750fa92c9afb8368317ca4d9a13ed96b1600,MO-02 House Election Winner Fred Wellman (D),2,0.97,0.0189,0.0111,,2026-11-04T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xa8139381fb8ced06a21e99e66fb46fffa341e57f8a66dba20b8807d0cfe15a00,"Senate Combo: Texas, Michigan, Maine Dems sweep",4,0.96,0.0186,0.0213,,2026-11-03T23:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x0b18a947e1a6c3ff4020741741ea7d597cfbc9cff4e34b9d617b7ce15bde1a00,Florida Senate Election Margin of Victory Moody 0-3%,6,0.962,0.0308,0.0072,,2026-11-04T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x198451862c8a0b2e89c981e9cd0f4a6b8e28e915a7e24ba6336066640fa23400,Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern Warfare 4,2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x9f5a33c5296b861af0ae63617a5324bf0af4b52ee4434401c9c63363a2d3e500,Highest temperature in Denver on November 2? 64°F or higher,6,0.946,0.0309,0.0231,,2026-11-02T12:00:00Z
+2026-11-02T07:39:58Z,polymarket,0x6c230052c2dc1af2b6b604dc75823b14427ea072216d3f90f6498b5cfe4d6300,Highest temperature in Madrid on November 3? 16°C,3,0.96,0.0276,0.0124,,2026-11-03T12:00:00Z
+2026-11-02T07:39:58Z,polymarket,0x2f33a42aadb0c1e0999cf060fddd087436c29ae19dee94cb1b798b285b5b0900,"Senate Combo: Michigan, Texas, Ohio Dems sweep",3,0.96,0.0167,0.0233,,2026-11-03T23:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x12737d63bf4e3df6bb5ea90c236024c1fd71b35da572f0e4693815eeb34aa200,Florida Governor Election Margin of Victory Jolly 0-3%,7,0.942,0.0304,0.0276,,2026-11-04T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xf49e8eb22c48381b26fa226deae1a9d5c5fe2bc90952b516c1fd375d532f0d00,#1 Spotify song this week? (November 6) Housewife - Tate McRae,2,0.99,0.0,0.01,,2026-11-07T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xc67cc3a42cbff984c639ed27aa5ff1c18e753dd2415d38d8812292b75566e100,Texas Senate Election: Tarrant County Winner Ken Paxton (R),2,0.981,0.005,0.014,,2026-11-03T23:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xc426c7a4564165fe0c1fc751300db72a0e006da2f4dc4eee657c036119ff8700,Lowest temperature in Warsaw on November 2? 6°C,2,0.98,0.009,0.011,,2026-11-02T12:00:00Z
+2026-11-02T07:39:58Z,polymarket,0xe463aaf371a8dd2c54ada2091a5b72ecabd7d13060ed59bf3e56a987a75aa200,"#2 Spotify song this week? (November 6) BbY WOW - KAROL G, Judeline, rusowsky",3,0.99,0.0,0.01,,2026-11-07T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x7278e0a9ed73877666d105c84f0e647c0830c39755bbce59863b030fe68acd00,Louisiana Senate Election: Turnout 1.6M-1.7M,2,0.973,0.0193,0.0077,,2026-11-04T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x294160f685889a55f5fc523402f5a5927277e7706e0819041555db40517a7000,The Streamer Awards: Streamer of the Year IShowSpeed,4,0.968,0.0227,0.0093,,2026-11-12T00:00:00Z
+2026-11-02T07:39:58Z,polymarket,0xe03f7c1c348d52fb9670a0b322253f31bc77461163dcd1f68da9a2bb3f493400,New Zealand Election: Turnout 78-80%,3,0.95,0.0247,0.0253,,2026-11-08T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xf36f98a96d5a9f891ec32ce4552b556e052868bbde91eb6d2596e2fbbf769c00,NZ Election: Labour Party # of seats? 35-39,3,0.958,0.0217,0.0203,,2026-11-08T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x652e36ff9ddcf1aaf57286cd0c262c958f11fe52b2dbbb33cddd8efef2f9a000,GPU rental prices (H200) end of November? $6.50+,3,0.951,0.0213,0.0277,,2026-12-01T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x6e9c7f259f35b09bc23469aee340ce0f24bbc45cac9c39cbe0b05b4136271300,Spain General Election: Cantabria Winner PP,5,0.991,0.0,0.009,,2026-11-30T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year TacticalRab,11,0.973,0.018,0.009,,2026-12-15T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x251819c3bf668e4790cce9b9755c627683101f701c3b1e31e1dfe5f18bcec200,MLB: AL Manager of the Year Chad Tracy,5,0.981,0.0013,0.0177,,2027-01-01T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",3,0.984,0.0023,0.0137,,2027-01-01T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x8f4511ab8167b02319c78ad9f5c91bb94e8d332a37811e03f84f15eed685e300,Top US Spotify Artist 2026 Drake,8,0.967,0.0134,0.0196,,2027-02-01T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x5e2f73b3b3d97f093d770a1fa9148fb8315d39097b5c759703eef9e87414b300,MLS Cup Winner 2026 Portland Timbers,16,0.964,0.0251,0.0109,,2027-01-01T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Alexander Volkanovski,3,0.979,0.0014,0.0196,,2027-01-01T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Islam Makhachev,2,0.962,0.0011,0.0369,,2027-01-01T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x1f39774c717a44598675107e7d4e28380142ec1556f76f3887c43a656e404100,Who will be UFC Pound-For-Pound #1 at the end of 2026? Islam Makhachev,2,0.985,0.0005,0.0145,,2026-12-31T00:00:00Z
+2026-11-02T07:39:58Z,polymarket,0xf3ea0a148d7db7aab552886bddd6f5c079bfcd103e02745036ce51b70b711700,Amazon’s Market Cap end of 2026? $2.00-$2.50T,2,0.964,0.0195,0.0165,,2026-12-31T23:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x247c0ab972478b9747c8fc8e487e9f34dd630214323c8abf87a2e93e74246100,AFC Asian Cup 2027: Group C Winner Iran,4,0.972,0.0147,0.0133,,2027-02-06T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0105,0.0195,,2027-02-07T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.98,0.0096,0.0104,,2027-02-07T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xb92f8e48ca62b1cfb98c2807891103e134a0eb86f65911dd74bfe6cce507ee00,"Kano, Nigeria Governor Election Winner Mohammad Raji",4,0.959,0.0162,0.0248,,2027-02-07T04:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.972,0.0106,0.0175,,2027-03-31T03:59:00Z
+2026-11-02T07:39:58Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.968,0.0215,0.0105,,2027-03-31T03:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xd1bee68c25dbc80169d350950490dfde993b7660228596d99e2768d58f01b600,UFC: Who will Carlos Ulberg fight next? Paulo Costa,4,0.943,0.0178,0.0392,,2027-05-01T03:59:00Z
+2026-11-02T07:39:58Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Vladan Đokić,19,0.975,0.0137,0.0113,,2027-05-02T03:59:00Z
