@@ -1,30 +1,30 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T16:54:14Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T17:50:06Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-02T16:54:12Z — 247 of 247 pairs priced
+- Last scan: 2026-11-02T17:50:03Z — 244 of 247 pairs priced
 - Scans in the last 24h: 27 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-02T13:27:31Z — Kalshi 164898 markets, Polymarket 21681 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 696 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 697 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 316
-- Positive pairs still in play: **300** (confirmed same bet: 6, not yet checked: 278)
-- Scans with at least one positive pair: 695
+- Positive pairs still in play: **302** (confirmed same bet: 6, not yet checked: 280)
+- Scans with at least one positive pair: 696
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
 | KXBELGIANPLGAME-26OCT24RAFCRCH-RAFC /  | no | +98.8¢ | +53.4¢ | 6 | 50 | 0 | >999% |
 | KXCBDECISIONNZ-26OCT27-H25P /  | unsure | +98.0¢ | +68.9¢ | 369 | 50 | 0 | >999% |
 | KXBUNDESLIGASCORE-26OCT30SVEM05-SVE5M051 /  | unsure | +98.0¢ | +84.6¢ | 3 | 50 | 0 | >999% |
-| Al Wasl vs Al Quwa Al Jawiya Al Wasl / Will Al Quwa Al Jawiya win on 2026-11-02? | no | +96.8¢ | +78.3¢ | 4 | 50 | 0 | >999% |
+| Al Wasl vs Al Quwa Al Jawiya Al Wasl / Will Al Quwa Al Jawiya win on 2026-11-02? | no | +96.8¢ | +82.0¢ | 5 | 50 | 0 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
@@ -32,7 +32,7 @@ Running since 2026-10-14. 696 scans so far. A pair counts as positive when buyin
 | KXCMA-FVOTY26-ELAN /  | unsure | +62.6¢ | +62.0¢ | 6 | 30 | 21 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC1M055 /  | unsure | +55.6¢ | +54.6¢ | 5 | 50 | 0 | >999% |
 
-- Fast-check sessions (every 15 sec): 15 run, 213 positive spreads seen; typical one lasted 3316 sec, longest 120.0 min
+- Fast-check sessions (every 15 sec): 16 run, 225 positive spreads seen; typical one lasted 3060 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 239. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern  — 2 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Wellington on November 1? 16°C — 2 outcomes, +4.0¢ per $1
