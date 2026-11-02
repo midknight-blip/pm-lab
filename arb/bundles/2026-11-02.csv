@@ -78,3 +78,55 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-02T07:39:58Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.968,0.0215,0.0105,,2027-03-31T03:59:00Z
 2026-11-02T07:39:58Z,polymarket,0xd1bee68c25dbc80169d350950490dfde993b7660228596d99e2768d58f01b600,UFC: Who will Carlos Ulberg fight next? Paulo Costa,4,0.943,0.0178,0.0392,,2027-05-01T03:59:00Z
 2026-11-02T07:39:58Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Vladan Đokić,19,0.975,0.0137,0.0113,,2027-05-02T03:59:00Z
+2026-11-02T13:24:52Z,kalshi,KXNFLH2HWINS-27JACDAL,Jacksonville vs Dallas: Head-to-Head Win Total,2,0.96,0.018,0.022,50.0,2027-01-18T15:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXNFLH2HWINS-27HOUDEN,Houston vs Denver: Head-to-Head Win Total,2,0.95,0.017,0.033,5.0,2027-01-18T15:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXATTYGENOH-26,Ohio Attorney General winner?,2,0.95,0.036,0.014,0.01,2027-01-15T15:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXHOUSERACE-ME01-26,ME-01 House winner?,2,0.989,0.005,0.006,10.99,2027-01-04T17:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXHOUSERACE-IL12-26,IL-12 House winner?,2,0.986,0.005,0.009,8.58,2027-01-04T17:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXDENTONCOUNTYJUDGE-26,Denton County Judge winner?,2,0.98,0.013,0.007,20.01,2026-12-15T15:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.96,0.031,0.009,1628.72,2027-02-27T15:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.95,0.035,0.015,1943.22,2027-02-27T15:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.95,0.022,0.028,2873.0,2027-02-25T15:00:00Z
+2026-11-02T13:24:52Z,kalshi,KXNFLMOSTRSHYDS-26NOV02CHISEA,Chicago vs Seattle: Most Rushing Yards,5,0.93,0.046,0.024,2.0,2026-11-03T04:15:00Z
+2026-11-02T13:24:52Z,polymarket,0xa8139381fb8ced06a21e99e66fb46fffa341e57f8a66dba20b8807d0cfe15a00,"Senate Combo: Texas, Michigan, Maine Dems sweep",4,0.943,0.0172,0.0398,,2026-11-03T23:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x24f605624e571faca641d1acefe973d79e2e56858d8e9ad92fe0d293108ff400,Michigan Senate Election Margin of Victory El-Sayed 6-9%,6,0.963,0.0313,0.0057,,2026-11-04T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x198451862c8a0b2e89c981e9cd0f4a6b8e28e915a7e24ba6336066640fa23400,Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern Warfare 4,2,0.99,0.0,0.01,,2026-11-04T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x224be156c04a9cf586287c737bf364cf674ad0c8ade4a1da860d61e43023a900,Highest temperature in Shanghai on November 3? 20°C,3,0.96,0.0278,0.0122,,2026-11-03T12:00:00Z
+2026-11-02T13:24:52Z,polymarket,0x3314c24b2ce081298004f1c079f1e2034e5541193149a9e7840b386f3e61d100,"Michigan Senate and Governor Combo Dems win Gov, Reps win Senate",2,0.96,0.0128,0.0272,,2026-11-04T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x12737d63bf4e3df6bb5ea90c236024c1fd71b35da572f0e4693815eeb34aa200,Florida Governor Election Margin of Victory Donalds 3-6%,7,0.951,0.0306,0.0184,,2026-11-04T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0xee083e6007f55c8a4b7f4e08fd8886c7c63ab23e0dd924bb6050c2807922a900,Highest temperature in NYC on November 3? 70-71°F,2,0.97,0.0249,0.0051,,2026-11-03T12:00:00Z
+2026-11-02T13:24:52Z,polymarket,0xafddc729102b72ebb4b096e4c1b7d293931ca8369d4b9d3375ed4c137a84b200,Highest temperature in Los Angeles on November 2? 72-73°F,2,0.94,0.0227,0.0373,,2026-11-02T12:00:00Z
+2026-11-02T13:24:52Z,polymarket,0xe6c1e4e86b21ebe1f667e989312a8f319df4030be219f66f44f5ee7bc81aa900,Lowest temperature in London on November 2? 9°C,2,0.991,0.0006,0.0085,,2026-11-02T12:00:00Z
+2026-11-02T13:24:52Z,polymarket,0xee8ecfc7570625059523cbe8c3dce623ef077885e2030b65b5925470f6ab7b00,Lowest temperature in NYC on November 2? 54-55°F,3,0.992,0.0006,0.0074,,2026-11-02T12:00:00Z
+2026-11-02T13:24:52Z,polymarket,0xa2fbef1f78cdda85328c6d36abc314fc4f45ea181c21aaefbee41d6059b1a900,How many Senate and Governor elections will Republicans win in states won by Kamala? 1,4,0.938,0.025,0.037,,2026-11-04T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x21e1f574b6239a0c78e0a1603d8e05a467e3078abe3b77c4fa30a3102bfcc700,Senate Combo: Michigan and Ohio Dems sweep,2,0.98,0.0142,0.0058,,2026-11-03T23:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x294160f685889a55f5fc523402f5a5927277e7706e0819041555db40517a7000,The Streamer Awards: Streamer of the Year IShowSpeed,4,0.945,0.0197,0.0354,,2026-11-12T00:00:00Z
+2026-11-02T13:24:52Z,polymarket,0x2aeccc947072ce9256a0ae2d744b6b026c2e1113b7d214e4db5e6612340fa800,"Donald Trump # Truth Social posts November 3 - November 10, 2026? 200+",8,0.944,0.0171,0.0389,,2026-11-10T17:00:00Z
+2026-11-02T13:24:52Z,polymarket,0x485dfa370bac9c3ee364f33eb19a40371ec85828d6c91876e3cc796c8ef6d400,October Inflation US - Annual 3.7%,2,0.964,0.0066,0.0294,,2026-11-11T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x758a64d0f6f81b1ade158f8c25de9b357604dba1f4a001df30b818669f39d800,Japan GDP growth in Q3 2026 (QoQ Annualized)? -0.8%–0.0%,7,0.945,0.0372,0.0178,,2026-11-17T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x50ab25ac01ba3e08cacea3f698d184a8ff9f27d3de95cef95b19748813a48600,Miaoli County Magistrate Election Winner Chung Tung-chin,2,0.973,0.0073,0.0197,,2026-11-29T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0xbae6dc0f580109d4772c31ef5e7ab4e8aa72249b3159855b22a3d0ac1b60a800,Reserve Bank of India decision in December 25 bps increase,2,0.95,0.0174,0.0326,,2026-12-04T00:00:00Z
+2026-11-02T13:24:52Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year Caedrel,11,0.973,0.018,0.009,,2026-12-15T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x251819c3bf668e4790cce9b9755c627683101f701c3b1e31e1dfe5f18bcec200,MLB: AL Manager of the Year Chad Tracy,5,0.98,0.0014,0.0187,,2027-01-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x069e99843fa38058edd49123522971b647e07badcd4d97fa81c06284ac52b100,NCAA Football 2026 American Conference: Winner Memphis Tigers,9,0.949,0.0367,0.0143,,2026-12-20T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x8f4511ab8167b02319c78ad9f5c91bb94e8d332a37811e03f84f15eed685e300,Top US Spotify Artist 2026 Drake,8,0.975,0.013,0.012,,2027-02-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",2,0.975,0.0019,0.0231,,2027-01-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Justin Gaethje,2,0.964,0.0035,0.0325,,2027-01-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Dricus Du Plessis,4,0.96,0.0032,0.0368,,2027-01-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x82ee452cd1098e4b6a878a0bdcadf255026aa4747e54edc7cecef9e716381500,Venezuela de facto leader end of 2026? Donald Trump,3,0.963,0.0019,0.0351,,2026-12-31T00:00:00Z
+2026-11-02T13:24:52Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Islam Makhachev,2,0.962,0.0011,0.0369,,2027-01-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Alexander Volkanovski,2,0.97,0.001,0.029,,2027-01-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x09e236705d5147e362548f09db0f6729ba78b900b0fc74ae47abda7f652c4d00,Dancing with the Stars S35: Winner? Amber Glenn,5,0.943,0.0267,0.0304,,2027-04-01T03:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x98b606dad0946169a25e3f1ef2abd54984aa4104569c21576ff9c876afccd700,Bitcoin best month in 2026? August,3,0.977,0.0142,0.0088,,2027-01-01T05:00:00Z
+2026-11-02T13:24:52Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 7,2,0.97,0.0163,0.0137,,2027-01-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,3,0.97,0.0232,0.0068,,2027-02-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x35b94160948b5bb04a55a5d0cacf63ed43beb69e2661361c1dbc3fcb867bed00,MLS: 2026 Most Valuable Player Lionel Messi,3,0.97,0.0037,0.0263,,2027-01-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0xd0d2cb4c30f1d17e10ba41cedefd3e332a1db50628b08aea889df6b5f7200c00,#2 Spotify Song 2026 End of Beginning – Djo,14,0.968,0.0153,0.0167,,2027-02-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x7aa82c31937c91b1fc3d1f37ef60d3a0e8bded16eddd3c3cbcdd8e63dd606800,Which movie has biggest opening weekend in 2026? Avengers: Doomsday,4,0.942,0.0249,0.0331,,2027-02-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0105,0.0195,,2027-02-07T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.98,0.0096,0.0104,,2027-02-07T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0xb92f8e48ca62b1cfb98c2807891103e134a0eb86f65911dd74bfe6cce507ee00,"Kano, Nigeria Governor Election Winner Mohammad Raji",4,0.961,0.0163,0.0227,,2027-02-07T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.981,0.0072,0.0118,,2027-02-07T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x984d5980953cbd4c90aaee09692f0c5cfeea7dddfeccb542714b5462e7ba8a00,Next Israeli Minister of Foreign Affairs? No Next Minister by Feb 28,15,0.937,0.0269,0.0361,,2027-03-01T04:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.969,0.0104,0.0206,,2027-03-31T03:59:00Z
+2026-11-02T13:24:52Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.958,0.0212,0.0208,,2027-03-31T03:59:00Z

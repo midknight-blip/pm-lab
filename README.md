@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T12:36:19Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-02T13:27:31Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-02T12:36:17Z — 243 of 244 pairs priced
-- Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-02T07:43:15Z — Kalshi 160966 markets, Polymarket 22524 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 28 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-02T13:27:31Z — Kalshi 164898 markets, Polymarket 21681 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 692 scans so far. A pair counts as positive when buyin
 | KXBUNDESLIGASCORE-26OCT30SVEM05-SVE1M055 /  | unsure | +44.6¢ | +40.6¢ | 37 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 15 run, 213 positive spreads seen; typical one lasted 3316 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 240. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Avg. # of ships transiting Bab el-Mandeb Strait end of October? 25-29 — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 239. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern  — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Wellington on November 1? 16°C — 2 outcomes, +4.0¢ per $1
+  - polymarket: Which party will win white women in the midterms? Republicans — 2 outcomes, +4.0¢ per $1
   - polymarket: Iran leader end of 2026? Mojtaba Khamenei — 11 outcomes, +4.0¢ per $1
   - polymarket: Cross River, Nigeria Governor Election Winner Arthur Jarvis — 2 outcomes, +4.0¢ per $1
-  - polymarket: Oscars 2027: Best Animated Feature Film Winner Toy Story 5 — 8 outcomes, +4.0¢ per $1
-  - polymarket: Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern  — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
