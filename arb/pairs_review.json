@@ -29,10 +29,30 @@
   "note": "Kalshi: below 4.96% Oct 1-30; Polymarket: below 4.95% Oct 2-31. Threshold and window both differ.",
   "status": "different"
  },
+ "KXAFCCLGAME-26NOV02ALGQAD-ALG|6527766": {
+  "checked": "2026-11-02",
+  "note": "Kalshi = Al Gharafa wins; Poly = Al Qadsiah wins. Opposite teams, and a draw makes both lose.",
+  "status": "different"
+ },
  "KXAFCCLGAME-26OCT26ALNWAS-ALN|6185980": {
   "checked": "2026-10-29",
   "note": "No longer in matched list; game played Oct 26.",
   "status": "unsure"
+ },
+ "KXBUNDESLIGASCORE-26OCT30SVEM05-SVE1M055|5794334": {
+  "checked": "2026-11-02",
+  "note": "Exact-score pair, already dropped from matched list and settled; rules text not available to compare.",
+  "status": "unsure"
+ },
+ "KXBUNDESLIGASCORE-26OCT30SVEM05-SVE5M051|5794330": {
+  "checked": "2026-11-02",
+  "note": "Exact-score pair, already dropped from matched list and settled; rules text not available to compare.",
+  "status": "unsure"
+ },
+ "KXCBDECISIONENGLAND-26NOV05-H25P|3247826": {
+  "checked": "2026-11-02",
+  "note": "Kalshi is 'hike MORE than 25bps'; Poly is 'hike by exactly 25bps' - different thresholds.",
+  "status": "different"
  },
  "KXCBDECISIONKOREA-26NOV25-H25P|3940931": {
   "checked": "2026-10-29",
@@ -48,6 +68,11 @@
   "checked": "2026-10-29",
   "note": "No longer in matched list; can't see Poly rules.",
   "status": "unsure"
+ },
+ "KXCBDISRAEL-26NOV23-C25P|6403127": {
+  "checked": "2026-11-02",
+  "note": "Kalshi is 'cut MORE than 25bps'; Poly is 'cut by 25bps' - different thresholds.",
+  "status": "different"
  },
  "KXCBDSWISS-26DEC10-H25P|4911209": {
   "checked": "2026-10-14",
@@ -1459,6 +1484,16 @@
   "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
  },
+ "KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1|5794343": {
+  "checked": "2026-11-02",
+  "note": "Exact-score pair, already dropped from matched list and settled; rules text not available to compare.",
+  "status": "unsure"
+ },
+ "KXLIGUE1SCORE-26OCT30LILRCL-LIL0RCL1|5794572": {
+  "checked": "2026-11-02",
+  "note": "Exact-score pair, already dropped from matched list and settled; rules text not available to compare.",
+  "status": "unsure"
+ },
  "KXLOWTCHI-26OCT20-B46.5|5863486": {
   "checked": "2026-10-22",
   "note": "Weather pair: Kalshi settles on the official daily climate report, Polymarket on NOAA hourly readings; same systematic rule gap as earlier weather pairs. ~99c edges after the day ended = one side already decided.",
@@ -1513,6 +1548,11 @@
   "checked": "2026-10-28",
   "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
+ },
+ "KXMLSSCORE-26OCT31SJRSL-SJ1RSL0|5889611": {
+  "checked": "2026-11-02",
+  "note": "Exact-score pair, already dropped from matched list and settled; rules text not available to compare.",
+  "status": "unsure"
  },
  "KXNHLATLANTIC-27-TB|5659320": {
   "checked": "2026-10-26",
