@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-03T00:07:06Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-03T01:13:56Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-03T00:07:03Z — 234 of 244 pairs priced
+- Last scan: 2026-11-03T01:13:54Z — 234 of 244 pairs priced
 - Scans in the last 24h: 25 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-02T19:13:15Z — Kalshi 165271 markets, Polymarket 22393 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 705 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 706 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 316
 - Positive pairs still in play: **304** (confirmed same bet: 6, not yet checked: 282)
-- Scans with at least one positive pair: 704
+- Scans with at least one positive pair: 705
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@ Running since 2026-10-14. 705 scans so far. A pair counts as positive when buyin
 | Al-Ittihad vs Al Ain Al-Ittihad / Will Al Ain FC win on 2026-11-02? | no | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
 | KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1 /  | unsure | +67.6¢ | +66.1¢ | 14 | 50 | 0 | >999% |
-| Radnicki Nis vs FK Zeleznicar Pancevo Tie / Will FK Radnicki Nis vs. FK Zeleznicar Pancev | no | +65.6¢ | +55.3¢ | 7 | 50 | 0 | >999% |
+| Radnicki Nis vs FK Zeleznicar Pancevo Tie / Will FK Radnicki Nis vs. FK Zeleznicar Pancev | no | +65.6¢ | +55.9¢ | 8 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 16 run, 225 positive spreads seen; typical one lasted 3060 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 244. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
