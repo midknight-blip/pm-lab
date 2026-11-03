@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-03T01:13:56Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-03T01:24:26Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-03T01:13:54Z — 234 of 244 pairs priced
 - Scans in the last 24h: 25 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-02T19:13:15Z — Kalshi 165271 markets, Polymarket 22393 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-03T01:24:25Z — Kalshi 171586 markets, Polymarket 22383 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -27,18 +27,18 @@ Running since 2026-10-14. 706 scans so far. A pair counts as positive when buyin
 | KXAFCCLGAME-26NOV02WASQUW-WAS /  | no | +96.8¢ | +82.0¢ | 5 | 50 | 0 | >999% |
 | KXSAUDIPLGAME-26OCT19FAYAAS-FAY /  | unsure | +93.7¢ | +57.2¢ | 24 | 50 | 0 | >999% |
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
-| Al-Ittihad vs Al Ain Al-Ittihad / Will Al Ain FC win on 2026-11-02? | no | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
+| KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | no | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
 | KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1 /  | unsure | +67.6¢ | +66.1¢ | 14 | 50 | 0 | >999% |
 | Radnicki Nis vs FK Zeleznicar Pancevo Tie / Will FK Radnicki Nis vs. FK Zeleznicar Pancev | no | +65.6¢ | +55.9¢ | 8 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 16 run, 225 positive spreads seen; typical one lasted 3060 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 244. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 247. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern  — 2 outcomes, +4.0¢ per $1
-  - polymarket: Which party will win white women in the midterms? Republicans — 2 outcomes, +4.0¢ per $1
-  - polymarket: Cross River, Nigeria Governor Election Winner Arthur Jarvis — 2 outcomes, +4.0¢ per $1
   - polymarket: Which party will hold more governorships after the midterms? Democrati — 2 outcomes, +4.0¢ per $1
+  - polymarket: Cross River, Nigeria Governor Election Winner Arthur Jarvis — 2 outcomes, +4.0¢ per $1
   - polymarket: Oscars 2027: Best Animated Feature Film Winner Toy Story 5 — 8 outcomes, +4.0¢ per $1
+  - polymarket: Which party will win white women in the midterms? Republicans — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
