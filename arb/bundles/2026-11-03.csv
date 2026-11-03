@@ -35,3 +35,40 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-03T01:20:21Z,polymarket,0x322cd4b2e64209e7f2bfe89ddd815fe61b949b37e2b2333a7f9e21d2b9561d00,Turner Prize 2026 Winner Kira Freije,4,0.948,0.0361,0.0159,,2027-04-01T03:59:00Z
 2026-11-03T01:20:21Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.965,0.0102,0.0248,,2027-03-31T03:59:00Z
 2026-11-03T01:20:21Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.958,0.0212,0.0208,,2027-03-31T03:59:00Z
+2026-11-03T07:27:13Z,kalshi,KXNFLH2HWINS-27JACDAL,Jacksonville vs Dallas: Head-to-Head Win Total,2,0.97,0.017,0.013,198.84,2027-01-18T15:00:00Z
+2026-11-03T07:27:13Z,kalshi,KXATTYGENNE-26,Nebraska Attorney General winner?,2,0.986,0.007,0.007,16.0,2027-01-05T15:00:00Z
+2026-11-03T07:27:13Z,kalshi,KXF1POLE-BRAZ26,Brazil Grand Prix Qualifying Session: Pole Position,22,0.93,0.064,0.006,1.0,2026-11-08T00:00:00Z
+2026-11-03T07:27:13Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.96,0.031,0.009,1603.83,2027-02-27T15:00:00Z
+2026-11-03T07:27:13Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.95,0.022,0.028,2522.63,2027-02-25T15:00:00Z
+2026-11-03T07:27:13Z,polymarket,0x5551e4a6f280dd982428099d918713b1756de0369d5923c5699b1a754ef26300,Highest temperature in London on November 4? 12°C,3,0.962,0.0236,0.0144,,2026-11-04T12:00:00Z
+2026-11-03T07:27:13Z,polymarket,0x7a6928d07fee0e4fea3d5bc013070d4545b050470572c95034faf963e5eec000,Highest temperature in Singapore on November 4? 32°C,4,0.954,0.0244,0.0216,,2026-11-04T12:00:00Z
+2026-11-03T07:27:13Z,polymarket,0xd812c807cee867fb6ba0f5f334ebaf781f7ca1c3c626faa2125911fd5dfe8900,Tennessee Senate Election: Turnout 2M-2.2M,2,0.97,0.0196,0.0104,,2026-11-04T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x169ddf0df1f7574cc1ffe3aa05b4acb2eae23b457e461f9bfbf2742e51427a00,Lowest temperature in London on November 3? 9°C,2,0.971,0.0015,0.0275,,2026-11-03T12:00:00Z
+2026-11-03T07:27:13Z,polymarket,0xece32ae904992d860a8fb55d9dd43846a37b0794511c06e10aced54d140bb500,Senate Combo: Michigan and Texas Dems sweep,2,0.95,0.0135,0.0365,,2026-11-03T23:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xb798ea2ea9e363866b1f83490db9f7269afa93d687d09612349dda5942ef3a00,Lowest temperature in Warsaw on November 3? 5°C,3,0.99,0.0007,0.0093,,2026-11-03T12:00:00Z
+2026-11-03T07:27:13Z,polymarket,0xea9bda9d5d65a7f15664bc1a6f831dd456f2cdcf7f7fc816c6f02a021d5a8000,October Inflation US - Monthly ≤0.1%,4,0.93,0.0301,0.0399,,2026-11-11T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xf8e205fdec418347fe4e10cef92846ca05d1a9a14ff61eb9cfd47f3d48d28900,"Zelenskyy # posts November 6 - November 13, 2026? 200+",4,0.934,0.0311,0.0349,,2026-11-13T17:00:00Z
+2026-11-03T07:27:13Z,polymarket,0x1de88a8b1297a081e194acd64b160a1e7d43c61684888b69c009e9d23ef4de00,Second-best Text Arena Math AI Lab end of November? Anthropic,2,0.97,0.0196,0.0104,,2026-12-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xea16159953b94b86a175b2c7ed3e1e5295111549c8953a7730c456dbcffb5800,Which company has the best Code Arena WebDev AI model end of November? OpenAI,3,0.976,0.0133,0.0107,,2026-12-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xbae6dc0f580109d4772c31ef5e7ab4e8aa72249b3159855b22a3d0ac1b60a800,Reserve Bank of India decision in December No Change,2,0.96,0.0166,0.0234,,2026-12-04T00:00:00Z
+2026-11-03T07:27:13Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year Caedrel,11,0.973,0.018,0.009,,2026-12-15T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? SpaceX,5,0.972,0.0174,0.0106,,2027-01-02T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,14,0.989,0.0,0.011,,2026-12-31T17:00:00Z
+2026-11-03T07:27:13Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",4,0.98,0.0022,0.0178,,2027-01-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xbe1e1cc4a3bbaf5b0331e7c36f0e45049715663aeab08c116b6144ef583b0000,Where will the next US-Iran senior diplomatic meeting take place...? No Meeting by December 31,10,0.961,0.0,0.039,,2027-01-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,3,0.973,0.0036,0.0234,,2027-01-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x34b1b095b8e075e65697b0458b8e3675f3e27fa0375328e5041ddf2d4bc74f00,VALORANT Offseason: Asuna Next Team LOUD,2,0.951,0.0124,0.0366,,2027-01-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xebe55e097f065c94a72edc69111ceccdb1e944c6880f92f41157212f386cea00,Which company has the best Text Arena Math AI model end of December? Anthropic,2,0.95,0.0199,0.0301,,2027-01-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x5647f1b853f545d8d565daa339f52cbe54c677b6320d51e6ad9070c26d4b0300,#1 Searched TV Show on Google 2026? Teach You a Lesson,35,0.957,0.0379,0.0051,,2027-04-01T03:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x25351cc3f008ba7643a547f97b36de5a9912ab137cc5b8d0b4e34b83e7e61f00,VALORANT Offseason: Sato Next Team FURIA Esports,3,0.969,0.0036,0.0274,,2027-01-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x5d6ba3a1d62e42bd0045e93271eb25ed415646f55f2fdac947b0d410f9196d00,Pro Football: 2027 NFC Champion  Seattle Seahawks,9,0.957,0.024,0.019,,2027-01-25T00:00:00Z
+2026-11-03T07:27:13Z,polymarket,0x8c16c7e09312f321b8de1c5076195b34acdb49fe4354126c69be2788e677bc00,China Annual GDP Growth 2026 4.0–5.0%,3,0.978,0.002,0.02,,2027-01-31T00:00:00Z
+2026-11-03T07:27:13Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Umaru Dikko Radda",2,0.97,0.0093,0.0207,,2027-02-07T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0105,0.0195,,2027-02-07T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xb92f8e48ca62b1cfb98c2807891103e134a0eb86f65911dd74bfe6cce507ee00,"Kano, Nigeria Governor Election Winner Mohammad Raji",4,0.95,0.0164,0.0336,,2027-02-07T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.987,0.0074,0.0056,,2027-02-07T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? No Next Minister by Feb 28,16,0.954,0.0293,0.0167,,2027-03-01T04:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x7b7155c2f8ab60cb7b4f1fb1abee13e847897827e971c9257555feed48ee8b00,Oscars 2027: Best Live Action Short Film Winner Agapito,10,0.945,0.0413,0.0137,,2027-03-14T23:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x322cd4b2e64209e7f2bfe89ddd815fe61b949b37e2b2333a7f9e21d2b9561d00,Turner Prize 2026 Winner Kira Freije,4,0.928,0.0356,0.0364,,2027-04-01T03:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.964,0.0102,0.0258,,2027-03-31T03:59:00Z
+2026-11-03T07:27:13Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.958,0.0212,0.0208,,2027-03-31T03:59:00Z
