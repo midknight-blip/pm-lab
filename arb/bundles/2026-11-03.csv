@@ -107,3 +107,40 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-03T13:19:51Z,polymarket,0x87b0d09d2acc26117312791f30534274e5eddab87c4f1975474822ce38324200,AFCON 2027 Qualifying: Group L Winner Guinea-Bissau,4,0.966,0.0266,0.0074,,2027-03-31T03:59:00Z
 2026-11-03T13:19:51Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.964,0.0102,0.0258,,2027-03-31T03:59:00Z
 2026-11-03T13:19:51Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.958,0.0212,0.0208,,2027-03-31T03:59:00Z
+2026-11-03T19:08:25Z,kalshi,KXNFLH2HWINS-27JACDAL,Jacksonville vs Dallas: Head-to-Head Win Total,2,0.97,0.018,0.012,5.0,2027-01-18T15:00:00Z
+2026-11-03T19:08:25Z,kalshi,KXGGWINNER-TVSACTR27,Golden Globe Winner:  Best Supporting Actress on TV,11,0.92,0.052,0.028,5.0,2027-01-11T04:59:00Z
+2026-11-03T19:08:25Z,kalshi,KXATTYGENNE-26,Nebraska Attorney General winner?,2,0.986,0.007,0.007,3895.0,2027-01-05T15:00:00Z
+2026-11-03T19:08:25Z,kalshi,KXGOOGLESEARCH-ATH27,Google’s Year in Search 2026 Global - Athletes: #1 search,11,0.91,0.054,0.036,3.92,2027-01-01T15:00:00Z
+2026-11-03T19:08:25Z,polymarket,0xbba8596aa53a0a2cd663847748ecb922bc805525e2ac841524f273b3128b2000,IK Sirius vs. Halmstads BK IK Sirius,2,0.976,0.0018,0.0222,,2026-11-03T18:00:00Z
+2026-11-03T19:08:25Z,polymarket,0x0d6cf956ad60701b6f16079fb36ca64fa916d8a7c8d72f4e10e8672e87d47e00,Highest temperature in Shanghai on November 4? 19°C,4,0.954,0.017,0.029,,2026-11-04T12:00:00Z
+2026-11-03T19:08:25Z,polymarket,0x1b75dcc86ab0c3058ff0e3e99efd411f6aefde2777462f3b6688e0e46f374300,Lowest temperature in Hong Kong on November 4? 26°C,4,0.967,0.0191,0.0139,,2026-11-04T12:00:00Z
+2026-11-03T19:08:25Z,polymarket,0x28520f155d597a896bea5865f5625f1cdc64574c3a19f0325f6fbc97fae10d00,Next Prime Minister of New Zealand? Christopher Luxon,3,0.961,0.02,0.019,,2026-11-08T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xb2a45b42ef2f01169c5494175e7013def8b6f1faed0cddf5a93548e1c57d3c00,How many House seats will the Democrats win in Virginia? 8,3,0.95,0.0252,0.0248,,2026-11-04T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x556e5ece3ce989e3fdfc40c04bd8555be6c10987a37b83654c5e3f100dea0200,Highest temperature in Panama City on November 4? 30°C,3,0.949,0.0304,0.0206,,2026-11-04T12:00:00Z
+2026-11-03T19:08:25Z,polymarket,0x22e6db61f50c601d3875a4453717f5ebb22e3f2ca4b70f32cba1a412c932a100,Highest temperature in Los Angeles on November 4? 74-75°F,2,0.97,0.025,0.005,,2026-11-04T12:00:00Z
+2026-11-03T19:08:25Z,polymarket,0xa1c1928b864f386ac7ee240b98a60bffd0082369883f010a82154f1f308f4f00,Highest temperature in Toronto on November 4? 21°C,3,0.93,0.0309,0.0392,,2026-11-04T12:00:00Z
+2026-11-03T19:08:25Z,polymarket,0x0e5c2305fc11649a79398339a255de22b6621cea1d0e3204877acdc823e82600,The Streamer Awards: Gamer of the Year TheBurntPeanut,3,0.935,0.0272,0.0378,,2026-11-12T00:00:00Z
+2026-11-03T19:08:25Z,polymarket,0x67b3285b4dc25e16ad998aa51b537fe7e1ce774291179495521d9c8fb0f77700,Walmart (WMT) Q3 US eCommerce sales growth? 21% to 25%,2,0.96,0.0137,0.0263,,2026-11-19T14:30:00Z
+2026-11-03T19:08:25Z,polymarket,0x4f765f072bf77a17a6adeaf5e1de153596dd250a338e12a08d5addb83f9f2900,Next Premier of Victoria Jess Wilson,3,0.954,0.0063,0.0397,,2026-11-29T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x804d38626b04c348385cf455843db780f0a82245e797d53f59759a487ae1d700,October 2026 Temperature Increase (ºC) >1.49ºC,2,0.978,0.0097,0.0123,,2026-12-02T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xf64a83380bf59422c0af9e03ba73cdc9a402755f48a7e643f49e1cc9fca28c00,Third-best AI Lab end of November? Meta,6,0.96,0.0189,0.0211,,2026-12-01T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xe6672af3b2e663429f69d855477a2b1647c18b82468544acb047524dd4772700,Spain General Election: Ciudad Real Winner Podemos,5,0.959,0.003,0.038,,2026-11-30T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x899d05c5ba21fb89f4f6fc5ce78cef4074b703180e8dde09e9017a3e9e532500,Bachelorette Season 22 Winner Richard Van De Water,3,0.973,0.0016,0.0254,,2026-11-30T00:00:00Z
+2026-11-03T19:08:25Z,polymarket,0x20c1c105650fb8949aac4c90998beca8213f7a32b045ba587648b27b57ee6900,Spain General Election: Vox # of seats? 61-65,4,0.939,0.0261,0.0349,,2026-11-30T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x1d4846324d1c79aa27a443cc733f432ed5b68040538ad6569efa9ceaf89e1000,Spain General Election: A Coruña Winner PP,2,0.98,0.0039,0.0161,,2026-11-30T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year Caedrel,11,0.973,0.018,0.009,,2026-12-15T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xdcd7daabcacdc4ecf4f9a48d0a2708b52f356dd086c8070992136da62eb72b00,How many Fed rate cuts in 2026? 4 (100 bps),7,0.988,0.0023,0.0097,,2027-01-01T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",3,0.97,0.0017,0.0283,,2027-01-01T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xffb31d6c6caf8442780a25d75617f4ef733883827b558b358123d4aeee954e00,Apple’s Market Cap end of 2026? $5.00-$5.50T,5,0.961,0.0275,0.0115,,2026-12-31T23:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,3,0.982,0.0027,0.0153,,2027-01-01T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x9c0d8e7c9b1f0001a4ac7d938a3aeb1a5ba0d3c523a9a5152f32eee502c48c00,VALORANT Offseason: brawk Next Team Sentinels,12,0.96,0.0132,0.0268,,2027-01-01T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Alexandre Pantoja,3,0.991,0.0013,0.0077,,2027-01-01T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xf3ea0a148d7db7aab552886bddd6f5c079bfcd103e02745036ce51b70b711700,Amazon’s Market Cap end of 2026? $2.50-$3.00T,3,0.962,0.0228,0.0152,,2026-12-31T23:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Khamzat Chimaev,3,0.96,0.0036,0.0364,,2027-01-01T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.978,0.0078,0.0142,,2027-02-07T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Umaru Dikko Radda",2,0.97,0.0093,0.0207,,2027-02-07T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0105,0.0195,,2027-02-07T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? No Next Minister by Feb 28,16,0.949,0.0292,0.0218,,2027-03-01T04:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Algeria,4,0.96,0.0147,0.0253,,2027-03-31T03:59:00Z
+2026-11-03T19:08:25Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Eritrea,4,0.958,0.0212,0.0208,,2027-03-31T03:59:00Z
+2026-11-03T19:08:25Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Vladan Đokić,19,0.981,0.0139,0.0051,,2027-05-02T03:59:00Z
