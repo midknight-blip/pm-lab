@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-04T18:47:44Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-04T19:17:30Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-04T18:47:42Z — 248 of 248 pairs priced
 - Scans in the last 24h: 25 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-04T13:24:50Z — Kalshi 170365 markets, Polymarket 20961 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-04T19:17:30Z — Kalshi 172914 markets, Polymarket 22022 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 749 scans so far. A pair counts as positive when buyin
 | KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1 /  | unsure | +67.6¢ | +66.1¢ | 14 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 18 run, 235 positive spreads seen; typical one lasted 3885 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 240. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern  — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 243. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: US Sassuolo Calcio vs. ACF Fiorentina - Exact Score US Sassuolo Calcio — 14 outcomes, +4.0¢ per $1
   - kalshi: Who will be the next commissioner of Women's Pro Basketball? — 33 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Toronto on November 3? 22°C or higher — 2 outcomes, +4.0¢ per $1
   - polymarket: October Inflation US - Monthly ≤0.1% — 4 outcomes, +4.0¢ per $1
+  - polymarket: Senate Combo: Texas, Michigan, Maine Dems sweep — 4 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
