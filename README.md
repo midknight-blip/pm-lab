@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-04T01:24:00Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-04T01:36:00Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-04T00:18:50Z — 237 of 246 pairs priced
-- Scans in the last 24h: 25 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-11-04T01:35:58Z — 247 of 247 pairs priced
+- Scans in the last 24h: 26 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-04T01:23:59Z — Kalshi 161753 markets, Polymarket 20909 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 731 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 732 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 316
-- Positive pairs still in play: **321** (confirmed same bet: 6, not yet checked: 299)
-- Scans with at least one positive pair: 730
+- Positive pairs still in play: **322** (confirmed same bet: 6, not yet checked: 300)
+- Scans with at least one positive pair: 731
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,12 +33,12 @@ Running since 2026-10-14. 731 scans so far. A pair counts as positive when buyin
 | KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1 /  | unsure | +67.6¢ | +66.1¢ | 14 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 17 run, 231 positive spreads seen; typical one lasted 3495 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 262. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Highest temperature in Guangzhou on November 1? 31°C — 3 outcomes, +4.0¢ per $1
-  - polymarket: Highest temperature in London on November 2? 12°C — 2 outcomes, +4.0¢ per $1
-  - polymarket: Which party will win white women in the midterms? Republicans — 2 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 237. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Steam Weekly #1 Seller (October 27 - November 3) Call of Duty: Modern  — 2 outcomes, +4.0¢ per $1
   - polymarket: US Sassuolo Calcio vs. ACF Fiorentina - Exact Score US Sassuolo Calcio — 14 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Toronto on November 3? 22°C or higher — 2 outcomes, +4.0¢ per $1
+  - polymarket: October Inflation US - Monthly ≤0.1% — 4 outcomes, +4.0¢ per $1
+  - polymarket: Senate Combo: Texas, Michigan, Maine Dems sweep — 4 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
