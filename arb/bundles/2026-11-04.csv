@@ -36,3 +36,48 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-04T01:20:35Z,polymarket,0x7b7155c2f8ab60cb7b4f1fb1abee13e847897827e971c9257555feed48ee8b00,Oscars 2027: Best Live Action Short Film Winner Spilled Milk,10,0.939,0.0411,0.0199,,2027-03-14T23:59:00Z
 2026-11-04T01:20:35Z,polymarket,0x4203a491b8986e29566169c9013ec9b19a2400ed0cd9dca46e8d8aa3880d1700,AFCON 2027 Qualifying: Group F Winner Benin,4,0.938,0.028,0.034,,2027-03-31T03:59:00Z
 2026-11-04T01:20:35Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.956,0.0145,0.0295,,2027-03-31T03:59:00Z
+2026-11-04T07:31:37Z,kalshi,KXWNBANEXTCOMMISH-27MAY,Who will be the next commissioner of Women's Pro Basketball?,33,0.89,0.07,0.04,1.0,2027-05-01T14:00:00Z
+2026-11-04T07:31:37Z,kalshi,KXNFLH2HWINS-27JACDAL,Jacksonville vs Dallas: Head-to-Head Win Total,2,0.96,0.018,0.022,5.0,2027-01-18T15:00:00Z
+2026-11-04T07:31:37Z,kalshi,KXINXVSINXEW-26DEC31,Annual Return: S&P 500 vs. S&P 500 Equal Weight Index,2,0.95,0.021,0.029,0.37,2027-01-01T04:59:00Z
+2026-11-04T07:31:37Z,kalshi,KXNETFLIXRANKSHOWRUNNERUP-26NOV09,#2 US Netflix Show this week?,10,0.92,0.048,0.032,10.0,2026-11-10T15:00:00Z
+2026-11-04T07:31:37Z,kalshi,KXSTATELEG-NVSENA26,Nevada State Senate winner?,2,0.99,0.003,0.007,5.0,2027-03-15T14:00:00Z
+2026-11-04T07:31:37Z,kalshi,KXSTATELEG-NCHOUSE26,North Carolina State House winner?,2,0.99,0.003,0.007,5.0,2027-02-27T15:00:00Z
+2026-11-04T07:31:37Z,polymarket,0x930c0af110a9e7e96fe95d71268fb752b9027691dcff892d0033479387c49d00,Al Kholood Saudi Club vs. Al Khaleej Saudi Club - Exact Score Al Kholood Saudi Club 0 - 0 Al Khaleej Saudi Club,2,0.975,0.0013,0.0237,,2026-11-05T13:25:00Z
+2026-11-04T07:31:37Z,polymarket,0xe052e9ff883ba773eacf97ba9d62383ed7103c3f1b9c7a792ce24efd86188900,New Zealand legislative election winner? National Party,2,0.97,0.0172,0.0128,,2026-11-08T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x1ef27c670d19b1eebfb71d4e93129aae3ef65e94878396f225f058be122c9100,Highest temperature in Beijing on November 5? 19°C,3,0.95,0.0303,0.0197,,2026-11-05T12:00:00Z
+2026-11-04T07:31:37Z,polymarket,0x556e5ece3ce989e3fdfc40c04bd8555be6c10987a37b83654c5e3f100dea0200,Highest temperature in Panama City on November 4? 32°C or higher,4,0.95,0.0322,0.0178,,2026-11-04T12:00:00Z
+2026-11-04T07:31:37Z,polymarket,0xbe9e1cabad283f27c0e06b672a8b3b0df0916d1e5a00a427d45813a01c2a7400,Guam Governor Election Winner Therese Terlaje (D),2,0.992,0.0004,0.0076,,2026-11-03T23:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x2dad11505eddadb4e8cc81b5c6b377235f9b208ac61385315bd414b15aeaf700,Highest temperature in Atlanta on November 5? 74-75°F,3,0.94,0.0309,0.0291,,2026-11-05T12:00:00Z
+2026-11-04T07:31:37Z,polymarket,0x5f8163ef805d6c7fba264b69be51cc02e6cd6d415521ade6b2bc686e9b134500,Highest temperature in Busan on November 5? 15°C,4,0.95,0.0336,0.0165,,2026-11-05T12:00:00Z
+2026-11-04T07:31:37Z,polymarket,0x99e5a152525d3b3fbef56f883b27ceccf95cc23ed0158e5d07f80246bea4e600,FL-13 House Election Margin of Victory Democrat 0-3%,2,0.99,0.0005,0.0095,,2026-11-04T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xd4980e75bfc16a335ca63ba53cd1aebfe7d55fee8201f56217d3d98dda050e00,Billboard Hot 100 #1 Song Week of November 14 Choosin' Texas - Ella Langley,2,0.975,0.0056,0.0194,,2026-11-11T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x4f765f072bf77a17a6adeaf5e1de153596dd250a338e12a08d5addb83f9f2900,Next Premier of Victoria Ben Carroll,3,0.975,0.0064,0.0186,,2026-11-29T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x928ac4e47c23b65843f00539e67d2c660e78d2e16f6c1aeafb3b935eb4d58e00,MotoGP World Champion (2026) Marc Marquez,2,0.984,0.0022,0.0139,,2026-11-29T23:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xeaa68b451b172c6218821278bc02fbf2cbbac13ddad1d9637a97c454603ea300,SpaceX’s Market Cap end of November 2026? $1.50-$1.75T,3,0.963,0.0259,0.0111,,2026-11-30T17:00:00Z
+2026-11-04T07:31:37Z,polymarket,0xf64a83380bf59422c0af9e03ba73cdc9a402755f48a7e643f49e1cc9fca28c00,Third-best AI Lab end of November? Meta,9,0.958,0.0194,0.0226,,2026-12-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x1d1f4a61a70e56eee9c62ed113f2955ffa0a2df34c327a5bcc69b7d538c16700,How many hurricanes will form during the Atlantic Hurricane Season in 2026? 7+,2,0.992,0.0005,0.0075,,2026-12-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year TheDonato,11,0.973,0.018,0.009,,2026-12-15T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? SpaceX,4,0.969,0.0179,0.0131,,2027-01-02T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xdcd7daabcacdc4ecf4f9a48d0a2708b52f356dd086c8070992136da62eb72b00,How many Fed rate cuts in 2026? 0 (0 bps),8,0.988,0.0025,0.0095,,2027-01-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Elon Musk",2,0.978,0.0014,0.0206,,2027-01-03T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x809e81d2ad9f4141c7dc615ca53153e169402415dd60e592e6ec360fed5ae200,League of Legends Global Power Rankings Post Worlds: Rank 1 BLG,11,0.963,0.0245,0.0125,,2027-01-15T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,3,0.977,0.0025,0.0205,,2027-01-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 12-15,4,0.961,0.0216,0.0174,,2027-01-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Islam Makhachev,2,0.985,0.0015,0.0135,,2027-01-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Alexandre Pantoja,2,0.974,0.0009,0.0251,,2027-01-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x29b57a94f8c7cf066e8d91ef0eb7020ecb32b61b733bdf4f36cf4358f2261e00,Which month will Strait of Hormuz traffic return to normal? No Return to Normal Traffic in 2026,4,0.987,0.0,0.013,,2027-02-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 End of Beginning – Djo,3,0.95,0.0142,0.0358,,2027-02-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x73510e04db9c9a1fee95093a7a01f1248e8fe988d602785b049fdb61e15a6400,Pro Football: 2026-27 Receiving Yards Leader Zay Flowers,8,0.949,0.0235,0.0275,,2027-01-27T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x707042a979c02569d5202e1e5d1705525d84af2cbe1e326b3c06839013d85b00,Where will 2026 rank among the highest U.S. domestic box office years on record? 7th-9th,2,0.94,0.0248,0.0352,,2027-02-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Namadi Umar Alhaji",2,0.988,0.0068,0.0052,,2027-02-07T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.98,0.0107,0.0093,,2027-02-07T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.96,0.0096,0.0304,,2027-02-07T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner Akheem Mesidor,8,0.929,0.0378,0.0332,,2027-03-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xc6ebdac9f7eb2d7fee967565eae5d3b062d9b4ccb2bfa02758936e6845497900,Next Israeli Minister of Defense? Avigdor Lieberman,19,0.933,0.0277,0.0393,,2027-03-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? No Next Minister by Feb 28,16,0.955,0.0273,0.0177,,2027-03-01T04:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x16369d5dd9bba0b3f355d1f1f506bcd70aeb5b330c941ce717fcfba6c3ff8d00,Oscars 2027: Best Cinematography Winner The Whisper Man,9,0.939,0.035,0.026,,2027-03-14T23:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x04f9904955c17578ae56391af09a640a08ec56d4fde86a90c304e011c32ef700,GTA VI on PC in what month? After March 2027,5,0.962,0.0306,0.0074,,2027-04-01T03:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner DR Congo,4,0.955,0.0122,0.0329,,2027-03-31T03:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner South Africa,4,0.957,0.025,0.018,,2027-03-31T03:59:00Z
+2026-11-04T07:31:37Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.965,0.0149,0.0201,,2027-03-31T03:59:00Z
+2026-11-04T07:31:37Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Radomir Saičić,19,0.98,0.0138,0.0062,,2027-05-02T03:59:00Z
