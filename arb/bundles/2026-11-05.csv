@@ -74,3 +74,37 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-05T07:33:24Z,polymarket,0x7637e13afe14fcdf4112e70e94542387bc6f0cbce7099e08189fb944293bcc00,Punjab Legislative Assembly Election Winner BJP,4,0.958,0.0254,0.0166,,2027-04-01T03:59:00Z
 2026-11-05T07:33:24Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner DR Congo,4,0.975,0.0155,0.0095,,2027-03-31T03:59:00Z
 2026-11-05T07:33:24Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.955,0.0145,0.0305,,2027-03-31T03:59:00Z
+2026-11-05T13:27:35Z,kalshi,KXFEDDECISION-27APR,Fed decision in Apr 2027?,5,0.94,0.038,0.022,1.0,2027-04-28T18:05:00Z
+2026-11-05T13:27:35Z,kalshi,KXNFLH2HWINS-27JACDAL,Jacksonville vs Dallas: Head-to-Head Win Total,2,0.95,0.017,0.033,2.0,2027-01-18T15:00:00Z
+2026-11-05T13:27:35Z,kalshi,KXRANKLISTGOOGLESEARCH-26DEC,#1 searched person on Google in 2026,19,0.9,0.061,0.039,5.74,2026-12-31T15:00:00Z
+2026-11-05T13:27:35Z,kalshi,KXSTATELEG-NVSENA26,Nevada State Senate winner?,2,0.99,0.003,0.007,6417.99,2027-03-15T14:00:00Z
+2026-11-05T13:27:35Z,polymarket,0x8706c9492180c770b96aec3e741e2bb618326ed80b8a7f7f40722158cbd15d00,Highest temperature in Austin on November 6? 76-77°F,3,0.93,0.03,0.04,,2026-11-06T12:00:00Z
+2026-11-05T13:27:35Z,polymarket,0x41755bd42896659d0ba5a647230db7a0812640ceb8db6e2c3a06dcb78f806500,How many House seats will the Democrats win in California? 48,2,0.962,0.0085,0.0295,,2026-11-04T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x11edaa35d493c2ff62d6dce61dee929498f2a5d4896a06245f477e579a86a600,Highest temperature in Atlanta on November 6? 74-75°F,3,0.95,0.0301,0.0199,,2026-11-06T12:00:00Z
+2026-11-05T13:27:35Z,polymarket,0x3da4126f0eaec1ecd34225c89046c76fcea90c83d745e7f44ab98152f115b400,OpenRouter token usage week of November 2? 205T+,2,0.97,0.013,0.017,,2026-11-09T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x827672949ad03bc4ff689da8ba46169f14b184821d875fa548d053888b051800,Texas Governor Election Margin of Victory Abbott 3-6%,2,0.99,0.0006,0.0095,,2026-11-04T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0xb2a45b42ef2f01169c5494175e7013def8b6f1faed0cddf5a93548e1c57d3c00,How many House seats will the Democrats win in Virginia? 8,2,0.993,0.002,0.005,,2026-11-04T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0xa5e3e783fcde5fe70131b8a6d04bdd965c05e1b7b0200c0ef78a185c33a32d00,Highest temperature in Seoul (Incheon) on November 7? 8°C,2,0.96,0.0237,0.0163,,2026-11-07T12:00:00Z
+2026-11-05T13:27:35Z,polymarket,0xe033da9c6445f26c609ae61bd53e2930c446499a31bbd8d1d2efb6330d68ee00,Wisconsin Governor Election Margin of Victory Crowley 3-6%,2,0.97,0.0048,0.0252,,2026-11-04T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x9e2f6cb9b53d0b9687edad07c64f7c9fc36c9bdf036433e94502ab767e13e600,Highest temperature in Madrid on November 6? 16°C,2,0.95,0.0246,0.0254,,2026-11-06T12:00:00Z
+2026-11-05T13:27:35Z,polymarket,0x39031bec44956573294165c00266a04bfb195017dcb4e6166f4c0b2a5088b800,UE Tavernes vs. Valencia CF UE Tavernes,2,0.976,0.0066,0.0174,,2026-11-10T20:00:00Z
+2026-11-05T13:27:35Z,polymarket,0xb085d95ad79112ba0137f16e08a69014edf050f60f5feec4c04e825a0f4c1300,"""The Hunger Games: Sunrise on the Reaping"" Opening Weekend Box Office 95m-105m",4,0.964,0.0184,0.0176,,2026-11-22T12:00:00Z
+2026-11-05T13:27:35Z,polymarket,0x73fd747cd79c8baa745b0b421f1d9a80073d76134b34af08343540bbed5dfc00,Spain General Election: Vox % of vote? 22%+,4,0.965,0.0229,0.0121,,2026-11-30T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0xeaa68b451b172c6218821278bc02fbf2cbbac13ddad1d9637a97c454603ea300,SpaceX’s Market Cap end of November 2026? <$1.50T,4,0.936,0.0273,0.0367,,2026-11-30T17:00:00Z
+2026-11-05T13:27:35Z,polymarket,0xa8ae07d3ffe3d78b4be9266d50988bab63ca499a2ca7d649f47c79b1b2d4c000,Third-best AI Agent Lab end of November? OpenAI,3,0.951,0.0228,0.0262,,2026-12-01T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x652e36ff9ddcf1aaf57286cd0c262c958f11fe52b2dbbb33cddd8efef2f9a000,GPU rental prices (H200) end of November? $6.50+,4,0.945,0.0254,0.0296,,2026-12-01T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x929569ebd4463dc137ccfc818f4c863f7763abad98f683d1da919cbeb63c8e00,Spain General Election: Soria Winner PP,2,0.958,0.0051,0.0369,,2026-11-30T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year Jynxzi,11,0.963,0.0176,0.0194,,2026-12-15T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x251819c3bf668e4790cce9b9755c627683101f701c3b1e31e1dfe5f18bcec200,MLB: AL Manager of the Year Chad Tracy,2,0.98,0.0008,0.0192,,2027-01-01T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x82ee452cd1098e4b6a878a0bdcadf255026aa4747e54edc7cecef9e716381500,Venezuela de facto leader end of 2026? Delcy Rodríguez,2,0.969,0.0014,0.0296,,2026-12-31T00:00:00Z
+2026-11-05T13:27:35Z,polymarket,0xfc20512f821ff6cbdc5f522f4cb9b4e2c0430647cc125c8111161dac57d1e600,Next US Senate Minority Leader? John Barrasso,9,0.982,0.0107,0.0073,,2027-01-03T00:00:00Z
+2026-11-05T13:27:35Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Khamzat Chimaev,3,0.987,0.0039,0.0091,,2027-01-01T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Movsar Evloev,2,0.989,0.002,0.009,,2027-01-01T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 7,2,0.96,0.0128,0.0272,,2027-01-01T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x7bbfc3d652d2620938cf698d33ae46b7ebba3d2a6a4ba8337b301d4bcd0fb000,Pro Football: Colts vs. Jaguars Season Series Winner Tie,2,0.95,0.0247,0.0253,,2027-01-27T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.97,0.0093,0.0207,,2027-02-07T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.988,0.0068,0.0052,,2027-02-07T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner David Bailey,8,0.956,0.0385,0.0055,,2027-03-01T04:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner DR Congo,4,0.978,0.0156,0.0064,,2027-03-31T03:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner South Africa,4,0.957,0.022,0.021,,2027-03-31T03:59:00Z
+2026-11-05T13:27:35Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.955,0.0144,0.0306,,2027-03-31T03:59:00Z
