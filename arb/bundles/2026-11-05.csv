@@ -34,3 +34,43 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-05T01:23:14Z,polymarket,0xc6ebdac9f7eb2d7fee967565eae5d3b062d9b4ccb2bfa02758936e6845497900,Next Israeli Minister of Defense? No Next Minister by Feb 28,19,0.936,0.0276,0.0364,,2027-03-01T04:59:00Z
 2026-11-05T01:23:14Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner DR Congo,4,0.966,0.0151,0.0189,,2027-03-31T03:59:00Z
 2026-11-05T01:23:14Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.968,0.015,0.017,,2027-03-31T03:59:00Z
+2026-11-05T07:33:24Z,kalshi,KXNFLH2HWINS-27HOUDEN,Houston vs Denver: Head-to-Head Win Total,2,0.97,0.018,0.012,5.0,2027-01-18T15:00:00Z
+2026-11-05T07:33:24Z,kalshi,KXNCAAMB1H-26NOV05WEBBTEX,Gardner-Webb vs Texas: 1st Half Winner,3,0.98,0.013,0.007,0.49,2026-11-06T04:00:00Z
+2026-11-05T07:33:24Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.99,0.003,0.007,1716.0,2027-02-25T15:00:00Z
+2026-11-05T07:33:24Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.98,0.004,0.016,3000.0,2027-02-25T15:00:00Z
+2026-11-05T07:33:24Z,polymarket,0xb89c209a6c0f8773b63b89b6ccc593497272b44378405be8df3dac17570e2e00,AK-AL House Election Winner Republican Party,2,0.972,0.0049,0.0231,,2026-11-04T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xd85822ce38f22efaeae43db3684f531ca32d56281c3807a5b09f9d5e866e9f00,Mississippi Senate Election Margin of Victory (First Round) Democrat Wins,2,0.985,0.0014,0.0136,,2026-11-04T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x551c249668522732c95e144e4b117ff6f30cf0acaa1630e79e744b7798d61400,FC København vs. SK Iberia 1999 - Exact Score FC København 0 - 5 SK Iberia 1999,15,0.92,0.0415,0.0385,,2026-11-05T20:00:00Z
+2026-11-05T07:33:24Z,polymarket,0x9b88ce43c89216c84116ed4363d25777956e1e3c050a487076a2b155c111a300,Highest temperature in Paris on November 6? 12°C,6,0.955,0.0349,0.0101,,2026-11-06T12:00:00Z
+2026-11-05T07:33:24Z,polymarket,0x6886e4c1238b6210be7d6fe8ea6e2c712d0a4ecddc2fa81e9ce47feaee9a4b00,Highest temperature in Cape Town on November 6? 20°C,4,0.96,0.0306,0.0094,,2026-11-06T12:00:00Z
+2026-11-05T07:33:24Z,polymarket,0x8d779050f6f6c2aac25c1d7149726ce7cbfa2839c5be08480bf3bec0592f8f00,Highest temperature in Tokyo on November 6? 18°C or below,6,0.965,0.0295,0.0055,,2026-11-06T12:00:00Z
+2026-11-05T07:33:24Z,polymarket,0xa8a8da86332008b23ec4b233318b0d6b656d1c2d2178cfdfb059af79dae23500,Highest temperature in Seattle on November 5? 60-61°F,3,0.969,0.0221,0.0089,,2026-11-05T12:00:00Z
+2026-11-05T07:33:24Z,polymarket,0x4513e9b07c7da7307fb7dd7955af5166f83889b82e431e7fc7a7f1deab0cb900,TX-05 House Election Margin of Victory Democrat Wins,2,0.993,0.0008,0.0063,,2026-11-04T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x1f7c34248e4c0d60681fca9ed809b4c5256b2351a3622ad61a9a58d97ad49b00,Speaker of the House after the midterms? Hakeem Jeffries,2,0.967,0.0019,0.0311,,2026-11-04T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x8706c9492180c770b96aec3e741e2bb618326ed80b8a7f7f40722158cbd15d00,Highest temperature in Austin on November 6? 76-77°F,3,0.94,0.0311,0.0289,,2026-11-06T12:00:00Z
+2026-11-05T07:33:24Z,polymarket,0xbf657405dbb82c302f74a93e9cdc47455c6f62b5c3237307574ab0f1f7f4c200,Nebraska Senate Election Margin of Victory Republican 6-9%,2,0.963,0.0024,0.0346,,2026-11-04T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x2f792b6c7f2e40e8105ebe4589441589686dc2bc178c6961ed59ecf2da86e200,"CZ # posts October 30 - November 6, 2026? 80-99",3,0.967,0.0255,0.0075,,2026-11-06T17:00:00Z
+2026-11-05T07:33:24Z,polymarket,0x7833d2066498f6f4f3df1147fc773f492868536348ad9b3db16c2569bbde0100,Peggy Flanagan runs behind Amy Klobuchar by...? 0-3 points behind,2,0.989,0.0011,0.0099,,2026-11-04T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xea9bda9d5d65a7f15664bc1a6f831dd456f2cdcf7f7fc816c6f02a021d5a8000,October Inflation US - Monthly 0.4%,4,0.96,0.0319,0.0081,,2026-11-11T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xa13515de3b5583f5c67332f703f053fd617e4dbf82d9fd907464ae0a8374a900,"CZ # posts November 6 - November 13, 2026? 200+",9,0.958,0.0357,0.0063,,2026-11-13T17:00:00Z
+2026-11-05T07:33:24Z,polymarket,0x47269b8de5f5608db4e48d058e836a9fba0aed73ca54e20e868445dbe4253900,Next Fable Model (5.2+) released on...? November 10,5,0.962,0.0293,0.0087,,2026-12-01T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xd94598ebd6dd35b224e69b0051c5354d5100de1a9a6c867377a8d0d94ddcd900,Democratic nomination odds leader on November 30? Jon Ossoff,6,0.98,0.0073,0.0127,,2026-11-30T17:00:00Z
+2026-11-05T07:33:24Z,polymarket,0x3dd641b15d7ae9e9b0626114305ee412d8eb08e9882af729d0e58691f05d1500,Core PCE YoY - October 2026 3.3%,4,0.929,0.033,0.038,,2026-11-25T13:30:00Z
+2026-11-05T07:33:24Z,polymarket,0xeaa68b451b172c6218821278bc02fbf2cbbac13ddad1d9637a97c454603ea300,SpaceX’s Market Cap end of November 2026? $2.00-$2.25T,4,0.949,0.0274,0.0236,,2026-11-30T17:00:00Z
+2026-11-05T07:33:24Z,polymarket,0xfc7cadaf197d10d18f96384929fb105effc9b5d68a8eccafd6ad7a65928da400,#3 AI Lab end of November? (Style Control On) Meta,5,0.947,0.0235,0.0295,,2026-12-01T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year TheDonato,11,0.963,0.0176,0.0194,,2026-12-15T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x251819c3bf668e4790cce9b9755c627683101f701c3b1e31e1dfe5f18bcec200,MLB: AL Manager of the Year Chad Tracy,2,0.98,0.0008,0.0192,,2027-01-01T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xffb31d6c6caf8442780a25d75617f4ef733883827b558b358123d4aeee954e00,Apple’s Market Cap end of 2026? $4.50-$5.00T,4,0.949,0.0249,0.026,,2026-12-31T23:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Elon Musk",2,0.99,0.002,0.008,,2027-01-03T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x98b606dad0946169a25e3f1ef2abd54984aa4104569c21576ff9c876afccd700,Bitcoin best month in 2026? August,2,0.97,0.0085,0.0215,,2027-01-01T05:00:00Z
+2026-11-05T07:33:24Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 6,2,0.96,0.0128,0.0272,,2027-01-01T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x5e62c6cabdd3af2ee3e670c0ce47c99d620c5270d560c6be3bc826a5226bdc00,How many Gold Cards will Trump sell in 2026? 1-100,2,0.956,0.0106,0.0334,,2026-12-31T23:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xf23b250e546eca6498bde28a75593d814fd752c710b34d2b4637b2fe7b42d000,How many dissent at the January Fed meeting? 3,3,0.96,0.0274,0.0126,,2027-01-28T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x7bbfc3d652d2620938cf698d33ae46b7ebba3d2a6a4ba8337b301d4bcd0fb000,Pro Football: Colts vs. Jaguars Season Series Winner Tie,2,0.95,0.0247,0.0253,,2027-01-27T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0105,0.0195,,2027-02-07T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xaf5e899ef9d5a573cfaf7c9a21ba42f74862adecfef28f46684112a21a0db100,Pro Football: 2026-27 AP Comeback Player of the Year Winner Malik Nabers,6,0.932,0.0299,0.0381,,2027-03-01T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0xafffdeebe7582d01b83cf93472e2bb14e2494ec0d5538f7c4be943aa30ba8100,Pro Football: 2026-27 AP Coach of the Year Winner John Harbaugh,9,0.947,0.0365,0.0165,,2027-03-01T04:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner South Africa,4,0.957,0.022,0.021,,2027-03-31T03:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x7637e13afe14fcdf4112e70e94542387bc6f0cbce7099e08189fb944293bcc00,Punjab Legislative Assembly Election Winner BJP,4,0.958,0.0254,0.0166,,2027-04-01T03:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner DR Congo,4,0.975,0.0155,0.0095,,2027-03-31T03:59:00Z
+2026-11-05T07:33:24Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.955,0.0145,0.0305,,2027-03-31T03:59:00Z
