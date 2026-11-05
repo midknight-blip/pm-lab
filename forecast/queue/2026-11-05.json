@@ -1,0 +1,76 @@
+{
+ "batch": "2026-11-05",
+ "created": "2026-11-05T10:11:37Z",
+ "markets": [
+  {
+   "key": "kalshi:KXTRUMPPHOTO-26NOV08-2-6",
+   "question": "How many days will Trump be photographed this week? (11/2-11/8)  \u2014 6",
+   "rules": "If the number of distinct days Donald Trump is photographed in a tagged editorial photo on Getty Images between Nov 2, 2026 and Nov 8, 2026 is exactly 6, then the market resolves to Yes. How this is resolved\n\nIf a tagged photo does not actually depict Donald Trump, or is materially mis-tagged (for example, with the wrong date), Kalshi reserves the right to disregard that photo when resolving the market.\nConversely, if a photo is correctly tagged as depicting Donald Trump but its metadata date does not reflect the actual date the photo was taken (in local time), Kalshi reserves the right to include that photo based on the actual date.\n\nPast examples with no qualifying photos: April 4, 2026",
+   "close": "2026-11-09T15:00:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "kalshi:KXRT-GOD-87",
+   "question": "Godzilla Minus Zero \u00b7 Rotten Tomatoes score \u2014 Above 87",
+   "rules": "If Godzilla Minus Zero has a Tomatometer score of above 87 on Nov 9, 2026 at 10:00 AM ET, then the market resolves to Yes. The \"Fresh!\" and \"Certified Fresh!\" subtitles are meant for illustrative purposes only. The Tomatometer score must be above the strike value to resolve as YES (for example, a score of 75 would resolve \"Above 75\" as No.) The market will be determined the Monday after wide release at 10:00 AM ET.\n\nThis market and these products have not been endorsed by Rotten Tomatoes. Any references to Rotten Tomatoes or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between Rotten Tomatoes and Kalshi.",
+   "close": "2026-11-09T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXEARNINGSMENTIONWEN-26NOV05-LOYA",
+   "question": "What will Wendy's say during their next earnings call? \u2014 Loyalty",
+   "rules": "If Loyalty is said by any The Wendy's Company representative (including the operator of the call) during the next The Wendy's Company live earnings call or official broadcast (including the Q+A), then the market resolves to Yes. How this is resolved\nVideo of the The Wendy's Company earnings call.\nIf a consensus by Kalshi employees cannot be reached using video, transcripts of the The Wendy's Company earnings call will be used according to the news publications listed in the contract. \n\nPayout criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word.\n\nDoesn't count for payout\nGrammatical/tense inflections.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-19T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "kalshi:KXDPWORLDTOUR-ABDAC26-RMCI",
+   "question": "Abu Dhabi Aldar Championship Winner \u2014 Rory McIlroy",
+   "rules": "If Rory McIlroy wins the Abu Dhabi Aldar Championship, then the market resolves to Yes. If a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n",
+   "close": "2026-11-08T00:00:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "poly:6507419",
+   "question": "Will Ethereum dip to $2,200 in November?",
+   "rules": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for ETH/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final Low price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the ETH/USDT Low prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-12-01T05:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXU3-26NOV-T4.0",
+   "question": "Unemployment in November \u2014 Above 4.0%",
+   "rules": "If the seasonally adjusted unemployment rate (U-3) reported by the Bureau of Labor Statistics in the Employment Situation Report is above 4.0% in November 2026, then the market resolves to Yes. ",
+   "close": "2026-12-04T15:00:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "poly:6171330",
+   "question": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $272 in November?",
+   "rules": "This market will resolve to \"Yes\" if, at any point after market creation and during November 2026, any 1-minute candle for Amazon.com, Inc. (AMZN) has a final \"High\" or \"Low\" price equal to or beyond (above for \u2191 High Prices, below for \u2193 Low Prices) the listed price. Otherwise, this market will resolve to \"No\".\n\nOnly prices achieved during the regular trading hours of the primary exchange on which the listed security trades (typically 9:30 AM \u2013 4:00 PM ET) will be considered. Prices occurring during pre-market or after-hours trading will not qualify.\n\nPrices will be used exactly as published by Pyth, without rounding.\n\nIn the event of a stock split, reverse stock split, or similar corporate action affecting the listed company during the listed time frame, this market will resolve based on split-adjusted prices as displayed on Pyth.\n\nThe target price will be adjusted proportionally to reflect any stock splits. Resolution will be based on the historical price data as shown on Pyth after any adjustments have been applied.\n\nThe resolution source for this market is Pyth \u2014 specifically, the Amazon.com, Inc. (AMZN) \"High\" and \"Low\" prices available at https://pythdata.app/explore/Equity.U",
+   "close": "2026-12-01T04:59:59Z",
+   "category": "finance"
+  },
+  {
+   "key": "poly:5087226",
+   "question": "US-Iran Hormuz Agreement by November 30?",
+   "rules": "This market will resolve to \u201cYes\u201d if a diplomatic agreement between the United States and Iran over traffic in the strait of Hormuz is announced by the specified date, 11:59 PM ET.\n\nA diplomatic agreement refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that establishes agreed actions, policies, obligations, or commitments between the United States and Iran.\n\nA qualifying diplomatic agreement must establish Iranian policies, obligations, or commitments  aimed at permitting, restoring, or increasing vessel or shipping traffic through the Strait of Hormuz.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement for the Payout Condition to be met. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of",
+   "close": "2026-12-01T04:59:00Z",
+   "category": "other"
+  },
+  {
+   "key": "kalshi:KXHURRICANENAMES-26DEC01ATL-KYL",
+   "question": "What named storms will be hurricanes in the Atlantic this year? \u2014 Kyle",
+   "rules": "If a storm named Kyle is a storm categorized as a hurricane in the Atlantic between May 15, 2026 and December 01, 2026, then the market resolves to Yes. ",
+   "close": "2026-12-01T15:00:00Z",
+   "category": "climate and weather"
+  },
+  {
+   "key": "kalshi:KXBRENTMON-26NOV3017-T97.99",
+   "question": "Brent crude oil price on Nov 30, 2026 at 5:00 PM EST? \u2014 Above $97.99",
+   "rules": "If the close price of the 1-minute candlestick for brent crude oil on November 30, 2026 at 5:00 PM EST is above 97.99 USD/Bbl, then the market resolves to Yes. The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+   "close": "2026-11-30T22:00:00Z",
+   "category": "commodities"
+  }
+ ]
+}
