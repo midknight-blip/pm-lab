@@ -1,0 +1,36 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-05T01:23:14Z,kalshi,KXNFLH2HWINS-27JACDAL,Jacksonville vs Dallas: Head-to-Head Win Total,2,0.96,0.018,0.022,5.0,2027-01-18T15:00:00Z
+2026-11-05T01:23:14Z,kalshi,KXINXVSINXEW-26DEC31,Annual Return: S&P 500 vs. S&P 500 Equal Weight Index,2,0.94,0.025,0.035,4.0,2027-01-01T04:59:00Z
+2026-11-05T01:23:14Z,kalshi,KXSTATELEG-NHSEN26,New Hampshire State Senate winner?,2,0.96,0.006,0.034,5.0,2027-01-28T15:00:00Z
+2026-11-05T01:23:14Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.96,0.009,0.031,5.0,2027-02-27T15:00:00Z
+2026-11-05T01:23:14Z,kalshi,KXSTATELEG-GAHOUSE26,Georgia State House winner?,2,0.99,0.003,0.007,1716.0,2027-02-25T15:00:00Z
+2026-11-05T01:23:14Z,kalshi,KXSTATELEG-AZHOUSE26,Arizona State House winner?,2,0.97,0.004,0.026,5.0,2027-02-25T15:00:00Z
+2026-11-05T01:23:14Z,kalshi,KXSTATELEG-AKSEN26,Alaska State Senate winner?,2,0.99,0.003,0.007,5.0,2027-03-02T15:00:00Z
+2026-11-05T01:23:14Z,polymarket,0x8fe1f6f7a02cdbcbccfd4d85cc031c7d0bc23606a4ec5d8992ce16a74d5b7f00,VA-05 House Election Winner John McGuire (R),2,0.992,0.0013,0.0068,,2026-11-04T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x031358ccf825070556f6b114821f88339465af89df03cba2e84fb5e2f16e4300,Highest temperature in San Francisco on November 5? 70-71°F,3,0.96,0.0289,0.0111,,2026-11-05T12:00:00Z
+2026-11-05T01:23:14Z,polymarket,0xc6e000102ce2e89cadc234edceb991719f013f1759859008894b62eee897a700,TX-23 House Election Margin of Victory Democrat 6-9%,3,0.982,0.0009,0.0171,,2026-11-04T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x2b8ce983e8e1ee337a2f79f95260e19e01314aebe66bc6c28f760eb2c98c7e00,Argentina Monthly Inflation - October 1.9 to 2.1%,2,0.95,0.0249,0.0251,,2026-11-12T19:00:00Z
+2026-11-05T01:23:14Z,polymarket,0xea9bda9d5d65a7f15664bc1a6f831dd456f2cdcf7f7fc816c6f02a021d5a8000,October Inflation US - Monthly 0.4%,4,0.96,0.0316,0.0084,,2026-11-11T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x311d5ea792e7f508dbd9bb579288cdb59b6a46485b4a207659f2a4c9bf040300,University of Michigan Consumer Sentiment - November 2026 46.0 to 48.9,4,0.961,0.0331,0.0059,,2026-11-20T15:00:00Z
+2026-11-05T01:23:14Z,polymarket,0x4f765f072bf77a17a6adeaf5e1de153596dd250a338e12a08d5addb83f9f2900,Next Premier of Victoria Jess Wilson,3,0.986,0.0061,0.0079,,2026-11-29T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x251819c3bf668e4790cce9b9755c627683101f701c3b1e31e1dfe5f18bcec200,MLB: AL Manager of the Year Chad Tracy,5,0.974,0.0015,0.0245,,2027-01-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year TheDonato,11,0.973,0.018,0.009,,2026-12-15T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x1ba8e3fa7b27a8f1af77ccb43f00343ce4ebc26ac30473c6d047384a4bc51600,USD x Iranian rials End of December? 2.5 - 3.0M,5,0.956,0.0373,0.0067,,2026-12-31T23:59:00Z
+2026-11-05T01:23:14Z,polymarket,0xac85f4888e5d5ade7b2933e58113dc19664c212bd47c2c77e113a508b101b500,Who will be UFC Bantamweight champion at the end of 2026? Sean O'Malley,2,0.976,0.0012,0.0228,,2027-01-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Drop Dead – Olivia Rodrigo,14,0.969,0.0138,0.0172,,2027-02-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Elon Musk",2,0.988,0.002,0.01,,2027-01-03T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x98b606dad0946169a25e3f1ef2abd54984aa4104569c21576ff9c876afccd700,Bitcoin best month in 2026? August,2,0.97,0.0085,0.0215,,2027-01-01T05:00:00Z
+2026-11-05T01:23:14Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 6,2,0.96,0.0128,0.0272,,2027-01-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x59671b88425a06b0c6f1e30e37c3bda45090948f5781f2d25f30565498531700,The Game Awards: Best Narrative Grand Theft Auto VI,5,0.941,0.0305,0.0285,,2027-01-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Alexandre Pantoja,2,0.974,0.0009,0.0251,,2027-01-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Alexander Volkanovski,3,0.99,0.0015,0.0085,,2027-01-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x5e62c6cabdd3af2ee3e670c0ce47c99d620c5270d560c6be3bc826a5226bdc00,How many Gold Cards will Trump sell in 2026? 1-100,2,0.976,0.0099,0.0142,,2026-12-31T23:59:00Z
+2026-11-05T01:23:14Z,polymarket,0xf23b250e546eca6498bde28a75593d814fd752c710b34d2b4637b2fe7b42d000,How many dissent at the January Fed meeting? 3,3,0.96,0.0274,0.0126,,2027-01-28T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0xe7336ebf7230c8d44733cee709101b60f8490654be480c1320190c34968d9200,"US economic state at the end of 2026? Overheating (Unemployment <5.0%, Inflation ≥3.5%)",2,0.978,0.0013,0.0207,,2027-02-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x7bbfc3d652d2620938cf698d33ae46b7ebba3d2a6a4ba8337b301d4bcd0fb000,Pro Football: Colts vs. Jaguars Season Series Winner Tie,2,0.95,0.0247,0.0253,,2027-01-27T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.97,0.0105,0.0195,,2027-02-07T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.97,0.0093,0.0207,,2027-02-07T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.986,0.0067,0.0073,,2027-02-07T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0xc6ebdac9f7eb2d7fee967565eae5d3b062d9b4ccb2bfa02758936e6845497900,Next Israeli Minister of Defense? No Next Minister by Feb 28,19,0.936,0.0276,0.0364,,2027-03-01T04:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner DR Congo,4,0.966,0.0151,0.0189,,2027-03-31T03:59:00Z
+2026-11-05T01:23:14Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.968,0.015,0.017,,2027-03-31T03:59:00Z
