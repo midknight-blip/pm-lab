@@ -34,9 +34,29 @@
   "note": "Kalshi = Al Gharafa wins; Poly = Al Qadsiah wins. Opposite teams, and a draw makes both lose.",
   "status": "different"
  },
+ "KXAFCCLGAME-26NOV02ITJAIN-ITJ|6527720": {
+  "checked": "2026-11-05",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
+  "status": "unsure"
+ },
+ "KXAFCCLGAME-26NOV02WASQUW-WAS|6481659": {
+  "checked": "2026-11-05",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
+  "status": "unsure"
+ },
  "KXAFCCLGAME-26OCT26ALNWAS-ALN|6185980": {
   "checked": "2026-10-29",
   "note": "No longer in matched list; game played Oct 26.",
+  "status": "unsure"
+ },
+ "KXAFCCLSCORE-26NOV03HILSAH-HIL0SAH1|6566492": {
+  "checked": "2026-11-05",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
+  "status": "unsure"
+ },
+ "KXAFCCLSCORE-26NOV03NUJSHP-NUJ0SHP1|6527812": {
+  "checked": "2026-11-05",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
   "status": "unsure"
  },
  "KXBUNDESLIGASCORE-26OCT30SVEM05-SVE1M055|5794334": {
@@ -1844,6 +1864,21 @@
   "note": "Kalshi uses Google's Global People list; Poly uses the United States People list.",
   "status": "different"
  },
+ "KXSAUDIPLGAME-26NOV05AKHKHA-TIE|6490277": {
+  "checked": "2026-11-05",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
+  "status": "unsure"
+ },
+ "KXSAUDIPLGAME-26NOV06FATRIY-TIE|6490519": {
+  "checked": "2026-11-05",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
+  "status": "unsure"
+ },
+ "KXSAUDIPLGAME-26NOV07AASALT-TIE|6491078": {
+  "checked": "2026-11-05",
+  "note": "Both: draw after 90 min + stoppage, same Nov 7 match. Rules match, but the 65c edge relies on Poly 'No draw' at ~3-4c, which is not a real price (empty/stale book or token mix-up).",
+  "status": "same"
+ },
  "KXSAUDIPLGAME-26OCT19FAYAAS-FAY|5339864": {
   "checked": "2026-10-22",
   "note": "Pair dropped from matched list, rules not available; 93.7c edge around game end looks like a stale price on a decided game.",
@@ -1863,6 +1898,11 @@
   "checked": "2026-10-28",
   "note": "Both resolve on S&P announcing SoFi's addition by Dec 31 2026 (Kalshi: announced or added Oct 1-Dec 31). Effectively same.",
   "status": "same"
+ },
+ "KXSRBSLGAME-26NOV02RDNZEL-TIE|6385386": {
+  "checked": "2026-11-05",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
+  "status": "unsure"
  },
  "KXSTATELEG-AZSEN26-R|4443406": {
   "checked": "2026-10-15",
