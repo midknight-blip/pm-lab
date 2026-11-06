@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-06T01:20:53Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-06T01:28:18Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-06T01:20:51Z — 238 of 248 pairs priced
 - Scans in the last 24h: 24 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-05T19:14:28Z — Kalshi 174816 markets, Polymarket 20883 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-06T01:28:17Z — Kalshi 182195 markets, Polymarket 21354 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 780 scans so far. A pair counts as positive when buyin
 | Al Ahli Saudi vs Al-Taawoun Tie / Will Al Ahli Saudi Club vs. Al Taawoun Saudi  | same | +67.7¢ | +63.6¢ | 62 | 50 | 2 | >999% |
 
 - Fast-check sessions (every 15 sec): 19 run, 243 positive spreads seen; typical one lasted 4770 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 213. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 224. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Who will be the next commissioner of Women's Pro Basketball? — 33 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Austin on November 6? 76-77°F — 3 outcomes, +4.0¢ per $1
   - polymarket: October Inflation US - Monthly ≤0.1% — 4 outcomes, +4.0¢ per $1
   - polymarket: Next Premier of Victoria Jess Wilson — 3 outcomes, +4.0¢ per $1
-  - polymarket: Next Israeli Minister of Defense? Avigdor Lieberman — 19 outcomes, +3.9¢ per $1
+  - polymarket: #2 US Spotify Song 2026 Man I Need – Olivia Dean — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
