@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-06T16:31:06Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-06T17:31:35Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-06T16:31:04Z — 243 of 248 pairs priced
+- Last scan: 2026-11-06T17:31:33Z — 240 of 248 pairs priced
 - Scans in the last 24h: 25 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-06T13:25:14Z — Kalshi 183672 markets, Polymarket 21892 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 795 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 796 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 316
 - Positive pairs still in play: **348** (confirmed same bet: 7, not yet checked: 318)
-- Scans with at least one positive pair: 794
+- Scans with at least one positive pair: 795
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -30,9 +30,9 @@ Running since 2026-10-14. 795 scans so far. A pair counts as positive when buyin
 | KXAFCCLSCORE-26NOV03NUJSHP-NUJ0SHP1 /  | unsure | +87.4¢ | +42.8¢ | 8 | 50 | 0 | >999% |
 | KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | unsure | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
-| Al Ahli Saudi vs Al-Taawoun Tie / Will Al Ahli Saudi Club vs. Al Taawoun Saudi  | same | +68.7¢ | +66.6¢ | 77 | 50 | 1 | >999% |
+| Al Ahli Saudi vs Al-Taawoun Tie / Will Al Ahli Saudi Club vs. Al Taawoun Saudi  | same | +68.7¢ | +66.6¢ | 78 | 50 | 1 | >999% |
 
-- Fast-check sessions (every 15 sec): 19 run, 243 positive spreads seen; typical one lasted 4770 sec, longest 120.0 min
+- Fast-check sessions (every 15 sec): 20 run, 247 positive spreads seen; typical one lasted 4785 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 216. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - kalshi: Who will be the next commissioner of Women's Pro Basketball? — 33 outcomes, +4.0¢ per $1
