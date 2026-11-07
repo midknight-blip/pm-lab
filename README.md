@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-07T06:29:00Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-07T07:19:32Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-07T06:28:57Z — 246 of 248 pairs priced
 - Scans in the last 24h: 26 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-07T01:21:12Z — Kalshi 189060 markets, Polymarket 22948 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-07T07:19:31Z — Kalshi 179892 markets, Polymarket 23251 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 811 scans so far. A pair counts as positive when buyin
 | Al Ahli Saudi vs Al-Taawoun Tie / Will Al Ahli Saudi Club vs. Al Taawoun Saudi  | same | +69.3¢ | +66.8¢ | 93 | 50 | 1 | >999% |
 
 - Fast-check sessions (every 15 sec): 21 run, 254 positive spreads seen; typical one lasted 5212 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 224. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 243. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Who will be the next commissioner of Women's Pro Basketball? — 33 outcomes, +4.0¢ per $1
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Austin on November 6? 76-77°F — 3 outcomes, +4.0¢ per $1

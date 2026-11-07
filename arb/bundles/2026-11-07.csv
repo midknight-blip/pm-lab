@@ -32,3 +32,42 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-07T01:16:48Z,polymarket,0x8a925b3a7111961d3721016508a4d98f59d53c0f47d0e359d380f8c6dd5eaa00,Pro Football: 2026-27 Interceptions Leader (Team) Jacksonville Jaguars,3,0.96,0.0174,0.0226,,2027-01-27T04:59:00Z
 2026-11-07T01:16:48Z,polymarket,0xd0d2cb4c30f1d17e10ba41cedefd3e332a1db50628b08aea889df6b5f7200c00,#2 Spotify Song 2026 Babydoll – Dominic Fike,14,0.944,0.0175,0.0385,,2027-02-01T04:59:00Z
 2026-11-07T01:16:48Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.963,0.0279,0.0091,,2027-04-28T23:59:00Z
+2026-11-07T07:16:38Z,kalshi,KXSBANKINGCHAIR-27,Who will be Chair of Senate Banking?,2,0.96,0.009,0.031,1111.0,2027-02-01T15:00:00Z
+2026-11-07T07:16:38Z,kalshi,KXHJUDICIARYRM-27,Who will be Ranking Member of House Judiciary?,3,0.93,0.041,0.029,1.0,2027-02-01T15:00:00Z
+2026-11-07T07:16:38Z,kalshi,KXNFLMOSTRECYDS-26NOV08DALIND,Dallas vs Indianapolis: Most Receiving Yards,5,0.92,0.045,0.035,3.0,2026-11-09T00:00:00Z
+2026-11-07T07:16:38Z,polymarket,0xd4641efc8dd2dabe638f78482ab1a5522e95d6e4e040ae004a50c028e5477500,Nantong Zhiyun vs. Foshan Nanshi FC Nantong Zhiyun,2,0.984,0.0018,0.0142,,2026-11-07T06:30:00Z
+2026-11-07T07:16:38Z,polymarket,0x936c146d785fc35d80c1027496c24adc167a3be0902272dc8c554c9e5ea8d400,Lowest temperature in London on November 7? 6°C,4,0.993,0.0006,0.0064,,2026-11-07T12:00:00Z
+2026-11-07T07:16:38Z,polymarket,0x30f3d5a5155adad336f7160cc707e13bbb809e9470cdb35075b67b5a1df5ac00,Highest temperature in Guangzhou on November 8? 32°C,3,0.94,0.0315,0.0285,,2026-11-08T12:00:00Z
+2026-11-07T07:16:38Z,polymarket,0x13a0f5404f5aa06dc80f99c381832a162c7f16aff1fb0578ad1304c2f05d6800,Lowest temperature in Shanghai on November 7? 17°C,2,0.971,0.0015,0.0275,,2026-11-07T12:00:00Z
+2026-11-07T07:16:38Z,polymarket,0x485dfa370bac9c3ee364f33eb19a40371ec85828d6c91876e3cc796c8ef6d400,October Inflation US - Annual 3.7%,4,0.976,0.0104,0.0136,,2026-11-11T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xe34441c7635348d85ff9438cd099caf87ef705281d6d7536eacc127460569900,Highest temperature in Los Angeles on November 8? 86-87°F,3,0.93,0.0309,0.0391,,2026-11-08T12:00:00Z
+2026-11-07T07:16:38Z,polymarket,0xd74b0a4792bce92429b13f92c2f969f5b48d4b171990755f5e905c7997816600,Lowest temperature in Helsinki on November 7? 0°C,2,0.99,0.0006,0.0094,,2026-11-07T12:00:00Z
+2026-11-07T07:16:38Z,polymarket,0xe03d1aae7d5d79db8aadef594340a65472739676fb5f046c5bf4aef30df82300,Highest temperature in Chicago on November 8? 58-59°F,3,0.936,0.0283,0.0357,,2026-11-08T12:00:00Z
+2026-11-07T07:16:38Z,polymarket,0x7040f6d22139c9e30afb7ae29bf1fd8906864aacb6c7eb944652b21035cb3f00,CD Anaitasuna vs. Deportivo Alavés - Exact Score Any Other Score,2,0.95,0.0249,0.0251,,2026-11-10T18:00:00Z
+2026-11-07T07:16:38Z,polymarket,0x3b54d07e40fb3d4b150e52e1c4ffaf893c4c7a65bfcd947f8031ac8678d44300,PPI YoY - October 2026 6.4%,4,0.942,0.0331,0.0249,,2026-11-14T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x07d45d9104eef23f273b0394d2681b102b75bbc73971819b5d1493a7503e7a00,#2 Spotify song in the US this week? (November 13) Nicole Kidman - ADÉLA,3,0.988,0.006,0.006,,2026-11-13T23:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x4263fcafa45fabef6baddfa5c1bffe958961534809a1b7a2c6cfb8c418d2d500,Best AI model on November 16? gemini-4-carbon-high,2,0.957,0.0095,0.0335,,2026-11-17T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x6692f87e9cfdb02a519ce90d102534e6f749c4748d3ac98086cb3eab0c942d00,"#1 Spotify song in the US this week? (November 13) expectations - Olivia Rodrigo, Chappell Roan",3,0.959,0.0073,0.0337,,2026-11-13T23:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xda1d8b4baa02a4d474b7728d77589dd4ba85bf67811999cba0d3eb7c689d6f00,Spain General Election: 2nd Place PSOE,2,0.97,0.0069,0.0231,,2026-11-30T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x4f2e6d13e2b81de657dcca9e21f5581ff286335128aeb27341cb8bf766a55f00,UEFA Nations League 2026-27: Group C4 Winner Iceland,2,0.981,0.0135,0.0055,,2026-12-02T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x6758dc5016a2bf08320cf3c4fb8eed2426c46a9d172e399eff13cb9a364ab900,GPU rental prices (A100) end of November? $1.00-$1.25,2,0.97,0.0199,0.0101,,2026-12-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x4db6e12e0f8d14b1bae7195baa044a7aefc88ce43c56a12c8ee57bbb041f6e00,Which company has the best Text Arena Math AI model end of November? Google,2,0.949,0.0189,0.0321,,2026-12-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x652e36ff9ddcf1aaf57286cd0c262c958f11fe52b2dbbb33cddd8efef2f9a000,GPU rental prices (H200) end of November? $4.50-$5.00,3,0.946,0.0216,0.0324,,2026-12-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xb854c77e92ed36b7b6d231366b4126fc7059504f025ae628fae8fc882934e500,Spain General Election: Alicante Winner Broad Front (FA),2,0.975,0.0036,0.0214,,2026-11-30T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x75d8f3abb8e6ee2a202703fd792fb49ac0742f89b8e374cac2bbd0510e372000,Spain General Election: Las Palmas Winner PSOE,2,0.95,0.0155,0.0345,,2026-11-30T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xaf8aadc3bccfd903bb842780e8232b02b72f2e2b4f526751f07c75a919f6d200,Esports Awards: Esports Content Creator of the Year Caedrel,11,0.963,0.0176,0.0194,,2026-12-15T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x37f30a5f57a58379105596977171312d17f049340c17583cbff1eab08e7e0e00,MLB: AL Comeback Player of the Year Royce Lewis,2,0.981,0.0007,0.0183,,2027-01-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Drop Dead – Olivia Rodrigo,14,0.97,0.0126,0.0174,,2027-02-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Michael Dell",3,0.983,0.0015,0.0155,,2027-01-03T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x32e8f3d2051c645b06481134c13e5615a8250a27e5a6fd7438857c110be11500,BBC Sports Personality of the Year Winner 2026 Amy Hunt,6,0.956,0.0189,0.0251,,2027-01-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Alexander Volkanovski,2,0.991,0.0012,0.0078,,2027-01-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x339a89111ad048709ef27ac9da11e70a28ceaae3a4f494e949c9d68be7c39a00,Bitcoin vs. Gold vs. S&P 500 in 2026 Bitcoin,2,0.96,0.0065,0.0335,,2027-01-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xff63b3ff3e246ec104bbc1bf6a2466262d635b4535a0ea01165d3ea0ed094c00,F1: Action of the Year Max Verstappen,3,0.977,0.0113,0.0117,,2027-01-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",3,0.99,0.0014,0.0086,,2027-01-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x1e31d6e90f8201610cdb4e2a8efb35482f5441e10e75fdd92fbefc1ac04a9800,MLB: 2026 NL Cy Young Winner Jacob Misiorowski,2,0.994,0.0003,0.0057,,2027-01-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xa395d64b26804a479d54282c91e619db9075b7851928cc3adbbc4d6001482100,LoL Offseason: Deft Next Team JD Gaming,2,0.991,0.0006,0.0084,,2027-01-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x689ca936e16405fd266ec01589a4c5d0c71692fe34037f1e542954be3c4eb300,Pro Football: 2026-27 Scrimmage Touchdowns Leader Travis Kelce,11,0.942,0.0397,0.0183,,2027-01-27T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x8a925b3a7111961d3721016508a4d98f59d53c0f47d0e359d380f8c6dd5eaa00,Pro Football: 2026-27 Interceptions Leader (Team) Jacksonville Jaguars,3,0.959,0.0174,0.0236,,2027-01-27T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.985,0.0067,0.0083,,2027-02-07T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner David Bailey,8,0.929,0.0379,0.0331,,2027-03-01T04:59:00Z
+2026-11-07T07:16:38Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Guinea,4,0.947,0.0218,0.0312,,2027-03-31T03:59:00Z
