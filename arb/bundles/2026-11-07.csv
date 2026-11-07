@@ -102,3 +102,34 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-07T13:06:30Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner David Bailey,8,0.924,0.0378,0.0382,,2027-03-01T04:59:00Z
 2026-11-07T13:06:30Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.965,0.028,0.007,,2027-04-28T23:59:00Z
 2026-11-07T13:06:30Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Radomir Saičić,19,0.971,0.0123,0.0167,,2027-05-02T03:59:00Z
+2026-11-07T18:58:33Z,kalshi,KXSBANKINGCHAIR-27,Who will be Chair of Senate Banking?,2,0.98,0.007,0.013,40.21,2027-02-01T15:00:00Z
+2026-11-07T18:58:33Z,kalshi,KXHEDUCATIONCHAIR-27,Who will be Chair of House Education and Workforce?,3,0.94,0.037,0.023,1503.0,2027-02-01T15:00:00Z
+2026-11-07T18:58:33Z,kalshi,KXHIGHTSATX-26NOV07,"Highest temperature in San Antonio on Nov 7, 2026?",6,0.95,0.041,0.009,0.04,2026-11-08T20:00:00Z
+2026-11-07T18:58:33Z,polymarket,0x28520f155d597a896bea5865f5625f1cdc64574c3a19f0325f6fbc97fae10d00,Next Prime Minister of New Zealand? Christopher Luxon,4,0.982,0.0097,0.0083,,2026-11-08T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x6594cdb667b840067c6e7356c543d3fd2fb77612a5fd069403b36989009ca600,CD Leganés vs. Albacete Balompié CD Leganés,2,0.993,0.0012,0.0058,,2026-11-07T17:30:00Z
+2026-11-07T18:58:33Z,polymarket,0x8bc0249f84ca5528c8d3c0c1c23d8029cb7b01963655e361e01059054d116800,Highest temperature in NYC on November 8? 62-63°F,2,0.97,0.0229,0.0071,,2026-11-08T12:00:00Z
+2026-11-07T18:58:33Z,polymarket,0x76f9c221f70b3d323507ef6b41f976862d86ab1f28758c14b0feb1175bc0cc00,VfB Stuttgart vs. SV Werder Bremen - Exact Score VfB Stuttgart 1 - 1 SV Werder Bremen,5,0.947,0.0353,0.0177,,2026-11-07T17:30:00Z
+2026-11-07T18:58:33Z,polymarket,0xe34441c7635348d85ff9438cd099caf87ef705281d6d7536eacc127460569900,Highest temperature in Los Angeles on November 8? 86-87°F,3,0.94,0.0299,0.0301,,2026-11-08T12:00:00Z
+2026-11-07T18:58:33Z,polymarket,0x7472dea2e4469f073726de86d12b81e60b856c5b275051d8e5f8f58caeabc300,Highest temperature in Mexico City on November 8? 25°C or higher,2,0.97,0.0244,0.0056,,2026-11-08T12:00:00Z
+2026-11-07T18:58:33Z,polymarket,0xbb666d607ec24d2eaaacaedae7eb134f5dbaea2047df7c92ecb8c905ecaef600,Highest temperature in Madrid on November 8? 16°C,4,0.949,0.0317,0.0193,,2026-11-08T12:00:00Z
+2026-11-07T18:58:33Z,polymarket,0xeea7d0848b78a6804159bc078dadeeff152bfd4e83daa88fe8195be8e0626700,Highest temperature in Denver on November 7? 64-65°F,2,0.95,0.0144,0.0356,,2026-11-07T12:00:00Z
+2026-11-07T18:58:33Z,polymarket,0xb4911383f8e6d69e82f53d8946cf9020164ccb326c2fc08463d7e2897fc65500,Next Mayor of Johannesburg? Helen Zille,4,0.943,0.0228,0.0341,,2026-11-17T23:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x784c86c4ec9159bfc43a971feb25125ec0e6bc15ca74be15411c3adbd22d5600,Solana price on November 13? 80-90,2,0.95,0.0348,0.0152,,2026-11-13T17:00:00Z
+2026-11-07T18:58:33Z,polymarket,0xb5877dafeabeabc68ebc5c4665ac4d9e925b5c75a969395106431acdc342b400,Target Q3 comparable sales growth? 5%+,2,0.96,0.0177,0.0223,,2026-11-18T14:30:00Z
+2026-11-07T18:58:33Z,polymarket,0xc23a4c36ffd5decf249cde264ca5bb374f3f53b0194ff2faedec4e02c7b82800,"NYC Mayor # posts November 6 - November 13, 2026? 40-59",2,0.956,0.008,0.036,,2026-11-13T17:00:00Z
+2026-11-07T18:58:33Z,polymarket,0x951612d6f6bb0d29dc36d5fffb51fc2c60c860a5dec2d1bf7ed23aa3b31d2f00,CMA Album of the Year 2026 Dandelion (Ella Langley),2,0.95,0.0109,0.0391,,2026-11-19T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x459d347311b6cd38e23900ac79741f3a99e9ee863baa4705db23e6b3306d9c00,FC Bayern München vs. 1. FC Köln 1. FC Köln,2,0.96,0.0065,0.0335,,2026-11-20T19:30:00Z
+2026-11-07T18:58:33Z,polymarket,0x0c730a01c14176a65636bd26e9d2b4e2e5daa5a4d740a56150c50482beaf7e00,Spain General Election: Albacete Winner PP,3,0.954,0.007,0.039,,2026-11-30T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x6758dc5016a2bf08320cf3c4fb8eed2426c46a9d172e399eff13cb9a364ab900,GPU rental prices (A100) end of November? $1.00-$1.25,2,0.97,0.0199,0.0101,,2026-12-01T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0xea80a37d528cf762b51c45cb273fdab2f7bd29353319f6644544983cab747e00,Spain General Election: Guadalajara Winner PP,2,0.981,0.0078,0.0112,,2026-11-30T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0xa6126212e047ed743ec970ed21e009c8591b5c9aed49025ba2b118e5b4de3200,Spain General Election: Balearic Islands Winner PP,2,0.98,0.009,0.011,,2026-11-30T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x804d38626b04c348385cf455843db780f0a82245e797d53f59759a487ae1d700,October 2026 Temperature Increase (ºC) <1.30ºC,2,0.98,0.0038,0.0162,,2026-12-02T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x6ab69fc521354e60d0b099f4dc337c72a7a4342a46a4b1bef3e47918012cf500,Victoria Parliamentary Election Winner One Nation,2,0.97,0.0034,0.0266,,2026-11-29T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Michael Dell",6,0.991,0.0018,0.0072,,2027-01-03T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x32e8f3d2051c645b06481134c13e5615a8250a27e5a6fd7438857c110be11500,BBC Sports Personality of the Year Winner 2026 Harry Kane,6,0.948,0.0165,0.0355,,2027-01-01T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x680fda71297c3e6568ac8d7d0b56a702b72daec7f714f2c1af3b082135fd0a00,Pro Football: Tyreek Hill Next Team Kansas City Chiefs,32,0.929,0.0409,0.0301,,2027-01-01T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0xa395d64b26804a479d54282c91e619db9075b7851928cc3adbbc4d6001482100,LoL Offseason: Deft Next Team JD Gaming,2,0.989,0.0008,0.0102,,2027-01-01T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.97,0.0093,0.0207,,2027-02-07T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.987,0.0068,0.0062,,2027-02-07T04:59:00Z
+2026-11-07T18:58:33Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.965,0.028,0.007,,2027-04-28T23:59:00Z
+2026-11-07T18:58:33Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Radomir Saičić,19,0.951,0.0128,0.0362,,2027-05-02T03:59:00Z
