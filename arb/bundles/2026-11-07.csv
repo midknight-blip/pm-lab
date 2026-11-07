@@ -71,3 +71,34 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-07T07:16:38Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.985,0.0067,0.0083,,2027-02-07T04:59:00Z
 2026-11-07T07:16:38Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner David Bailey,8,0.929,0.0379,0.0331,,2027-03-01T04:59:00Z
 2026-11-07T07:16:38Z,polymarket,0x6604e5191e4344011a9d53ff17b579a80dcedde897d216a5dff85cd950b65500,AFCON 2027 Qualifying: Group D Winner Guinea,4,0.947,0.0218,0.0312,,2027-03-31T03:59:00Z
+2026-11-07T13:06:30Z,kalshi,KXHJUDICIARYRM-27,Who will be Ranking Member of House Judiciary?,3,0.92,0.04,0.04,4541.0,2027-02-01T15:00:00Z
+2026-11-07T13:06:30Z,kalshi,KXHEDUCATIONCHAIR-27,Who will be Chair of House Education and Workforce?,3,0.95,0.037,0.013,2343.0,2027-02-01T15:00:00Z
+2026-11-07T13:06:30Z,polymarket,0x28520f155d597a896bea5865f5625f1cdc64574c3a19f0325f6fbc97fae10d00,Next Prime Minister of New Zealand? Christopher Luxon,5,0.973,0.0094,0.0176,,2026-11-08T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x8e9b63e1d48952ea399b6ca8531046697528415c3299fe9d1413b1669ef2fb00,IEM Beijing 2026: Winner BetBoom,3,0.974,0.0158,0.0102,,2026-11-10T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0xad1cf9c64f77492b986d4386aa51703d7dc94c455d898ea74783ef09e4ff5500,Lowest temperature in Hong Kong on November 7? 26°C,2,0.984,0.001,0.015,,2026-11-07T12:00:00Z
+2026-11-07T13:06:30Z,polymarket,0x8bc0249f84ca5528c8d3c0c1c23d8029cb7b01963655e361e01059054d116800,Highest temperature in NYC on November 8? 62-63°F,2,0.95,0.0228,0.0272,,2026-11-08T12:00:00Z
+2026-11-07T13:06:30Z,polymarket,0x2df512ef946503184e19f535e11cdd98a89213a97cd6533ece883956d2d79b00,"Ethereum price on November 8? 2,200-2,300",2,0.951,0.0173,0.0317,,2026-11-08T17:00:00Z
+2026-11-07T13:06:30Z,polymarket,0xe03d1aae7d5d79db8aadef594340a65472739676fb5f046c5bf4aef30df82300,Highest temperature in Chicago on November 8? 58-59°F,3,0.935,0.028,0.037,,2026-11-08T12:00:00Z
+2026-11-07T13:06:30Z,polymarket,0xdc52a0e6c6ada2d22cb9f44bdab54e5f7ca7c9d122122e1ac4083db43aa70b00,Highest temperature in Cape Town on November 8? 26°C,4,0.94,0.033,0.027,,2026-11-08T12:00:00Z
+2026-11-07T13:06:30Z,polymarket,0xb4911383f8e6d69e82f53d8946cf9020164ccb326c2fc08463d7e2897fc65500,Next Mayor of Johannesburg? Helen Zille,4,0.938,0.0227,0.0393,,2026-11-17T23:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x4bcf537542dc5cae365f9a8e4bdd5075f5e146774ef3320e26d449ae40fbbc00,CMA Single of the Year 2026 Choosin' Texas (Ella Langley),3,0.953,0.0104,0.0366,,2026-11-19T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x6692f87e9cfdb02a519ce90d102534e6f749c4748d3ac98086cb3eab0c942d00,"#1 Spotify song in the US this week? (November 13) expectations - Olivia Rodrigo, Chappell Roan",3,0.979,0.0065,0.0145,,2026-11-13T23:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x4158acf50c360e3fc30a7458dff5db6bf9f71e6c0444387e344f2066ffa2dc00,Next Claude Opus (5.6+) released on...? November 15,13,0.938,0.0301,0.0319,,2026-12-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x0c730a01c14176a65636bd26e9d2b4e2e5daa5a4d740a56150c50482beaf7e00,Spain General Election: Albacete Winner PP,3,0.954,0.007,0.039,,2026-11-30T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x4f2e6d13e2b81de657dcca9e21f5581ff286335128aeb27341cb8bf766a55f00,UEFA Nations League 2026-27: Group C4 Winner Iceland,2,0.981,0.0135,0.0055,,2026-12-02T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x652e36ff9ddcf1aaf57286cd0c262c958f11fe52b2dbbb33cddd8efef2f9a000,GPU rental prices (H200) end of November? $6.50+,2,0.961,0.0177,0.0213,,2026-12-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x6ab69fc521354e60d0b099f4dc337c72a7a4342a46a4b1bef3e47918012cf500,Victoria Parliamentary Election Winner Liberal–National,2,0.96,0.0038,0.0362,,2026-11-29T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x904cc8a66822732c2e06af0113367cc6ccd8a83c65f512ab07a4804b8b659200,Third-best Code Arena WebDev AI Lab end of November? OpenAI,4,0.957,0.0256,0.0174,,2026-12-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0xa938b50a20961e02c4d349f50a99e19a954d4d2b1182e188bc0ec0fa5b648200,Which company has the best AI model on LiveBench (Mathematics) end of November? Anthropic,2,0.994,0.0005,0.0055,,2026-12-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x37f30a5f57a58379105596977171312d17f049340c17583cbff1eab08e7e0e00,MLB: AL Comeback Player of the Year Royce Lewis,2,0.981,0.0007,0.0183,,2027-01-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,13,0.938,0.0234,0.0386,,2027-02-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 Drop Dead – Olivia Rodrigo,14,0.968,0.0127,0.0193,,2027-02-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x4e7eda542357e2b3db85e83c40a44bfb271d242d95c142fa44fb6fb5179a7600,NBA: 2026 NBA Cup Winner Philadelphia 76ers,6,0.944,0.0384,0.0176,,2027-01-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x0d4b515561eadea37b45f866034b24895519bd1e65cf9f3c8d8606bd4e746300,Second-best Text Arena Math AI Lab end of December? Google,4,0.965,0.0263,0.0087,,2027-01-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",2,0.982,0.0011,0.0169,,2027-01-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0xbc09193293f1f169344a6f6b5d81f6513511a6d231d8b38bf6b8eaf084357300,How many different countries will the US conduct military action against in 2026? 8,2,0.96,0.0,0.04,,2027-01-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x1e31d6e90f8201610cdb4e2a8efb35482f5441e10e75fdd92fbefc1ac04a9800,MLB: 2026 NL Cy Young Winner Jacob Misiorowski,2,0.994,0.0003,0.0057,,2027-01-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x339a89111ad048709ef27ac9da11e70a28ceaae3a4f494e949c9d68be7c39a00,Bitcoin vs. Gold vs. S&P 500 in 2026 Bitcoin,2,0.96,0.0065,0.0335,,2027-01-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner David Bailey,8,0.924,0.0378,0.0382,,2027-03-01T04:59:00Z
+2026-11-07T13:06:30Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.965,0.028,0.007,,2027-04-28T23:59:00Z
+2026-11-07T13:06:30Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Radomir Saičić,19,0.971,0.0123,0.0167,,2027-05-02T03:59:00Z
