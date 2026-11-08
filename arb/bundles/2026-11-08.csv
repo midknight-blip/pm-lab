@@ -27,3 +27,36 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-08T01:21:42Z,polymarket,0x118f3af06faf4be8e01d9d4632aefecc68ee35185926602f6b1eebcb12ebad00,Swiss National Bank Decision in March? No Change,5,0.953,0.0297,0.0173,,2027-03-18T23:59:00Z
 2026-11-08T01:21:42Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.947,0.0141,0.0389,,2027-03-31T03:59:00Z
 2026-11-08T01:21:42Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.965,0.028,0.007,,2027-04-28T23:59:00Z
+2026-11-08T07:17:25Z,kalshi,KXNCAAMBBIGTENREG-27,Big Ten Regular Season Champion,18,0.93,0.062,0.008,1.0,2027-03-14T14:00:00Z
+2026-11-08T07:17:25Z,polymarket,0x28520f155d597a896bea5865f5625f1cdc64574c3a19f0325f6fbc97fae10d00,Next Prime Minister of New Zealand? Christopher Luxon,4,0.982,0.0129,0.0051,,2026-11-08T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x1174ae2dac4799bd5ec54ce13df31e0d6e330ac262e0f23cc10476c9134b2900,Highest temperature in Guangzhou on November 9? 23°C,3,0.95,0.0302,0.0198,,2026-11-09T12:00:00Z
+2026-11-08T07:17:25Z,polymarket,0xedffc13f329e278092bc90bd162efe8285c33f0b01a5213c190a755e5e205700,Highest temperature in Wuhan on November 9? 14°C,3,0.94,0.0297,0.0303,,2026-11-09T12:00:00Z
+2026-11-08T07:17:25Z,polymarket,0x7fcf13274867ef0159efb774ae3268710deb779ec3169906522bbd22637df600,Northern Nalšia District By-Election Winner Gintautas Kindurys,2,0.96,0.0113,0.0287,,2026-11-08T23:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x2b8ce983e8e1ee337a2f79f95260e19e01314aebe66bc6c28f760eb2c98c7e00,Argentina Monthly Inflation - October 1.9 to 2.1%,2,0.97,0.0229,0.0071,,2026-11-12T19:00:00Z
+2026-11-08T07:17:25Z,polymarket,0xdcb2add0985afaa76f8ce1c78351e25cba6f7063c48a5d220a3af8be86932400,Highest temperature in Panama City on November 9? 34°C,3,0.96,0.0302,0.0098,,2026-11-09T12:00:00Z
+2026-11-08T07:17:25Z,polymarket,0xd52cc1ab0f1c87c6204c3a097802ef701b2a47c0b889632562dc3acce82dd300,Lowest temperature in Jeddah on November 8? 26°C,2,0.991,0.0006,0.0085,,2026-11-08T12:00:00Z
+2026-11-08T07:17:25Z,polymarket,0x758a64d0f6f81b1ade158f8c25de9b357604dba1f4a001df30b818669f39d800,Japan GDP growth in Q3 2026 (QoQ Annualized)? 0.0%–0.8%,8,0.952,0.0372,0.0109,,2026-11-17T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x784c86c4ec9159bfc43a971feb25125ec0e6bc15ca74be15411c3adbd22d5600,Solana price on November 13? 80-90,2,0.96,0.0344,0.0056,,2026-11-13T17:00:00Z
+2026-11-08T07:17:25Z,polymarket,0x951612d6f6bb0d29dc36d5fffb51fc2c60c860a5dec2d1bf7ed23aa3b31d2f00,CMA Album of the Year 2026 Dandelion (Ella Langley),2,0.98,0.009,0.011,,2026-11-19T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0xecfd08d74f49ecc448da92cfb4bc0293f80bbeb0ec60333c8cd072b529657200,CR Flamengo vs. CA Paranaense Draw (CR Flamengo vs. CA Paranaense),2,0.97,0.0144,0.0156,,2026-11-18T23:30:00Z
+2026-11-08T07:17:25Z,polymarket,0xda0d529e260e32901028cdcd9cd659f2e7c2bbc41413d91189abbbe55781a900,CMA Female Vocalist of the Year 2026 Miranda Lambert,4,0.955,0.0138,0.0312,,2026-11-19T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x23da9106f34f0c1d93d2f0bd5daf56a70b5456eaaa3d2f947ab741fb501a2a00,Top 14: La Rochelle vs Bayonne Draw,2,0.96,0.025,0.015,,2026-11-15T20:05:00Z
+2026-11-08T07:17:25Z,polymarket,0x90592ff7d423556f59063de9e02b44956674dc4e646124c68f14ba89347a2000,Sabah FK vs. FC Barcelona FC Barcelona,2,0.989,0.0052,0.0059,,2026-11-25T17:45:00Z
+2026-11-08T07:17:25Z,polymarket,0x8f14f57ffaf0bbc777be06d4e275bf0dfe32fa40eeb588752f7ca9eab7afb400,2026 Taiwanese Local Elections: Party Winner Kuomintang (KMT),2,0.963,0.0146,0.0224,,2026-11-29T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x83d7131994039ae888f5a54fe9a8e1c6c0bfae0dc7d753342b3fca0ef4c02c00,Spain General Election: Catalonia Winner PSOE,3,0.984,0.0021,0.0139,,2026-11-30T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0xbb85f11e66cc263e31c671922c8aab5366539e7ab3220e58c1a92b280d980300,Victoria Parliamentary Election: 3rd Place Greens,2,0.961,0.0165,0.0225,,2026-11-29T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x804d38626b04c348385cf455843db780f0a82245e797d53f59759a487ae1d700,October 2026 Temperature Increase (ºC) <1.30ºC,2,0.979,0.0038,0.0172,,2026-12-02T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x069e99843fa38058edd49123522971b647e07badcd4d97fa81c06284ac52b100,NCAA Football 2026 American Conference: Winner Memphis Tigers,9,0.939,0.0346,0.0264,,2026-12-20T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x373e0361731c6bd5a31e94b238c2751c251fec97952a21536fcca7862885c000,MLB: AL Rookie of the Year Kevin McGonigle,3,0.994,0.0005,0.0055,,2027-01-01T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x32e8f3d2051c645b06481134c13e5615a8250a27e5a6fd7438857c110be11500,BBC Sports Personality of the Year Winner 2026 Harry Kane,6,0.948,0.0165,0.0355,,2027-01-01T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x2c353b66b4d724fb77146cdb6eb0b720ee5b984c30a061d84605cf4f70ecb300,Nvidia’s Market Cap end of 2026? $5.00-$5.50T,6,0.931,0.03,0.039,,2026-12-31T23:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x680fda71297c3e6568ac8d7d0b56a702b72daec7f714f2c1af3b082135fd0a00,Pro Football: Tyreek Hill Next Team Kansas City Chiefs,32,0.923,0.0415,0.0355,,2027-01-01T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0xa4193a606756908a48e30602c155adb3fa680628d534aaca3bd836ae67328b00,MLB: 2026 NL Hank Aaron Winner Pete Crow-Armstrong,2,0.991,0.0004,0.0086,,2027-01-01T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0xbc09193293f1f169344a6f6b5d81f6513511a6d231d8b38bf6b8eaf084357300,How many different countries will the US conduct military action against in 2026? 9,2,0.99,0.0,0.01,,2027-01-01T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x720fc4839c08ebf13db2870864b1529ed949e56906557840d79407f819e36800,"U.S. tariff rate on China on December 31, 2026? 5–15%",2,0.98,0.0,0.02,,2026-12-31T00:00:00Z
+2026-11-08T07:17:25Z,polymarket,0x707042a979c02569d5202e1e5d1705525d84af2cbe1e326b3c06839013d85b00,Where will 2026 rank among the highest U.S. domestic box office years on record? 10th-12th,5,0.965,0.027,0.008,,2027-02-01T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x91708950dcdd7011344e5023e1b03d02ecf26a5da6528b553bc4a2f180440200,Grammys 2027: Record of the Year Winner Choosin' Texas - Ella Langley,2,0.95,0.0228,0.0272,,2027-02-07T23:59:00Z
+2026-11-08T07:17:25Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.98,0.009,0.011,,2027-02-07T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.963,0.006,0.031,,2027-02-07T04:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.967,0.0111,0.0219,,2027-03-31T03:59:00Z
+2026-11-08T07:17:25Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.965,0.028,0.007,,2027-04-28T23:59:00Z
