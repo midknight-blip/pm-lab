@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-08T13:24:02Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-08T14:12:58Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-08T13:24:00Z — 246 of 246 pairs priced
+- Last scan: 2026-11-08T14:12:56Z — 246 of 246 pairs priced
 - Scans in the last 24h: 30 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-08T13:09:39Z — Kalshi 187879 markets, Polymarket 21753 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 849 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 850 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 316
 - Positive pairs still in play: **364** (confirmed same bet: 7, not yet checked: 334)
-- Scans with at least one positive pair: 848
+- Scans with at least one positive pair: 849
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,12 +33,12 @@ Running since 2026-10-14. 849 scans so far. A pair counts as positive when buyin
 | KXAFCCLGAME-26OCT26ALNWAS-ALN /  | unsure | +74.7¢ | +68.4¢ | 38 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 21 run, 254 positive spreads seen; typical one lasted 5212 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 226. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Highest temperature in Austin on November 6? 76-77°F — 3 outcomes, +4.0¢ per $1
-  - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 211. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: 120th Congress: Who will be Senate Minority Leader? — 8 outcomes, +4.0¢ per $1
+  - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - kalshi: Who will be Ranking Member of House Judiciary? — 3 outcomes, +4.0¢ per $1
   - polymarket: How many different countries will the US conduct military action again — 2 outcomes, +4.0¢ per $1
+  - polymarket: Which company has the best Text-to-Image AI end of December? OpenAI — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
