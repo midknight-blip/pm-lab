@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-08T18:54:44Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-08T19:02:19Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-08T18:54:41Z — 218 of 246 pairs priced
 - Scans in the last 24h: 30 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-08T13:09:39Z — Kalshi 187879 markets, Polymarket 21753 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-08T19:02:18Z — Kalshi 182950 markets, Polymarket 21880 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -30,10 +30,10 @@ Running since 2026-10-14. 857 scans so far. A pair counts as positive when buyin
 | KXDFBPOKALSCORE-26OCT27BOCM05-BOC5M051 /  | unsure | +91.7¢ | +21.1¢ | 3 | 1 | 0 | >999% |
 | KXAFCCLSCORE-26NOV03NUJSHP-NUJ0SHP1 /  | unsure | +87.4¢ | +42.8¢ | 8 | 50 | 0 | >999% |
 | KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | unsure | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
-| Al Sadd vs Al Rayyan Al Sadd / Will Al Rayyan SC win on 2026-11-08? | no | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
+| KXQSTARSGAME-26NOV08SADALR-SAD /  | no | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 21 run, 254 positive spreads seen; typical one lasted 5212 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 211. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 225. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: 120th Congress: Who will be Senate Minority Leader? — 8 outcomes, +4.0¢ per $1
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - kalshi: Who will be Ranking Member of House Judiciary? — 3 outcomes, +4.0¢ per $1
