@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-08T01:15:28Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-08T01:25:06Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-08T01:15:25Z — 224 of 246 pairs priced
 - Scans in the last 24h: 31 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-07T19:01:54Z — Kalshi 202906 markets, Polymarket 22610 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-08T01:25:05Z — Kalshi 193507 markets, Polymarket 21696 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -34,8 +34,8 @@ Running since 2026-10-14. 836 scans so far. A pair counts as positive when buyin
 
 - Fast-check sessions (every 15 sec): 21 run, 254 positive spreads seen; typical one lasted 5212 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 223. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Austin on November 6? 76-77°F — 3 outcomes, +4.0¢ per $1
+  - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - kalshi: 120th Congress: Who will be Senate Minority Leader? — 8 outcomes, +4.0¢ per $1
   - kalshi: Who will be Ranking Member of House Judiciary? — 3 outcomes, +4.0¢ per $1
   - polymarket: How many different countries will the US conduct military action again — 2 outcomes, +4.0¢ per $1

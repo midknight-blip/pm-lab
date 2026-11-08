@@ -1,0 +1,29 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-08T01:21:42Z,kalshi,KXHEDUCATIONCHAIR-27,Who will be Chair of House Education and Workforce?,3,0.94,0.037,0.023,2047.0,2027-02-01T15:00:00Z
+2026-11-08T01:21:42Z,polymarket,0x8169976b90a90a7dcd3d03ad38f1b625d5dd9af02f50306c7e813a77ac26ee00,Highest temperature in London on November 8? 9°C,6,0.955,0.0314,0.0136,,2026-11-08T12:00:00Z
+2026-11-08T01:21:42Z,polymarket,0xac98e189b9137ed5817f485bd20ffec3f574aec7c0e67c1b4abb270dfcd82d00,Highest temperature in Kuala Lumpur on November 8? 34°C,3,0.96,0.03,0.01,,2026-11-08T12:00:00Z
+2026-11-08T01:21:42Z,polymarket,0xe821d749811bdc0a3ad94b41377ddda89a5bb79ea96c8f98667c8cda257ca800,Highest temperature in Busan on November 9? 13°C,3,0.93,0.0314,0.0386,,2026-11-09T12:00:00Z
+2026-11-08T01:21:42Z,polymarket,0xe3c13218477ed0422928aaf7b984c9f083e484a74e313ce04f4ea718fbe7ad00,Highest temperature in Houston on November 8? 66-67°F,6,0.932,0.0322,0.0358,,2026-11-08T12:00:00Z
+2026-11-08T01:21:42Z,polymarket,0xedffc13f329e278092bc90bd162efe8285c33f0b01a5213c190a755e5e205700,Highest temperature in Wuhan on November 9? 14°C,3,0.96,0.0315,0.0085,,2026-11-09T12:00:00Z
+2026-11-08T01:21:42Z,polymarket,0x60eed12838eff824e9cfd6377ec77a6cb656fd4d2893e6f08f28d4dfabe5dd00,Highest temperature in Shanghai on November 9? 16°C,5,0.957,0.0291,0.0139,,2026-11-09T12:00:00Z
+2026-11-08T01:21:42Z,polymarket,0x758a64d0f6f81b1ade158f8c25de9b357604dba1f4a001df30b818669f39d800,Japan GDP growth in Q3 2026 (QoQ Annualized)? 0.0%–0.8%,7,0.956,0.037,0.007,,2026-11-17T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x784c86c4ec9159bfc43a971feb25125ec0e6bc15ca74be15411c3adbd22d5600,Solana price on November 13? 80-90,2,0.96,0.0347,0.0053,,2026-11-13T17:00:00Z
+2026-11-08T01:21:42Z,polymarket,0xb5877dafeabeabc68ebc5c4665ac4d9e925b5c75a969395106431acdc342b400,Target Q3 comparable sales growth? 5%+,2,0.95,0.0185,0.0315,,2026-11-18T14:30:00Z
+2026-11-08T01:21:42Z,polymarket,0xc23a4c36ffd5decf249cde264ca5bb374f3f53b0194ff2faedec4e02c7b82800,"NYC Mayor # posts November 6 - November 13, 2026? 20-39",2,0.976,0.0054,0.0186,,2026-11-13T17:00:00Z
+2026-11-08T01:21:42Z,polymarket,0xecfd08d74f49ecc448da92cfb4bc0293f80bbeb0ec60333c8cd072b529657200,CR Flamengo vs. CA Paranaense Draw (CR Flamengo vs. CA Paranaense),2,0.97,0.0144,0.0156,,2026-11-18T23:30:00Z
+2026-11-08T01:21:42Z,polymarket,0x951612d6f6bb0d29dc36d5fffb51fc2c60c860a5dec2d1bf7ed23aa3b31d2f00,CMA Album of the Year 2026 Dandelion (Ella Langley),2,0.96,0.0105,0.0295,,2026-11-19T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x90592ff7d423556f59063de9e02b44956674dc4e646124c68f14ba89347a2000,Sabah FK vs. FC Barcelona FC Barcelona,2,0.989,0.0052,0.0059,,2026-11-25T17:45:00Z
+2026-11-08T01:21:42Z,polymarket,0x8f14f57ffaf0bbc777be06d4e275bf0dfe32fa40eeb588752f7ca9eab7afb400,2026 Taiwanese Local Elections: Party Winner Kuomintang (KMT),2,0.963,0.0146,0.0224,,2026-11-29T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x83d7131994039ae888f5a54fe9a8e1c6c0bfae0dc7d753342b3fca0ef4c02c00,Spain General Election: Catalonia Winner PSOE,3,0.984,0.0021,0.0139,,2026-11-30T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x0c730a01c14176a65636bd26e9d2b4e2e5daa5a4d740a56150c50482beaf7e00,Spain General Election: Albacete Winner PP,4,0.968,0.0075,0.0245,,2026-11-30T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0xfc7cadaf197d10d18f96384929fb105effc9b5d68a8eccafd6ad7a65928da400,#3 AI Lab end of November? (Style Control On) Anthropic,5,0.967,0.0212,0.0118,,2026-12-01T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x11338f9b0ea9fad7fe5a4e2929ce89cd3706600ab5df6876a38f943ec9a9c800,Second-best Code Arena WebDev AI Lab end of November? OpenAI,5,0.958,0.0251,0.0169,,2026-12-01T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x804d38626b04c348385cf455843db780f0a82245e797d53f59759a487ae1d700,October 2026 Temperature Increase (ºC) <1.30ºC,2,0.98,0.0038,0.0162,,2026-12-02T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x069e99843fa38058edd49123522971b647e07badcd4d97fa81c06284ac52b100,NCAA Football 2026 American Conference: Winner Memphis Tigers,9,0.945,0.0349,0.0201,,2026-12-20T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Michael Dell",6,0.991,0.0018,0.0072,,2027-01-03T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x32e8f3d2051c645b06481134c13e5615a8250a27e5a6fd7438857c110be11500,BBC Sports Personality of the Year Winner 2026 Harry Kane,6,0.949,0.0166,0.0344,,2027-01-01T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0xbc09193293f1f169344a6f6b5d81f6513511a6d231d8b38bf6b8eaf084357300,How many different countries will the US conduct military action against in 2026? 9,2,0.992,0.0,0.008,,2027-01-01T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.97,0.0093,0.0207,,2027-02-07T04:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x118f3af06faf4be8e01d9d4632aefecc68ee35185926602f6b1eebcb12ebad00,Swiss National Bank Decision in March? No Change,5,0.953,0.0297,0.0173,,2027-03-18T23:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.947,0.0141,0.0389,,2027-03-31T03:59:00Z
+2026-11-08T01:21:42Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.965,0.028,0.007,,2027-04-28T23:59:00Z
