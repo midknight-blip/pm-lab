@@ -60,3 +60,32 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-08T07:17:25Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.963,0.006,0.031,,2027-02-07T04:59:00Z
 2026-11-08T07:17:25Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.967,0.0111,0.0219,,2027-03-31T03:59:00Z
 2026-11-08T07:17:25Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.965,0.028,0.007,,2027-04-28T23:59:00Z
+2026-11-08T13:06:15Z,kalshi,KXNCAAMBBIGTENREG-27,Big Ten Regular Season Champion,18,0.92,0.061,0.019,5.0,2027-03-14T14:00:00Z
+2026-11-08T13:06:15Z,kalshi,KXNCAAFH2HWINS-27OSUTEX,Ohio St. vs Texas: Regular Season Wins,3,0.94,0.043,0.017,15.0,2027-01-19T04:00:00Z
+2026-11-08T13:06:15Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.97,0.007,0.023,8504.0,2027-02-27T15:00:00Z
+2026-11-08T13:06:15Z,polymarket,0x6b488ed4e3b0059c2339009e87056699f9fc57abc0fbd8881f7bc6d46abad300,How many 5.5 or above earthquakes worldwide November 2 - November 8? ≤6,2,0.95,0.0144,0.0356,,2026-11-09T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0xa3721155ad57c45dba3e1639d151979dc6946a2ee37af762d172ccc476541c00,Highest temperature in Seoul (Incheon) on November 9? 10°C,4,0.942,0.0282,0.0298,,2026-11-09T12:00:00Z
+2026-11-08T13:06:15Z,polymarket,0x8729b6d6bc39a8c6ec280415231a642684ece2faba05f4c35d90cfe1a51bf100,Highest temperature in Ankara on November 9? 9°C,3,0.96,0.0273,0.0127,,2026-11-09T12:00:00Z
+2026-11-08T13:06:15Z,polymarket,0xdb4dd2fbce139899925664579c388cb16c0aafb31a57ddb037e5a20e5fae7a00,What will be the #2 US Netflix show this week? (November 10) The One About Matthew Perry: Season 1,2,0.95,0.0211,0.0289,,2026-11-11T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0xedffc13f329e278092bc90bd162efe8285c33f0b01a5213c190a755e5e205700,Highest temperature in Wuhan on November 9? 14°C,4,0.953,0.0297,0.0173,,2026-11-09T12:00:00Z
+2026-11-08T13:06:15Z,polymarket,0x784c86c4ec9159bfc43a971feb25125ec0e6bc15ca74be15411c3adbd22d5600,Solana price on November 13? 80-90,2,0.96,0.0348,0.0052,,2026-11-13T17:00:00Z
+2026-11-08T13:06:15Z,polymarket,0x8d997117690feb4416dff98e41d6b9f8160f123358126b80935cfe4c7b4e0d00,CMA New Artist of the Year 2026 Stephen Wilson Jr.,3,0.94,0.0249,0.035,,2026-11-19T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0xecfd08d74f49ecc448da92cfb4bc0293f80bbeb0ec60333c8cd072b529657200,CR Flamengo vs. CA Paranaense Draw (CR Flamengo vs. CA Paranaense),2,0.97,0.0144,0.0156,,2026-11-18T23:30:00Z
+2026-11-08T13:06:15Z,polymarket,0x23da9106f34f0c1d93d2f0bd5daf56a70b5456eaaa3d2f947ab741fb501a2a00,Top 14: La Rochelle vs Bayonne Draw,2,0.96,0.025,0.015,,2026-11-15T20:05:00Z
+2026-11-08T13:06:15Z,polymarket,0x90592ff7d423556f59063de9e02b44956674dc4e646124c68f14ba89347a2000,Sabah FK vs. FC Barcelona FC Barcelona,2,0.988,0.0051,0.0069,,2026-11-25T17:45:00Z
+2026-11-08T13:06:15Z,polymarket,0xd7db5577de8c929cd42e7c27cac0c9ee5d7d2a77e71d883fd4b2081430ab0c00,Rangers FC vs. Aberdeen FC - Exact Score Rangers FC 0 - 2 Aberdeen FC,2,0.97,0.025,0.005,,2026-11-24T20:00:00Z
+2026-11-08T13:06:15Z,polymarket,0xda1d8b4baa02a4d474b7728d77589dd4ba85bf67811999cba0d3eb7c689d6f00,Spain General Election: 2nd Place Vox,2,0.955,0.0063,0.0386,,2026-11-30T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0xc3a24959e0e08a1b244ee7eebe35c63e3ddbe492ecc6e9a917f661bf78ceba00,Spain General Election: Lleida Winner ERC,2,0.97,0.0193,0.0107,,2026-11-30T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0x804d38626b04c348385cf455843db780f0a82245e797d53f59759a487ae1d700,October 2026 Temperature Increase (ºC) <1.30ºC,2,0.978,0.0037,0.0183,,2026-12-02T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0x31e79d914ff53603ee1de349e2201f9090f8a362bf2a99475c246930bc018100,Which company has the best Image-to-Video AI end of November? Google,3,0.98,0.01,0.01,,2026-12-01T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0x069e99843fa38058edd49123522971b647e07badcd4d97fa81c06284ac52b100,NCAA Football 2026 American Conference: Winner Memphis Tigers,9,0.951,0.0352,0.0138,,2026-12-20T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0x7120cf4bd56bb5403af77b80aaaa26958afcaf96842ec3dfcc3cf13935316e00,2nd Largest Company end of December 2026? Apple,4,0.955,0.0222,0.0228,,2027-01-01T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0x09e236705d5147e362548f09db0f6729ba78b900b0fc74ae47abda7f652c4d00,Dancing with the Stars S35: Winner? Harry Shum Jr.,6,0.951,0.0255,0.0235,,2027-04-01T03:59:00Z
+2026-11-08T13:06:15Z,polymarket,0xbc09193293f1f169344a6f6b5d81f6513511a6d231d8b38bf6b8eaf084357300,How many different countries will the US conduct military action against in 2026? 9,2,0.991,0.0,0.009,,2027-01-01T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0x720fc4839c08ebf13db2870864b1529ed949e56906557840d79407f819e36800,"U.S. tariff rate on China on December 31, 2026? 5–15%",2,0.98,0.0,0.02,,2026-12-31T00:00:00Z
+2026-11-08T13:06:15Z,polymarket,0xa8cba0039f41801c327419428ad901551dd2043e4d3d4b14f24f8c6e76a8d700,NCAA Football: 2027 National Champion Florida Gators,13,0.95,0.0237,0.0263,,2027-01-26T00:00:00Z
+2026-11-08T13:06:15Z,polymarket,0xc037d1840e725c67127daacd80e2aa9f898f6044f694257fcaa6291352a7ee00,Pro Football: 2026-27 AP Defensive Rookie of the Year Winner Rueben Bain Jr.,8,0.928,0.0375,0.0345,,2027-03-01T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.98,0.009,0.011,,2027-02-07T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.964,0.006,0.03,,2027-02-07T04:59:00Z
+2026-11-08T13:06:15Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.946,0.014,0.04,,2027-03-31T03:59:00Z
+2026-11-08T13:06:15Z,polymarket,0x1fdc4d3ddca7f1d203c6a366997c7aa22e2f3a622d266330e48a4b21d79f6700,Fed Decision in April? 25 bps increase,5,0.965,0.028,0.007,,2027-04-28T23:59:00Z
