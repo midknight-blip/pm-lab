@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-09T12:40:41Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-09T13:32:27Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-09T12:40:32Z — 249 of 249 pairs priced
-- Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-09T07:45:47Z — Kalshi 150057 markets, Polymarket 21794 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 28 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-09T13:32:27Z — Kalshi 154104 markets, Polymarket 22042 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 877 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 21 run, 254 positive spreads seen; typical one lasted 5212 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 224. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 223. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: 120th Congress: Who will be Senate Minority Leader? — 8 outcomes, +4.0¢ per $1
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - kalshi: Who will be Ranking Member of House Judiciary? — 3 outcomes, +4.0¢ per $1
   - polymarket: How many different countries will the US conduct military action again — 2 outcomes, +4.0¢ per $1
-  - polymarket: Which company has the best Text-to-Image AI end of December? OpenAI — 2 outcomes, +4.0¢ per $1
+  - polymarket: Zelenskyy # posts November 3 - November 10, 2026? 100-119 — 2 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
