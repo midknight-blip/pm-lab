@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-09T15:51:40Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-09T16:56:30Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-09T15:51:38Z — 249 of 249 pairs priced
-- Scans in the last 24h: 28 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-11-09T16:56:27Z — 249 of 249 pairs priced
+- Scans in the last 24h: 27 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-09T13:32:27Z — Kalshi 154104 markets, Polymarket 22042 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 880 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 881 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 316
 - Positive pairs still in play: **370** (confirmed same bet: 10, not yet checked: 332)
-- Scans with at least one positive pair: 879
+- Scans with at least one positive pair: 880
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Running since 2026-10-14. 880 scans so far. A pair counts as positive when buyin
 | KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | unsure | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
-- Fast-check sessions (every 15 sec): 21 run, 254 positive spreads seen; typical one lasted 5212 sec, longest 120.0 min
+- Fast-check sessions (every 15 sec): 22 run, 274 positive spreads seen; typical one lasted 4252 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 223. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: 120th Congress: Who will be Senate Minority Leader? — 8 outcomes, +4.0¢ per $1
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
