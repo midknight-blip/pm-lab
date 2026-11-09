@@ -1,0 +1,40 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-09T01:25:32Z,kalshi,KXWBCFLYWEIGHTTITLE-27,"WBC Flyweight Title on January 1, 2027",19,0.95,0.038,0.012,4.0,2027-01-01T17:00:00Z
+2026-11-09T01:25:32Z,kalshi,KXBILLBOARDRUNNERUPSONG-26NOV21,"#2 on the Billboard Hot 100 chart for the Week of Nov 21, 2026?",18,0.93,0.051,0.019,14.0,2026-11-25T15:00:00Z
+2026-11-09T01:25:32Z,polymarket,0x2b8ce983e8e1ee337a2f79f95260e19e01314aebe66bc6c28f760eb2c98c7e00,Argentina Monthly Inflation - October 1.9 to 2.1%,2,0.94,0.0241,0.0359,,2026-11-12T19:00:00Z
+2026-11-09T01:25:32Z,polymarket,0xa08778fad1b145514ff3e15d1db4facf4d3e7c2ee1405a088335c6fce64d9f00,"Donald Trump # Truth Social posts November 6 - November 13, 2026? 20-39",7,0.923,0.0388,0.0382,,2026-11-13T17:00:00Z
+2026-11-09T01:25:32Z,polymarket,0xea9bda9d5d65a7f15664bc1a6f831dd456f2cdcf7f7fc816c6f02a021d5a8000,October Inflation US - Monthly 0.2%,3,0.95,0.0286,0.0214,,2026-11-11T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x02a676dad19182a642806cc3808536190921b2e877fb032e2c3e116aa55d1200,"White House # posts November 6 - November 13, 2026? 40-59",4,0.933,0.0305,0.0365,,2026-11-13T17:00:00Z
+2026-11-09T01:25:32Z,polymarket,0xe1fb96b75c5ea767c803c2b145d7f52cffd9a983663fc4bb8ea04f6c40696700,Highest temperature in San Francisco on November 9? 68-69°F,6,0.957,0.0301,0.0129,,2026-11-09T12:00:00Z
+2026-11-09T01:25:32Z,polymarket,0x0bae7543d4136a6140d7902905de2ea28688c359574a2952213baa2bc871bc00,Highest temperature in Tel Aviv on November 10? 23°C,3,0.959,0.0254,0.0156,,2026-11-10T12:00:00Z
+2026-11-09T01:25:32Z,polymarket,0xfb113df0db85e60bb9514e4f10d752467065429f6a8136a8bfbda746658b2700,Highest temperature in Madrid on November 10? 16°C,3,0.94,0.0306,0.0294,,2026-11-10T12:00:00Z
+2026-11-09T01:25:32Z,polymarket,0xdf902dce7601d2e24b2bd6f07532da98026cbd8150fb70f8e5c4aca63357d100,Gustav Klimt's “Litzlbergkeller” Sale Price $75m-$90m,3,0.95,0.0318,0.0183,,2026-11-18T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xf924d27db30c1bff404585ed9097f6b5b2da363af53708ebc0725f320670cc00,Billboard Hot 100 #1 Song Week of November 21 Choosin' Texas - Ella Langley,2,0.971,0.0061,0.0229,,2026-11-17T23:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x47269b8de5f5608db4e48d058e836a9fba0aed73ca54e20e868445dbe4253900,Next Fable Model (5.2+) released on...? November 19,13,0.955,0.0334,0.0116,,2026-12-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x8317afa6a891fb7bda1109db1e82dd5e5b88918a98fdf3632a33231a49700200,"Khamenei # posts November 10 - November 17, 2026? <5",2,0.96,0.0177,0.0223,,2026-11-17T17:00:00Z
+2026-11-09T01:25:32Z,polymarket,0x6f1f0343919744f8b0c1e7299b5cdde0977498506acb1d189e9a98ea9eaf8300,Real Madrid CF vs. RC Celta de Vigo Real Madrid CF,2,0.96,0.0134,0.0266,,2026-11-21T20:00:00Z
+2026-11-09T01:25:32Z,polymarket,0xc1689967407c14499ec35f25c3f75ed474bca1c778146837e917320458d8b700,Bank of Korea decision in November? 50+ bps cut,2,0.99,0.0006,0.0094,,2026-11-26T00:00:00Z
+2026-11-09T01:25:32Z,polymarket,0x4b8344dbbfa28129967a0d859ba9fa61811fa10baa624e0063bb6d9d1fd56e00,Spain General Election: Broad Front (FA) # of seats? 6-8,6,0.937,0.0251,0.0379,,2026-11-30T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x46afc1f9e8489850aa2bc6f8752b46fd6a9ed499bb8a55732630881d17f07900,Spain General Election: Barcelona Winner PSOE,3,0.992,0.0023,0.0057,,2026-11-30T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xf667584c0e7bac59a7b0d83adfcaa1a7ed91169d016aee5b32274f274e26cf00,Second-Best Chinese AI Company end of November? Moonshot,5,0.953,0.0278,0.0192,,2026-12-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x672b12a91eda97d1defc57ff49344c2f0d4ef920477aacf98220e0b3c4f3c800,Second-best AI Agent Lab end of November? OpenAI,5,0.966,0.0266,0.0074,,2026-12-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xbb85f11e66cc263e31c671922c8aab5366539e7ab3220e58c1a92b280d980300,Victoria Parliamentary Election: 3rd Place One Nation,3,0.966,0.0204,0.0137,,2026-11-29T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x287c87a661e4e7a72ef2cc5caafbc1f89c99a7e3eb5e56fc65ec2d976d3d5800,Spain General Election: Toledo Winner PP,2,0.96,0.009,0.031,,2026-11-30T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x1e1172c95d43fcb90415073afa32cefe7585331b6ed81d0e99c4d95dca7ff000,Victoria Legislative Council Election Winner One Nation,2,0.964,0.0103,0.0257,,2026-11-29T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x81dfa1d86505b90599bf11862b3cbfe0143007e0d7ed8f60ec42bced60622200,#1 Searched Person on Google 2026? Lindsay Clancy,34,0.936,0.0416,0.0224,,2027-04-01T03:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 7,2,0.96,0.0078,0.0322,,2027-01-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xbccd9b41bb1613743f94e64ae5c4cbeede22da4ee973999dbcd197d55035c300,SB Energy IPO Closing Market Cap No IPO before January 2027,2,0.973,0.0057,0.0213,,2027-01-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Phantom Blade Zero,3,0.964,0.0093,0.0267,,2027-01-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x26ae4e5f24dbcaaa8e1314bd98f138b1d231174bcda91134c896a22e36d7a900,Golden Boy 2026 Winner Pau Cubarsi,2,0.991,0.0006,0.0084,,2026-12-31T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x4b60ddc022fdaefb01e717f01dc516a029a70a61fd9f7b4192a2ed30c59bbc00,#1 Searched Person on Google in the US 2026? Lindsay Clancy,33,0.941,0.0366,0.0224,,2027-04-01T03:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xff63b3ff3e246ec104bbc1bf6a2466262d635b4535a0ea01165d3ea0ed094c00,F1: Action of the Year Lewis Hamilton,3,0.972,0.0128,0.0152,,2027-01-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x5ee37efd0f4531127111902967c69cebc8131af4fab0da29c7550c986ed13100,Which company has #1 AI model end of December? (Style Control On) Anthropic,2,0.95,0.0189,0.0311,,2027-01-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x6ceb0d1c3c020b91ebaea787667b4f2359242f0e45f09611c8f537f98b64f500,Brazil Annual Inflation 2026 6.00-6.49%,10,0.954,0.0338,0.0122,,2027-01-13T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Peter Obi,8,0.975,0.0185,0.0065,,2027-01-17T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xa8cba0039f41801c327419428ad901551dd2043e4d3d4b14f24f8c6e76a8d700,NCAA Football: 2027 National Champion Florida Gators,13,0.97,0.0242,0.0058,,2027-01-26T00:00:00Z
+2026-11-09T01:25:32Z,polymarket,0xd0d2cb4c30f1d17e10ba41cedefd3e332a1db50628b08aea889df6b5f7200c00,#2 Spotify Song 2026 Babydoll – Dominic Fike,14,0.964,0.0169,0.0191,,2027-02-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xcf57918fac46ce701ab0df5cfd5290d6fc61c3370b60e84043eb50e5726bc000,"Katsina, Nigeria Governor Election Winner Garba Yakubu Lado",2,0.98,0.009,0.011,,2027-02-07T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.982,0.0066,0.0114,,2027-02-07T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0xe6569ccdca97df6cdbc00e8752e8f2673a5c8a4cb0d2a69b76169a088f150800,Next Brazilian Minister of Justice and Public Security? Camilo Santana,6,0.953,0.028,0.019,,2027-03-01T04:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.949,0.0141,0.0369,,2027-03-31T03:59:00Z
+2026-11-09T01:25:32Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.967,0.0111,0.0219,,2027-03-31T03:59:00Z
