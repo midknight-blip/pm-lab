@@ -139,6 +139,16 @@
   "note": "Kalshi counts only company representatives; Polymarket counts anyone on the call (and some Polymarket terms bundle extra words).",
   "status": "different"
  },
+ "KXEFLCHAMPIONSHIPGAME-26NOV07BRCNOR-BRC|6171565": {
+  "checked": "2026-11-09",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Huge edge around kickoff/after looks like stale prices on a decided game.",
+  "status": "unsure"
+ },
+ "KXEFLL1GAME-26NOV14DRLEY-TIE|6512726": {
+  "checked": "2026-11-09",
+  "note": "Dropped from matched list before review; rules text not available. Game is Nov 14, so 69c edge is not settlement staleness; likely a mis-match or empty book.",
+  "status": "unsure"
+ },
  "KXEPLGAME-26OCT18LEEMUN-LEE|5311916": {
   "checked": "2026-10-15",
   "note": "Kalshi 'Leeds win' vs Polymarket 'Man Utd win' are not opposites: a draw makes both No.",
@@ -1504,6 +1514,11 @@
   "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
  },
+ "KXLIGAEXPGAME-26NOV08PIRCAN-PIR|6629404": {
+  "checked": "2026-11-09",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Huge edge around kickoff/after looks like stale prices on a decided game.",
+  "status": "unsure"
+ },
  "KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1|5794343": {
   "checked": "2026-11-02",
   "note": "Exact-score pair, already dropped from matched list and settled; rules text not available to compare.",
@@ -1568,6 +1583,16 @@
   "checked": "2026-10-28",
   "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
+ },
+ "KXLVAVIRGAME-26NOV08RFCRFS-RFC|6734041": {
+  "checked": "2026-11-09",
+  "note": "Both: Riga FC wins in regulation, Nov 8 match; Poly resolves No if cancelled. 43c edge on a played game = stale price, not real.",
+  "status": "same"
+ },
+ "KXLVAVIRGAME-26NOV08RFCRFS-TIE|6734042": {
+  "checked": "2026-11-09",
+  "note": "Both: draw after 90 min + stoppage, Nov 8 match. Gap: Poly resolves YES if cancelled/not played by Nov 10, Kalshi text silent. 65c edge on a played game = stale price.",
+  "status": "same"
  },
  "KXMLSSCORE-26OCT31SJRSL-SJ1RSL0|5889611": {
   "checked": "2026-11-02",
@@ -1844,6 +1869,11 @@
   "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
   "status": "different"
  },
+ "KXQSTARSGAME-26NOV08SADALR-SAD|6568905": {
+  "checked": "2026-11-09",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Huge edge around kickoff/after looks like stale prices on a decided game.",
+  "status": "unsure"
+ },
  "KXRANKLISTGOOGLESEARCHTOP5-26-LIN|4425405": {
   "checked": "2026-10-15",
   "note": "Pair dropped out of the matched list; no rules text to compare.",
@@ -1872,6 +1902,16 @@
  "KXSAUDIPLGAME-26NOV06FATRIY-TIE|6490519": {
   "checked": "2026-11-05",
   "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
+  "status": "unsure"
+ },
+ "KXSAUDIPLGAME-26NOV07AASALT-AAS|6491075": {
+  "checked": "2026-11-09",
+  "note": "Both: Al Ahli wins in regulation, Nov 7 match. Rules match; 56c edge on a decided game = stale price, not real.",
+  "status": "same"
+ },
+ "KXSAUDIPLGAME-26NOV07AASALT-AAS|6491082": {
+  "checked": "2026-11-09",
+  "note": "Game already played and pair dropped from matched list before review; rules text not available. Huge edge around kickoff/after looks like stale prices on a decided game.",
   "status": "unsure"
  },
  "KXSAUDIPLGAME-26NOV07AASALT-TIE|6491078": {
