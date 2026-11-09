@@ -1,0 +1,76 @@
+{
+ "batch": "2026-11-09",
+ "created": "2026-11-09T10:07:28Z",
+ "markets": [
+  {
+   "key": "kalshi:KXNFLGAME-26NOV15JACTEN-JAC",
+   "question": "Jacksonville vs Tennessee \u2014 Jacksonville",
+   "rules": "If Jacksonville wins the Jacksonville vs Tennessee Pro Football game originally scheduled for Nov 15, 2026, then the market resolves to Yes. The following market refers to the team who wins the Jacksonville vs Tennessee Pro Football game originally scheduled for Nov 15, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-15T21:00:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXCMA-SOTY26-CHO",
+   "question": "CMA Awards: Single of the Year \u2014 Choosin\u2019 Texas",
+   "rules": "If Choosin\u2019 Texas wins Single of the Year at the 60th Country Music Association Awards, then the market resolves to Yes. ",
+   "close": "2026-11-18T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "poly:5787490",
+   "question": "Next White House Press Secretary announced by November 30, 2026?",
+   "rules": "This market will resolve to \"Yes\" if Donald Trump or the Trump administration announces a new White House Press Secretary to replace Katie Zacharia between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nAn individual announced as an acting or interim Press Secretary will not qualify toward this market's resolution.\n\nAny qualifying announcement made within this market's time frame will count, regardless of when the new Press Secretary is sworn in or begins serving.\n\nThis market's primary resolution source will be official information from the Trump administration; however, a consensus of credible reporting may also be used.",
+   "close": "2026-12-01T04:59:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "poly:6507409",
+   "question": "Will Ethereum reach $2,800 in November?",
+   "rules": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for ETH/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the ETH/USDT High prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-12-01T05:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXMAMDANIMENTION-26NOV18-SAFE",
+   "question": "What will Mamdani say during NYT DealBook Summit? \u2014 Safe / Safer / Safety",
+   "rules": "If Zohran Mamdani says Safe / Safer / Safety as part of 2026 New York Times DealBook Summit originally scheduled for November 18, 2026, then the market resolves to Yes. How this is resolved\nVideo of the 2026 New York Times DealBook Summit originally scheduled for November 18, 2026 using the original broadcast, stream, or official video release by The New York Times.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the 2026 New York Times DealBook Summit originally scheduled for November 18, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nZohran Mamdani speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified, previously aired c",
+   "close": "2026-12-02T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "poly:6390067",
+   "question": "Will Core PCE YoY be 3.2% in October?",
+   "rules": "This is a market about percentage change in the Personal Consumption Expenditures Price Index excluding food and energy (Core PCE) over the 12-month period ending October 2026, seasonally adjusted, as reported by the Bureau of Economic Analysis.\n\nThis market will resolve to the percentage change in the Personal Consumption Expenditures Price Index excluding food and energy (Core PCE) over the 12-month period ending in October 2026 according to the monthly Bureau of Economic Analysis (BEA) report.\n\nThe resolution source for this market will be the BEA Personal Income and Outlays report for October 2026 (https://www.bea.gov/data/personal-consumption-expenditures-price-index), currently scheduled to be released on November 25, 2026, at 8:30 AM ET. Resolution of this market will take place upon release of the aforementioned data.\n\nNote: the resolution source for this market will be the official monthly BEA Personal Income and Outlays news release, which reports core inflation (all items less food and energy) over 12-month periods to only one decimal point (e.g., 3.7%). Thus, this is the level of precision that will be used when resolving the market. For the avoidance of doubt, this mar",
+   "close": "2026-11-25T13:30:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXGOLDW-26NOV1317-T4208.99",
+   "question": "Gold price on Nov 13, 2026 at 5:00 PM EST? \u2014 Above $4208.99",
+   "rules": "If the close price of the 1-minute candlestick for gold on November 13, 2026 at 5:00 PM EST is above 4208.99 USD/t.oz, then the market resolves to Yes. The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+   "close": "2026-11-13T22:00:00Z",
+   "category": "commodities"
+  },
+  {
+   "key": "poly:4319439",
+   "question": "Will Anthropic IPO by November 30, 2026?",
+   "rules": "This market will resolve to \"Yes\" if Anthropic shares are listed on a public securities exchange and open for trading by 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No.\"\n\nIf Anthropic is acquired by another company that is already public, this market will immediately resolve to \"No.\"\n\nThe primary resolution source for this market is official filings and announcements from Anthropic and the relevant securities exchange on which the shares are listed, including SEC filings (e.g., Form S-1, Form 8-A), exchange listing confirmations, and official press releases from Anthropic; however a consensus of credible reporting may also be used.",
+   "close": "2026-12-01T04:59:00Z",
+   "category": "finance"
+  },
+  {
+   "key": "poly:3902370",
+   "question": "Israel x Iran ceasefire continues through November 30?",
+   "rules": "This market will resolve to \"Yes\" if a state of ceasefire remains in effect between Israel and Iran through the listed date, 11:59 PM Iran Standard Time (IRST). Otherwise this market will resolve to \u201cNo\u201d. \n\nA state of ceasefire will be considered to no longer be in effect between Israel and Iran if either Israel or Iran takes a qualifying military action against the other country between market creation and the listed date, 11:59 PM IRST.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Israel or Iran, that directly impacts the other country. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range",
+   "close": "2026-11-30T20:29:00Z",
+   "category": "other"
+  },
+  {
+   "key": "poly:6803500",
+   "question": "Will Elon Musk post 40-64 tweets from November 9 to November 11, 2026?",
+   "rules": "This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from November 9 12:00 PM ET to November 11, 2026 12:00 PM ET.\n\nFor the purposes of this market, only main feed posts, quote posts and reposts will count.\n\nReplies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.\n\nDeleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).\n\nCommunity reposts which are not counted by the tracker not count toward the total.\n\nThe resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking \"Export Data\". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.",
+   "close": "2026-11-11T17:00:00Z",
+   "category": "culture"
+  }
+ ]
+}
