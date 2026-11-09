@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-09T11:35:41Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-09T12:31:33Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,7 +8,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-09T11:35:39Z — 249 of 249 pairs priced
-- Scans in the last 24h: 29 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Scans in the last 24h: 28 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-09T07:45:47Z — Kalshi 150057 markets, Polymarket 21794 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
@@ -42,8 +42,8 @@ Running since 2026-10-14. 876 scans so far. A pair counts as positive when buyin
 
 ## Forecast test
 
-- Forecasts made: 70, settled: 38, still open: 34
-- Accuracy score (lower is better): Claude 0.196, market 0.116 → so far the market is more accurate; gap +0.079 (± 0.023). Needs ~100 settled before this means much.
+- Forecasts made: 80, settled: 40, still open: 42
+- Accuracy score (lower is better): Claude 0.186, market 0.111 → so far the market is more accurate; gap +0.075 (± 0.022). Needs ~100 settled before this means much.
 - Paper bets (when Claude disagreed by 5+ points): 31 bets, $10.43 staked, result $-3.80 (-36%)
 
 ---
