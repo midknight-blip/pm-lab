@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-10T18:11:05Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-10T19:07:32Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-10T18:11:02Z — 249 of 249 pairs priced
+- Last scan: 2026-11-10T19:07:29Z — 249 of 249 pairs priced
 - Scans in the last 24h: 26 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-10T13:22:55Z — Kalshi 160933 markets, Polymarket 22544 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 908 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 909 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 316
 - Positive pairs still in play: **384** (confirmed same bet: 10, not yet checked: 346)
-- Scans with at least one positive pair: 907
+- Scans with at least one positive pair: 908
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,12 +33,12 @@ Running since 2026-10-14. 908 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 23 run, 344 positive spreads seen; typical one lasted 968 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 202. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 187. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - polymarket: Zelenskyy # posts November 3 - November 10, 2026? 100-119 — 2 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Junts # of seats? 7 — 5 outcomes, +4.0¢ per $1
-  - polymarket: CMA Album of the Year 2026 Dandelion (Ella Langley) — 2 outcomes, +3.9¢ per $1
-  - polymarket: Spain General Election: Albacete Winner PP — 3 outcomes, +3.9¢ per $1
+  - polymarket: Nvidia’s Market Cap end of 2026? $5.00-$5.50T — 6 outcomes, +3.9¢ per $1
+  - polymarket: Highest temperature in Busan on November 9? 13°C — 3 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
