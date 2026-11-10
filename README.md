@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-10T00:44:31Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-10T01:20:39Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-10T00:44:29Z — 247 of 250 pairs priced
 - Scans in the last 24h: 24 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-09T19:12:39Z — Kalshi 156187 markets, Polymarket 21530 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-10T01:20:39Z — Kalshi 164887 markets, Polymarket 21352 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 890 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 22 run, 274 positive spreads seen; typical one lasted 4252 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 211. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 210. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Who will be Ranking Member of House Judiciary? — 3 outcomes, +4.0¢ per $1
   - polymarket: How many different countries will the US conduct military action again — 2 outcomes, +4.0¢ per $1
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - polymarket: Zelenskyy # posts November 3 - November 10, 2026? 100-119 — 2 outcomes, +4.0¢ per $1
-  - polymarket: Which company's AI will first hit 1550 on Chatbot Arena in 2026? xAI — 3 outcomes, +4.0¢ per $1
+  - polymarket: Spain General Election: Junts # of seats? 7 — 5 outcomes, +4.0¢ per $1
 
 ## Forecast test
 
