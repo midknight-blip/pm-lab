@@ -28,3 +28,38 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-10T01:18:00Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.956,0.0144,0.0295,,2027-03-31T03:59:00Z
 2026-11-10T01:18:00Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.975,0.0115,0.0135,,2027-03-31T03:59:00Z
 2026-11-10T01:18:00Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Radomir Saičić,20,0.954,0.0158,0.0302,,2027-05-02T03:59:00Z
+2026-11-10T07:26:27Z,kalshi,KXNFLH2HWINS-27KCNE,Kansas City vs New England: Head-to-Head Win Total,2,0.95,0.029,0.021,4.0,2027-01-18T15:00:00Z
+2026-11-10T07:26:27Z,kalshi,KXWILCOJUDGE-26,Williamson County Judge winner?,2,0.99,0.003,0.007,5.0,2026-12-15T15:00:00Z
+2026-11-10T07:26:27Z,polymarket,0xfed2033ddace6337124ab4cbab6d9fa9767ff9b8bd633954ebd5a6a662777100,Lowest temperature in London on November 10? 7°C,5,0.984,0.0012,0.0148,,2026-11-10T12:00:00Z
+2026-11-10T07:26:27Z,polymarket,0x38471530c191876df6c1f53cd190d498718cd13afd1ff0e14cf89f141a1c8e00,Highest temperature in Amsterdam on November 11? 8°C,4,0.943,0.0305,0.0265,,2026-11-11T12:00:00Z
+2026-11-10T07:26:27Z,polymarket,0x4158acf50c360e3fc30a7458dff5db6bf9f71e6c0444387e344f2066ffa2dc00,Next Claude Opus (5.6+) released on...? November 10,18,0.958,0.0278,0.0142,,2026-12-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x331518533ae6baeebed32179fdbfb49b5746655c1acc107c015a0d17430eb400,"Donald Trump # Truth Social posts November 13 - November 20, 2026? <20",6,0.95,0.0338,0.0163,,2026-11-20T17:00:00Z
+2026-11-10T07:26:27Z,polymarket,0xe46f6046479b1240dacb76748b0d8c04f58c6ee7ad5812fa08f572273ad9e600,Victoria Parliamentary Election: 2nd Place Labor,2,0.969,0.0048,0.0262,,2026-11-29T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0xbb85f11e66cc263e31c671922c8aab5366539e7ab3220e58c1a92b280d980300,Victoria Parliamentary Election: 3rd Place Libertarian,5,0.952,0.0192,0.0288,,2026-11-29T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x0ebca9de4ab87a2bc0521db1b5722336c068603a1a62766ecd5b3ddbd1ff1800,Kinmen County Magistrate Election Winner Chen Yu-jen,3,0.992,0.0017,0.0063,,2026-11-29T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x7f29f973c38f4675eb225c902036e38270d439d9831d267dc0185221c6bc5c00,Second-best AI Lab end of November? Google,3,0.977,0.0149,0.0081,,2026-12-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x94fb525240b13ed782064ed13fdf24ca6829f2386398f8dbdd5d97ebd676e900,Spain General Election: Biscay Winner PNV,3,0.96,0.0236,0.0164,,2026-11-30T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0xf11095804e56aeedd117ba8129dd8e7903c377ea97f5a2865f28fef756558e00,UEFA Nations League 2026-27: Group B2 Winner Northern Ireland,2,0.958,0.0249,0.0171,,2026-12-02T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x4cbdff9ab101d5b3d7bb4a4da8ec1621b64e62b1441553b81a5a95a9e7e9dd00,Alphabet’s Market Cap end of November 2026? $3.50-$4.00T,3,0.968,0.021,0.011,,2026-11-30T17:00:00Z
+2026-11-10T07:26:27Z,polymarket,0x83d7131994039ae888f5a54fe9a8e1c6c0bfae0dc7d753342b3fca0ef4c02c00,Spain General Election: Catalonia Winner Vox,2,0.985,0.0021,0.0129,,2026-11-30T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x6758dc5016a2bf08320cf3c4fb8eed2426c46a9d172e399eff13cb9a364ab900,GPU rental prices (A100) end of November? $1.00-$1.25,3,0.964,0.0219,0.0141,,2026-12-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x069e99843fa38058edd49123522971b647e07badcd4d97fa81c06284ac52b100,NCAA Football 2026 American Conference: Winner North Texas Mean Green,9,0.942,0.033,0.025,,2026-12-20T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x81dfa1d86505b90599bf11862b3cbfe0143007e0d7ed8f60ec42bced60622200,#1 Searched Person on Google 2026? Lindsay Clancy,36,0.941,0.0416,0.0174,,2027-04-01T03:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,3,0.956,0.0092,0.0348,,2027-02-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x5ee37efd0f4531127111902967c69cebc8131af4fab0da29c7550c986ed13100,Which company has #1 AI model end of December? (Style Control On) Google,2,0.95,0.0185,0.0315,,2027-01-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Movsar Evloev,2,0.978,0.0017,0.0203,,2027-01-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",2,0.987,0.0013,0.0117,,2027-01-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0xebe55e097f065c94a72edc69111ceccdb1e944c6880f92f41157212f386cea00,Which company has the best Text Arena Math AI model end of December? Google,2,0.95,0.0197,0.0303,,2027-01-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x35b94160948b5bb04a55a5d0cacf63ed43beb69e2661361c1dbc3fcb867bed00,MLS: 2026 Most Valuable Player Lionel Messi,3,0.988,0.0006,0.0114,,2027-01-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Justin Gaethje,2,0.981,0.0026,0.0164,,2027-01-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x8f4511ab8167b02319c78ad9f5c91bb94e8d332a37811e03f84f15eed685e300,Top US Spotify Artist 2026 Drake,8,0.977,0.0081,0.0149,,2027-02-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x5d6ba3a1d62e42bd0045e93271eb25ed415646f55f2fdac947b0d410f9196d00,Pro Football: 2027 NFC Champion  Green Bay Packers,11,0.944,0.0239,0.032,,2027-01-25T00:00:00Z
+2026-11-10T07:26:27Z,polymarket,0xa31100f8d4bc8434b07cc7109f6e0ebaf4002e59a2737ae7ed6e77df36daf200,Fantasy Football: 2026-27 RB Points Leader Kenneth Walker III,3,0.966,0.023,0.011,,2027-01-27T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Namadi Umar Alhaji",2,0.972,0.0063,0.0217,,2027-02-07T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x2f9f0b95880cd5db17f29c388a0e8408f78fa18ee93469ebab1c6cf0e6acf200,Next Brazilian Minister of Defense? José Múcio,5,0.948,0.0281,0.0239,,2027-03-01T04:59:00Z
+2026-11-10T07:26:27Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 20 to 34,4,0.983,0.0085,0.0085,,2027-04-01T03:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x115724443ee67d4658839aaec67b73f12aa5d968b89b9280573b68e28b125500,Billboard #1 Artist 2026 Morgan Wallen,16,0.955,0.0206,0.0244,,2027-04-01T03:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.951,0.0142,0.0348,,2027-03-31T03:59:00Z
+2026-11-10T07:26:27Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.974,0.0114,0.0146,,2027-03-31T03:59:00Z
+2026-11-10T07:26:27Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Radomir Saičić,20,0.955,0.0159,0.0291,,2027-05-02T03:59:00Z
+2026-11-10T07:26:27Z,polymarket,0xaffd23b404861bd77517cdd8a84365b7b10fe85241f137bc41e9d79ea855cd00,UFC: Who Will Sean Strickland Fight Next?  Nassourdine Imamov,3,0.968,0.0065,0.0255,,2027-05-09T00:00:00Z
