@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-11T06:26:38Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-11T07:33:49Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-11T06:26:35Z — 250 of 250 pairs priced
-- Scans in the last 24h: 27 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-11T01:23:46Z — Kalshi 169071 markets, Polymarket 19954 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 26 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-11T07:33:48Z — Kalshi 164300 markets, Polymarket 20255 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -37,8 +37,8 @@ Running since 2026-10-14. 922 scans so far. A pair counts as positive when buyin
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - polymarket: Zelenskyy # posts November 3 - November 10, 2026? 100-119 — 2 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Junts # of seats? 7 — 5 outcomes, +4.0¢ per $1
-  - polymarket: Nvidia’s Market Cap end of 2026? $5.00-$5.50T — 6 outcomes, +3.9¢ per $1
   - polymarket: Spain General Election: 2nd Place Vox — 2 outcomes, +3.9¢ per $1
+  - polymarket: Spain General Election: Barcelona Winner PSOE — 3 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
