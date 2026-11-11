@@ -1,0 +1,47 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-11T01:20:43Z,kalshi,KXFEDDECISION-27APR,Fed decision in Apr 2027?,5,0.94,0.039,0.021,1.0,2027-04-28T18:05:00Z
+2026-11-11T01:20:43Z,kalshi,KXNFLH2HWINS-27KCNE,Kansas City vs New England: Head-to-Head Win Total,2,0.96,0.029,0.011,3.61,2027-01-18T15:00:00Z
+2026-11-11T01:20:43Z,kalshi,KXWILCOJUDGE-26,Williamson County Judge winner?,2,0.99,0.003,0.007,5.0,2026-12-15T15:00:00Z
+2026-11-11T01:20:43Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.98,0.004,0.016,25.0,2027-02-27T15:00:00Z
+2026-11-11T01:20:43Z,polymarket,0x6c4f06bfd34ea27d611535cb25cee10742fa298c892110f14e734629b1367f00,Highest temperature in San Francisco on November 11? 70-71°F,6,0.958,0.033,0.009,,2026-11-11T12:00:00Z
+2026-11-11T01:20:43Z,polymarket,0xd6a6202111e9ac246a53402039d8c9da83bf221f0c0e9d7dde1e19d5d3851f00,Core CPI YoY - October 2026 2.6%,4,0.979,0.0027,0.0183,,2026-11-11T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x5beef34b2452d22920a54c0d1c53d79ac8539c6128a16180be2567e81d1b5c00,Highest temperature in Jeddah on November 12? 32°C,3,0.96,0.0304,0.0096,,2026-11-12T12:00:00Z
+2026-11-11T01:20:43Z,polymarket,0xbe9cecb902572d60806218e1e1f3f845cc3058ff81094eb8955b2ce1337ab800,Highest temperature in Warsaw on November 12? 7°C,4,0.953,0.0301,0.0169,,2026-11-12T12:00:00Z
+2026-11-11T01:20:43Z,polymarket,0x4ca4e85275a74ac24bd8e888b79c20827a2c0be8d382203cf4875e1ac87c0c00,"Khamenei # posts November 6 - November 13, 2026? 40-44",11,0.981,0.003,0.016,,2026-11-13T17:00:00Z
+2026-11-11T01:20:43Z,polymarket,0x32b1b08fec5886b41ead8c3abbeaa2c5697c93454282ecdc70f42304db643900,Highest temperature in Munich on November 12? 11°C,4,0.944,0.0315,0.0245,,2026-11-12T12:00:00Z
+2026-11-11T01:20:43Z,polymarket,0xd401b47eed3c50316fb34872190c1604299225f64e19f190c6e057dc223f3a00,Highest temperature in Sao Paulo on November 12? 26°C,7,0.93,0.0354,0.0346,,2026-11-12T12:00:00Z
+2026-11-11T01:20:43Z,polymarket,0xf8e205fdec418347fe4e10cef92846ca05d1a9a14ff61eb9cfd47f3d48d28900,"Zelenskyy # posts November 6 - November 13, 2026? 60-79",4,0.943,0.0291,0.0279,,2026-11-13T17:00:00Z
+2026-11-11T01:20:43Z,polymarket,0xf814bae57e096072de806a615d9b82fca4b16f2823cb6b706e9abec908ecbb00,Highest temperature in Austin on November 12? 76-77°F,4,0.937,0.0309,0.0321,,2026-11-12T12:00:00Z
+2026-11-11T01:20:43Z,polymarket,0x30614953a4174955695e107e4a2619baa1d9eda5528d56e14a683dbad74c7f00,Nozempic 2: Which team loses the most weight? Cuffem's Team,3,0.95,0.0319,0.0181,,2026-11-13T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x5b4f27b2515b348efd7bc458094c781ccb5f7d48ea0341908cb2b732f6b1d600,#1 Paid App in the US Apple App Store on November 13? Chromagraph Camera,2,0.96,0.0097,0.0303,,2026-11-14T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x58d872cd1a9aa9dbd998e5d957d0c67456d7d09d74029e451b0ee4d811ed0900,Highest temperature in Toronto on November 12? 6°C,3,0.96,0.0309,0.0091,,2026-11-12T12:00:00Z
+2026-11-11T01:20:43Z,polymarket,0x6c70ff4dca724156f5039b17e6b472a50d5a61201555d49de03942b9589dfd00,Solana price on November 16? 70-80,2,0.93,0.0323,0.0377,,2026-11-16T17:00:00Z
+2026-11-11T01:20:43Z,polymarket,0xf38bbcaa06a2810a49e7f180214d0fe9d066b6bb337b0df9a10675ffd2b5c600,1win Essence III: Winner PARIVISION,4,0.937,0.0254,0.0376,,2026-11-20T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x4bcf537542dc5cae365f9a8e4bdd5075f5e146774ef3320e26d449ae40fbbc00,CMA Single of the Year 2026 Choosin' Texas (Ella Langley),2,0.991,0.0025,0.0065,,2026-11-19T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x07e8d6ecd4273393449d0a0eeec3f40b2ae2f1962885c671eea5b7941f2d6100,Next Qwen Max (3.9+) released on...? November 21,9,0.931,0.032,0.037,,2026-12-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x11c61aee25e287324124a412129b12b0cf4c4bfbf8f42e746ee2e66d7ec2c200,2028 presidential odds leader on November 30? JD Vance,3,0.978,0.0144,0.0076,,2026-11-30T17:00:00Z
+2026-11-11T01:20:43Z,polymarket,0xdae27d4e85c40772bc552a10826354d0eff05500d6daf8cdcc7ead9fcd56d200,GPU rental prices (RTX 5090) end of November? $0.75+,3,0.945,0.0217,0.0333,,2026-12-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xa8ae07d3ffe3d78b4be9266d50988bab63ca499a2ca7d649f47c79b1b2d4c000,Third-best AI Agent Lab end of November? Google,3,0.969,0.0229,0.0081,,2026-12-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xfc7cadaf197d10d18f96384929fb105effc9b5d68a8eccafd6ad7a65928da400,#3 AI Lab end of November? (Style Control On) Meta,3,0.953,0.0198,0.0272,,2026-12-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x0987bf2faae66863a6d558e7a53294265c638e5c8a8c4c1940fd1826df865500,Spain General Election: Podemos # of seats? 0,2,0.95,0.0196,0.0304,,2026-11-30T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xc3a1af57184ad99af2f5f6aa01f7754300cb7b02801d38ff62c13071c22fd200,Brazil Série A: Winner Flamengo,2,0.97,0.009,0.021,,2026-12-16T03:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xbe1e1cc4a3bbaf5b0331e7c36f0e45049715663aeab08c116b6144ef583b0000,Where will the next US-Iran senior diplomatic meeting take place...? No Meeting by December 31,6,0.98,0.0,0.02,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Hassan Rouhani,9,0.994,0.0,0.006,,2026-12-31T17:00:00Z
+2026-11-11T01:20:43Z,polymarket,0x47f1f845b59341c727f7d5fdcb4d6ea92663e8911cf32c5f06fa69f20b6ca100,Who will receive the second mandate to form Israel's next government? Benjamin Netanyahu,21,0.972,0.0211,0.0069,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.985,0.0025,0.0125,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Phantom Blade Zero,3,0.98,0.0109,0.0091,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x5ee37efd0f4531127111902967c69cebc8131af4fab0da29c7550c986ed13100,Which company has #1 AI model end of December? (Style Control On) Google,4,0.945,0.0181,0.0369,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xec7785e0c950a345e46a5d722a495ce3d3223c91b62a898da539b84972d7e000,VALORANT Offseason: zekken Next Team 100 Thieves,10,0.962,0.0147,0.0233,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Alexander Volkanovski,6,0.969,0.0035,0.0275,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Michael Morales,2,0.983,0.0017,0.0153,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xff63b3ff3e246ec104bbc1bf6a2466262d635b4535a0ea01165d3ea0ed094c00,F1: Action of the Year Kimi Antonelli,4,0.967,0.0127,0.0203,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x339a89111ad048709ef27ac9da11e70a28ceaae3a4f494e949c9d68be7c39a00,Bitcoin vs. Gold vs. S&P 500 in 2026 S&P 500,2,0.975,0.007,0.018,,2027-01-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x8c16c7e09312f321b8de1c5076195b34acdb49fe4354126c69be2788e677bc00,China Annual GDP Growth 2026 4.0–5.0%,2,0.989,0.0023,0.0087,,2027-01-31T00:00:00Z
+2026-11-11T01:20:43Z,polymarket,0xa31100f8d4bc8434b07cc7109f6e0ebaf4002e59a2737ae7ed6e77df36daf200,Fantasy Football: 2026-27 RB Points Leader Kenneth Walker III,3,0.969,0.0231,0.0079,,2027-01-27T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 End of Beginning – Djo,13,0.954,0.0166,0.0293,,2027-02-01T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Namadi Umar Alhaji",2,0.983,0.0066,0.0104,,2027-02-07T04:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 50 or more,4,0.984,0.0084,0.0076,,2027-04-01T03:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x322cd4b2e64209e7f2bfe89ddd815fe61b949b37e2b2333a7f9e21d2b9561d00,Turner Prize 2026 Winner Kira Freije,4,0.952,0.0357,0.0123,,2027-04-01T03:59:00Z
+2026-11-11T01:20:43Z,polymarket,0xb43001375298b3c714096f50ea4881f0b67388cf1eea46950dc7882d17c05e00,Who will be the top-selling artist by total auction sales in 2026? Other,4,0.989,0.0052,0.0058,,2027-04-01T03:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.971,0.0151,0.0139,,2027-03-31T03:59:00Z
+2026-11-11T01:20:43Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.971,0.0113,0.0177,,2027-03-31T03:59:00Z

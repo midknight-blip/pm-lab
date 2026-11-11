@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-11T00:22:17Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-11T01:23:46Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-11T00:22:14Z — 246 of 249 pairs priced
-- Scans in the last 24h: 27 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-10T19:13:45Z — Kalshi 161793 markets, Polymarket 20866 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 26 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-11T01:23:46Z — Kalshi 169071 markets, Polymarket 19954 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 916 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 23 run, 344 positive spreads seen; typical one lasted 968 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 198. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 207. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: AFCON 2027 Qualifying: Group I Winner Burundi — 4 outcomes, +4.0¢ per $1
   - polymarket: Zelenskyy # posts November 3 - November 10, 2026? 100-119 — 2 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Junts # of seats? 7 — 5 outcomes, +4.0¢ per $1
   - polymarket: Nvidia’s Market Cap end of 2026? $5.00-$5.50T — 6 outcomes, +3.9¢ per $1
-  - polymarket: Highest temperature in Busan on November 9? 13°C — 3 outcomes, +3.9¢ per $1
+  - polymarket: Spain General Election: 2nd Place Vox — 2 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
