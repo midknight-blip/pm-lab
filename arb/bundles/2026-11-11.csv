@@ -124,3 +124,45 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-11T13:26:41Z,polymarket,0xb43001375298b3c714096f50ea4881f0b67388cf1eea46950dc7882d17c05e00,Who will be the top-selling artist by total auction sales in 2026? Other,4,0.989,0.0052,0.0058,,2027-04-01T03:59:00Z
 2026-11-11T13:26:41Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.954,0.0144,0.0316,,2027-03-31T03:59:00Z
 2026-11-11T13:26:41Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.969,0.0112,0.0198,,2027-03-31T03:59:00Z
+2026-11-11T19:14:35Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-11T19:14:35Z,kalshi,KXNFLH2HWINS-27KCNE,Kansas City vs New England: Head-to-Head Win Total,2,0.94,0.029,0.031,5.0,2027-01-18T15:00:00Z
+2026-11-11T19:14:35Z,kalshi,KXWILCOJUDGE-26,Williamson County Judge winner?,2,0.99,0.003,0.007,5.0,2026-12-15T15:00:00Z
+2026-11-11T19:14:35Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.99,0.003,0.007,3131.02,2027-02-27T15:00:00Z
+2026-11-11T19:14:35Z,polymarket,0x00c0c7c64788b38861c9163d1ef3bc807f51879a80876f57d9d00d353096c000,Cayman Islands vs. Guyana Cayman Islands,2,0.968,0.0033,0.0287,,2026-11-12T19:00:00Z
+2026-11-11T19:14:35Z,polymarket,0x3aae997e4b23a93fe4a3be805901a998604aff4b2439b4747ec491c50a3a5800,"Bitcoin price on November 12? 68,000-70,000",7,0.924,0.0392,0.0368,,2026-11-12T17:00:00Z
+2026-11-11T19:14:35Z,polymarket,0x1fbc09cc13a0305283279e29456718c93ee3cc9f21a2eb2cd0ceb6f914253700,Highest temperature in Shanghai on November 13? 20°C,3,0.95,0.0303,0.0197,,2026-11-13T12:00:00Z
+2026-11-11T19:14:35Z,polymarket,0xc56be5f87470915724ab90f1b12337387d7844908cd3bfcb69db750194a16f00,Highest temperature in Denver on November 12? 68-69°F,6,0.932,0.0305,0.0375,,2026-11-12T12:00:00Z
+2026-11-11T19:14:35Z,polymarket,0xed99df73d2a4e26e13d61174586e2fc3abb08de88acca0fd89de463870a74d00,Highest temperature in Lucknow on November 13? 29°C,2,0.97,0.0234,0.0066,,2026-11-13T12:00:00Z
+2026-11-11T19:14:35Z,polymarket,0x525dc9dbc81a6438a42d7f7430d8b17be7a620b199841a3d98a576618db33800,Highest temperature in Chicago on November 12? 44-45°F,3,0.956,0.0285,0.0155,,2026-11-12T12:00:00Z
+2026-11-11T19:14:35Z,polymarket,0x9dfe33c5ce589b2a7d53c763b4d7a20dcfbcdd333c776dc2a79a15dffb3ae500,Highest temperature in Karachi on November 13? 33°C,2,0.95,0.0249,0.0251,,2026-11-13T12:00:00Z
+2026-11-11T19:14:35Z,polymarket,0xcaa38420df2bc06ad5a4d7289b642e8824faa5a05df832136b0addc2b92d0000,Lowest temperature in London on November 11? 8°C,2,0.981,0.001,0.018,,2026-11-11T12:00:00Z
+2026-11-11T19:14:35Z,polymarket,0x459d347311b6cd38e23900ac79741f3a99e9ee863baa4705db23e6b3306d9c00,FC Bayern München vs. 1. FC Köln FC Bayern München,2,0.97,0.0078,0.0222,,2026-11-20T19:30:00Z
+2026-11-11T19:14:35Z,polymarket,0xb5877dafeabeabc68ebc5c4665ac4d9e925b5c75a969395106431acdc342b400,Target Q3 comparable sales growth? 3% to 5%,3,0.972,0.0184,0.0096,,2026-11-18T14:30:00Z
+2026-11-11T19:14:35Z,polymarket,0x951612d6f6bb0d29dc36d5fffb51fc2c60c860a5dec2d1bf7ed23aa3b31d2f00,CMA Album of the Year 2026 Parker McCollum (Parker McCollum),2,0.983,0.0075,0.0095,,2026-11-19T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x7c145270eb2b231b878e33a85066e99640c39cff00a2f7cb1e7d1401d1276900,Solana price on November 17? 80-90,4,0.936,0.0333,0.0307,,2026-11-17T17:00:00Z
+2026-11-11T19:14:35Z,polymarket,0x4bcf537542dc5cae365f9a8e4bdd5075f5e146774ef3320e26d449ae40fbbc00,CMA Single of the Year 2026 Choosin' Texas (Ella Langley),3,0.975,0.0017,0.0233,,2026-11-19T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x4263fcafa45fabef6baddfa5c1bffe958961534809a1b7a2c6cfb8c418d2d500,Best AI model on November 16? gemini-4-carbon-high,3,0.965,0.01,0.025,,2026-11-17T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x20c1c105650fb8949aac4c90998beca8213f7a32b045ba587648b27b57ee6900,Spain General Election: Vox # of seats? <56,6,0.963,0.0317,0.0053,,2026-11-30T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0xce8d77daa441bfcb194a5dc5c3caec904bde97911f4fd10502c9d287a6a4a300,Next Muse Spark Model (1.4+) released on...? November 28,5,0.948,0.0132,0.0388,,2026-12-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x1d4846324d1c79aa27a443cc733f432ed5b68040538ad6569efa9ceaf89e1000,Spain General Election: A Coruña Winner Vox,2,0.992,0.0012,0.0068,,2026-11-30T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x42d6a349cef014e98dc15c512ca6c5975907d748499660a690535161f7b9fc00,How many US aircraft carriers in CENTCOM on November 30? 3,3,0.972,0.0,0.028,,2026-12-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0xf667584c0e7bac59a7b0d83adfcaa1a7ed91169d016aee5b32274f274e26cf00,Second-Best Chinese AI Company end of November? Xiaomi,3,0.971,0.0216,0.0074,,2026-12-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x32e8f3d2051c645b06481134c13e5615a8250a27e5a6fd7438857c110be11500,BBC Sports Personality of the Year Winner 2026 Harry Kane,6,0.969,0.0259,0.0052,,2027-01-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Aljamain Sterling,6,0.966,0.0036,0.0304,,2027-01-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Michael Morales,2,0.971,0.0012,0.0278,,2027-01-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x47f1f845b59341c727f7d5fdcb4d6ea92663e8911cf32c5f06fa69f20b6ca100,Who will receive the second mandate to form Israel's next government? Naftali Bennett,21,0.96,0.0213,0.0187,,2027-01-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x5ee37efd0f4531127111902967c69cebc8131af4fab0da29c7550c986ed13100,Which company has #1 AI model end of December? (Style Control On) Google,3,0.943,0.018,0.039,,2027-01-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 6,3,0.958,0.0078,0.0342,,2027-01-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x716c124b2ae149085ef1a1a6a2caaa209e6d4abcc1c7ff0176fc13b9c4dae500,Third-Best Chinese AI Company end of December? Z.ai,4,0.94,0.0283,0.0317,,2027-01-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0xff63b3ff3e246ec104bbc1bf6a2466262d635b4535a0ea01165d3ea0ed094c00,F1: Action of the Year Kimi Antonelli,3,0.949,0.0123,0.0387,,2027-01-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Bola Tinubu,8,0.961,0.0176,0.0214,,2027-01-17T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x6e06ac6e2157392c2a591783b2373a6861e3047e0cc41a5f2c946742cd2bfe00,Top Spotify Song 2026 End of Beginning – Djo,2,0.959,0.0156,0.0254,,2027-02-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x29b57a94f8c7cf066e8d91ef0eb7020ecb32b61b733bdf4f36cf4358f2261e00,Which month will Strait of Hormuz traffic return to normal? No Return to Normal Traffic in 2026,2,0.99,0.0,0.01,,2027-02-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.97,0.0062,0.0238,,2027-02-07T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x984d5980953cbd4c90aaee09692f0c5cfeea7dddfeccb542714b5462e7ba8a00,Next Israeli Minister of Foreign Affairs? Yair Lapid,15,0.949,0.0282,0.0228,,2027-03-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? Naftali Bennett,16,0.958,0.0312,0.0108,,2027-03-01T04:59:00Z
+2026-11-11T19:14:35Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 20 to 34,4,0.967,0.0075,0.0255,,2027-04-01T03:59:00Z
+2026-11-11T19:14:35Z,polymarket,0xb43001375298b3c714096f50ea4881f0b67388cf1eea46950dc7882d17c05e00,Who will be the top-selling artist by total auction sales in 2026? Other,4,0.989,0.0052,0.0058,,2027-04-01T03:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.952,0.0143,0.0337,,2027-03-31T03:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x52a43b3d8ef74d8f2407d079d4b6362149370ce34b7e88cf77dda3c96daffb00,AFCON 2027 Qualifying: Group E Winner Zimbabwe,4,0.973,0.0131,0.014,,2027-03-31T03:59:00Z
+2026-11-11T19:14:35Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.97,0.0113,0.0187,,2027-03-31T03:59:00Z

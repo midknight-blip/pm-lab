@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-11T15:59:21Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-11T19:17:24Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-11T15:59:18Z — 250 of 250 pairs priced
-- Scans in the last 24h: 26 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-11T13:29:18Z — Kalshi 171194 markets, Polymarket 20514 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 22 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-11T19:17:23Z — Kalshi 175655 markets, Polymarket 19950 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -32,13 +32,13 @@ Running since 2026-10-14. 931 scans so far. A pair counts as positive when buyin
 | KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | unsure | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
-- Fast-check sessions (every 15 sec): 23 run, 344 positive spreads seen; typical one lasted 968 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 203. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Fast-check sessions (every 15 sec): 24 run, 367 positive spreads seen; typical one lasted 825 sec, longest 120.0 min
+- Same-site bundles in the last 3 days: 205. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Zelenskyy # posts November 3 - November 10, 2026? 100-119 — 2 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Junts # of seats? 7 — 5 outcomes, +4.0¢ per $1
-  - polymarket: Spain General Election: Barcelona Winner PSOE — 3 outcomes, +3.9¢ per $1
-  - polymarket: Highest temperature in Houston on November 11? 74-75°F — 7 outcomes, +3.9¢ per $1
-  - polymarket: Golden Joystick Awards: Ultimate Game of the Year Winner Resident Evil — 2 outcomes, +3.8¢ per $1
+  - polymarket: Which company has #1 AI model end of December? (Style Control On) Goog — 3 outcomes, +3.9¢ per $1
+  - polymarket: Next Muse Spark Model (1.4+) released on...? November 28 — 5 outcomes, +3.9¢ per $1
+  - polymarket: F1: Action of the Year Kimi Antonelli — 3 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
