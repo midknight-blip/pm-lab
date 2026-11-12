@@ -1,0 +1,76 @@
+{
+ "batch": "2026-11-12",
+ "created": "2026-11-12T10:11:17Z",
+ "markets": [
+  {
+   "key": "kalshi:KXBABELMANDEBWEEKLY-26NOV15-T170",
+   "question": "Traffic through the Bab el-Mandeb Strait? (11/9 - 11/15) \u2014 Above 170",
+   "rules": "If the number of transit calls through the Bab el-Mandeb Strait as reported by the IMF PortWatch is above 170 from Nov 9, 2026 to Nov 15, 2026, then the market resolves to Yes. The total is calculated by summing daily counts from Nov 9, 2026 to Nov 15, 2026. The market will resolve no earlier than Tuesday at 9 AM following the end of the period, once complete data is available.",
+   "close": "2026-11-17T15:00:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "kalshi:KXNFLGAME-26NOV15LARARI-LAR",
+   "question": "Los Angeles R vs Arizona \u2014 Los Angeles R",
+   "rules": "If Los Angeles R wins the Los Angeles R vs Arizona Pro Football game originally scheduled for Nov 15, 2026, then the market resolves to Yes. The following market refers to the team who wins the Los Angeles R vs Arizona Pro Football game originally scheduled for Nov 15, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-16T00:05:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXCPICOREYOY-26NOV-T2.8",
+   "question": "Core CPI YoY in November \u2014 Above 2.8%",
+   "rules": "If the Consumer Price Index (CPI) for All Urban Consumers: All Items less Food and Energy increases by more than 2.8% in the twelve months ending November 2026 (as represented by the one-decimal place value reported by the Bureau of Labor Statistics), then the market resolves to Yes. In the case of a delay in data caused by a federal government shutdown impacting the reliability of the Source Agency, the market\u2019s latest Expiration Date will be extended to the sooner of the release of the Underlying or six months after the end of the government shutdown.",
+   "close": "2026-12-10T15:00:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXRT-EBE-37",
+   "question": "Ebenezer \u00b7 Rotten Tomatoes score \u2014 Above 37",
+   "rules": "If Ebenezer has a Tomatometer score of above 37 on Nov 16, 2026 at 10:00 AM ET, then the market resolves to Yes. The \"Fresh!\" and \"Certified Fresh!\" subtitles are meant for illustrative purposes only. The Tomatometer score must be above the strike value to resolve as YES (for example, a score of 75 would resolve \"Above 75\" as No.) The market will be determined the Monday after wide release at 10:00 AM ET.\n\nThis market and these products have not been endorsed by Rotten Tomatoes. Any references to Rotten Tomatoes or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between Rotten Tomatoes and Kalshi.",
+   "close": "2026-11-16T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXTRUMPSAYCOMPANY-26DEC01-DELL",
+   "question": "What companies will Trump say in November? \u2014 Dell",
+   "rules": "If Dell, or a plural or possessive form of Dell, is stated by Donald Trump before Dec 1, 2026 at 12:00am ET, then the market resolves to Yes. Payout criteria\nThe word or phrase must be stated by President Donald Trump in public statements, direct quotes published by Source Agencies, or written public statements on his personal social media accounts (Twitter/Truth Social).\nThe exact phrase/word, or a plural or possessive form of the phrase/word, must be used.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\n Official acts like Executive Orders or bills signed do not count. \n Grammatical/tense inflections.",
+   "close": "2026-12-01T17:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "poly:6721890",
+   "question": "Will Ethereum reach $2,400 in November?",
+   "rules": "This market will resolve to \"Yes\" if any Binance 1 minute candle for ETH/USDT from the creation of this market through 11:59 PM ET on the last day of the month specified in the title has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to \"No\". Price action before this market's creation will not be considered.\n\nThe resolution source for this market is Binance, specifically the ETH/USDT High prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-12-01T05:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXSPRITEPOS-26DEC03-T99",
+   "question": "Sprite Point of Sale Growth in November 2026 \u2014 Above 99",
+   "rules": "If the Carbon Arc Sprite Point of Sale Growth (November 2026) for November 2026 is above 99 , then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 2nd calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 2nd.\n\nThe index measures year-over-year change, where 100 means Sprite Point of Sale Growth was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% more spend than year prior, 97 = 3% decline from year prior. The index is measured by Carbon Arc's point-of-sale receipt panel using in-store and online purchases captured via receipt-scanning and rewards apps, matched to the same period of the prior year. The panel updates daily as new data arrives.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-12-10T06:30:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "kalshi:KXRAINWKND-26NOV14-DEN",
+   "question": "Where will it rain this weekend (Nov 14 - Nov 15)? \u2014 Denver",
+   "rules": "If the total precipitation at CLIDEN in Denver on any day within November 14, 2026 through November 15, 2026 is strictly greater than 0 inches, then the market resolves to Yes. Not all weather data is the same. While checking a source like AccuWeather or Google Weather may help guide your decision, the official and final value used to determine this market as reported by the Weather Company.\n\nReading weather data\nData for CLIDEN can be found at https://weather.com/kalshi.\n\u201cTrace\u201d amounts (T) and missing daily precipitation values are counted as 0 inches. ",
+   "close": "2026-11-17T04:59:59Z",
+   "category": "climate and weather"
+  },
+  {
+   "key": "kalshi:KXLLM1-26NOV16-ANTH",
+   "question": "Best AI this week \u2014 Claude",
+   "rules": "If Anthropic has the top-ranked LLM on Nov 16, 2026, then the market resolves to Yes. If two models are tied under Rank (UB), then the model with the highest Arena Score will win. If two models are still tied after that, then the model with the most votes will win. If two models are still tied after that, the model that was released earlier will win. Important information: When checking the source for this market, check the 'Remove Style Control' toggle.",
+   "close": "2026-11-16T15:00:00Z",
+   "category": "science and technology"
+  },
+  {
+   "key": "poly:5190565",
+   "question": "Next US-Iran senior diplomatic meeting by November 30, 2026?",
+   "rules": "On September 22, U.S. Special Envoy Steve Witkoff and Jared Kushner met Iranian Foreign Minister Abbas Araghchi on the sidelines of the UN General Assembly in New York, with President Trump saying another meeting is scheduled in the near future.(see: https://www.israelhayom.com/2026/09/22/witkoff-kushner-attended-us-iran-meeting-another-expected-soon). \n\nThis market will resolve to \u201cYes\u201d if there is a direct or indirect senior-level diplomatic meeting between the United States and Iran by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA diplomatic meeting occurs when representatives of both listed countries who are acting in an official capacity and are authorized to engage in diplomacy on behalf of their respective governments or governing authorities deliberately meet for the purpose of diplomacy or negotiation. A qualifying meeting need not result in any agreement, joint statement, or further engagement.\n\nA diplomatic meeting is senior-level if each listed entity is represented by a head of state, a head of government, or a vice president; a foreign minister; a minister of cabinet rank; the secretary or head of a national security council; the presid",
+   "close": "2026-12-01T04:59:00Z",
+   "category": "other"
+  }
+ ]
+}
