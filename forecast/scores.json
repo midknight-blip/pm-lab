@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-11T12:31:02Z",
- "forecasts_made": 80,
+ "updated": "2026-11-12T12:30:46Z",
+ "forecasts_made": 90,
  "awaiting_price": 0,
- "pending": 32,
+ "pending": 42,
  "void": 0,
  "all": {
-  "n": 48,
-  "brier_claude": 0.1998,
-  "brier_market": 0.1267,
-  "claude_minus_market": 0.0731,
-  "std_error": 0.0212,
+  "n": 49,
+  "brier_claude": 0.1965,
+  "brier_market": 0.125,
+  "claude_minus_market": 0.0716,
+  "std_error": 0.0208,
   "paper_bets": 37,
   "paper_staked": 12.67,
   "paper_pnl": -4.131,
@@ -64,6 +64,18 @@
    "paper_pnl": -0.754,
    "paper_roi": -0.446,
    "bet_wins": 1
+  },
+  "culture": {
+   "n": 1,
+   "brier_claude": 0.04,
+   "brier_market": 0.042,
+   "claude_minus_market": -0.002,
+   "std_error": null,
+   "paper_bets": 0,
+   "paper_staked": 0,
+   "paper_pnl": 0,
+   "paper_roi": null,
+   "bet_wins": 0
   },
   "economics": {
    "n": 4,
