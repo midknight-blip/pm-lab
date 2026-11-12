@@ -1,0 +1,44 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-12T07:16:02Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-12T07:16:02Z,kalshi,KXNFLH2HWINS-27KCNE,Kansas City vs New England: Head-to-Head Win Total,2,0.94,0.029,0.031,5.0,2027-01-18T15:00:00Z
+2026-11-12T07:16:02Z,kalshi,KXRANKLISTGOOGLESEARCH-26DEC,#1 searched person on Google in 2026,23,0.9,0.064,0.036,9.0,2026-12-31T15:00:00Z
+2026-11-12T07:16:02Z,kalshi,KXTOPMODEL-26NOV30,Top AI model this month,3,0.95,0.022,0.028,3.55,2026-11-30T15:00:00Z
+2026-11-12T07:16:02Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.99,0.003,0.007,6149.73,2027-02-27T15:00:00Z
+2026-11-12T07:16:02Z,kalshi,KXCAELECTION-2604,CA-04 House winner?,2,0.98,0.004,0.016,207.43,2026-12-01T15:00:00Z
+2026-11-12T07:16:02Z,polymarket,0x768fd8fc40c4fdff072abb3938bbbe2670b8683e2bb5e311849a8d6352e5c100,Highest temperature in Wuhan on November 13? 16°C,5,0.957,0.0327,0.0103,,2026-11-13T12:00:00Z
+2026-11-12T07:16:02Z,polymarket,0x485dfa370bac9c3ee364f33eb19a40371ec85828d6c91876e3cc796c8ef6d400,October Inflation US - Annual 3.7%,2,0.968,0.0036,0.0284,,2026-11-11T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x8b9d623099a4826870f1d8e4eacd9f0541dc2b79dbcc7759bf8b59a45aa52900,Lowest temperature in Seattle on November 11? 54-55°F,3,0.992,0.0006,0.0074,,2026-11-11T12:00:00Z
+2026-11-12T07:16:02Z,polymarket,0x131d8ef4f083fd567973b4a18fe3519984c458bc64282880ba27fe69af33a100,Lowest temperature in Shanghai on November 12? 16°C,3,0.982,0.0011,0.0169,,2026-11-12T12:00:00Z
+2026-11-12T07:16:02Z,polymarket,0x23b98eae7818853a248309ab88209e66fb8b3883a04f7ccbaef5ed45a6fa1d00,Eurovision Asia Winner 2026 Malaysia,3,0.94,0.024,0.036,,2026-11-15T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x5ea761318debf9fe175a592ba076df4ea55cb3d7ce9fdc2be4cfdb61b3fff300,Highest temperature in Seattle on November 13? 56-57°F,5,0.934,0.0303,0.0357,,2026-11-13T12:00:00Z
+2026-11-12T07:16:02Z,polymarket,0xcb394fe05985ab3e6ef9e699326d5671a059bcebe0d8f9d719bc1ba453d3db00,Highest temperature in Seoul (Incheon) on November 13? 16°C,6,0.947,0.0269,0.0261,,2026-11-13T12:00:00Z
+2026-11-12T07:16:02Z,polymarket,0x0e5c2305fc11649a79398339a255de22b6621cea1d0e3204877acdc823e82600,The Streamer Awards: Gamer of the Year Jynxzi,2,0.967,0.013,0.02,,2026-11-12T00:00:00Z
+2026-11-12T07:16:02Z,polymarket,0xf55bf0ab4617df9915cf8eadd393f6198835bbfe72e21da9ed7c0dc1b60a7b00,Highest temperature in Tel Aviv on November 13? 29°C,4,0.945,0.0279,0.0271,,2026-11-13T12:00:00Z
+2026-11-12T07:16:02Z,polymarket,0xafcd4d24b6a0fa6a571095306d2a0c8f3b6a466556aa6db1ff28649c9ceff100,Highest temperature in Miami on November 13? 78-79°F,3,0.95,0.0289,0.0211,,2026-11-13T12:00:00Z
+2026-11-12T07:16:02Z,polymarket,0x4ca4e85275a74ac24bd8e888b79c20827a2c0be8d382203cf4875e1ac87c0c00,"Khamenei # posts November 6 - November 13, 2026? 10-14",2,0.972,0.0016,0.0264,,2026-11-13T17:00:00Z
+2026-11-12T07:16:02Z,polymarket,0xd8efccd5e735b0b3425ee866d812531685a2a40c6e811334ac731c696ed7e700,CD Tarancón vs. Levante UD Draw (CD Tarancón vs. Levante UD),2,0.98,0.009,0.011,,2026-11-12T18:00:00Z
+2026-11-12T07:16:02Z,polymarket,0x254af0bba8a7c04f9a3945db025c210c347e176e42d366936ec0610583e6f000,What will be the top global Netflix show this week? (November 17) Taken: Natalee Holloway: Season 1,3,0.976,0.0159,0.008,,2026-11-18T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x4bcf537542dc5cae365f9a8e4bdd5075f5e146774ef3320e26d449ae40fbbc00,CMA Single of the Year 2026 Choosin' Texas (Ella Langley),4,0.969,0.0025,0.0285,,2026-11-19T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x459d347311b6cd38e23900ac79741f3a99e9ee863baa4705db23e6b3306d9c00,FC Bayern München vs. 1. FC Köln FC Bayern München,2,0.97,0.0078,0.0222,,2026-11-20T19:30:00Z
+2026-11-12T07:16:02Z,polymarket,0xca1817fe620156c08ce3eb56ffbdf32914b2763172b825f990d03105f08bbe00,Yilan County Magistrate Election Winner Lin Kuo-chang,4,0.953,0.0076,0.0394,,2026-11-29T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.969,0.0055,0.0255,,2026-11-29T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x8194fc69090c482b0ede3be94712851085211befbc1dd7253a2253fd086a6700,#2 Spotify Artist in November? Justin Bieber,4,0.977,0.0154,0.0076,,2026-11-30T17:00:00Z
+2026-11-12T07:16:02Z,polymarket,0x1de88a8b1297a081e194acd64b160a1e7d43c61684888b69c009e9d23ef4de00,Second-best Text Arena Math AI Lab end of November? Anthropic,3,0.959,0.0204,0.0206,,2026-12-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x42d6a349cef014e98dc15c512ca6c5975907d748499660a690535161f7b9fc00,How many US aircraft carriers in CENTCOM on November 30? 3,3,0.972,0.0,0.028,,2026-12-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x967177048c3bc453bdcf6e8d5aa760bf1fa662643d4dc5e185308fc3f45c2800,Which company has the best AI model on LiveBench (Overall) end of November? Anthropic,2,0.95,0.0194,0.0306,,2026-12-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0xdba7b8daf65b218a65400940b34ade17ca03fb9dc0cadb6b29d29ebf8d2a5800,Spain General Election: ERC # of seats? 8-9,3,0.945,0.0256,0.0294,,2026-11-30T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x899d05c5ba21fb89f4f6fc5ce78cef4074b703180e8dde09e9017a3e9e532500,Bachelorette Season 22 Winner Brandon Perce,3,0.99,0.0012,0.0088,,2026-12-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Grand Theft Auto VI,3,0.973,0.0114,0.0157,,2027-01-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,"OpenAI IPO Closing Market Cap No IPO by December 31, 2026",2,0.984,0.0014,0.0146,,2027-01-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x53f0744accd8ee5d067a97910a657eab88af746ff9132b7a28f16b9541853900,How many more Millennium Prize Problems will AI solve in 2026? 0,4,0.97,0.0069,0.0231,,2027-01-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Joshua Van,2,0.988,0.0005,0.0115,,2027-01-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0xff63b3ff3e246ec104bbc1bf6a2466262d635b4535a0ea01165d3ea0ed094c00,F1: Action of the Year Kimi Antonelli,3,0.966,0.0126,0.0214,,2027-01-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0xfb8da6c2292e015b18590fa64c22d1124ad4cd4ccb2a17e538a3a4b002953600,Nigerian Presidential Election Winner Rotimi Amaechi,8,0.969,0.0178,0.0132,,2027-01-17T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x29b57a94f8c7cf066e8d91ef0eb7020ecb32b61b733bdf4f36cf4358f2261e00,Which month will Strait of Hormuz traffic return to normal? No Return to Normal Traffic in 2026,2,0.99,0.0,0.01,,2027-02-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.987,0.0068,0.0062,,2027-02-07T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x984d5980953cbd4c90aaee09692f0c5cfeea7dddfeccb542714b5462e7ba8a00,Next Israeli Minister of Foreign Affairs? Yair Lapid,15,0.961,0.0286,0.0104,,2027-03-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? No Next Minister by Feb 28,16,0.949,0.0307,0.0203,,2027-03-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x8081be60a2c564046d6d1971a8bb76540e4d7e1eeb6a2b4712b414c48e363900,El Salvador Legislative Election: 3rd Place PDC,11,0.929,0.0318,0.0392,,2027-03-01T04:59:00Z
+2026-11-12T07:16:02Z,polymarket,0xb43001375298b3c714096f50ea4881f0b67388cf1eea46950dc7882d17c05e00,Who will be the top-selling artist by total auction sales in 2026? Other,4,0.976,0.0046,0.0194,,2027-04-01T03:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.969,0.015,0.016,,2027-03-31T03:59:00Z
+2026-11-12T07:16:02Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.968,0.0112,0.0208,,2027-03-31T03:59:00Z
