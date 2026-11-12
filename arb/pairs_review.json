@@ -59,6 +59,11 @@
   "note": "Game already played and pair dropped from matched list before review; rules text not available. Edge pattern (huge, around kickoff) looks like stale/in-play prices.",
   "status": "unsure"
  },
+ "KXAFCONGAME-26NOV13BURMRT-TIE|6671446": {
+  "checked": "2026-11-12",
+  "note": "Pair dropped out of the matched list before review; rules text not available to compare.",
+  "status": "unsure"
+ },
  "KXBUNDESLIGASCORE-26OCT30SVEM05-SVE1M055|5794334": {
   "checked": "2026-11-02",
   "note": "Exact-score pair, already dropped from matched list and settled; rules text not available to compare.",
@@ -102,6 +107,11 @@
  "KXCMA-FVOTY26-ELAN|4663837": {
   "checked": "2026-10-29",
   "note": "Rules match (Ella Langley wins 2026 CMA Female Vocalist), but a 62c edge at size 30 is implausible; suspect a stale or mis-mapped price. Hold out until prices are checked.",
+  "status": "unsure"
+ },
+ "KXCONCACAFNLGAME-26NOV14JAMMEX-TIE|6684327": {
+  "checked": "2026-11-12",
+  "note": "Pair dropped out of the matched list before review; rules text not available to compare.",
   "status": "unsure"
  },
  "KXCOPADOBRASIL-26-PAL|3957746": {
@@ -1519,6 +1529,11 @@
   "note": "Game already played and pair dropped from matched list before review; rules text not available. Huge edge around kickoff/after looks like stale prices on a decided game.",
   "status": "unsure"
  },
+ "KXLIGAEXPGAME-26NOV13CLUPIR-PIR|6917015": {
+  "checked": "2026-11-12",
+  "note": "Pair dropped out of the matched list before review; rules text not available to compare.",
+  "status": "unsure"
+ },
  "KXLIGUE1SCORE-26OCT30HACPSG-HAC0PSG1|5794343": {
   "checked": "2026-11-02",
   "note": "Exact-score pair, already dropped from matched list and settled; rules text not available to compare.",
@@ -1589,6 +1604,11 @@
   "note": "Both: Riga FC wins in regulation, Nov 8 match; Poly resolves No if cancelled. 43c edge on a played game = stale price, not real.",
   "status": "same"
  },
+ "KXLVAVIRGAME-26NOV08RFCRFS-RFS|6734043": {
+  "checked": "2026-11-12",
+  "note": "Pair dropped out of the matched list before review; rules text not available to compare.",
+  "status": "unsure"
+ },
  "KXLVAVIRGAME-26NOV08RFCRFS-TIE|6734042": {
   "checked": "2026-11-09",
   "note": "Both: draw after 90 min + stoppage, Nov 8 match. Gap: Poly resolves YES if cancelled/not played by Nov 10, Kalshi text silent. 65c edge on a played game = stale price.",
@@ -1608,6 +1628,16 @@
   "checked": "2026-10-26",
   "note": "Both: Hurricanes win 2026-27 Metropolitan Division per final NHL standings. Only gap is Poly 'Other' if season not finished by Jun 30 2027.",
   "status": "same"
+ },
+ "KXODIMATCH-26NOV122100INDNZ-IND|6384979": {
+  "checked": "2026-11-12",
+  "note": "Kalshi = NZ vs India cricket ODI (Nov 12 9pm ET); Poly = FIFA football friendly NZ vs India (Nov 12 1am ET). Different sports, different events.",
+  "status": "different"
+ },
+ "KXODIMATCH-26NOV122100INDNZ-NZ|6384975": {
+  "checked": "2026-11-12",
+  "note": "Same mismatch: Kalshi cricket ODI vs Poly football friendly; also a football draw makes Poly NZ lose.",
+  "status": "different"
  },
  "KXPRESMATCHUP-28NOV07-AOCJVAN|561229": {
   "checked": "2026-10-14",
@@ -1874,6 +1904,11 @@
   "note": "Game already played and pair dropped from matched list before review; rules text not available. Huge edge around kickoff/after looks like stale prices on a decided game.",
   "status": "unsure"
  },
+ "KXRANKLISTGOOGLESEARCHTOP5-26-ALS|4425407": {
+  "checked": "2026-11-12",
+  "note": "Pair dropped out of the matched list before review; rules text not available to compare.",
+  "status": "unsure"
+ },
  "KXRANKLISTGOOGLESEARCHTOP5-26-LIN|4425405": {
   "checked": "2026-10-15",
   "note": "Pair dropped out of the matched list; no rules text to compare.",
@@ -1928,6 +1963,11 @@
   "checked": "2026-10-29",
   "note": "Kalshi = Al-Shabab wins, Poly = Al Ahli wins. Draw makes both lose; not complements.",
   "status": "different"
+ },
+ "KXSBSETLISTS-27-EMP|6920502": {
+  "checked": "2026-11-12",
+  "note": "Pair dropped out of the matched list before review; rules text not available to compare.",
+  "status": "unsure"
  },
  "KXSP500ADDQ-26DEC31-ALNY|6329951": {
   "checked": "2026-10-29",
