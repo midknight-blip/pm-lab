@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-12T07:18:58Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-12T11:39:54Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-12T03:23:42Z — 249 of 249 pairs priced
-- Scans in the last 24h: 11 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-11-12T11:39:51Z — 246 of 247 pairs priced
+- Scans in the last 24h: 8 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-12T07:18:57Z — Kalshi 173505 markets, Polymarket 20593 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 933 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 934 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
-- Positive pairs ruled out as different bets after reading the rules: 316
-- Positive pairs still in play: **396** (confirmed same bet: 10, not yet checked: 358)
-- Scans with at least one positive pair: 932
+- Positive pairs ruled out as different bets after reading the rules: 318
+- Positive pairs still in play: **399** (confirmed same bet: 10, not yet checked: 355)
+- Scans with at least one positive pair: 933
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@ Running since 2026-10-14. 933 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 25 run, 372 positive spreads seen; typical one lasted 878 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 207. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 198. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Zelenskyy # posts November 3 - November 10, 2026? 100-119 — 2 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Junts # of seats? 7 — 5 outcomes, +4.0¢ per $1
   - polymarket: Yilan County Magistrate Election Winner Lin Kuo-chang — 4 outcomes, +3.9¢ per $1
