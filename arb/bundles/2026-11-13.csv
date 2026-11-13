@@ -35,3 +35,36 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-13T06:49:48Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Algeria,4,0.954,0.0144,0.0316,,2027-03-31T03:59:00Z
 2026-11-13T06:49:48Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.969,0.0112,0.0198,,2027-03-31T03:59:00Z
 2026-11-13T06:49:48Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 20 to 34,4,0.982,0.0082,0.0098,,2027-04-01T03:59:00Z
+2026-11-13T19:45:23Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-13T19:45:23Z,kalshi,KXGRAMMY-BDPR69,Grammy Winner: Best Dance Pop Recording,11,0.92,0.058,0.022,200.0,2027-02-08T04:59:00Z
+2026-11-13T19:45:23Z,kalshi,KXNFLH2HWINS-27KCNE,Kansas City vs New England: Head-to-Head Win Total,2,0.94,0.028,0.032,3.61,2027-01-18T15:00:00Z
+2026-11-13T19:45:23Z,kalshi,KXGOOGLESEARCH-ATH27,Google’s Year in Search 2026 Global - Athletes: #1 search,11,0.92,0.052,0.028,17.86,2027-01-01T15:00:00Z
+2026-11-13T19:45:23Z,kalshi,KXWILCOJUDGE-26,Williamson County Judge winner?,2,0.99,0.003,0.007,5.0,2026-12-15T15:00:00Z
+2026-11-13T19:45:23Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.99,0.003,0.007,9431.0,2027-01-27T15:00:00Z
+2026-11-13T19:45:23Z,kalshi,KXSTATELEG-AKHOUSE26,Alaska State House winner?,2,0.98,0.005,0.015,1980.0,2027-02-02T15:00:00Z
+2026-11-13T19:45:23Z,polymarket,0xf1e5db0b101aa088ac7b0a395bdc092398fedc26bcffab859b4254225e089f00,Kazakhstan vs. Slovakia - Exact Score Kazakhstan 1 - 3 Slovakia,2,0.97,0.025,0.005,,2026-11-16T15:00:00Z
+2026-11-13T19:45:23Z,polymarket,0x85ce292f71e4baf9be5f1452f18d92ceca44338ee6362f3508e808f3d2f34000,Finland vs. San Marino Finland,2,0.971,0.0025,0.0265,,2026-11-15T17:00:00Z
+2026-11-13T19:45:23Z,polymarket,0x88f804ea81b480de6fe61e60294687b8826385800f267b45bc32e00b568d6400,Highest temperature in Atlanta on November 15? 54-55°F,3,0.96,0.0303,0.0097,,2026-11-15T12:00:00Z
+2026-11-13T19:45:23Z,polymarket,0x707b4ae7e4384d7be27dc2b76cfcbcdc41b3384088c549e55f67946c073cd400,Highest temperature in Paris on November 15? 14°C,2,0.961,0.0242,0.0148,,2026-11-15T12:00:00Z
+2026-11-13T19:45:23Z,polymarket,0x1367ed19150cf503508569c3f723804d7247e41ca23fd0783ba1bba2b62e9b00,How long will Trump and Xi shake hands at APEC? 2–6s,5,0.947,0.0276,0.0254,,2026-12-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x57e3a869e2beb75e7cadf392efb395f6e226b20a3de65e48ccc21893890e8d00,Brazil GDP Growth in Q3 2026 (QoQ)? <-0.3%,2,0.969,0.0248,0.0062,,2026-12-02T00:00:00Z
+2026-11-13T19:45:23Z,polymarket,0xa8ae07d3ffe3d78b4be9266d50988bab63ca499a2ca7d649f47c79b1b2d4c000,Third-best AI Agent Lab end of November? Google,3,0.968,0.0232,0.0088,,2026-12-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x7f29f973c38f4675eb225c902036e38270d439d9831d267dc0185221c6bc5c00,Second-best AI Lab end of November? Google,3,0.969,0.0175,0.0135,,2026-12-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x24071f0a775124dd4ab818271e64abd4b7a6a37636dcb8e3be14ed2b31df5e00,Spain General Election: Gipuzkoa Winner Vox,2,0.987,0.001,0.012,,2026-11-30T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x89a1959a55412a9a645ec935c97e914720e7da0e48b121a43a1aa5cff9b67a00,Which company has the best AI Agent end of November? Anthropic,3,0.986,0.0018,0.0122,,2026-12-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x0865938da77ef6b9ae0562004d943d6049657f6bc4df6028653609087e783800,Avg. # of ships transiting Strait of Hormuz end of November? 25-29,3,0.979,0.0,0.021,,2026-12-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0xa488af1d4e8df2973c12d6ca87174bf5e8e53fac7f4be74e0d1d214fc81d4300,Longest GitHub critical incident in November 2026? 6-12 hours,3,0.95,0.0251,0.0249,,2026-12-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x2519e258a24e7c847d53022e321cc54605568961adb75f79abaa0c2a33aa7600,Next leader out of power before 2027? Sheinbaum - Mexico President,16,0.985,0.0,0.015,,2027-01-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x2a4a952b6008b8b88d0cfd0a62c522c69f993f5d3da13da94dd3a408cd9ed200,Where will Zelenskyy and Putin meet next before 2027? China,10,0.989,0.0,0.011,,2027-01-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Ahmad Vahidi,11,0.988,0.0,0.012,,2026-12-31T17:00:00Z
+2026-11-13T19:45:23Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,OpenAI IPO Closing Market Cap 500–750B,3,0.984,0.0013,0.0147,,2027-01-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Alexander Volkanovski,3,0.986,0.0036,0.0104,,2027-01-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 12-15,2,0.983,0.0095,0.0075,,2027-01-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,3,0.986,0.0033,0.0107,,2027-01-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x3209bb52912d7ab944b18b09c9430230612071e9f921e425b4e8a39c519cac00,Best Chinese AI Company end of December? Alibaba,4,0.957,0.0234,0.0196,,2027-01-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Joshua Van,3,0.983,0.0018,0.0152,,2027-01-01T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0xd104a4f58a46fb5ed8f488ea647ea181fb9625e37ac9033038da300828e6d800,Fantasy Football: 2026-27 QB Points Leader Kirk Cousins,7,0.963,0.021,0.016,,2027-01-27T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0xc14c2e9b60444497f112e77391dd2c2162d8ac75bb35282e336bb9761b298900,Grammys 2027: Best Traditional Country Album Winner Workin' Man: Willie Sings Merle - Willie Nelson,8,0.962,0.025,0.013,,2027-02-07T23:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x747593bf9a34697d5d549db643908ba4868c51ba9ed1f92ead6208f51d911400,"Oyo, Nigeria Governor Election Winner Gbemileke Alagbe",7,0.962,0.0243,0.0137,,2027-02-07T04:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Burundi,4,0.958,0.0145,0.0275,,2027-03-31T03:59:00Z
+2026-11-13T19:45:23Z,polymarket,0x46da478810d7b57e3535fb21ea1da72aa3cbf82f0a649da022852f4bc5e10d00,2027 French Presidential Election: Attal vs Philippe Neither,4,0.967,0.0252,0.0078,,2027-04-18T23:59:00Z
