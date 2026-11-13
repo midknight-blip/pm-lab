@@ -1,0 +1,37 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-13T06:49:48Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-13T06:49:48Z,kalshi,KXNFLMVPSPECIALS-27DIV,Division of Pro Football MVP Winner,8,0.91,0.054,0.036,1.0,2027-02-15T15:00:00Z
+2026-11-13T06:49:48Z,kalshi,KXCODINGMODEL-26DEC,Which AI company will have the best coding model at the end of 2026?,9,0.94,0.036,0.024,2.0,2026-12-31T15:00:00Z
+2026-11-13T06:49:48Z,kalshi,KXNETFLIXRANKMOVIE-26NOV16,Top US Netflix Movie this week?,15,0.92,0.051,0.029,1.0,2026-11-17T15:00:00Z
+2026-11-13T06:49:48Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.99,0.003,0.007,9937.0,2027-01-27T15:00:00Z
+2026-11-13T06:49:48Z,polymarket,0xec0846e7b0e59a812642cb9f245030d491030654c888c0250170e8cf6a22a400,"Bitcoin price on November 16? <66,000",4,0.913,0.0479,0.0391,,2026-11-16T17:00:00Z
+2026-11-13T06:49:48Z,polymarket,0xe46ddf1d2f037d1c44ecbb1f2dc99b805abd1404b5f9596fbc819fe6b63a5c00,Eurovision Asia 2026: Public Vote Winner Philippines,4,0.943,0.0305,0.0265,,2026-11-15T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x851fc85bef8a56c5f49a9586b9a6ed8557e407cfef02fbe11c995aa585fb5400,"Ethereum price on November 15? 1,800-1,900",3,0.942,0.0428,0.0152,,2026-11-15T17:00:00Z
+2026-11-13T06:49:48Z,polymarket,0xabf4aee6c85c9f62bcca6c45c41ee657e5fc52adcc0851bec5d24c5498530e00,"""The Cat in the Hat"" 2nd Weekend Box Office <9m",4,0.95,0.0345,0.0155,,2026-11-15T12:00:00Z
+2026-11-13T06:49:48Z,polymarket,0x36846ff9293e681341229b3d6c56aed0448fd468a151f5dfdceb6f9ba7326600,Highest temperature in Mexico City on November 14? 22°C,3,0.939,0.0304,0.0306,,2026-11-14T12:00:00Z
+2026-11-13T06:49:48Z,polymarket,0x67b3285b4dc25e16ad998aa51b537fe7e1ce774291179495521d9c8fb0f77700,Walmart (WMT) Q3 US eCommerce sales growth? 21% to 25%,2,0.95,0.0135,0.0365,,2026-11-19T14:30:00Z
+2026-11-13T06:49:48Z,polymarket,0x76f9c2d548e6ee82cef5710317d6111907990e8631a0464f097ea12ad6bca900,Miss Universe 2026: Second Place Cuba,5,0.946,0.038,0.016,,2026-11-25T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x287c87a661e4e7a72ef2cc5caafbc1f89c99a7e3eb5e56fc65ec2d976d3d5800,Spain General Election: Toledo Winner PP,2,0.98,0.009,0.011,,2026-11-30T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xb6810ed581cc05e674b028a4e99525a319ee37104756eca5bca9f9c4cb4a8400,Lowest Mississippi level at St. Louis by November 30? -1.00 to 0.99 ft,2,0.98,0.0113,0.0087,,2026-12-02T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x7de983abbc009b4936f868e8df6d78c8201765c7611012f6df088260cc0e8400,Spain General Election: Junts # of seats? 6,4,0.936,0.0276,0.0364,,2026-11-30T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x1de88a8b1297a081e194acd64b160a1e7d43c61684888b69c009e9d23ef4de00,Second-best Text Arena Math AI Lab end of November? Anthropic,3,0.964,0.0193,0.0167,,2026-12-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xf667584c0e7bac59a7b0d83adfcaa1a7ed91169d016aee5b32274f274e26cf00,Second-Best Chinese AI Company end of November? Xiaomi,3,0.966,0.0235,0.0105,,2026-12-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x57017f10c45ecde60b4f1fec2c0de6b9bd329e77067a439b6dcbc4341fba3600,Mayor Combo: Taipei and New Taipei DPP sweep,3,0.96,0.026,0.014,,2026-11-29T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xb911db13b91d5bd5f18efb2add3f4627e650868a78f34cabd5edcbaaa1bdc000,Pingtung County Magistrate Election Winner Chou Chun-mi,2,0.977,0.0051,0.0179,,2026-11-29T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xda1d8b4baa02a4d474b7728d77589dd4ba85bf67811999cba0d3eb7c689d6f00,Spain General Election: 2nd Place PSOE,2,0.98,0.0113,0.0087,,2026-11-30T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x45ec1f7704d0ddd047e70443e830028d8801671283883ad1b46a29659488b600,Venezuela leader end of 2026? Nicolás Maduro,10,0.983,0.0076,0.0094,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xb03af4d5e77c3e183222088f183d720b149cd58f32499cb908dafea1f14a9100,How many Jensen Huang affairs will be reported by December 31? 3,5,0.96,0.0252,0.0148,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xdc071194d8450de5fd849ecd4af4fabc20ad5021ca24c83d7748810b06695100,Which company has the best AI Agent end of December? Anthropic,8,0.975,0.0072,0.0178,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xec7785e0c950a345e46a5d722a495ce3d3223c91b62a898da539b84972d7e000,VALORANT Offseason: zekken Next Team NRG,11,0.949,0.0175,0.0335,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x53f0744accd8ee5d067a97910a657eab88af746ff9132b7a28f16b9541853900,How many more Millennium Prize Problems will AI solve in 2026? 1,2,0.97,0.0069,0.0231,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Joshua Van,2,0.993,0.0003,0.0067,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x44bd07117f65bede325cefbe62f51dc59a221e5e473afc2da2962d73edc7ba00,Second-Best Chinese AI Company end of December? Z.ai,3,0.95,0.0253,0.0247,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xbccd9b41bb1613743f94e64ae5c4cbeede22da4ee973999dbcd197d55035c300,SB Energy IPO Closing Market Cap No IPO before January 2027,2,0.974,0.0032,0.0228,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x4f5a85d9ed8f13ee723cb30e29ba3c3fa9cd08f207cae5c8acc3cd8752c68800,South Korea Annual Inflation 2026 3.0%+,4,0.933,0.031,0.036,,2027-01-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xd0d2cb4c30f1d17e10ba41cedefd3e332a1db50628b08aea889df6b5f7200c00,#2 Spotify Song 2026 Babydoll – Dominic Fike,14,0.964,0.013,0.023,,2027-02-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.972,0.0063,0.0217,,2027-02-07T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xe6569ccdca97df6cdbc00e8752e8f2673a5c8a4cb0d2a69b76169a088f150800,Next Brazilian Minister of Justice and Public Security? Jaques Wagner,6,0.96,0.029,0.011,,2027-03-01T04:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x2c797e8c5a61544cc9006ca030be86ea89a7be45e5fe7f133f247fd6ae760a00,Oscars 2027: Best Animated Short Film Winner Paper Trail,11,0.938,0.0414,0.0206,,2027-03-14T23:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Algeria,4,0.954,0.0144,0.0316,,2027-03-31T03:59:00Z
+2026-11-13T06:49:48Z,polymarket,0x52e692f3d8db088fc7de7dc85c5fd48409d4fd4df9075cd9e9c4c79d53bcb500,AFCON 2027 Qualifying: Group A Winner Lesotho,4,0.969,0.0112,0.0198,,2027-03-31T03:59:00Z
+2026-11-13T06:49:48Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 20 to 34,4,0.982,0.0082,0.0098,,2027-04-01T03:59:00Z

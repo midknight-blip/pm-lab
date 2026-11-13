@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-13T00:24:05Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-13T06:52:42Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-13T00:24:02Z — 210 of 249 pairs priced
-- Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-12T20:00:24Z — Kalshi 183726 markets, Polymarket 20622 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-13T06:52:42Z — Kalshi 197349 markets, Polymarket 22251 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,10 +33,10 @@ Running since 2026-10-14. 936 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 25 run, 372 positive spreads seen; typical one lasted 878 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 185. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Spain General Election: Junts # of seats? 7 — 5 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 196. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Yilan County Magistrate Election Winner Lin Kuo-chang — 4 outcomes, +3.9¢ per $1
   - polymarket: El Salvador Legislative Election: 3rd Place PDC — 11 outcomes, +3.9¢ per $1
+  - polymarket: Bitcoin price on November 16? <66,000 — 4 outcomes, +3.9¢ per $1
   - polymarket: Which company has #1 AI model end of December? (Style Control On) Goog — 3 outcomes, +3.9¢ per $1
   - polymarket: Next Muse Spark Model (1.4+) released on...? November 28 — 5 outcomes, +3.9¢ per $1
 
