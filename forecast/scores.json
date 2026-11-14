@@ -1,32 +1,32 @@
 {
- "updated": "2026-11-13T18:42:33Z",
+ "updated": "2026-11-14T17:17:03Z",
  "forecasts_made": 90,
  "awaiting_price": 0,
- "pending": 40,
+ "pending": 38,
  "void": 0,
  "all": {
-  "n": 50,
-  "brier_claude": 0.193,
-  "brier_market": 0.1248,
-  "claude_minus_market": 0.0682,
-  "std_error": 0.0207,
-  "paper_bets": 38,
-  "paper_staked": 13.36,
-  "paper_pnl": -3.836,
-  "paper_roi": -0.287,
-  "bet_wins": 10
+  "n": 55,
+  "brier_claude": 0.1954,
+  "brier_market": 0.1328,
+  "claude_minus_market": 0.0626,
+  "std_error": 0.0229,
+  "paper_bets": 42,
+  "paper_staked": 14.95,
+  "paper_pnl": -2.492,
+  "paper_roi": -0.167,
+  "bet_wins": 13
  },
  "disagree_10pts_plus": {
-  "n": 27,
-  "brier_claude": 0.2452,
-  "brier_market": 0.1304,
-  "claude_minus_market": 0.1148,
-  "std_error": 0.035,
-  "paper_bets": 27,
-  "paper_staked": 9.25,
-  "paper_pnl": -2.62,
-  "paper_roi": -0.283,
-  "bet_wins": 7
+  "n": 29,
+  "brier_claude": 0.2511,
+  "brier_market": 0.1371,
+  "claude_minus_market": 0.114,
+  "std_error": 0.0403,
+  "paper_bets": 29,
+  "paper_staked": 9.9,
+  "paper_pnl": -2.301,
+  "paper_roi": -0.232,
+  "bet_wins": 8
  },
  "by_category": {
   "climate and weather": {
@@ -42,11 +42,11 @@
    "bet_wins": 2
   },
   "commodities": {
-   "n": 3,
-   "brier_claude": 0.0712,
-   "brier_market": 0.0513,
-   "claude_minus_market": 0.0199,
-   "std_error": 0.0124,
+   "n": 4,
+   "brier_claude": 0.059,
+   "brier_market": 0.0438,
+   "claude_minus_market": 0.0153,
+   "std_error": 0.0099,
    "paper_bets": 1,
    "paper_staked": 0.11,
    "paper_pnl": -0.117,
@@ -114,16 +114,16 @@
    "bet_wins": 2
   },
   "financials": {
-   "n": 1,
-   "brier_claude": 0.4225,
-   "brier_market": 0.0552,
-   "claude_minus_market": 0.3673,
-   "std_error": null,
-   "paper_bets": 1,
-   "paper_staked": 0.3,
-   "paper_pnl": -0.315,
-   "paper_roi": -1.05,
-   "bet_wins": 0
+   "n": 5,
+   "brier_claude": 0.299,
+   "brier_market": 0.2188,
+   "claude_minus_market": 0.0802,
+   "std_error": 0.1729,
+   "paper_bets": 5,
+   "paper_staked": 1.89,
+   "paper_pnl": 1.029,
+   "paper_roi": 0.544,
+   "bet_wins": 3
   },
   "mentions": {
    "n": 4,
