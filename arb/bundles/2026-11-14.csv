@@ -1,0 +1,34 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-14T06:29:36Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-14T06:29:36Z,kalshi,KXNCAAMBSEC-27,SEC Men's Conference Tournament Champion,16,0.92,0.065,0.015,1.0,2027-03-14T22:00:00Z
+2026-11-14T06:29:36Z,kalshi,KXNCAAMBPAT-27,Patriot League Men's Conference Tournament Champion,10,0.93,0.057,0.013,5.0,2027-03-14T21:00:00Z
+2026-11-14T06:29:36Z,kalshi,KXNIGERIASENATE-27,Nigerian Senate election winner?,3,0.962,0.017,0.021,6.0,2027-02-28T15:00:00Z
+2026-11-14T06:29:36Z,kalshi,KXNFLMVPSPECIALS-27DIV,Division of Pro Football MVP Winner,8,0.93,0.055,0.015,1.0,2027-02-15T15:00:00Z
+2026-11-14T06:29:36Z,kalshi,KXNFLH2HWINS-27KCNE,Kansas City vs New England: Head-to-Head Win Total,2,0.94,0.028,0.032,3.61,2027-01-18T15:00:00Z
+2026-11-14T06:29:36Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.99,0.003,0.007,2007.43,2027-01-27T15:00:00Z
+2026-11-14T06:29:36Z,polymarket,0xa7cb14195178ffbf213b505914463dee180bc35b7e6299e324aac00433156d00,Highest temperature in Chicago on November 15? 50-51°F,4,0.944,0.0284,0.0276,,2026-11-15T12:00:00Z
+2026-11-14T06:29:36Z,polymarket,0xec0846e7b0e59a812642cb9f245030d491030654c888c0250170e8cf6a22a400,"Bitcoin price on November 16? 66,000-68,000",4,0.938,0.0453,0.0167,,2026-11-16T17:00:00Z
+2026-11-14T06:29:36Z,polymarket,0xfeabd044a647f76a83b22dc44303c651e1cf06bef79e8d77b63b8bea5a108c00,Lowest temperature in Seoul (Incheon) on November 14? 12°C,2,0.961,0.002,0.037,,2026-11-14T12:00:00Z
+2026-11-14T06:29:36Z,polymarket,0x8d997117690feb4416dff98e41d6b9f8160f123358126b80935cfe4c7b4e0d00,CMA New Artist of the Year 2026 Stephen Wilson Jr.,2,0.95,0.0236,0.0264,,2026-11-19T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x4a0e0612f53c9072e37ce6bec98005c8d941241bf842fd4c79985b2985f10000,Highest temperature in Sao Paulo on November 15? 28°C,4,0.931,0.0344,0.0346,,2026-11-15T12:00:00Z
+2026-11-14T06:29:36Z,polymarket,0x63c6885f818c6e90c4a0b2a8bc85ced67f503465b1c074b8fd20dae6eb88ab00,Highest temperature in Mexico City on November 15? 25°C,3,0.948,0.0298,0.0222,,2026-11-15T12:00:00Z
+2026-11-14T06:29:36Z,polymarket,0x87289b60f1bfe0210bf7a015bead4e8121b524dafab437f31bafb7bbcfd00200,"NYC Mayor # posts November 10 - November 17, 2026? 20-39",2,0.975,0.0017,0.0233,,2026-11-17T17:00:00Z
+2026-11-14T06:29:36Z,polymarket,0x883fd559657b827509674553125b03116d3c4b1f14dbbcf02a2f396a2759f000,"Bitcoin price on November 19? 64,000-66,000",10,0.911,0.0537,0.0353,,2026-11-19T17:00:00Z
+2026-11-14T06:29:36Z,polymarket,0x90b7720eee529ad4b66723c52eaf3dcd8cb8523764c299eb08c3f7949e8ca900,#2 Spotify song this week? (November 20) Nicole Kidman - ADÉLA,3,0.96,0.0115,0.0286,,2026-11-20T23:59:00Z
+2026-11-14T06:29:36Z,polymarket,0xb854c77e92ed36b7b6d231366b4126fc7059504f025ae628fae8fc882934e500,Spain General Election: Alicante Winner Vox,2,0.96,0.0052,0.0348,,2026-11-30T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x57e3a869e2beb75e7cadf392efb395f6e226b20a3de65e48ccc21893890e8d00,Brazil GDP Growth in Q3 2026 (QoQ)? <-0.3%,3,0.935,0.0302,0.0348,,2026-12-02T00:00:00Z
+2026-11-14T06:29:36Z,polymarket,0x82acbf2d63056e8c33e063524094099292922087f073944e1d64a24e40889900,Hualien County Magistrate Election Winner Yu Shu-chen,2,0.97,0.0055,0.0245,,2026-11-29T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x11c61aee25e287324124a412129b12b0cf4c4bfbf8f42e746ee2e66d7ec2c200,2028 presidential odds leader on November 30? JD Vance,2,0.983,0.0064,0.0106,,2026-11-30T17:00:00Z
+2026-11-14T06:29:36Z,polymarket,0x620c509c8d6a1f3548fd9c522431661b0f88800bbddb7bddfeada65969e3e400,Spain General Election: Valladolid Winner Podemos,4,0.969,0.0034,0.0276,,2026-11-30T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x7f29f973c38f4675eb225c902036e38270d439d9831d267dc0185221c6bc5c00,Second-best AI Lab end of November? Google,3,0.967,0.0174,0.0156,,2026-12-01T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x9d5f4d15e5ad34d4dfc02f2264930aea78afbf11dfa3f96bdf2ee00bb9a30700,UEFA Nations League 2026-27: Group B3 Winner Republic of Ireland,2,0.96,0.0105,0.0295,,2026-12-02T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0xa488af1d4e8df2973c12d6ca87174bf5e8e53fac7f4be74e0d1d214fc81d4300,Longest GitHub critical incident in November 2026? 1-3 hours,3,0.96,0.0254,0.0146,,2026-12-01T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x6eb56b7fd3fc348bdfd7afcca316ee12a02c1aa5d084ec5592e6457eaebd0d00,How many dissent at the December Fed meeting? 0,2,0.973,0.0125,0.0145,,2026-12-10T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x44d1a036e5c888678d2ca61b3cb2815c8bb05b527f69c19058b20736f6119b00,How many Fed rate hikes in 2026? 1 (25 bps),3,0.982,0.0093,0.0087,,2026-12-31T23:59:00Z
+2026-11-14T06:29:36Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,OpenAI IPO Closing Market Cap 500–750B,2,0.976,0.0011,0.0229,,2027-01-01T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x3b6a1bbb21c69e4dd1964d9cbcf95b09e11c7a62932fbb4922e3d18f58204300,Which company's AI will first hit 1550 on Chatbot Arena in 2026? Anthropic,3,0.97,0.0238,0.0062,,2027-01-01T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.976,0.0034,0.0206,,2027-01-01T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x1a90b678f46586924a1d95a392cc392d8dcfccf644ea817ec4ba99df5f5aea00,Who will be UFC Featherweight champion at the end of 2026? Movsar Evloev,3,0.986,0.0036,0.0104,,2027-01-01T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Grand Theft Auto VI,4,0.974,0.0114,0.0147,,2027-01-01T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.975,0.0064,0.0186,,2027-02-07T04:59:00Z
+2026-11-14T06:29:36Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 50 or more,4,0.985,0.0083,0.0067,,2027-04-01T03:59:00Z

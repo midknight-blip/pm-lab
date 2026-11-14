@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-14T01:41:49Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-14T06:33:33Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-14T01:41:46Z — 211 of 250 pairs priced
 - Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-13T19:49:17Z — Kalshi 200829 markets, Polymarket 21696 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-14T06:33:33Z — Kalshi 194131 markets, Polymarket 22245 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,7 +33,7 @@ Running since 2026-10-14. 940 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 26 run, 378 positive spreads seen; typical one lasted 922 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 158. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 176. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Yilan County Magistrate Election Winner Lin Kuo-chang — 4 outcomes, +3.9¢ per $1
   - polymarket: El Salvador Legislative Election: 3rd Place PDC — 11 outcomes, +3.9¢ per $1
   - polymarket: Bitcoin price on November 16? <66,000 — 4 outcomes, +3.9¢ per $1
