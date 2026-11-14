@@ -32,3 +32,30 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-14T06:29:36Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Grand Theft Auto VI,4,0.974,0.0114,0.0147,,2027-01-01T04:59:00Z
 2026-11-14T06:29:36Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.975,0.0064,0.0186,,2027-02-07T04:59:00Z
 2026-11-14T06:29:36Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 50 or more,4,0.985,0.0083,0.0067,,2027-04-01T03:59:00Z
+2026-11-14T18:07:58Z,kalshi,KXNIGERIASENATE-27,Nigerian Senate election winner?,3,0.952,0.016,0.032,1.0,2027-02-28T15:00:00Z
+2026-11-14T18:07:58Z,kalshi,KXGRAMMY-BCDGP69,Grammy Winner: Best Country Duo/Group Performance,11,0.91,0.059,0.031,150.0,2027-02-08T04:59:00Z
+2026-11-14T18:07:58Z,kalshi,KXNFLH2HWINS-27KCNE,Kansas City vs New England: Head-to-Head Win Total,2,0.94,0.028,0.032,3.61,2027-01-18T15:00:00Z
+2026-11-14T18:07:58Z,kalshi,KXPARDONSYEAR-26DEC,How many people will Trump pardon in 2026?,4,0.94,0.051,0.009,6.0,2027-01-01T15:00:00Z
+2026-11-14T18:07:58Z,kalshi,KXNFLMOSTRSHYDS-26NOV15CARNO,Carolina vs New Orleans: Most Rushing Yards,2,0.96,0.016,0.024,50.0,2026-11-15T21:00:00Z
+2026-11-14T18:07:58Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.99,0.003,0.007,2153.01,2027-01-27T15:00:00Z
+2026-11-14T18:07:58Z,polymarket,0x990d1c6ad975465a833aae6cb0781f72bedd3feb8841f7a35e42bcd5ae7fc100,Highest temperature in Moscow on November 15? 4°C,2,0.956,0.0213,0.0227,,2026-11-15T12:00:00Z
+2026-11-14T18:07:58Z,polymarket,0xec0846e7b0e59a812642cb9f245030d491030654c888c0250170e8cf6a22a400,"Bitcoin price on November 16? 66,000-68,000",3,0.943,0.0402,0.0168,,2026-11-16T17:00:00Z
+2026-11-14T18:07:58Z,polymarket,0xd8f73691833d6e3fc60a0a1dd977045b9bf40b52f7b35e61b673afe498ca6400,Highest temperature in London on November 16? 8°C,4,0.95,0.0352,0.0148,,2026-11-16T12:00:00Z
+2026-11-14T18:07:58Z,polymarket,0x6783180102e26a18cd09c9efcdddbe52415d7bcfb5a82405c806c857008b4200,Highest temperature in Helsinki on November 15? 9°C,2,0.95,0.0194,0.0306,,2026-11-15T12:00:00Z
+2026-11-14T18:07:58Z,polymarket,0x7e699066c6363e846fd7a530405543a94ce804c28c8a6f996b0aef0715036f00,Bank of Israel Decision in November? No Change,2,0.983,0.0016,0.0154,,2026-11-23T23:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x6f1f0343919744f8b0c1e7299b5cdde0977498506acb1d189e9a98ea9eaf8300,Real Madrid CF vs. RC Celta de Vigo Real Madrid CF,2,0.97,0.0124,0.0176,,2026-11-21T20:00:00Z
+2026-11-14T18:07:58Z,polymarket,0x904cc8a66822732c2e06af0113367cc6ccd8a83c65f512ab07a4804b8b659200,Third-best Code Arena WebDev AI Lab end of November? Meta,3,0.941,0.0226,0.0365,,2026-12-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0xc8976449183c3a3ffe8907baca45e70d87bae8730e3e77ca58a4840f801ac800,2nd largest private company end of November? OpenAI,2,0.966,0.0028,0.0312,,2026-12-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x069e99843fa38058edd49123522971b647e07badcd4d97fa81c06284ac52b100,NCAA Football 2026 American Conference: Winner Memphis Tigers,8,0.946,0.0277,0.0263,,2026-12-20T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Israel Adesanya,2,0.984,0.0025,0.0135,,2027-01-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x47f1f845b59341c727f7d5fdcb4d6ea92663e8911cf32c5f06fa69f20b6ca100,Who will receive the second mandate to form Israel's next government? No second mandate,21,0.961,0.0211,0.0179,,2027-01-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x5ee37efd0f4531127111902967c69cebc8131af4fab0da29c7550c986ed13100,Which company has #1 AI model end of December? (Style Control On) Google,3,0.965,0.0192,0.0158,,2027-01-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Amir Albazi,4,0.994,0.0005,0.0055,,2027-01-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0xdc071194d8450de5fd849ecd4af4fabc20ad5021ca24c83d7748810b06695100,Which company has the best AI Agent end of December? Anthropic,8,0.979,0.0066,0.0144,,2027-01-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x3b6a1bbb21c69e4dd1964d9cbcf95b09e11c7a62932fbb4922e3d18f58204300,Which company's AI will first hit 1550 on Chatbot Arena in 2026? Anthropic,3,0.959,0.0236,0.0174,,2027-01-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Justin Gaethje,2,0.98,0.0033,0.0167,,2027-01-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x680fda71297c3e6568ac8d7d0b56a702b72daec7f714f2c1af3b082135fd0a00,Pro Football: Tyreek Hill Next Team New England Patriots,32,0.948,0.0423,0.0097,,2027-01-01T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.97,0.0062,0.0238,,2027-02-07T04:59:00Z
+2026-11-14T18:07:58Z,polymarket,0x7957bf608d344380ded0342a78a23cab2ba95588fea9e79b1445df8d60d3ac00,AFCON 2027 Qualifying: Group I Winner Algeria,4,0.967,0.0103,0.0227,,2027-03-31T03:59:00Z
+2026-11-14T18:07:58Z,polymarket,0xfbe9584ce9bf5fadd3a2e87f758cb62619d9b810b8e5bc76033d4d6f96144a00,#1 Searched Actor on Google 2026? Michael B. Jordan,30,0.962,0.0303,0.0077,,2027-04-01T03:59:00Z
+2026-11-14T18:07:58Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 50 or more,4,0.983,0.0082,0.0088,,2027-04-01T03:59:00Z
