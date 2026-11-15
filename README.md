@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-15T03:08:14Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-15T06:41:06Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-15T03:08:12Z — 247 of 248 pairs priced
 - Scans in the last 24h: 5 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-14T22:32:07Z — Kalshi 193930 markets, Polymarket 21382 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-15T06:41:06Z — Kalshi 183442 markets, Polymarket 21583 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 945 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 27 run, 404 positive spreads seen; typical one lasted 818 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 157. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 169. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+  - polymarket: Spain General Election: Burgos Winner PP — 5 outcomes, +4.0¢ per $1
   - polymarket: Yilan County Magistrate Election Winner Lin Kuo-chang — 4 outcomes, +3.9¢ per $1
+  - polymarket: Highest temperature in Denver on November 15? 58-59°F — 4 outcomes, +3.9¢ per $1
   - polymarket: El Salvador Legislative Election: 3rd Place PDC — 11 outcomes, +3.9¢ per $1
   - polymarket: Bitcoin price on November 16? <66,000 — 4 outcomes, +3.9¢ per $1
-  - polymarket: Lowest temperature in Seoul (Incheon) on November 14? 12°C — 2 outcomes, +3.7¢ per $1
-  - polymarket: Walmart (WMT) Q3 US eCommerce sales growth? 21% to 25% — 2 outcomes, +3.6¢ per $1
 
 ## Forecast test
 
