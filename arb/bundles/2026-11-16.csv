@@ -1,0 +1,38 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-16T06:35:35Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-16T06:35:35Z,kalshi,KXNCAAMBBSKY-27,Big Sky Men's Conference Tournament Champion,11,0.9,0.06,0.04,1.0,2027-03-14T22:00:00Z
+2026-11-16T06:35:35Z,kalshi,KXGRAMMY-BPRBA69,Grammy winner · Best Progressive R&B Album,11,0.9,0.06,0.04,100.0,2027-02-08T04:59:00Z
+2026-11-16T06:35:35Z,kalshi,KXNFLH2HWINS-27KCNE,Kansas City vs New England: Head-to-Head Win Total,2,0.95,0.016,0.034,2.0,2027-01-18T15:00:00Z
+2026-11-16T06:35:35Z,kalshi,KXPARDONSYEAR-26DEC,How many people will Trump pardon in 2026?,4,0.92,0.049,0.031,6.72,2027-01-01T15:00:00Z
+2026-11-16T06:35:35Z,kalshi,KXAFCCLGAME-26NOV25KASJEO,Kashima vs Jeonbuk,3,0.96,0.017,0.023,0.01,2026-11-25T13:00:00Z
+2026-11-16T06:35:35Z,kalshi,KXT20MATCH-26NOV160030GOAUKHND,Uttarakhand vs Goa,2,0.95,0.033,0.017,0.01,2026-11-16T09:30:00Z
+2026-11-16T06:35:35Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.99,0.003,0.007,5208.93,2027-01-27T15:00:00Z
+2026-11-16T06:35:35Z,polymarket,0x9aa2f3b3f2b4a604fa442a63482012084e43b78bfac412ccb975ab8848d5ce00,What will be the #2 global Netflix show this week? (November 17) Black Doves: Season 2,9,0.973,0.009,0.018,,2026-11-18T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x9fd1a0ded2009233e610fdb627508f6bba55c8035471aae7980933f4552af200,Singapore vs. Brazil Brazil,2,0.985,0.0023,0.0127,,2026-11-17T10:00:00Z
+2026-11-16T06:35:35Z,polymarket,0xff3a253774bdb57f949f508bbfc4aa5f48702156e9e364026dedfb9ab699d800,#1 Spotify song in the US this week? (November 20) Hate Sleeping Alone - Drake,4,0.992,0.0026,0.0054,,2026-11-20T23:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x4165b88a71d1a164ddb2d7dd70846b759f5e7b1c5d47f6f32f2c04a1b3600c00,Lowest temperature in Beijing on November 16? 6°C,2,0.987,0.0007,0.0123,,2026-11-16T12:00:00Z
+2026-11-16T06:35:35Z,polymarket,0x649b83a8dc10e1f15c73200da6e4a9b670cf23482644d0e24d3e61c2c40c2e00,How many ships transit the Strait of Hormuz week of November 9? 40+,3,0.973,0.0,0.027,,2026-11-16T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x1daa2fed85e6bbd41f3b61c91b41bf845103ca2e10a4e0384c05f2595fee6700,Miss Universe 2026 Winner? Dominican Republic,9,0.95,0.0402,0.0098,,2026-11-25T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x4cd0aeda55208467702f117c733efd356baa44e0f11b16c66f7fcb20dbb03200,"""The Hunger Games: Sunrise on the Reaping"" Opening Weekend Box Office (Higher Brackets) <105m",5,0.941,0.0334,0.0256,,2026-11-22T12:00:00Z
+2026-11-16T06:35:35Z,polymarket,0xf64a83380bf59422c0af9e03ba73cdc9a402755f48a7e643f49e1cc9fca28c00,Third-best AI Lab end of November? Alibaba,3,0.951,0.0108,0.0382,,2026-12-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x4cbdff9ab101d5b3d7bb4a4da8ec1621b64e62b1441553b81a5a95a9e7e9dd00,Alphabet’s Market Cap end of November 2026? $3.50-$4.00T,2,0.973,0.0181,0.0089,,2026-11-30T17:00:00Z
+2026-11-16T06:35:35Z,polymarket,0xbdd57d834d7d523274555b350cd6cc739b1e7ad100ae857696d56bb529360f00,Spain General Election: Basque Country Winner EH Bildu,2,0.96,0.0146,0.0254,,2026-11-30T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0xd46e45317cc3ce3a17594f0aec929e59d444be9baeba3f198bae2dc2b4356400,3rd largest private company end of November? Perplexity,3,0.962,0.0023,0.0357,,2026-12-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0xbc61afc46a56047818b73e1500123335d5d40fd7dadc4270ef4997b60d87bb00,3rd Largest Company end of December 2026? Broadcom,6,0.936,0.0263,0.0377,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x62f36b37c2918992fdf5b08e8d86ff130919b4db80e2225682de3c03d520de00,Who will be UFC Heavyweight champion at the end of 2026? Alexander Volkov,3,0.973,0.0022,0.0248,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Belal Muhammad,2,0.982,0.0006,0.0174,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x82ee452cd1098e4b6a878a0bdcadf255026aa4747e54edc7cecef9e716381500,Venezuela de facto leader end of 2026? Nicolás Maduro,2,0.98,0.0009,0.0191,,2026-12-31T00:00:00Z
+2026-11-16T06:35:35Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Ilia Topuria,4,0.978,0.0033,0.0187,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x1da516b4b16350b3f2e267804ab7537f33fe99969e5aa134f7e2e35816f00100,The Game Awards: Game of the Year Resident Evil Requiem,5,0.977,0.0114,0.0116,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 6,2,0.965,0.0017,0.0333,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x7b024853bdcb07c9e01281fdcba9a7caef41933bc67ab6a498f16405b4687600,Second-best AI Agent Lab end of December? Google,4,0.942,0.0239,0.0341,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Joshua Van,2,0.991,0.0004,0.0086,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x9dca1c5b757eca2f72b7980d229fcf28608257f6bbda857eb9f1ab46896c4900,People's Bank of China rate change by December 31? Increase,2,0.978,0.0019,0.0201,,2026-12-31T15:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x45666c7bc2639a42e3bee3638568debe473143936e1f2a5565e5cdd3299e3300,VALORANT Offseason: Boaster Next Team Gentle Mates,2,0.99,0.0044,0.0056,,2027-01-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0xf6f0a6149ec50d81ab8a3dfe374197ed5c3ce7a8ee57dda77c0304f500cfd800,Bank of Korea Decision in January? No Change,5,0.97,0.022,0.008,,2027-01-14T23:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x2c75477687ed2d2b07dd4500a128c22c2f69cb1d455982969b21a3029fa86300,Pro Football: 2026-27 Rushing Yards Leader Jahmyr Gibbs,4,0.945,0.0332,0.0218,,2027-01-27T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0xa6061c1aed18ed4e2bcaaa54ddb2fd148ea7ce4238c7a82101d75f3009197600,"Delta, Nigeria Governor Election Winner Oborevwori Sheriff Francis Orohwedor",6,0.974,0.0137,0.0123,,2027-02-07T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x747593bf9a34697d5d549db643908ba4868c51ba9ed1f92ead6208f51d911400,"Oyo, Nigeria Governor Election Winner Sharafadeen Abiodun Alli",7,0.937,0.024,0.039,,2027-02-07T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x1930b920ec05c77490d59b359c1b2c7b79f241fda5203fea2406a2af087d8b00,"Ebonyi, Nigeria Governor Election Winner Splendor Oko Eze",3,0.98,0.0111,0.0089,,2027-02-07T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? No Next Minister by Feb 28,16,0.956,0.0307,0.0134,,2027-03-01T04:59:00Z
+2026-11-16T06:35:35Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Vladan Đokić,20,0.977,0.0167,0.0063,,2027-05-02T03:59:00Z
