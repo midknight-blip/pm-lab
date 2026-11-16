@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-16T21:12:30Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-16T22:11:52Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-16T19:53:37Z — 235 of 250 pairs priced
-- Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-16T06:39:04Z — Kalshi 159787 markets, Polymarket 21534 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-16T22:11:51Z — Kalshi 164930 markets, Polymarket 21654 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 951 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 27 run, 404 positive spreads seen; typical one lasted 818 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 131. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 147. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Grammy winner · Best Progressive R&B Album — 11 outcomes, +4.0¢ per $1
   - kalshi: Big Sky Men's Conference Tournament Champion — 11 outcomes, +4.0¢ per $1
+  - polymarket: Oyo, Nigeria Governor Election Winner Yusuf Akim Adebola — 7 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Burgos Winner PP — 5 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Denver on November 15? 58-59°F — 4 outcomes, +3.9¢ per $1
-  - polymarket: Oyo, Nigeria Governor Election Winner Sharafadeen Abiodun Alli — 7 outcomes, +3.9¢ per $1
 
 ## Forecast test
 

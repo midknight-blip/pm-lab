@@ -36,3 +36,36 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-16T06:35:35Z,polymarket,0x1930b920ec05c77490d59b359c1b2c7b79f241fda5203fea2406a2af087d8b00,"Ebonyi, Nigeria Governor Election Winner Splendor Oko Eze",3,0.98,0.0111,0.0089,,2027-02-07T04:59:00Z
 2026-11-16T06:35:35Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? No Next Minister by Feb 28,16,0.956,0.0307,0.0134,,2027-03-01T04:59:00Z
 2026-11-16T06:35:35Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Vladan Đokić,20,0.977,0.0167,0.0063,,2027-05-02T03:59:00Z
+2026-11-16T22:08:22Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-16T22:08:22Z,kalshi,KXNCAAMBNEC-27,NEC Men's Conference Tournament Champion,9,0.93,0.058,0.012,0.07,2027-03-14T22:00:00Z
+2026-11-16T22:08:22Z,kalshi,KXLPGATOUR-CMEGTC26,CME Group Tour Championship Winner,60,0.89,0.089,0.021,1.0,2026-11-22T00:00:00Z
+2026-11-16T22:08:22Z,kalshi,KXDOTA2GAME-26NOV170830NEMIGAPCKCP,Nemiga Gaming vs. PuckChamp,2,0.96,0.031,0.009,0.06,2026-11-17T17:30:00Z
+2026-11-16T22:08:22Z,kalshi,KXSTATELEG-NCSEN26,North Carolina State Senate winner?,2,0.99,0.003,0.007,7405.27,2027-01-27T15:00:00Z
+2026-11-16T22:08:22Z,polymarket,0x6f1f0343919744f8b0c1e7299b5cdde0977498506acb1d189e9a98ea9eaf8300,Real Madrid CF vs. RC Celta de Vigo Real Madrid CF,2,0.96,0.0127,0.0273,,2026-11-21T20:00:00Z
+2026-11-16T22:08:22Z,polymarket,0x8ddd2c7addaf373b916c337ac958751440f2d8bf593864cecc3e585b251b2600,Anthropic IPO Date November 19,5,0.979,0.0027,0.0183,,2026-11-24T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x5f026b4b876ec1da19ee1c0860d6b71d95132d087b354faa1372a16ab9bd3000,Lowest temperature in Sao Paulo on November 16? 24°C or higher,2,0.971,0.0015,0.0275,,2026-11-16T12:00:00Z
+2026-11-16T22:08:22Z,polymarket,0xb4911383f8e6d69e82f53d8946cf9020164ccb326c2fc08463d7e2897fc65500,Next Mayor of Johannesburg? Helen Zille,2,0.974,0.0139,0.0122,,2026-11-17T23:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x4b2406029d124dd5c92a8406daf3ab20d8b48e47ecfe6538501c4f200c5fb400,Lowest temperature in Wellington on November 17? 16°C,4,0.993,0.0006,0.0064,,2026-11-17T12:00:00Z
+2026-11-16T22:08:22Z,polymarket,0xd9bc90b90fe616bb6edc9ec72265314329518d92db94b7add023e9bb1897d500,Solana price on November 22? 60-70,2,0.96,0.0338,0.0062,,2026-11-22T17:00:00Z
+2026-11-16T22:08:22Z,polymarket,0x652e36ff9ddcf1aaf57286cd0c262c958f11fe52b2dbbb33cddd8efef2f9a000,GPU rental prices (H200) end of November? $6.50+,3,0.952,0.0212,0.0268,,2026-12-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x904cc8a66822732c2e06af0113367cc6ccd8a83c65f512ab07a4804b8b659200,Third-best Code Arena WebDev AI Lab end of November? OpenAI,4,0.944,0.0222,0.0338,,2026-12-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0xe1c171f69f0d968d63acbf545531bde8b904a1699db14f52a9985d855b887500,Spain General Election: Valencia Winner PP,2,0.95,0.0135,0.0365,,2026-11-30T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0xb7c0a756e5e066490088623f439fa58a50ccf9fe32c166eb4539acb4151b7400,"Bitcoin difficulty adjustment at block 977,760? Down 0-3%",3,0.95,0.0199,0.0301,,2026-12-02T07:54:01Z
+2026-11-16T22:08:22Z,polymarket,0x81dfa1d86505b90599bf11862b3cbfe0143007e0d7ed8f60ec42bced60622200,#1 Searched Person on Google 2026? Jensen Huang,36,0.958,0.0369,0.0052,,2027-04-01T03:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x44d1a036e5c888678d2ca61b3cb2815c8bb05b527f69c19058b20736f6119b00,How many Fed rate hikes in 2026? 3 (75 bps),3,0.988,0.007,0.005,,2026-12-31T23:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x38adbc6777f84e3dcc7696b4d62667bd3b5ef7acf6d55fefc136addf4fb4bc00,How many cities will Waymo operate in by December 31? 12-15,5,0.968,0.0095,0.0225,,2027-01-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,3,0.971,0.013,0.016,,2027-02-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x4654cc7160ee30b0be307c523592288cf8b1c2297016574ab4f36c7a07802500,Who will be UFC Welterweight champion at the end of 2026? Belal Muhammad,2,0.985,0.0005,0.0145,,2027-01-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 6,2,0.966,0.0017,0.0323,,2027-01-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x23f22a07cdf0289e4bd88261329ef6841128d4d53ae3bf303dcfc7463b22da00,Oura IPO Closing Market Cap No IPO before January 2027,2,0.981,0.0015,0.0175,,2027-01-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x62f36b37c2918992fdf5b08e8d86ff130919b4db80e2225682de3c03d520de00,Who will be UFC Heavyweight champion at the end of 2026? Josh Hokit,2,0.972,0.0016,0.0264,,2027-01-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0xa6061c1aed18ed4e2bcaaa54ddb2fd148ea7ce4238c7a82101d75f3009197600,"Delta, Nigeria Governor Election Winner Oborevwori Sheriff Francis Orohwedor",6,0.954,0.0141,0.0319,,2027-02-07T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x747593bf9a34697d5d549db643908ba4868c51ba9ed1f92ead6208f51d911400,"Oyo, Nigeria Governor Election Winner Yusuf Akim Adebola",7,0.936,0.024,0.04,,2027-02-07T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.986,0.0074,0.0066,,2027-02-07T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x1930b920ec05c77490d59b359c1b2c7b79f241fda5203fea2406a2af087d8b00,"Ebonyi, Nigeria Governor Election Winner Splendor Oko Eze",3,0.96,0.0105,0.0295,,2027-02-07T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? No Next Minister by Feb 28,16,0.938,0.03,0.032,,2027-03-01T04:59:00Z
+2026-11-16T22:08:22Z,polymarket,0xa3d3320d2377a78c6d7c42c1c04bbb2c91f9792661809754853d5eaa9dee6200,Oscars 2027: Best Documentary Short Film Winner The Baddest Speechwriter of All,10,0.948,0.041,0.011,,2027-03-14T23:59:00Z
+2026-11-16T22:08:22Z,polymarket,0xc8ef0b17b5229931ac30c0d93c74646417129c3ac46f802cbdded1012e863400,AFCON 2027 Qualifying: Group C Winner Ivory Coast,4,0.973,0.0096,0.0174,,2027-03-31T03:59:00Z
+2026-11-16T22:08:22Z,polymarket,0xfbe9584ce9bf5fadd3a2e87f758cb62619d9b810b8e5bc76033d4d6f96144a00,#1 Searched Actor on Google 2026? Inde Navarrette,30,0.94,0.0293,0.0307,,2027-04-01T03:59:00Z
+2026-11-16T22:08:22Z,polymarket,0x322cd4b2e64209e7f2bfe89ddd815fe61b949b37e2b2333a7f9e21d2b9561d00,Turner Prize 2026 Winner Simeon Barclay,4,0.946,0.0359,0.0181,,2027-04-01T03:59:00Z
+2026-11-16T22:08:22Z,polymarket,0xbc9130486df07503182a53071cd1d268c9b78be0fe27f2a88ec17c446ea97400,Next Serbia Presidential Election Winner Miloš Jovanović,20,0.956,0.0159,0.0281,,2027-05-02T03:59:00Z
