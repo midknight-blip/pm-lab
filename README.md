@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-16T06:39:04Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-16T09:43:50Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-16T02:07:55Z — 234 of 248 pairs priced
-- Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-11-16T09:43:48Z — 250 of 250 pairs priced
+- Scans in the last 24h: 5 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-16T06:39:04Z — Kalshi 159787 markets, Polymarket 21534 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 949 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 950 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 318
-- Positive pairs still in play: **421** (confirmed same bet: 10, not yet checked: 377)
-- Scans with at least one positive pair: 948
+- Positive pairs still in play: **422** (confirmed same bet: 10, not yet checked: 378)
+- Scans with at least one positive pair: 949
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,12 +33,12 @@ Running since 2026-10-14. 949 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 27 run, 404 positive spreads seen; typical one lasted 818 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 171. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 146. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Grammy winner · Best Progressive R&B Album — 11 outcomes, +4.0¢ per $1
   - kalshi: Big Sky Men's Conference Tournament Champion — 11 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Burgos Winner PP — 5 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Denver on November 15? 58-59°F — 4 outcomes, +3.9¢ per $1
-  - polymarket: Bitcoin price on November 16? <66,000 — 4 outcomes, +3.9¢ per $1
+  - polymarket: Oyo, Nigeria Governor Election Winner Sharafadeen Abiodun Alli — 7 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
