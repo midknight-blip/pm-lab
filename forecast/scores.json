@@ -1,32 +1,32 @@
 {
- "updated": "2026-11-15T17:57:21Z",
+ "updated": "2026-11-16T21:12:29Z",
  "forecasts_made": 90,
  "awaiting_price": 0,
- "pending": 35,
+ "pending": 30,
  "void": 0,
  "all": {
-  "n": 57,
-  "brier_claude": 0.1982,
-  "brier_market": 0.136,
-  "claude_minus_market": 0.0622,
-  "std_error": 0.0224,
-  "paper_bets": 44,
-  "paper_staked": 15.54,
-  "paper_pnl": -2.122,
-  "paper_roi": -0.137,
-  "bet_wins": 14
+  "n": 62,
+  "brier_claude": 0.1851,
+  "brier_market": 0.1285,
+  "claude_minus_market": 0.0565,
+  "std_error": 0.0208,
+  "paper_bets": 48,
+  "paper_staked": 17.51,
+  "paper_pnl": -2.13,
+  "paper_roi": -0.122,
+  "bet_wins": 16
  },
  "disagree_10pts_plus": {
-  "n": 30,
-  "brier_claude": 0.2511,
-  "brier_market": 0.1341,
-  "claude_minus_market": 0.117,
-  "std_error": 0.0391,
-  "paper_bets": 30,
-  "paper_staked": 10.12,
-  "paper_pnl": -2.534,
-  "paper_roi": -0.25,
-  "bet_wins": 8
+  "n": 31,
+  "brier_claude": 0.2437,
+  "brier_market": 0.1336,
+  "claude_minus_market": 0.1101,
+  "std_error": 0.0384,
+  "paper_bets": 31,
+  "paper_staked": 10.82,
+  "paper_pnl": -2.249,
+  "paper_roi": -0.208,
+  "bet_wins": 9
  },
  "by_category": {
   "climate and weather": {
@@ -102,16 +102,28 @@
    "bet_wins": 0
   },
   "entertainment": {
-   "n": 7,
-   "brier_claude": 0.2357,
-   "brier_market": 0.1653,
-   "claude_minus_market": 0.0704,
-   "std_error": 0.0682,
-   "paper_bets": 5,
-   "paper_staked": 1.97,
-   "paper_pnl": -0.044,
-   "paper_roi": -0.022,
-   "bet_wins": 2
+   "n": 8,
+   "brier_claude": 0.209,
+   "brier_market": 0.1595,
+   "claude_minus_market": 0.0496,
+   "std_error": 0.0627,
+   "paper_bets": 6,
+   "paper_staked": 2.67,
+   "paper_pnl": 0.241,
+   "paper_roi": 0.09,
+   "bet_wins": 3
+  },
+  "finance": {
+   "n": 1,
+   "brier_claude": 0.0025,
+   "brier_market": 0.0186,
+   "claude_minus_market": -0.0161,
+   "std_error": null,
+   "paper_bets": 1,
+   "paper_staked": 0.88,
+   "paper_pnl": 0.121,
+   "paper_roi": 0.138,
+   "bet_wins": 1
   },
   "financials": {
    "n": 6,
@@ -161,16 +173,28 @@
    "paper_roi": 0.206,
    "bet_wins": 2
   },
+  "science and technology": {
+   "n": 1,
+   "brier_claude": 0.0036,
+   "brier_market": 0.0064,
+   "claude_minus_market": -0.0028,
+   "std_error": null,
+   "paper_bets": 0,
+   "paper_staked": 0,
+   "paper_pnl": 0,
+   "paper_roi": null,
+   "bet_wins": 0
+  },
   "sports": {
-   "n": 7,
-   "brier_claude": 0.1475,
-   "brier_market": 0.109,
-   "claude_minus_market": 0.0385,
-   "std_error": 0.0239,
-   "paper_bets": 6,
-   "paper_staked": 2.07,
-   "paper_pnl": -1.16,
-   "paper_roi": -0.561,
+   "n": 9,
+   "brier_claude": 0.131,
+   "brier_market": 0.0928,
+   "claude_minus_market": 0.0381,
+   "std_error": 0.0183,
+   "paper_bets": 8,
+   "paper_staked": 2.46,
+   "paper_pnl": -1.573,
+   "paper_roi": -0.64,
    "bet_wins": 1
   }
  }
