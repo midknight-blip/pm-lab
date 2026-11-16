@@ -159,6 +159,21 @@
   "note": "Dropped from matched list before review; rules text not available. Game is Nov 14, so 69c edge is not settlement staleness; likely a mis-match or empty book.",
   "status": "unsure"
  },
+ "KXEFLL2GAME-26NOV14WALBAR-BAR|6514540": {
+  "checked": "2026-11-16",
+  "note": "Match over and pair dropped before review; same stale-price pattern as the draw leg.",
+  "status": "unsure"
+ },
+ "KXEFLL2GAME-26NOV14WALBAR-TIE|6514539": {
+  "checked": "2026-11-16",
+  "note": "Match over and pair dropped before review; 70c edge on a draw market looks like a stale Poly book, not a real arb.",
+  "status": "unsure"
+ },
+ "KXEFLL2GAME-26NOV14WALBAR-WAL|6514538": {
+  "checked": "2026-11-16",
+  "note": "Match over and pair dropped before review; same stale-price pattern as the draw leg.",
+  "status": "unsure"
+ },
  "KXEPLGAME-26OCT18LEEMUN-LEE|5311916": {
   "checked": "2026-10-15",
   "note": "Kalshi 'Leeds win' vs Polymarket 'Man Utd win' are not opposites: a draw makes both No.",
@@ -1524,6 +1539,11 @@
   "note": "Weather: Kalshi settles on the official daily climate report (true peak); Polymarket on NOAA hourly readings. Systematic rule gap.",
   "status": "different"
  },
+ "KXINTLFRIENDLYGAME-26NOV16TAHCOK-TAH|6963264": {
+  "checked": "2026-11-16",
+  "note": "Pair dropped before review; rule text not available to compare.",
+  "status": "unsure"
+ },
  "KXLIGAEXPGAME-26NOV08PIRCAN-PIR|6629404": {
   "checked": "2026-11-09",
   "note": "Game already played and pair dropped from matched list before review; rules text not available. Huge edge around kickoff/after looks like stale prices on a decided game.",
@@ -1638,6 +1658,16 @@
   "checked": "2026-11-12",
   "note": "Same mismatch: Kalshi cricket ODI vs Poly football friendly; also a football draw makes Poly NZ lose.",
   "status": "different"
+ },
+ "KXODIMATCH-26NOV142100INDNZ-IND|6526967": {
+  "checked": "2026-11-16",
+  "note": "Pair dropped before review; ODI rules (no-result/tie handling) not visible; Poly prices looked frozen.",
+  "status": "unsure"
+ },
+ "KXODIMATCH-26NOV142100INDNZ-NZ|6526965": {
+  "checked": "2026-11-16",
+  "note": "Pair dropped before review; ODI rules (no-result/tie handling) not visible; Poly prices looked frozen.",
+  "status": "unsure"
  },
  "KXPRESMATCHUP-28NOV07-AOCJVAN|561229": {
   "checked": "2026-10-14",
@@ -1924,6 +1954,11 @@
   "note": "Kalshi uses Google's Global People list; Poly uses the United States list.",
   "status": "different"
  },
+ "KXRANKLISTGOOGLESEARCHTOP5-26DEC-JEN|6992350": {
+  "checked": "2026-11-16",
+  "note": "Both resolve on Google Year in Search 2026, Global People, Top 5. Small risk if Google publishes after Kalshi's Dec 31 close.",
+  "status": "same"
+ },
  "KXRANKLISTGOOGLESEARCHTOP5-26DEC-NICO|4425409": {
   "checked": "2026-10-22",
   "note": "Kalshi uses Google's Global People list; Poly uses the United States People list.",
@@ -1968,6 +2003,11 @@
   "checked": "2026-11-12",
   "note": "Pair dropped out of the matched list before review; rules text not available to compare.",
   "status": "unsure"
+ },
+ "KXSBSETLISTS-27-SHO|6920547": {
+  "checked": "2026-11-16",
+  "note": "Both: any performer sings the song at the Feb 2027 Super Bowl halftime. Only Poly states cancel/delay past Mar 31 = No; edge case. Edge seen only at 1 contract.",
+  "status": "same"
  },
  "KXSP500ADDQ-26DEC31-ALNY|6329951": {
   "checked": "2026-10-29",
