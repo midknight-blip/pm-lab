@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-17T11:31:25Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-17T19:59:23Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,7 +8,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-17T11:31:22Z — 249 of 249 pairs priced
-- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Scans in the last 24h: 2 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-17T08:02:22Z — Kalshi 162772 markets, Polymarket 22249 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
@@ -33,7 +33,7 @@ Running since 2026-10-14. 953 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 29 run, 487 positive spreads seen; typical one lasted 345 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 148. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 140. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Grammy winner · Best Progressive R&B Album — 11 outcomes, +4.0¢ per $1
   - kalshi: Big Sky Men's Conference Tournament Champion — 11 outcomes, +4.0¢ per $1
   - polymarket: Oyo, Nigeria Governor Election Winner Yusuf Akim Adebola — 7 outcomes, +4.0¢ per $1
@@ -42,9 +42,9 @@ Running since 2026-10-14. 953 scans so far. A pair counts as positive when buyin
 
 ## Forecast test
 
-- Forecasts made: 90, settled: 62, still open: 30
-- Accuracy score (lower is better): Claude 0.185, market 0.129 → so far the market is more accurate; gap +0.057 (± 0.021). Needs ~100 settled before this means much.
-- Paper bets (when Claude disagreed by 5+ points): 48 bets, $17.51 staked, result $-2.13 (-12%)
+- Forecasts made: 90, settled: 65, still open: 26
+- Accuracy score (lower is better): Claude 0.180, market 0.124 → so far the market is more accurate; gap +0.057 (± 0.020). Needs ~100 settled before this means much.
+- Paper bets (when Claude disagreed by 5+ points): 51 bets, $17.99 staked, result $-2.64 (-15%)
 
 ---
 How it works: `src/` has the code, `arb/` and `forecast/` hold the data. See `CHECKIN.md` for what the twice-weekly Claude check-in does.
