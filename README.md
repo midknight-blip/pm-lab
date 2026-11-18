@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-18T10:31:30Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-18T19:05:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-18T10:31:28Z — 248 of 248 pairs priced
+- Last scan: 2026-11-18T19:05:18Z — 248 of 248 pairs priced
 - Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-18T07:37:01Z — Kalshi 170793 markets, Polymarket 20353 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 956 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 957 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 318
-- Positive pairs still in play: **426** (confirmed same bet: 12, not yet checked: 374)
-- Scans with at least one positive pair: 955
+- Positive pairs still in play: **428** (confirmed same bet: 12, not yet checked: 376)
+- Scans with at least one positive pair: 956
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@ Running since 2026-10-14. 956 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 29 run, 487 positive spreads seen; typical one lasted 345 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 137. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 119. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Big Sky Men's Conference Tournament Champion — 11 outcomes, +4.0¢ per $1
   - kalshi: Grammy winner · Best Progressive R&B Album — 11 outcomes, +4.0¢ per $1
   - polymarket: Oyo, Nigeria Governor Election Winner Yusuf Akim Adebola — 7 outcomes, +4.0¢ per $1
