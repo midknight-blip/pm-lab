@@ -2138,5 +2138,45 @@
   "checked": "2026-10-14",
   "note": "Early bad match before matching fixes (VP vs President, nominee vs election winner).",
   "status": "different"
+ },
+ "KXSAUDIPLGAME-26NOV20AASALN-AAS|5191020": {
+  "status": "unsure",
+  "note": "pair dropped out of matched list before rules could be compared",
+  "checked": "2026-11-19"
+ },
+ "KXSBSETLISTS-27-99P|6920504": {
+  "status": "same",
+  "note": "both: any performer sings the song at the Feb 2027 halftime show; Poly adds a cancel-after-Mar-31 -> No clause",
+  "checked": "2026-11-19"
+ },
+ "KXUEFANLGAME-26NOV17POLSWE-SWE|6673360": {
+  "status": "unsure",
+  "note": "pair dropped out of matched list (game already played)",
+  "checked": "2026-11-19"
+ },
+ "KXNHLATLANTIC-27-MTL|5659315": {
+  "status": "same",
+  "note": "both: official NHL Atlantic Division winner incl. tiebreakers; Poly 'Other' if season cancelled is the only gap",
+  "checked": "2026-11-19"
+ },
+ "KXSBSETLISTS-27-HOL|6920522": {
+  "status": "same",
+  "note": "same wording as 99 Problems pair: any performer sings it at the 2027 halftime show",
+  "checked": "2026-11-19"
+ },
+ "KXARREST-27JAN-LJUN|2116885": {
+  "status": "unsure",
+  "note": "pair dropped out of matched list before rules could be compared",
+  "checked": "2026-11-19"
+ },
+ "KXGAMEAWARDS-2026-PHA|3344909": {
+  "status": "same",
+  "note": "both: 2026 Game Awards GOTY winner; Poly has an alphabetical tie rule, ties near impossible",
+  "checked": "2026-11-19"
+ },
+ "KXRANKLISTGOOGLESEARCHTOP5-26-LIN|4425380": {
+  "status": "same",
+  "note": "both: Google Year in Search 2026, Global, People list, top 5",
+  "checked": "2026-11-19"
  }
 }
