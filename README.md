@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-19T01:13:15Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-19T07:33:44Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-19T01:13:12Z — 250 of 250 pairs priced
-- Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-18T20:38:09Z — Kalshi 181306 markets, Polymarket 20015 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-19T07:33:43Z — Kalshi 173858 markets, Polymarket 20490 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 958 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 30 run, 500 positive spreads seen; typical one lasted 322 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 141. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - kalshi: Big Sky Men's Conference Tournament Champion — 11 outcomes, +4.0¢ per $1
-  - kalshi: Grammy winner · Best Progressive R&B Album — 11 outcomes, +4.0¢ per $1
-  - polymarket: Oyo, Nigeria Governor Election Winner Yusuf Akim Adebola — 7 outcomes, +4.0¢ per $1
+- Same-site bundles in the last 3 days: 135. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: How many cities will Waymo operate in by December 31? 12-15 — 2 outcomes, +4.0¢ per $1
+  - polymarket: Oyo, Nigeria Governor Election Winner Yusuf Akim Adebola — 7 outcomes, +4.0¢ per $1
+  - polymarket: #1 Searched Person on Google in the US 2026? Lindsay Clancy — 52 outcomes, +4.0¢ per $1
   - polymarket: Oscars 2027: Best Animated Short Film Winner Dog Alone — 11 outcomes, +4.0¢ per $1
+  - polymarket: #1 Free App in the US Apple App Store on November 20? TikTok Pro - Eve — 3 outcomes, +4.0¢ per $1
 
 ## Forecast test
 

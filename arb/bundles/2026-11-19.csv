@@ -1,0 +1,36 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-19T07:29:58Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-19T07:29:58Z,kalshi,KXPARDONSYEAR-26DEC,How many people will Trump pardon in 2026?,4,0.94,0.051,0.009,4.0,2027-01-01T15:00:00Z
+2026-11-19T07:29:58Z,polymarket,0x659534d8d7918da6bfa8d1de1684a203534798f5bfaea68ec35306ea9ec2f100,Lowest temperature in Moscow on November 19? 1°C,4,0.993,0.0006,0.0064,,2026-11-19T12:00:00Z
+2026-11-19T07:29:58Z,polymarket,0xff3910af31803333a2a177526084dff8cdfda0b7d602f5024b834ac7d165a800,#1 Free App in the US Apple App Store on November 20? TikTok Pro - Events,3,0.97,0.0095,0.0205,,2026-11-21T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x32a5a694f0983c01d48238f2068153d8206c1d5001c12d17f92e145969f10500,#2 Free App in the US Apple App Store on November 20? Muse from Meta,3,0.967,0.0125,0.0205,,2026-11-21T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x9eb4bf871d0de3f9a92e7d086a73d1c01a1f7969c9569a9972d9c32e9cab6200,Lowest temperature in Seoul (Incheon) on November 20? -2°C,3,0.933,0.0282,0.0388,,2026-11-20T12:00:00Z
+2026-11-19T07:29:58Z,polymarket,0xf964ba6f57ae4d7be1c2283cdb4cfb33995c2dbf4e830701e929cf74d8a69200,Lowest temperature in Helsinki on November 19? 4°C,2,0.971,0.0015,0.0275,,2026-11-19T12:00:00Z
+2026-11-19T07:29:58Z,polymarket,0xdefc7bd4eaa1e10483ba6e405a4c22aa2d3c31317a525533d48d5b9dffe32f00,Jean-Michel Basquiat's “Untitled (Leonardo and His Five Grotesque Heads)” Sale Price $30m-$40m,3,0.965,0.0273,0.0077,,2026-11-20T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xb36fa32e3172b385fc698a20ad69cbae7e39bde36a21a5ce6616f96f82074e00,#1 Paid App in the US Apple App Store on November 20? Shadowrocket,2,0.975,0.0017,0.0233,,2026-11-21T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xc33ffe1250334603fa6b832233ce47825f7ab8b2177f3e66e475b01a1781cb00,Spain General Election: La Rioja Winner PP,2,0.985,0.0008,0.0142,,2026-11-30T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x08be8a72f24bb4dc4fe0c02f4b96d0d9d35251ca2c977ab550176c3b26bb6b00,Las Vegas Grand Prix: Driver Winner Kimi Antonelli,6,0.934,0.035,0.031,,2026-11-29T04:00:00Z
+2026-11-19T07:29:58Z,polymarket,0xd94598ebd6dd35b224e69b0051c5354d5100de1a9a6c867377a8d0d94ddcd900,Democratic nomination odds leader on November 30? Jon Ossoff,3,0.962,0.0022,0.0358,,2026-11-30T17:00:00Z
+2026-11-19T07:29:58Z,polymarket,0x4b8344dbbfa28129967a0d859ba9fa61811fa10baa624e0063bb6d9d1fd56e00,Spain General Election: Broad Front (FA) # of seats? 9-11,4,0.95,0.0266,0.0234,,2026-11-30T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x524b710de31d5d2fcff4c557f5cd2d1ed3919a83d33d4a73a86e837848b0b200,Spain General Election: BNG # of seats? 4+,3,0.96,0.0214,0.0186,,2026-11-30T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x86024317a4beddf9cb6638f7bdb926145668faf20835900d17c3b75e3070a800,Spain General Election: Zamora Winner Broad Front (FA),2,0.986,0.0008,0.0132,,2026-11-30T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x90592ff7d423556f59063de9e02b44956674dc4e646124c68f14ba89347a2000,Sabah FK vs. FC Barcelona FC Barcelona,2,0.956,0.0063,0.0377,,2026-11-25T17:45:00Z
+2026-11-19T07:29:58Z,polymarket,0x287c87a661e4e7a72ef2cc5caafbc1f89c99a7e3eb5e56fc65ec2d976d3d5800,Spain General Election: Toledo Winner PSOE,2,0.975,0.0106,0.0144,,2026-11-30T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xf4413304462bece38823169b53cb1d18541289bbd80f13085dafb15b59422900,Bank of Japan Decision in December? 25 bps increase,5,0.983,0.0116,0.0054,,2026-12-18T00:00:00Z
+2026-11-19T07:29:58Z,polymarket,0x2519e258a24e7c847d53022e321cc54605568961adb75f79abaa0c2a33aa7600,Next leader out of power before 2027? Netanyahu - Israel PM,16,0.981,0.0,0.019,,2027-01-01T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x4b60ddc022fdaefb01e717f01dc516a029a70a61fd9f7b4192a2ed30c59bbc00,#1 Searched Person on Google in the US 2026? Lindsay Clancy,52,0.923,0.0371,0.0399,,2027-04-01T03:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xdcde9595b01e2d8e7efc4ac0fc26a87bc476d7de33b7ac7073f6f7832c56ef00,Which movie has 3rd biggest opening weekend in 2026? Toy Story 5,4,0.99,0.0034,0.0066,,2027-01-01T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x7b024853bdcb07c9e01281fdcba9a7caef41933bc67ab6a498f16405b4687600,Second-best AI Agent Lab end of December? Google,3,0.948,0.0218,0.0302,,2027-01-01T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x62f36b37c2918992fdf5b08e8d86ff130919b4db80e2225682de3c03d520de00,Who will be UFC Heavyweight champion at the end of 2026? Ciryl Gane,2,0.975,0.001,0.024,,2027-01-01T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xd2c21cbb9d2cb407ab3dcf619d93f6d65b7967154cd6ee930f7758baa2b4bf00,OpenAI IPO Closing Market Cap <500B,2,0.986,0.0012,0.0128,,2027-01-01T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,2,0.97,0.0167,0.0133,,2027-02-01T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.966,0.0025,0.0315,,2027-01-01T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Larry Page",3,0.984,0.0013,0.0147,,2027-01-03T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xfbe5784e56a9c14747dee32eea3da95855bef7db0e5fa2ce2c7ba961bd9fcf00,Grammys 2027: Best Dance/Electronic Recording Winner My Old Ways - Tame Impala,2,0.96,0.024,0.016,,2027-02-07T23:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xc7ea6e60844ecfb5e7f2c71fe0c904f4b691878c74758dfe32dd89b5e1dc2700,"Jigawa, Nigeria Governor Election Winner Mustapha Sule Lamido",2,0.986,0.0074,0.0066,,2027-02-07T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xa6061c1aed18ed4e2bcaaa54ddb2fd148ea7ce4238c7a82101d75f3009197600,"Delta, Nigeria Governor Election Winner Nkwoala Emeka",6,0.964,0.0139,0.0221,,2027-02-07T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x68592294ddf617906cb160ba84c224bedf6633b5c882bf5f017162bb2a9d7000,Next Israeli Minister of Finance? No Next Minister by Feb 28,16,0.955,0.0299,0.0151,,2027-03-01T04:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xd062256367c4b0cc8322381cd9f5571bc1f2ab72e6bb82dde8bd9c886687e100,Reserve Bank of Australia Decision in March? 25 bps increase,5,0.945,0.0201,0.0349,,2027-03-23T23:59:00Z
+2026-11-19T07:29:58Z,polymarket,0x87b0d09d2acc26117312791f30534274e5eddab87c4f1975474822ce38324200,AFCON 2027 Qualifying: Group L Winner Guinea-Bissau,4,0.959,0.0255,0.0155,,2027-03-31T03:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xeed92d29fd752e5e4db67c74c924d813efa576285914c2efe233c4d135dc6000,AFCON 2027 Qualifying: Group J Winner Senegal,4,0.973,0.0044,0.0226,,2027-03-31T03:59:00Z
+2026-11-19T07:29:58Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 35 to 49,4,0.985,0.0088,0.0062,,2027-04-01T03:59:00Z
