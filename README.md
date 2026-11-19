@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-19T07:33:44Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-19T08:51:28Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-19T01:13:12Z — 250 of 250 pairs priced
-- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-11-19T08:51:26Z — 250 of 250 pairs priced
+- Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-19T07:33:43Z — Kalshi 173858 markets, Polymarket 20490 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 958 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 959 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 318
 - Positive pairs still in play: **431** (confirmed same bet: 12, not yet checked: 379)
-- Scans with at least one positive pair: 957
+- Scans with at least one positive pair: 958
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Running since 2026-10-14. 958 scans so far. A pair counts as positive when buyin
 | KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | unsure | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
-- Fast-check sessions (every 15 sec): 30 run, 500 positive spreads seen; typical one lasted 322 sec, longest 120.0 min
+- Fast-check sessions (every 15 sec): 31 run, 510 positive spreads seen; typical one lasted 345 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 135. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: How many cities will Waymo operate in by December 31? 12-15 — 2 outcomes, +4.0¢ per $1
   - polymarket: Oyo, Nigeria Governor Election Winner Yusuf Akim Adebola — 7 outcomes, +4.0¢ per $1
