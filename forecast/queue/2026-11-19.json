@@ -1,0 +1,76 @@
+{
+ "batch": "2026-11-19",
+ "created": "2026-11-19T18:15:43Z",
+ "markets": [
+  {
+   "key": "poly:5336561",
+   "question": "Will PP win the most seats in the 2026 Spanish general election?",
+   "rules": "Legislative elections to elect the 350 members of the Congress of Deputies of Spain are scheduled to take place on November 29, 2026.\n\nThis market will resolve according to the political party that wins the greatest number of seats in the Congress of Deputies of Spain as a result of this election.\n\nIf the results of the specified election are not definitively known by November 30, 2027, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nParties will be ranked by the number of seats won by their electoral lists (candidaturas) nationwide in this election, attributed as set out below. If two or more parties are tied on seats, ties will be broken by the total number of valid votes received by their lists nationwide, with higher vote totals ranking higher. If parties remain tied, ties will be broken by alphabetical order of the listed party names. This market will resolve to the party that occupies the highest finishing position after applying this ranking.\n\nSeats and votes will be attributed according to the electoral list on which they were obtained, as reported in the official results, regardless of the party membership of individual candidates. Lists will be attributed as follows:\n\n",
+   "close": "2026-11-30T04:59:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "kalshi:KXPARAMOUNTAPP-26DEC08-T71.5",
+   "question": "Paramount+ app downloads in November 2026 \u2014 Above 71.5",
+   "rules": "If the Carbon Arc Paramount+ app downloads (November 2026) for November 2026 is above 71.5 , then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 7th calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 7th.\n\nThe index measures year-over-year, where 100 means Paramount+ app downloads was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% growth, 97 = 3% decline from year prior. \n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-12-15T06:30:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "kalshi:KXRAINPHXM-26NOV-2",
+   "question": "Rain in Phoenix in Nov 2026? \u2014 Above 2 inches",
+   "rules": "If the total precipitation at CLIPHX in Phoenix in Nov 2026 is strictly greater than 2 inches, then the market resolves to Yes. The monthly precipitation total in the first National Weather Service Daily Climate Report containing all calendar days of the month determines this market, subject to the material-error and revised-data provisions in the contract terms.",
+   "close": "2026-12-02T04:59:59Z",
+   "category": "climate and weather"
+  },
+  {
+   "key": "poly:6403128",
+   "question": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate at the November meeting?",
+   "rules": "This market will resolve according to the change in basis points in the Bank of Israel Interest Rate resulting from the November 2026 meeting of the Bank of Israel Monetary Committee, relative to the level it was prior to this meeting.\n\nThe resolution source will be official information from the Bank of Israel, including the statement or release from its November 2026 meeting, scheduled for November 23, 2026, as listed on the official Bank of Israel calendar (https://www.boi.org.il/en/economic-roles/monetary-policy/). This market may resolve as soon as the statement or release of the Bank of Israel Monetary Committee resulting from its November 2026 meeting with relevant data is issued.\n\nIf the specified rate is defined by an upper and lower bound, the relevant change will be the change to the upper bound.\n\nIf the specified rate is changed to a level not expressed in the displayed options, the change will be rounded according to the following guidelines. Increases or decreases of less than 25 bps will be rounded to 25 bps (e.g. an increase or decrease of 10 bps would be considered to be an increase or decrease of 25 bps). Increases or decreases of greater than 25 bps will be rounde",
+   "close": "2026-11-23T23:59:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXPGATOUR-THRC26-MTHO",
+   "question": "The RSM Classic Winner \u2014 Michael Thorbjornsen",
+   "rules": "If Michael Thorbjornsen wins the The RSM Classic, then the market resolves to Yes. If a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n",
+   "close": "2026-11-22T00:00:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXYTVIEWSW-KEN26NOV22-8.0M",
+   "question": "Kendrick Lamar: Highest daily view count (November 16, 2026 - November 22, 2026) \u2014 Above 8M",
+   "rules": "If Kendrick Lamar has above 8M Global daily views on YouTube during November 16, 2026 - November 22, 2026, then the market resolves to Yes. View counts may vary by location. This market will resolve using values displayed from a New York IP address.\n\nGlobal daily views can be accessed through YouTube Charts by searching for the artist and selecting \u201cGlobal\u201d as the location.\n\nThis market and these products have not been endorsed by YouTube. Any references to YouTube charts or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between YouTube and Kalshi.",
+   "close": "2026-11-26T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "poly:7085175",
+   "question": "Will Bitcoin dip to $58,000 November 16-22?",
+   "rules": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for Bitcoin (BTC/USDT) during the date range specified in the title (from 12:00 AM ET on the first date to 11:59 PM ET on the last) has a final \"Low\" price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Low\" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-11-23T05:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXBARRMENTION-26NOV19-LIQU",
+   "question": "What will Fed Gov Barr say during his remarks at FinRegLab AI Symposium? \u2014 Liquidity",
+   "rules": "If \n Michael S. Barr says Liquidity as part of remarks at FinRegLab 2026 AI Symposium originally scheduled for November 19, 2026\n, then the market resolves to Yes. How this is resolved\nVideo of the remarks at FinRegLab 2026 AI Symposium originally scheduled for November 19, 2026 using the live broadcast or stream.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the remarks at FinRegLab 2026 AI Symposium originally scheduled for November 19, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nMichael S. Barr speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nAdditional content not included in the original broadcast or stream.\nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified",
+   "close": "2026-12-03T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "poly:7030584",
+   "question": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
+   "rules": "This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from November 17 12:00 PM ET to November 24, 2026 12:00 PM ET.\n\nFor the purposes of this market, only main feed posts, quote posts and reposts will count.\n\nReplies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.\n\nDeleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).\n\nCommunity reposts which are not counted by the tracker not count toward the total.\n\nThe resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking \"Export Data\". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.",
+   "close": "2026-11-24T17:00:00Z",
+   "category": "culture"
+  },
+  {
+   "key": "kalshi:KXANTHSHARE-26NOV23-5.3",
+   "question": "Anthropic market share this week \u2014 Above 5.3%",
+   "rules": "If Anthropic scores above 5.3% on OpenRouter text market share by model author week of Nov 16, 2026, then the market resolves to Yes. This event will resolve based on 10:00AM ET Monday updated market share values reported by OpenRouter, rounded to one decimal place, for the week of Nov 16, 2026.\n\nIf the named model author\u2019s market share is not separately identified in the source chart, including if it is included in \u201cOthers,\u201d all markets in the event will resolve to No.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the governing benchmark. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-30T04:59:00Z",
+   "category": "science and technology"
+  }
+ ]
+}
