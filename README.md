@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-21T07:17:25Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-21T12:10:32Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-21T03:47:18Z — 235 of 250 pairs priced
+- Last scan: 2026-11-21T12:10:29Z — 248 of 249 pairs priced
 - Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-21T07:17:25Z — Kalshi 194741 markets, Polymarket 21251 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 965 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 966 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 318
-- Positive pairs still in play: **437** (confirmed same bet: 17, not yet checked: 377)
-- Scans with at least one positive pair: 964
+- Positive pairs still in play: **439** (confirmed same bet: 17, not yet checked: 379)
+- Scans with at least one positive pair: 965
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -32,13 +32,13 @@ Running since 2026-10-14. 965 scans so far. A pair counts as positive when buyin
 | KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | unsure | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
-- Fast-check sessions (every 15 sec): 32 run, 521 positive spreads seen; typical one lasted 345 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 144. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: How many cities will Waymo operate in by December 31? 12-15 — 2 outcomes, +4.0¢ per $1
+- Fast-check sessions (every 15 sec): 33 run, 524 positive spreads seen; typical one lasted 345 sec, longest 120.0 min
+- Same-site bundles in the last 3 days: 129. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: #1 Searched Person on Google in the US 2026? Lindsay Clancy — 52 outcomes, +4.0¢ per $1
   - polymarket: #1 Free App in the US Apple App Store on November 20? TikTok Pro - Eve — 3 outcomes, +4.0¢ per $1
   - polymarket: How many Fed rate hikes in 2026? 2 (50 bps) — 2 outcomes, +4.0¢ per $1
   - polymarket: Highest temperature in Chengdu on November 20? 20°C — 3 outcomes, +3.9¢ per $1
+  - polymarket: Sabah FK vs. FC Barcelona FC Barcelona — 2 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
