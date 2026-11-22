@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-22T13:31:14Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-22T18:38:35Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -42,9 +42,9 @@ Running since 2026-10-14. 970 scans so far. A pair counts as positive when buyin
 
 ## Forecast test
 
-- Forecasts made: 99, settled: 71, still open: 28
-- Accuracy score (lower is better): Claude 0.191, market 0.122 → so far the market is more accurate; gap +0.069 (± 0.020). Needs ~100 settled before this means much.
-- Paper bets (when Claude disagreed by 5+ points): 57 bets, $19.48 staked, result $-4.17 (-21%)
+- Forecasts made: 99, settled: 72, still open: 28
+- Accuracy score (lower is better): Claude 0.188, market 0.120 → so far the market is more accurate; gap +0.068 (± 0.019). Needs ~100 settled before this means much.
+- Paper bets (when Claude disagreed by 5+ points): 58 bets, $19.63 staked, result $-4.33 (-22%)
 
 ---
 How it works: `src/` has the code, `arb/` and `forecast/` hold the data. See `CHECKIN.md` for what the twice-weekly Claude check-in does.
