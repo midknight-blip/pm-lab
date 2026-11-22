@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-22T18:38:35Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-22T19:46:21Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-22T13:31:11Z — 243 of 248 pairs priced
-- Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-22T06:58:05Z — Kalshi 179374 markets, Polymarket 20836 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-22T19:46:20Z — Kalshi 181436 markets, Polymarket 20354 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 970 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 33 run, 524 positive spreads seen; typical one lasted 345 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 120. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 137. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: How many Fed rate hikes in 2026? 2 (50 bps) — 2 outcomes, +4.0¢ per $1
+  - polymarket: Spain General Election: Vox % of vote? 16-18% — 3 outcomes, +3.9¢ per $1
   - polymarket: Sabah FK vs. FC Barcelona FC Barcelona — 2 outcomes, +3.9¢ per $1
   - polymarket: Turner Prize 2026 Winner Kira Freije — 4 outcomes, +3.9¢ per $1
-  - polymarket: Feyenoord Rotterdam vs. SBV Excelsior Draw (Feyenoord Rotterdam vs. SB — 2 outcomes, +3.8¢ per $1
-  - polymarket: Bank of Israel Decision in January? 25 bps decrease — 3 outcomes, +3.7¢ per $1
+  - polymarket: Next Muse Spark Model (1.4+) released on...? No release by November 30 — 5 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
