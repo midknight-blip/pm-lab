@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-23T09:05:24Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-23T21:25:03Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-23T09:05:21Z — 250 of 250 pairs priced
-- Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last scan: 2026-11-23T21:25:00Z — 243 of 247 pairs priced
+- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-23T07:46:30Z — Kalshi 162574 markets, Polymarket 20691 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 973 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 974 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
-- Positive pairs ruled out as different bets after reading the rules: 318
-- Positive pairs still in play: **444** (confirmed same bet: 17, not yet checked: 384)
-- Scans with at least one positive pair: 972
+- Positive pairs ruled out as different bets after reading the rules: 321
+- Positive pairs still in play: **442** (confirmed same bet: 22, not yet checked: 377)
+- Scans with at least one positive pair: 973
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@ Running since 2026-10-14. 973 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 33 run, 524 positive spreads seen; typical one lasted 345 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 117. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 105. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Spain General Election: Vox % of vote? 16-18% — 3 outcomes, +3.9¢ per $1
   - polymarket: Next Muse Spark Model (1.4+) released on...? No release by November 30 — 5 outcomes, +3.9¢ per $1
   - polymarket: Third-Best Chinese AI Company end of December? Z.ai — 3 outcomes, +3.8¢ per $1
