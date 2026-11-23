@@ -2178,5 +2178,45 @@
   "status": "same",
   "note": "both: Google Year in Search 2026, Global, People list, top 5",
   "checked": "2026-11-19"
+ },
+ "KXEERSTEDIVGAME-26NOV23AJAAZ-AJA|7206690": {
+  "status": "different",
+  "note": "Kalshi = Jong Ajax wins, Poly = Jong AZ wins; a draw makes both No, so not complementary",
+  "checked": "2026-11-23"
+ },
+ "KXCRITICSSUPACTO-27-JLEG|7153062": {
+  "status": "same",
+  "note": "both: Leguizamo wins Best Supporting Actor at 32nd Critics Choice; Poly alphabetical tie rule, ties near impossible",
+  "checked": "2026-11-23"
+ },
+ "KXGAMEAWARDS-BIG-CAI|3357530": {
+  "status": "same",
+  "note": "both: Cairn wins Best Independent Game at 2026 Game Awards; not nominated = No on both",
+  "checked": "2026-11-23"
+ },
+ "KX30YRDIRLM-26NOV30L-T5.18|6656043": {
+  "status": "different",
+  "note": "Kalshi below 5.18% from Nov 1 vs Poly below 5.17% from Nov 3; a 5.17% print splits them",
+  "checked": "2026-11-23"
+ },
+ "KX30YRDIRLM-26NOV30L-T5.21|6656042": {
+  "status": "different",
+  "note": "Kalshi below 5.21% from Nov 1 vs Poly below 5.20% from Nov 3; a 5.20% print splits them",
+  "checked": "2026-11-23"
+ },
+ "KXBILLS-DEFY|1426251": {
+  "status": "same",
+  "note": "both: deepfake civil-suit law (DEFIANCE Act) enacted by end of 2026, same source",
+  "checked": "2026-11-23"
+ },
+ "KXNHLMETROPOLITAN-27-NYI|5659363": {
+  "status": "same",
+  "note": "both: Islanders win 2026-27 Metropolitan Division per official NHL standings",
+  "checked": "2026-11-23"
+ },
+ "KXFEDDECISION-26DEC-H25|3215008": {
+  "status": "same",
+  "note": "both: Fed raises upper bound by 25bps at Dec 2026 FOMC; Poly rounds odd sizes, edge case only",
+  "checked": "2026-11-23"
  }
 }
