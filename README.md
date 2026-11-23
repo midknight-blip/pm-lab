@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-22T20:28:55Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-23T01:05:38Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-22T20:28:51Z — 249 of 249 pairs priced
+- Last scan: 2026-11-23T01:05:35Z — 246 of 249 pairs priced
 - Scans in the last 24h: 4 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-22T19:46:20Z — Kalshi 181436 markets, Polymarket 20354 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 971 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 972 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 318
-- Positive pairs still in play: **441** (confirmed same bet: 17, not yet checked: 381)
-- Scans with at least one positive pair: 970
+- Positive pairs still in play: **442** (confirmed same bet: 17, not yet checked: 382)
+- Scans with at least one positive pair: 971
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,12 +33,12 @@ Running since 2026-10-14. 971 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 33 run, 524 positive spreads seen; typical one lasted 345 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 137. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 116. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: How many Fed rate hikes in 2026? 2 (50 bps) — 2 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Vox % of vote? 16-18% — 3 outcomes, +3.9¢ per $1
   - polymarket: Sabah FK vs. FC Barcelona FC Barcelona — 2 outcomes, +3.9¢ per $1
-  - polymarket: Turner Prize 2026 Winner Kira Freije — 4 outcomes, +3.9¢ per $1
   - polymarket: Next Muse Spark Model (1.4+) released on...? No release by November 30 — 5 outcomes, +3.9¢ per $1
+  - polymarket: Feyenoord Rotterdam vs. SBV Excelsior Draw (Feyenoord Rotterdam vs. SB — 2 outcomes, +3.8¢ per $1
 
 ## Forecast test
 
