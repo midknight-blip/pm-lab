@@ -1,0 +1,76 @@
+{
+ "batch": "2026-11-23",
+ "created": "2026-11-23T10:52:27Z",
+ "markets": [
+  {
+   "key": "poly:3581101",
+   "question": "Will Chang San-cheng win the next Taoyuan Mayor election?",
+   "rules": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the candidate who becomes the next Mayor of Taoyuan as a result of this election.\n\nTemporary, interim, or placeholder Mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known, or no candidate has been elected, by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Taiwanese government, specifically the Central Election Commission (https://db.cec.gov.tw/).",
+   "close": "2026-11-29T04:59:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "kalshi:KXWENCC-26DEC07-T89",
+   "question": "Wendy's Monthly Credit Card Spend in November 2026 \u2014 Above 89",
+   "rules": "If the Carbon Arc Wendy's Monthly Credit Card Spend (November 2026) for November 2026 is above 89 , then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 4th calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 4th.\n\nThe index measures year-over-year change, where 100 means Wendy's Monthly Credit Card Spend was equal to the same month last year. Values above 100 indicate growth and values below 100 indicate decline: for example, 103 = 3% more spend than year prior, 97 = 3% decline from year prior. The index is measured by Carbon Arc's aggregated U.S. credit and debit card transaction panel, matched to the same period of the prior year. The panel updates daily as new data arrives.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-12-14T05:00:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "kalshi:KXRAINCHIM-26NOV-1",
+   "question": "Rain in Chicago in Nov 2026? \u2014 Above 1 inch",
+   "rules": "If the total precipitation at CLIORD in Chicago in Nov 2026 is strictly greater than 1 inches, then the market resolves to Yes. Not all weather data is the same. While checking a source like AccuWeather or Google Weather may help guide your decision, the official and final value used to determine this market as reported by the corresponding TWC Report (Daily).\n\nNotice: The Contract for this market has been amended. The market rules have been updated to reflect the amended terms, which provide clarification in the case of materially erroneous data. The market will settle in accordance with the rules of the amended Contract.",
+   "close": "2026-12-02T04:59:59Z",
+   "category": "climate and weather"
+  },
+  {
+   "key": "kalshi:KXRT-DUNE-92",
+   "question": "Dune: Part Three: Rotten Tomatoes score \u2014 Above 92",
+   "rules": "If Dune: Part Three has a Tomatometer score of above 92 on Dec 21, 2026 at 10:00 AM ET, then the market resolves to Yes. The \"Fresh!\" and \"Certified Fresh!\" subtitles are meant for illustrative purposes only. The Tomatometer score must be above the strike value to resolve as YES (for example, a score of 75 would resolve \"Above 75\" as No.) The market will be determined the Monday after wide release at 10:00 AM ET.\n\nThis market and these products have not been endorsed by Rotten Tomatoes. Any references to Rotten Tomatoes or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between Rotten Tomatoes and Kalshi.",
+   "close": "2026-12-21T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXNFLGAME-26NOV29SEASF-SF",
+   "question": "Seattle vs San Francisco \u2014 San Francisco",
+   "rules": "If San Francisco wins the Seattle vs San Francisco Pro Football game originally scheduled for Nov 29, 2026, then the market resolves to Yes. The following market refers to the team who wins the Seattle vs San Francisco Pro Football game originally scheduled for Nov 29, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-30T00:25:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "poly:4570988",
+   "question": "Will the Bank of Russia announce no change at the December 2026 meeting?",
+   "rules": "This market will resolve according to the change in basis points in the key rate resulting from the December 2026 meeting of the Bank of Russia, relative to the level it was prior to this meeting.\n\nThe resolution source will be official information from the Bank of Russia, including the statement or release from its December 2026 meeting, scheduled for December 18, 2026, as listed on the official Bank of Russia calendar (https://www.cbr.ru/eng/dkp/cal_mp/#t13). This market may resolve as soon as the statement or release of the Bank of Russia resulting from its December 2026 meeting with relevant data is issued.\n\nIf the specified rate is defined by an upper and lower bound, the relevant change will be the change to the upper bound.\n\nIf the specified rate is changed to a level not expressed in the displayed options, the change will be rounded according to the following guidelines. Increases or decreases of less than 25 bps will be rounded to 25 bps (e.g. an increase or decrease of 10 bps would be considered to be an increase or decrease of 25 bps). Increases or decreases of greater than 25 bps will be rounded to the nearest 25 bps and will be rounded away from 0 in cases of equidista",
+   "close": "2026-12-18T23:59:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "poly:6507392",
+   "question": "Will Bitcoin dip to $55,000 in November?",
+   "rules": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for BTC/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final Low price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT Low prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-12-01T05:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "kalshi:KXEARNINGSMENTIONDKS-26NOV24-TARI",
+   "question": "What will Dick\u2019s say during their next earnings call? \u2014 Tariff",
+   "rules": "If Tariff is said by any Dick\u2019s Sporting Goods, Inc. representative (including the operator of the call) during the next Dick\u2019s Sporting Goods, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes. How this is resolved\nVideo of the Dick\u2019s Sporting Goods, Inc. earnings call.\nIf a consensus by Kalshi employees cannot be reached using video, transcripts of the Dick\u2019s Sporting Goods, Inc. earnings call will be used according to the news publications listed in the contract. \n\nPayout criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word.\n\nDoesn't count for payout\nGrammatical/tense inflections.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the underlying company. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-12-08T15:00:00Z",
+   "category": "mentions"
+  },
+  {
+   "key": "poly:7109758",
+   "question": "Will Donald Trump post 200+ Truth Social posts from November 20 to November 27, 2026?",
+   "rules": "This market will resolve according to the number of times Donald Trump (@realDonaldTrump), posts on Truth Social between November 20, 12:00 PM ET and November 27, 2026, 12:00 PM ET.\n\nFor the purposes of this market, only main feed posts, quote posts and reposts will count.\n\nReplies will NOT count towards the total - however, replies which are recorded on the main feed will be counted by the tracker.\n\nDeleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).\n\nThe resolution source for this market is the \"Post Counter\" figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking \"Export Data\". If the tracker does not update correctly in accordance with the rules, Truth Social itself may be used as a secondary resolution source.",
+   "close": "2026-11-27T17:00:00Z",
+   "category": "culture"
+  },
+  {
+   "key": "kalshi:KXSILVERMON-26NOV3017-T45.99",
+   "question": "Silver price on Nov 30, 2026 at 5:00 PM EST? \u2014 Above $45.99",
+   "rules": "If the close price of the 1-minute candlestick for silver on November 30, 2026 at 5:00 PM EST is above 45.99 USD/t.oz, then the market resolves to Yes. The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+   "close": "2026-11-30T22:00:00Z",
+   "category": "commodities"
+  }
+ ]
+}
