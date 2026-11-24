@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-24T16:11:04Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-24T21:28:25Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,7 +8,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-24T16:11:01Z — 240 of 247 pairs priced
-- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Scans in the last 24h: 2 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-24T10:00:15Z — Kalshi 167295 markets, Polymarket 21573 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
@@ -33,7 +33,7 @@ Running since 2026-10-14. 976 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 35 run, 538 positive spreads seen; typical one lasted 390 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 118. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 101. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Tyreek Hill's Next Team — 32 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Vox % of vote? 16-18% — 3 outcomes, +3.9¢ per $1
   - polymarket: Next Muse Spark Model (1.4+) released on...? No release by November 30 — 5 outcomes, +3.9¢ per $1
