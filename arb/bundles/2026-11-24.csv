@@ -23,3 +23,34 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-24T09:57:48Z,polymarket,0xbccd9b41bb1613743f94e64ae5c4cbeede22da4ee973999dbcd197d55035c300,SB Energy IPO Closing Market Cap No IPO before January 2027,2,0.966,0.0033,0.0307,,2027-01-01T04:59:00Z
 2026-11-24T09:57:48Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 6,3,0.993,0.0002,0.0068,,2027-01-01T04:59:00Z
 2026-11-24T09:57:48Z,polymarket,0xafb2096913db5ef1afadba161fc4e99303df67bc8e0ca39746e213a494ed3b00,Next Senator in Klobuchar's Minnesota seat? Kelly Morrison,6,0.941,0.0227,0.0363,,2027-04-01T03:59:00Z
+2026-11-24T22:29:36Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-24T22:29:36Z,kalshi,KXFEDDECISION-27APR,Fed decision in Apr 2027?,5,0.95,0.039,0.011,1.53,2027-04-28T18:05:00Z
+2026-11-24T22:29:36Z,kalshi,KXGOOGLESEARCH-ACT27,Google’s Year in Search 2026 Global - Actors: #1 search,13,0.91,0.053,0.037,23.8,2027-01-01T15:00:00Z
+2026-11-24T22:29:36Z,kalshi,KXMLSEAST-26,MLS Eastern Conference Champion,9,0.93,0.059,0.011,1.0,2026-12-25T15:00:00Z
+2026-11-24T22:29:36Z,kalshi,KXTRUMPPHOTO-26NOV29,How many days will Trump be photographed this week? (11/23-11/29) ,5,0.93,0.049,0.021,468.81,2026-11-30T15:00:00Z
+2026-11-24T22:29:36Z,polymarket,0x2145a6bc791b92ec15ca7ee2ed862c674243bbb7a1ac1d98f2f545f459c86400,"#1 Spotify song in the US this week? (November 27) Flower In A Hurricane - Justice, Tame Impala, SZA, King Gizzard & the",10,0.978,0.0045,0.0175,,2026-11-27T23:59:00Z
+2026-11-24T22:29:36Z,polymarket,0xf5842ebfbdac329d66af396758bcc7124477c685132ce50f9693ec7bb6058700,Lowest temperature in Seoul (Incheon) on November 25? -1°C,4,0.976,0.0003,0.0237,,2026-11-25T12:00:00Z
+2026-11-24T22:29:36Z,polymarket,0xf0f091070822edb6adab70432cde4fc8ec195871fb6fbd1a3a0d24ee2f33b000,"#2 Spotify song this week? (November 27) BbY WOW - KAROL G, Judeline, rusowsky",3,0.967,0.0027,0.0303,,2026-11-27T23:59:00Z
+2026-11-24T22:29:36Z,polymarket,0xdcd4082bd17fa5d085bcab5c77be027e9ddaade69709ba94f7b33207ac6cda00,Gagauzia Gubernatorial Election Winner Alexandr Stoianoglo,2,0.99,0.0037,0.0063,,2026-11-30T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x11c61aee25e287324124a412129b12b0cf4c4bfbf8f42e746ee2e66d7ec2c200,2028 presidential odds leader on November 30? Alexandria Ocasio-Cortez,2,0.972,0.0006,0.0274,,2026-11-30T17:00:00Z
+2026-11-24T22:29:36Z,polymarket,0xd8a95c4cc71633c81b7e3deb2a045c782aea10d528342c5a084b037dfb712d00,BLAST Slam IX: Winner OG,3,0.947,0.0253,0.0277,,2026-12-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x17c57834fe7129377dc725b773565adea5b590e85724f7ea3f5036256a5d5900,Spain General Election: Ceuta Winner PP,2,0.96,0.0213,0.0187,,2026-11-30T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x0865938da77ef6b9ae0562004d943d6049657f6bc4df6028653609087e783800,Avg. # of ships transiting Strait of Hormuz end of November? 0-4,2,0.96,0.0,0.04,,2026-12-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0xcf5d62b5001a925c168280b3f7a4c677664775d12b15422c3cea064456139200,#2 AI Lab end of November? (Style Control On) Anthropic,3,0.955,0.0096,0.0354,,2026-12-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x7f29f973c38f4675eb225c902036e38270d439d9831d267dc0185221c6bc5c00,Second-best AI Lab end of November? Alibaba,2,0.991,0.0034,0.0056,,2026-12-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x04ab567c373cecbcc19d53c5cf0cd1869d31dbcb25cd1761c84ecf46777c8c00,Which company has the best Text-to-Image AI end of November? OpenAI,2,0.985,0.0015,0.0135,,2026-12-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x1e3cd229937bb55236864f7cee48e84eee8e91db48c15b73509dedae1be8f400,Which company has the best Image Edit AI end of November? OpenAI,3,0.964,0.0031,0.0329,,2026-12-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x61b6264661cb1163c4791d232de82e311fb69e7f027783c71b97b6635f96b600,Central Bank of Chile decision in December 25 bps increase,5,0.988,0.0048,0.0072,,2026-12-15T00:00:00Z
+2026-11-24T22:29:36Z,polymarket,0xc64834aa4129285c34788e1d24498c7520089bc22532df852dd2abd16db95700,NCAA Football 2026 Big 12 Conference: Winner Utah Utes,2,0.96,0.0242,0.0158,,2026-12-19T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x2519e258a24e7c847d53022e321cc54605568961adb75f79abaa0c2a33aa7600,Next leader out of power before 2027? Netanyahu - Israel PM,22,0.988,0.0,0.012,,2027-01-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x5e2f73b3b3d97f093d770a1fa9148fb8315d39097b5c759703eef9e87414b300,MLS Cup Winner 2026 Charlotte FC,10,0.923,0.0393,0.0377,,2027-01-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x075618cfcad2bfd274613928669f336a9ce9ae3b28128131b0e4eaa1fa5f6b00,#1 Searched Passing on Google in the US 2026? Hayden Panettiere,26,0.988,0.0051,0.0069,,2027-04-01T03:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? SpaceX,3,0.991,0.0006,0.0084,,2027-01-02T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x0d4b515561eadea37b45f866034b24895519bd1e65cf9f3c8d8606bd4e746300,Second-best Text Arena Math AI Lab end of December? Anthropic,2,0.95,0.0189,0.0311,,2027-01-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x59671b88425a06b0c6f1e30e37c3bda45090948f5781f2d25f30565498531700,The Game Awards: Best Narrative Grand Theft Auto VI,3,0.987,0.0033,0.0097,,2027-01-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x9d7def88f791ea6a24353211bbe0c73341c29e976b9b4fa3ac4821ed3f065500,#2 US Spotify Song 2026 Man I Need – Olivia Dean,3,0.962,0.0049,0.0331,,2027-02-01T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0xc37d76499ff5d4d0b10e7f7b858af4f81885978234b7f3f63ab4caea2becad00,"Adamawa, Nigeria Governor Election Winner Wafarinyi Theman Dalatu",5,0.936,0.0277,0.0363,,2027-02-07T04:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x0d3c69efdeb945cb31ac591612ea76f1623d0ec5818bc4e702dad9829f853700,Grammys 2027: Best Latin Rock or Alternative Album Winner FREE SPIRITS - CA7RIEL & Paco Amoroso,4,0.979,0.0071,0.0139,,2027-02-07T23:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x3b648e24c1ac74246acb93ef5384fc189d177707a7109b9be27339ea41efec00,Grammys 2027: Best Reggae Album Winner Exile - Chronixx,5,0.987,0.0077,0.0053,,2027-02-07T23:59:00Z
+2026-11-24T22:29:36Z,polymarket,0x7113bbb263a7caba1ae78799d11a8cecb75088e464f8f51751a304cb99ca1f00,AFCON 2027 Qualifying: Group K Winner Mali,4,0.99,0.0025,0.0075,,2027-03-31T03:59:00Z
+2026-11-24T22:29:36Z,polymarket,0xafb2096913db5ef1afadba161fc4e99303df67bc8e0ca39746e213a494ed3b00,Next Senator in Klobuchar's Minnesota seat? Will Stancil,6,0.942,0.0227,0.0353,,2027-04-01T03:59:00Z
