@@ -1,0 +1,25 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-24T09:57:48Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-24T09:57:48Z,kalshi,KXFEDDECISION-27APR,Fed decision in Apr 2027?,5,0.94,0.039,0.021,0.12,2027-04-28T18:05:00Z
+2026-11-24T09:57:48Z,kalshi,KXNCAAMBSWAC-27,Southwestern Athletic Conference Men's Tournament Champion,12,0.91,0.059,0.031,0.63,2027-03-14T21:00:00Z
+2026-11-24T09:57:48Z,kalshi,KXUNSEC-27JAN,Who will be the next UN Secretary-General?,17,0.91,0.056,0.034,1.0,2027-01-05T15:00:00Z
+2026-11-24T09:57:48Z,kalshi,KXNEXTTEAMNFL-26THILL,Tyreek Hill's Next Team,32,0.89,0.07,0.04,12.0,2026-12-31T15:00:00Z
+2026-11-24T09:57:48Z,polymarket,0xfb7682c83fa876f252d8bec0ad466f3429a72c625266af1204d2752779433e00,Highest temperature in Los Angeles on November 25? 76-77°F,5,0.956,0.006,0.038,,2026-11-25T12:00:00Z
+2026-11-24T09:57:48Z,polymarket,0x2eb22ed11fc2c44ef4582171c2f4718562213043b7805e5105296ff5309bf500,"Ethereum price on November 25? 1,600-1,700",4,0.96,0.0052,0.0348,,2026-11-25T17:00:00Z
+2026-11-24T09:57:48Z,polymarket,0x9f59e8c3c0b4da2d49790068744eeb22ef045770fd8d47302a5640b66d001300,"Bitcoin price on November 27? 54,000-56,000",7,0.971,0.0076,0.0214,,2026-11-27T17:00:00Z
+2026-11-24T09:57:48Z,polymarket,0x41ff88ef4a9064300463358d7afaabe3479956100fe4f83f6867c68127cbea00,Highest temperature in Seoul (Incheon) on November 26? 14°C,4,0.984,0.0063,0.0097,,2026-11-26T12:00:00Z
+2026-11-24T09:57:48Z,polymarket,0x04f9a79c5eca1cedf4337990c720ab708a52fba0a0ee1acaeeab7742cfe84800,XRP price on November 29? 0.90-1.00,2,0.97,0.0049,0.0251,,2026-11-29T17:00:00Z
+2026-11-24T09:57:48Z,polymarket,0x442a4dce6617c91d01bfe1dc1f5d551b3b4ae4cab57b4db62732ab8fb1fb1c00,Next Gemini Flash-Lite Model (3.6+) released on...? November 29,2,0.992,0.0006,0.0074,,2026-12-01T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0x263205cb6d44b656f27889bc24be4bd743af365cd0d7d0b9bc29cda056518500,Reserve Bank of Australia Decision in December 25 bps decrease,2,0.986,0.0003,0.0137,,2026-12-08T23:59:00Z
+2026-11-24T09:57:48Z,polymarket,0xcdf6a15e4f95e80e282e610d4f130bd780674e628f7b2a907906ace928a18600,Brantford—Brant South By-Election Winner Joy O'Donnell,2,0.95,0.0207,0.0293,,2026-12-07T23:59:00Z
+2026-11-24T09:57:48Z,polymarket,0x833ee5040e660751beddfeafa739af8998a1d2a21fec2c5b740a79bb72fafd00,Swiss Federal Council By-Election Winner Thomas Aeschi,4,0.986,0.0047,0.0093,,2026-12-10T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0xc64834aa4129285c34788e1d24498c7520089bc22532df852dd2abd16db95700,NCAA Football 2026 Big 12 Conference: Winner Texas Tech Red Raiders,2,0.96,0.0242,0.0158,,2026-12-19T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0x2a4a952b6008b8b88d0cfd0a62c522c69f993f5d3da13da94dd3a408cd9ed200,Where will Zelenskyy and Putin meet next before 2027? US,7,0.974,0.0,0.026,,2027-01-01T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? SpaceX,2,0.99,0.0006,0.0094,,2027-01-02T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0x5e2f73b3b3d97f093d770a1fa9148fb8315d39097b5c759703eef9e87414b300,MLS Cup Winner 2026 Nashville SC,11,0.938,0.0402,0.0218,,2027-01-01T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Brendan Allen,3,0.971,0.0035,0.0255,,2027-01-01T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0x90022f6e860e22a5c9e67b65827511c64473606e159d7f4344b822981388d700,#1 Searched Passing on Google 2026? Dolly Parton,19,0.962,0.0042,0.0338,,2027-04-01T03:59:00Z
+2026-11-24T09:57:48Z,polymarket,0xd20be2f87f33e57cb3bedea195561725bd0b239cbb9a68cbb8dc365d9d219b00,#3 AI Lab end of December? (Style Control On) Meta,2,0.94,0.0227,0.0373,,2027-01-01T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0xbccd9b41bb1613743f94e64ae5c4cbeede22da4ee973999dbcd197d55035c300,SB Energy IPO Closing Market Cap No IPO before January 2027,2,0.966,0.0033,0.0307,,2027-01-01T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0x98c660417519eab6d7c2fe20291fe4fc48ef6677c9061aaabe4947ec60fa9c00,How many UK parliamentary by-elections in 2026? 6,3,0.993,0.0002,0.0068,,2027-01-01T04:59:00Z
+2026-11-24T09:57:48Z,polymarket,0xafb2096913db5ef1afadba161fc4e99303df67bc8e0ca39746e213a494ed3b00,Next Senator in Klobuchar's Minnesota seat? Kelly Morrison,6,0.941,0.0227,0.0363,,2027-04-01T03:59:00Z
