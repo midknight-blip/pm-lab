@@ -27,3 +27,39 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-25T08:40:42Z,polymarket,0x7113bbb263a7caba1ae78799d11a8cecb75088e464f8f51751a304cb99ca1f00,AFCON 2027 Qualifying: Group K Winner Mali,4,0.991,0.0025,0.0065,,2027-03-31T03:59:00Z
 2026-11-25T08:40:42Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 35 to 49,4,0.99,0.0016,0.0084,,2027-04-01T03:59:00Z
 2026-11-25T08:40:42Z,polymarket,0xafb2096913db5ef1afadba161fc4e99303df67bc8e0ca39746e213a494ed3b00,Next Senator in Klobuchar's Minnesota seat? Kelly Morrison,6,0.954,0.0233,0.0227,,2027-04-01T03:59:00Z
+2026-11-25T21:44:29Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-25T21:44:29Z,kalshi,KXNCAAMBNEC-27,NEC Men's Conference Tournament Champion,9,0.92,0.06,0.02,0.9,2027-03-14T22:00:00Z
+2026-11-25T21:44:29Z,kalshi,KXNCAAMBSWAC-27,Southwestern Athletic Conference Men's Tournament Champion,12,0.91,0.059,0.031,0.63,2027-03-14T21:00:00Z
+2026-11-25T21:44:29Z,kalshi,KXNETFLIXRANKMOVIE-26NOV30,Top US Netflix Movie this week?,12,0.94,0.044,0.016,1.0,2026-12-01T15:00:00Z
+2026-11-25T21:44:29Z,kalshi,KXAAAGASCDVT-26NOV26,Vermont gas price tomorrow,5,0.94,0.022,0.038,0.01,2026-11-26T15:00:00Z
+2026-11-25T21:44:29Z,polymarket,0xa6116b1b7237e363d5cd2425e20d2ae9f6bdd7e22da644fa64a34ff31faa4400,Highest temperature in Wellington on November 26? 18°C,5,0.982,0.0055,0.0125,,2026-11-26T12:00:00Z
+2026-11-25T21:44:29Z,polymarket,0xc2f5b0c3f1d4fe06ca92f92bcf410b33b5e250ca68c763ba96812b52c3d3f400,Highest temperature in San Francisco on November 26? 64-65°F,3,0.98,0.0061,0.0139,,2026-11-26T12:00:00Z
+2026-11-25T21:44:29Z,polymarket,0x73fd747cd79c8baa745b0b421f1d9a80073d76134b34af08343540bbed5dfc00,Spain General Election: Vox % of vote? 16-18%,3,0.952,0.0298,0.0182,,2026-11-30T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0xeb74724dac37478ddbbc49ea54b0cd5b23722ca64a60b6e75ea1d012665dbc00,Lowest temperature in Tokyo on November 26? 11°C,3,0.982,0.0002,0.0178,,2026-11-26T12:00:00Z
+2026-11-25T21:44:29Z,polymarket,0x3e1cb17104a4ae94b9b402656dfa61ec0a7ae3df4d5e04b41adc0dfdf7d25500,Highest temperature in Chongqing on November 27? 19°C,3,0.98,0.0062,0.0138,,2026-11-27T12:00:00Z
+2026-11-25T21:44:29Z,polymarket,0x249585c1ca69ee8f93977c8cbae64fce29e4d065ba2f6ba4532f5d4f2c134a00,F1 Drivers' Champion: 2nd Place Max Verstappen,2,0.979,0.0014,0.0196,,2026-12-06T00:00:00Z
+2026-11-25T21:44:29Z,polymarket,0xf64a83380bf59422c0af9e03ba73cdc9a402755f48a7e643f49e1cc9fca28c00,Third-best AI Lab end of November? Meta,9,0.978,0.0124,0.0096,,2026-12-01T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x3dfa8755b6d9826dbf6a516e84755731982641ec9f55e4fd4c57413a32f99400,Canada's Choice 2027 Winner TALK,2,0.97,0.0049,0.0251,,2026-12-06T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x7f29f973c38f4675eb225c902036e38270d439d9831d267dc0185221c6bc5c00,Second-best AI Lab end of November? Anthropic,5,0.968,0.0023,0.0297,,2026-12-01T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0xab505e3726d1168170bde7e8bd71811d1cda99dc132227334e242224a1df2a00,The Game Awards: Best Game Direction Phantom Blade Zero,3,0.959,0.0018,0.0392,,2027-01-01T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0xc64834aa4129285c34788e1d24498c7520089bc22532df852dd2abd16db95700,NCAA Football 2026 Big 12 Conference: Winner Utah Utes,2,0.97,0.0241,0.0059,,2026-12-19T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x64ea46ebb0943a0e2ae99485922b8a1fffea5e806212d4383e73712d50e93200,Democratic nomination odds leader on December 31? Jon Ossoff,7,0.978,0.0049,0.0171,,2026-12-31T17:00:00Z
+2026-11-25T21:44:29Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,8,0.993,0.0,0.007,,2026-12-31T17:00:00Z
+2026-11-25T21:44:29Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.991,0.0029,0.0061,,2027-01-01T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Elon Musk",2,0.983,0.0002,0.0168,,2027-01-03T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x5ee37efd0f4531127111902967c69cebc8131af4fab0da29c7550c986ed13100,Which company has #1 AI model end of December? (Style Control On) Google,3,0.974,0.0165,0.0095,,2027-01-01T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x809e81d2ad9f4141c7dc615ca53153e169402415dd60e592e6ec360fed5ae200,League of Legends Global Power Rankings Post Worlds: Rank 1 GEN,6,0.992,0.0015,0.0065,,2027-01-15T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x62f36b37c2918992fdf5b08e8d86ff130919b4db80e2225682de3c03d520de00,Who will be UFC Heavyweight champion at the end of 2026? Ciryl Gane,2,0.985,0.0013,0.0137,,2027-01-01T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x075618cfcad2bfd274613928669f336a9ce9ae3b28128131b0e4eaa1fa5f6b00,#1 Searched Passing on Google in the US 2026? Nancy Guthrie,26,0.974,0.0048,0.0212,,2027-04-01T03:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x62e898e4b8a3d46c6d54326936e959b9e7935669dbeaac5efad4587105063d00,Top Spotify Artist 2026 Drake,3,0.992,0.0003,0.0077,,2027-02-01T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0xa8cba0039f41801c327419428ad901551dd2043e4d3d4b14f24f8c6e76a8d700,NCAA Football: 2027 National Champion Alabama Crimson Tide,9,0.946,0.0375,0.0165,,2027-01-26T00:00:00Z
+2026-11-25T21:44:29Z,polymarket,0x707042a979c02569d5202e1e5d1705525d84af2cbe1e326b3c06839013d85b00,Where will 2026 rank among the highest U.S. domestic box office years on record? 7th-9th,4,0.972,0.0044,0.0235,,2027-02-01T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Otu Bassey Edet",2,0.98,0.0098,0.0102,,2027-02-07T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x91708950dcdd7011344e5023e1b03d02ecf26a5da6528b553bc4a2f180440200,Grammys 2027: Record of the Year Winner Man I Need - Olivia Dean,5,0.97,0.0075,0.0225,,2027-02-07T23:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x1c099d84cf62659ad91a23ea61e0da955cc81bae8a7a48911808e21931f8ea00,Grammys 2027: Best Latin Song Winner La Perla - Rosalia & Yahritza Y Su Esencia,3,0.969,0.0046,0.0264,,2027-02-07T23:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x0d3c69efdeb945cb31ac591612ea76f1623d0ec5818bc4e702dad9829f853700,Grammys 2027: Best Latin Rock or Alternative Album Winner FREE SPIRITS - CA7RIEL & Paco Amoroso,4,0.968,0.007,0.025,,2027-02-07T23:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x3b648e24c1ac74246acb93ef5384fc189d177707a7109b9be27339ea41efec00,Grammys 2027: Best Reggae Album Winner Exile - Chronixx,5,0.977,0.0077,0.0153,,2027-02-07T23:59:00Z
+2026-11-25T21:44:29Z,polymarket,0xf03660bae6e2031c0d651cc96e7ff4d1028ebf55c28d1a3c282dabd0d9141200,"Enugu, Nigeria Governor Election Winner James Ene Nwannaji",4,0.962,0.0178,0.0202,,2027-02-07T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0xc37d76499ff5d4d0b10e7f7b858af4f81885978234b7f3f63ab4caea2becad00,"Adamawa, Nigeria Governor Election Winner Wafarinyi Theman Dalatu",5,0.946,0.0277,0.0264,,2027-02-07T04:59:00Z
+2026-11-25T21:44:29Z,polymarket,0x7646b68c7bbc14ad377315cfdd6bd0cd65b9e14e2cafe32cfe76abe202e70800,Republican nomination odds leader on March 31? JD Vance,6,0.99,0.0043,0.0057,,2027-03-31T16:00:00Z
+2026-11-25T21:44:29Z,polymarket,0x7113bbb263a7caba1ae78799d11a8cecb75088e464f8f51751a304cb99ca1f00,AFCON 2027 Qualifying: Group K Winner Mali,4,0.991,0.0025,0.0065,,2027-03-31T03:59:00Z
