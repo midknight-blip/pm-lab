@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-25T00:45:28Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-25T08:43:11Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -8,8 +8,8 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 ## Health
 
 - Last scan: 2026-11-25T00:45:26Z — 247 of 248 pairs priced
-- Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-24T22:33:15Z — Kalshi 172087 markets, Polymarket 21165 yes/no markets, 250 matched pairs
+- Scans in the last 24h: 2 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
+- Last market list refresh: 2026-11-25T08:43:10Z — Kalshi 173968 markets, Polymarket 20326 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 977 scans so far. A pair counts as positive when buyin
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 35 run, 538 positive spreads seen; typical one lasted 390 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 119. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 113. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Tyreek Hill's Next Team — 32 outcomes, +4.0¢ per $1
   - polymarket: Avg. # of ships transiting Strait of Hormuz end of November? 0-4 — 2 outcomes, +4.0¢ per $1
   - polymarket: Spain General Election: Vox % of vote? 16-18% — 3 outcomes, +3.9¢ per $1
   - polymarket: Next Muse Spark Model (1.4+) released on...? No release by November 30 — 5 outcomes, +3.9¢ per $1
-  - polymarket: Third-Best Chinese AI Company end of December? Z.ai — 3 outcomes, +3.8¢ per $1
+  - polymarket: Highest temperature in Tel Aviv on November 25? 23°C — 3 outcomes, +3.9¢ per $1
 
 ## Forecast test
 

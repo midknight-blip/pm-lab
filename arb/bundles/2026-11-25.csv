@@ -1,0 +1,29 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-25T08:40:42Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-25T08:40:42Z,kalshi,KXFEDDECISION-27APR,Fed decision in Apr 2027?,5,0.95,0.039,0.011,0.12,2027-04-28T18:05:00Z
+2026-11-25T08:40:42Z,kalshi,KXNFLMOSTRECYDS-26NOV26KCBUF,Kansas City vs Buffalo: Most Receiving Yards,8,0.91,0.059,0.031,3.0,2026-11-27T07:20:00Z
+2026-11-25T08:40:42Z,polymarket,0xe46f6046479b1240dacb76748b0d8c04f58c6ee7ad5812fa08f572273ad9e600,Victoria Parliamentary Election: 2nd Place Labor,3,0.976,0.0188,0.0052,,2026-11-29T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0xdcd4082bd17fa5d085bcab5c77be027e9ddaade69709ba94f7b33207ac6cda00,Gagauzia Gubernatorial Election Winner Alexandr Stoianoglo,2,0.99,0.0037,0.0063,,2026-11-30T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x76d96f82d10d3a564a180b60cb9df66ba54527ad174513c9360995bf059bc100,Highest temperature in Tel Aviv on November 25? 23°C,3,0.958,0.0035,0.0385,,2026-11-25T12:00:00Z
+2026-11-25T08:40:42Z,polymarket,0xacad0348b578e5355db1fb9a5a4e774f672351520bfc4444c87498e8e6978e00,"Donald Trump # Truth Social posts November 27 - December 4, 2026? 200+",10,0.966,0.0083,0.0257,,2026-12-04T17:00:00Z
+2026-11-25T08:40:42Z,polymarket,0x0865938da77ef6b9ae0562004d943d6049657f6bc4df6028653609087e783800,Avg. # of ships transiting Strait of Hormuz end of November? 0-4,2,0.99,0.0,0.01,,2026-12-01T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x58cd99fb11494117f456be5d3feba39c9bdc1e07ddaae96e1fbca66eeeee5d00,What will be the top US Netflix show this week? (December 1) From: Season 3,3,0.966,0.0014,0.0326,,2026-12-02T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x04ab567c373cecbcc19d53c5cf0cd1869d31dbcb25cd1761c84ecf46777c8c00,Which company has the best Text-to-Image AI end of November? OpenAI,2,0.988,0.0017,0.0103,,2026-12-01T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0xc64834aa4129285c34788e1d24498c7520089bc22532df852dd2abd16db95700,NCAA Football 2026 Big 12 Conference: Winner Utah Utes,2,0.97,0.0241,0.0059,,2026-12-19T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x5e2f73b3b3d97f093d770a1fa9148fb8315d39097b5c759703eef9e87414b300,MLS Cup Winner 2026 Charlotte FC,11,0.939,0.0404,0.0206,,2027-01-01T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.991,0.0029,0.0061,,2027-01-01T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x075618cfcad2bfd274613928669f336a9ce9ae3b28128131b0e4eaa1fa5f6b00,#1 Searched Passing on Google in the US 2026? Nancy Guthrie,26,0.972,0.0048,0.0232,,2027-04-01T03:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? SpaceX,2,0.99,0.0006,0.0094,,2027-01-02T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x59671b88425a06b0c6f1e30e37c3bda45090948f5781f2d25f30565498531700,The Game Awards: Best Narrative The Blood of Dawnwalker,3,0.991,0.0033,0.0057,,2027-01-01T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x5a4fcfaad1885518f378328cf38d17cf43d89546ce4fe84b755f937eacb34d00,Top US Spotify Song 2026 Choosin Texas – Ella Langley,2,0.986,0.0004,0.0136,,2027-02-01T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x62e898e4b8a3d46c6d54326936e959b9e7935669dbeaac5efad4587105063d00,Top Spotify Artist 2026 Bad Bunny,6,0.989,0.0005,0.0105,,2027-02-01T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0xf03660bae6e2031c0d651cc96e7ff4d1028ebf55c28d1a3c282dabd0d9141200,"Enugu, Nigeria Governor Election Winner Geoffrey Uchechukwu Nnaji",4,0.959,0.0177,0.0233,,2027-02-07T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x1c099d84cf62659ad91a23ea61e0da955cc81bae8a7a48911808e21931f8ea00,Grammys 2027: Best Latin Song Winner La Perla - Rosalia & Yahritza Y Su Esencia,3,0.989,0.0047,0.0062,,2027-02-07T23:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x0d3c69efdeb945cb31ac591612ea76f1623d0ec5818bc4e702dad9829f853700,Grammys 2027: Best Latin Rock or Alternative Album Winner FREE SPIRITS - CA7RIEL & Paco Amoroso,4,0.968,0.007,0.025,,2027-02-07T23:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x3b648e24c1ac74246acb93ef5384fc189d177707a7109b9be27339ea41efec00,Grammys 2027: Best Reggae Album Winner Exile - Chronixx,5,0.986,0.0077,0.0063,,2027-02-07T23:59:00Z
+2026-11-25T08:40:42Z,polymarket,0xc37d76499ff5d4d0b10e7f7b858af4f81885978234b7f3f63ab4caea2becad00,"Adamawa, Nigeria Governor Election Winner Wafarinyi Theman Dalatu",5,0.936,0.0277,0.0363,,2027-02-07T04:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x7646b68c7bbc14ad377315cfdd6bd0cd65b9e14e2cafe32cfe76abe202e70800,Republican nomination odds leader on March 31? JD Vance,6,0.97,0.0043,0.0257,,2027-03-31T16:00:00Z
+2026-11-25T08:40:42Z,polymarket,0xdf78b91231180c31b52ce181cb2a1ec8cecc9451d2d7fffbc4c80bee7f8cb200,Central Bank of Chile Decision in March? No Change,5,0.989,0.0055,0.0055,,2027-03-30T23:59:00Z
+2026-11-25T08:40:42Z,polymarket,0x7113bbb263a7caba1ae78799d11a8cecb75088e464f8f51751a304cb99ca1f00,AFCON 2027 Qualifying: Group K Winner Mali,4,0.991,0.0025,0.0065,,2027-03-31T03:59:00Z
+2026-11-25T08:40:42Z,polymarket,0xe4ecc0d777a1e676d39144d1e86466c63c1d0b77608cbb356a3ab57d4356aa00,How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026? 35 to 49,4,0.99,0.0016,0.0084,,2027-04-01T03:59:00Z
+2026-11-25T08:40:42Z,polymarket,0xafb2096913db5ef1afadba161fc4e99303df67bc8e0ca39746e213a494ed3b00,Next Senator in Klobuchar's Minnesota seat? Kelly Morrison,6,0.954,0.0233,0.0227,,2027-04-01T03:59:00Z
