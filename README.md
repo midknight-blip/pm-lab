@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-25T21:47:54Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-26T02:27:52Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-25T19:36:06Z — 243 of 248 pairs priced
+- Last scan: 2026-11-26T02:27:49Z — 243 of 247 pairs priced
 - Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-25T21:47:53Z — Kalshi 179740 markets, Polymarket 20409 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 979 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 980 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 321
-- Positive pairs still in play: **455** (confirmed same bet: 22, not yet checked: 390)
-- Scans with at least one positive pair: 978
+- Positive pairs still in play: **456** (confirmed same bet: 22, not yet checked: 391)
+- Scans with at least one positive pair: 979
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Running since 2026-10-14. 979 scans so far. A pair counts as positive when buyin
 | KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | unsure | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXQSTARSGAME-26NOV08SADALR-SAD /  | unsure | +74.9¢ | +1.2¢ | 18 | 50 | 0 | >999% |
 
-- Fast-check sessions (every 15 sec): 35 run, 538 positive spreads seen; typical one lasted 390 sec, longest 120.0 min
+- Fast-check sessions (every 15 sec): 36 run, 568 positive spreads seen; typical one lasted 368 sec, longest 120.0 min
 - Same-site bundles in the last 3 days: 115. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Tyreek Hill's Next Team — 32 outcomes, +4.0¢ per $1
   - polymarket: Avg. # of ships transiting Strait of Hormuz end of November? 0-4 — 2 outcomes, +4.0¢ per $1
