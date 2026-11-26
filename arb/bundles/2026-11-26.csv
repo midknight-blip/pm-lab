@@ -1,0 +1,31 @@
+ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
+2026-11-26T08:25:00Z,kalshi,KXKANAGAWAGOV-27APR11,Kanagawa gubernatorial election winner?,7,0.94,0.05,0.01,5.0,2027-05-11T15:00:00Z
+2026-11-26T08:25:00Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-26T08:25:00Z,kalshi,KXEFLCUP-27,EFL Cup Champion,8,0.94,0.053,0.007,1.0,2027-03-21T17:00:00Z
+2026-11-26T08:25:00Z,kalshi,KXUNSEC-27JAN,Who will be the next UN Secretary-General?,17,0.91,0.055,0.035,1.0,2027-01-05T15:00:00Z
+2026-11-26T08:25:00Z,polymarket,0xe778a0bc800ed8c9507ed981fb2247b8c52069663e5681300e65c9099d884000,SC Cambuur-Leeuwarden vs. Sparta Rotterdam - Exact Score Any Other Score,2,0.94,0.0248,0.0352,,2026-11-28T20:00:00Z
+2026-11-26T08:25:00Z,polymarket,0xdeb4bccdbd666ddfbcabb67f34d55ae1b09871473eb8ad72e1b54e243cadce00,Lowest temperature in NYC on November 27? 46-47°F,5,0.961,0.007,0.032,,2026-11-27T12:00:00Z
+2026-11-26T08:25:00Z,polymarket,0x6abdb5286c788e7ee57f2ba2d6c4046d6b6b8166c65b479b0c268eea1745b400,Highest temperature in Los Angeles on November 27? 82-83°F,4,0.96,0.0069,0.0331,,2026-11-27T12:00:00Z
+2026-11-26T08:25:00Z,polymarket,0xc41bf89e53925e5ea9e0fa43511698101d2545a2c06c2a1122019e0509471100,Highest temperature in Mexico City on November 27? 14°C,6,0.978,0.0078,0.0142,,2026-11-27T12:00:00Z
+2026-11-26T08:25:00Z,polymarket,0xc5dc9a3c146179b2c1e098ea44fd26a7b95a21dfda73ca12797dfcb68bec1600,OpenAI’s valuation end of November 2026? $1.20-$1.30T,3,0.958,0.0262,0.0158,,2026-11-30T17:00:00Z
+2026-11-26T08:25:00Z,polymarket,0x62646b9f35495eae97fcf17bffd67d03898879e2949831cbf99a45a15cd58500,"Ethereum price on November 27? 1,600-1,700",3,0.986,0.0055,0.0085,,2026-11-27T17:00:00Z
+2026-11-26T08:25:00Z,polymarket,0x5ba8bb37785cf61eafed0819aa1bfd76d56e46fcdfb68c1527c11e59f00e5700,Highest temperature in Jeddah on November 27? 33°C,5,0.974,0.0062,0.0198,,2026-11-27T12:00:00Z
+2026-11-26T08:25:00Z,polymarket,0x8c49f7cb264daca67451bd7c828444797a9237f1a71ad693df277bcc5df9e300,Highest temperature in Istanbul on November 27? 16°C,3,0.97,0.0055,0.0245,,2026-11-27T12:00:00Z
+2026-11-26T08:25:00Z,polymarket,0x8194fc69090c482b0ede3be94712851085211befbc1dd7253a2253fd086a6700,#2 Spotify Artist in November? The Weeknd,2,0.992,0.0001,0.0079,,2026-11-30T17:00:00Z
+2026-11-26T08:25:00Z,polymarket,0x3dfa8755b6d9826dbf6a516e84755731982641ec9f55e4fd4c57413a32f99400,Canada's Choice 2027 Winner Rêve,2,0.98,0.0049,0.0151,,2026-12-06T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0xc64834aa4129285c34788e1d24498c7520089bc22532df852dd2abd16db95700,NCAA Football 2026 Big 12 Conference: Winner Utah Utes,2,0.97,0.0241,0.0059,,2026-12-19T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? OpenAI,2,0.989,0.0007,0.0103,,2027-01-02T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0x44d1a036e5c888678d2ca61b3cb2815c8bb05b527f69c19058b20736f6119b00,How many Fed rate hikes in 2026? 1 (25 bps),5,0.99,0.0012,0.0088,,2026-12-31T23:59:00Z
+2026-11-26T08:25:00Z,polymarket,0xd72f68ada62aff9ba67dd2cbb56fabec9928aa198daafbd8042ac18ccabec000,Iran leader end of 2026? Mojtaba Khamenei,10,0.984,0.0,0.016,,2026-12-31T17:00:00Z
+2026-11-26T08:25:00Z,polymarket,0xdc071194d8450de5fd849ecd4af4fabc20ad5021ca24c83d7748810b06695100,Which company has the best AI Agent end of December? Anthropic,5,0.952,0.0111,0.0369,,2027-01-01T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Elon Musk",4,0.988,0.0003,0.0117,,2027-01-03T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0x92fa5dc99566487b91775a40218e3462b16f4d35ae795fb2495c7613fd7bf000,How many different countries will Israel strike in 2026? 12,4,0.967,0.0,0.033,,2027-01-01T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Amir Albazi,2,0.993,0.0006,0.0065,,2027-01-01T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0x1b08fa819d20f297501589363dec9ec1782da6e655356345c186e835024b2400,Second-best Code Arena WebDev AI Lab end of December? Google,2,0.941,0.0191,0.0399,,2027-01-01T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0xcbf1bd7bce23bf8ef66f357da34a7bb3492173cbf254002ec34624eb17709f00,Which movie has biggest opening week in 2026? Avengers: Doomsday,2,0.99,0.0022,0.0078,,2027-02-01T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Otu Bassey Edet",2,0.98,0.0098,0.0102,,2027-02-07T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0xf03660bae6e2031c0d651cc96e7ff4d1028ebf55c28d1a3c282dabd0d9141200,"Enugu, Nigeria Governor Election Winner James Ene Nwannaji",4,0.962,0.0178,0.0202,,2027-02-07T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0xc37d76499ff5d4d0b10e7f7b858af4f81885978234b7f3f63ab4caea2becad00,"Adamawa, Nigeria Governor Election Winner Wafarinyi Theman Dalatu",5,0.946,0.0277,0.0264,,2027-02-07T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0xaf5e899ef9d5a573cfaf7c9a21ba42f74862adecfef28f46684112a21a0db100,Pro Football: 2026-27 AP Comeback Player of the Year Winner Patrick Mahomes,6,0.969,0.0168,0.0142,,2027-03-01T04:59:00Z
+2026-11-26T08:25:00Z,polymarket,0xafb2096913db5ef1afadba161fc4e99303df67bc8e0ca39746e213a494ed3b00,Next Senator in Klobuchar's Minnesota seat? Kelly Morrison,6,0.944,0.0228,0.0332,,2027-04-01T03:59:00Z
+2026-11-26T08:25:00Z,polymarket,0x7113bbb263a7caba1ae78799d11a8cecb75088e464f8f51751a304cb99ca1f00,AFCON 2027 Qualifying: Group K Winner Liberia,4,0.991,0.0025,0.0065,,2027-03-31T03:59:00Z
