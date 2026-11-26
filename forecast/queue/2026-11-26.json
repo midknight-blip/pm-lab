@@ -1,0 +1,76 @@
+{
+ "batch": "2026-11-26",
+ "created": "2026-11-26T19:00:57Z",
+ "markets": [
+  {
+   "key": "poly:3581418",
+   "question": "Will Hsieh Lung-chieh win the next Tainan Mayor election?",
+   "rules": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the candidate who becomes the next Mayor of Tainan as a result of this election.\n\nTemporary, interim, or placeholder Mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known, or no candidate has been elected, by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Taiwanese government, specifically the Central Election Commission (https://db.cec.gov.tw/).",
+   "close": "2026-11-29T04:59:00Z",
+   "category": "politics"
+  },
+  {
+   "key": "kalshi:KXRAIN-26NOV27-TTN",
+   "question": "Where will it rain on Nov 27, 2026? \u2014 Trenton",
+   "rules": "If the total precipitation at CLITTN in Trenton in Nov 27, 2026 is strictly greater than 0 inches, then the market resolves to Yes. Not all weather data is the same. While checking a source like AccuWeather or Google Weather may help guide your decision, the official and final value used to determine this market as reported by the Weather Company.\n\nReading weather data\nData for CLITTN can be found at https://weather.com/kalshi.\n\u201cTrace\u201d amounts (T) and missing daily precipitation values are counted as 0 inches. ",
+   "close": "2026-11-29T04:59:59Z",
+   "category": "climate and weather"
+  },
+  {
+   "key": "kalshi:KXNETFLIXRANKMOVIEGLOBAL-26NOV30-STE",
+   "question": "Top Global Netflix Movie this week? \u2014 Steps",
+   "rules": "If Steps is #1 on the Netflix Top 10 Global Movie on the chart published on Dec 1, 2026, then the market resolves to Yes. The Netflix charts are updated on Tuesday. Therefore, the market will close at 11:59 PM ET the day before. The chart published on Dec 1, 2026 will be for the week ending the previous Sunday.\n\nThis market and these products have not been endorsed by Netflix. Any references to Netflix, or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between Netflix and Kalshi.",
+   "close": "2026-12-01T15:00:00Z",
+   "category": "entertainment"
+  },
+  {
+   "key": "kalshi:KXNFLGAME-26NOV29BALHOU-BAL",
+   "question": "Baltimore vs Houston \u2014 Baltimore",
+   "rules": "If Baltimore wins the Baltimore vs Houston Pro Football game originally scheduled for Nov 29, 2026, then the market resolves to Yes. The following market refers to the team who wins the Baltimore vs Houston Pro Football game originally scheduled for Nov 29, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-11-29T21:00:00Z",
+   "category": "sports"
+  },
+  {
+   "key": "kalshi:KXCPI-26NOV-T-0.2",
+   "question": "CPI in November \u2014 Above -0.2%",
+   "rules": "If the Consumer Price Index (CPI) increases by more than -0.2% (single-decimal) in November 2026, then the market resolves to Yes. The market will always close at 8:29 AM ET on the scheduled day of the data release (December 10, 2026). Please note: the Expiration Value is the single-decimal value published at the Source Agency. In the case of a delay in data caused by a federal government shutdown impacting the reliability of the Source Agency, the market\u2019s latest Expiration Date will be extended to the sooner of the release of the Underlying or six months after the end of the government shutdown.",
+   "close": "2026-12-10T14:56:00Z",
+   "category": "economics"
+  },
+  {
+   "key": "kalshi:KXNORDSTROMFT-26DEC08-T94.5",
+   "question": "Nordstrom Foot Traffic in November \u2014 Above 94.5",
+   "rules": "If the Carbon Arc Nordstrom Foot Traffic (November 2026) for November 2026 is above 94.5, then the market resolves to Yes. For purposes of this market, determination will resolve on finalized Carbon Arc values recorded at 11:59 p.m. ET on the 7th calendar day after the end of the month covered by this market. For example, finalized Carbon Arc values for August will be recorded at 11:59 p.m. ET on September 7th.\n\nThe underlying is Carbon Arc's full-month year-over-year foot-traffic index for Nordstrom, based on mobile location data. An index value of 100 means visits equal the same month in the prior year. Values above 100 indicate growth and values below 100 indicate decline; for example, 103 means 3% more visits and 97 means 3% fewer visits than the same month in the prior year.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Nordstrom. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-12-15T06:30:00Z",
+   "category": "financials"
+  },
+  {
+   "key": "kalshi:KXANTHSHARE-26NOV30-5.9",
+   "question": "Anthropic market share this week \u2014 Above 5.9%",
+   "rules": "If Anthropic scores above 5.9% on OpenRouter text market share by model author week of Nov 23, 2026, then the market resolves to Yes. This event will resolve based on 10:00AM ET Monday updated market share values reported by OpenRouter, rounded to one decimal place, for the week of Nov 23, 2026.\n\nIf the named model author\u2019s market share is not separately identified in the source chart, including if it is included in \u201cOthers,\u201d all markets in the event will resolve to No.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the governing benchmark. All trademarks, logos, and brand names are the property of their respective owners.",
+   "close": "2026-12-07T04:59:00Z",
+   "category": "science and technology"
+  },
+  {
+   "key": "poly:6507458",
+   "question": "Will XRP dip to $0.80 in November?",
+   "rules": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for XRP/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final Low price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the XRP/USDT Low prices available at https://www.binance.com/en/trade/XRP_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance XRP/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "close": "2026-12-01T05:00:00Z",
+   "category": "crypto"
+  },
+  {
+   "key": "poly:7152903",
+   "question": "Will \"Hexed\" 5-Day Opening Weekend Box Office be between 36m and 40m?",
+   "rules": "This market will resolve according to how much \"Hexed\" will gross domestically on its 5-day Thanksgiving opening weekend (Wednesday, November 25 - Sunday, November 29).\n\nThis market will resolve as soon as final (i.e., not studio estimates) figures for all five days are available, and no later than December 29, 2026, 11:59 PM ET. The primary resolution source is the sum of the daily grosses for November 25 - 29 in the \"Daily Box Office Performance\" table on the \"Box Office\" tab of this movie's The Numbers (https://www.the-numbers.com/) page. If The Numbers does not have final figures for all five days by December 29, 2026, 11:59 PM ET, this market will resolve according to the sum of the daily figures for November 25 - 29 on the \"Domestic Daily\" tab of this movie's Box Office Mojo (https://www.boxofficemojo.com/) release page.\n\nIf neither source has final figures for all five days by December 29, 2026, 11:59 PM ET, this market will resolve according to the 5-day total from the figures The Numbers reports at that time, or, if The Numbers reports none, from the figures Box Office Mojo reports at that time. If neither source reports any figure by December 29, 2026, 11:59 PM ET, this m",
+   "close": "2026-11-29T12:00:00Z",
+   "category": "culture"
+  },
+  {
+   "key": "kalshi:KXNVDAMENTION-26DEC01-CHIN",
+   "question": "What will Jensen Huang say during NVIDIA GTC Washington, D.C. Keynote? \u2014 China / Chinese",
+   "rules": "If \n Jensen Huang says China / Chinese as part of NVIDIA GTC Washington, D.C. Keynote originally scheduled for December 1, 2026\n, then the market resolves to Yes. How this is resolved\nVideo of the NVIDIA GTC Washington, D.C. Keynote originally scheduled for December 1, 2026 using the live broadcast or stream.\nIf a consensus by Kalshi employees cannot be reached using video, internal & external (official) transcripts of the NVIDIA GTC Washington, D.C. Keynote originally scheduled for December 1, 2026 will be used.\n\nPayout Criteria\nThe exact phrase/word, or a plural or possessive form of the phrase/word. \nPlural nouns occurring within proper nouns and noun phrases (e.g. names, titles, etc).\nJensen Huang speaking in an official capacity.\nFor phrases with slashes like \"Doge/Dogecoin,\" either word satisfies the criterion.\n\nDoesn't count for payout\nGrammatical/tense inflections are otherwise not included. \nPresence alone during a livestream is not sufficient for the market to qualify (e.g., inaudible private conversations on camera, unofficial statements picked up on a hot mic).\nExcept as otherwise specified, previously aired content, archival footage, and recordings captured at times, p",
+   "close": "2026-12-15T15:00:00Z",
+   "category": "mentions"
+  }
+ ]
+}
