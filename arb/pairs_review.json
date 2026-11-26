@@ -2218,5 +2218,45 @@
   "status": "same",
   "note": "both: Fed raises upper bound by 25bps at Dec 2026 FOMC; Poly rounds odd sizes, edge case only",
   "checked": "2026-11-23"
+ },
+ "KXINDSLGAME-26NOV28CFCMUM-TIE|7103013": {
+  "status": "different",
+  "note": "Kalshi game dated Nov 28, Poly Nov 30; Poly also resolves Yes if cancelled/not played",
+  "checked": "2026-11-26"
+ },
+ "KXFEDDECISION-27APR-C25|6353936": {
+  "status": "same",
+  "note": "Both: 25bp cut of upper bound at the April 2027 FOMC; Poly only adds rounding of odd sizes",
+  "checked": "2026-11-26"
+ },
+ "KXFEDDECISION-27APR-H25|6353938": {
+  "status": "same",
+  "note": "Both: 25bp hike at the April 2027 FOMC; Poly only adds rounding of odd sizes",
+  "checked": "2026-11-26"
+ },
+ "KX10YRDIRLM-26NOV30L-T4.83|6656052": {
+  "status": "different",
+  "note": "Kalshi <4.83 from Nov 1, Poly <4.82 from Nov 3: a 4.82 print or a Nov 2 low splits them",
+  "checked": "2026-11-26"
+ },
+ "KXTRUMPMEETING-27JAN01-NMBS|666596": {
+  "status": "different",
+  "note": "Kalshi counts only meetings after issuance; Poly counts all of 2026",
+  "checked": "2026-11-26"
+ },
+ "KXUSACOMPANYSTAKE-27JAN01-ANTH|1323328": {
+  "status": "different",
+  "note": "Kalshi counts an announced stake; Poly needs the stake actually acquired",
+  "checked": "2026-11-26"
+ },
+ "KX10YRDIRLM-26NOV30L-T4.80|6656054": {
+  "status": "different",
+  "note": "Kalshi <4.80 from Nov 1, Poly <4.79 from Nov 3: a 4.79 print or a Nov 2 low splits them",
+  "checked": "2026-11-26"
+ },
+ "KXCRITICSPIC-27-DUN|7300010": {
+  "status": "same",
+  "note": "Both: Dune Part Three wins Best Picture at 32nd Critics Choice; only a tie rule differs",
+  "checked": "2026-11-26"
  }
 }
