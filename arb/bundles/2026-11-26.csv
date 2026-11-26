@@ -29,3 +29,36 @@ ts,site,event,title,n_outcomes,cost,fees,net_edge,min_size,close
 2026-11-26T08:25:00Z,polymarket,0xaf5e899ef9d5a573cfaf7c9a21ba42f74862adecfef28f46684112a21a0db100,Pro Football: 2026-27 AP Comeback Player of the Year Winner Patrick Mahomes,6,0.969,0.0168,0.0142,,2027-03-01T04:59:00Z
 2026-11-26T08:25:00Z,polymarket,0xafb2096913db5ef1afadba161fc4e99303df67bc8e0ca39746e213a494ed3b00,Next Senator in Klobuchar's Minnesota seat? Kelly Morrison,6,0.944,0.0228,0.0332,,2027-04-01T03:59:00Z
 2026-11-26T08:25:00Z,polymarket,0x7113bbb263a7caba1ae78799d11a8cecb75088e464f8f51751a304cb99ca1f00,AFCON 2027 Qualifying: Group K Winner Liberia,4,0.991,0.0025,0.0065,,2027-03-31T03:59:00Z
+2026-11-26T21:37:24Z,kalshi,KXHOKKAIDOGOV-27APR11,Hokkaido gubernatorial election winner?,2,0.98,0.009,0.011,5.0,2027-05-11T15:00:00Z
+2026-11-26T21:37:24Z,kalshi,KXNCAAMBSWAC-27,Southwestern Athletic Conference Men's Tournament Champion,12,0.91,0.059,0.031,0.63,2027-03-14T21:00:00Z
+2026-11-26T21:37:24Z,kalshi,KXNFLAFCWEST-27,AFC West Division Winner,4,0.94,0.038,0.022,42.9,2027-01-11T15:00:00Z
+2026-11-26T21:37:24Z,polymarket,0xfe1e1215f3c58862ee8108ab166ece818a22670f1331142837135d3702829300,NEC vs. FC Twente - Exact Score Any Other Score,3,0.949,0.0267,0.0243,,2026-11-29T19:00:00Z
+2026-11-26T21:37:24Z,polymarket,0x5908eb8373b053c907217b07844bba1f1edb15106c35fb3aaff6c4612ddae600,Which company has the best AI model end of November? Google,4,0.985,0.0016,0.0134,,2026-12-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0xda0732a654bddd6036dad52691f7b8bf8c0018c5c44bb5edb70435a8b8b7d800,Lowest temperature in Seoul (Incheon) on November 27? 9°C,3,0.972,0.0003,0.0277,,2026-11-27T12:00:00Z
+2026-11-26T21:37:24Z,polymarket,0x8caad5b8ff4cc859497375cf8d8a52032bf07afee199ed5aa523d8c1d6450000,Lowest temperature in NYC on November 26? 46-47°F,4,0.97,0.0012,0.0288,,2026-11-26T12:00:00Z
+2026-11-26T21:37:24Z,polymarket,0x156ff12d1f036651bda1642f18c009721c568e0cde4772074187093fc615a900,Highest temperature in Lucknow on November 28? 25°C,2,0.96,0.0047,0.0353,,2026-11-28T12:00:00Z
+2026-11-26T21:37:24Z,polymarket,0xfbb5a58730c6b9ee4d9d2f2e0e57ff725423e7f2720748145719d42859bd2300,Highest temperature in Denver on November 26? 56-57°F,2,0.981,0.0002,0.0188,,2026-11-26T12:00:00Z
+2026-11-26T21:37:24Z,polymarket,0x58170356b2393472fd7906921f4594b574ccaa568aebd8aa7fbacdb92d40f500,November Unemployment Rate 4.1%,4,0.98,0.0069,0.0131,,2026-12-04T13:30:00Z
+2026-11-26T21:37:24Z,polymarket,0xc64834aa4129285c34788e1d24498c7520089bc22532df852dd2abd16db95700,NCAA Football 2026 Big 12 Conference: Winner Utah Utes,2,0.97,0.0241,0.0059,,2026-12-19T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x64ea46ebb0943a0e2ae99485922b8a1fffea5e806212d4383e73712d50e93200,Democratic nomination odds leader on December 31? Jon Ossoff,2,0.98,0.0032,0.0168,,2026-12-31T17:00:00Z
+2026-11-26T21:37:24Z,polymarket,0x4ca863cbfdb98cc28e6a6de05377045bf2b42c2e926f3a1021fcb84c7755e400,Largest IPO by market cap in 2026? OpenAI,2,0.986,0.0009,0.0131,,2027-01-02T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x9ee853a03624ef84d9b24290bd05ad9ab973540b621ec0598abc2d751379f200,Who will be UFC Middleweight champion at the end of 2026? Israel Adesanya,2,0.963,0.0033,0.0337,,2027-01-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x0e5e1138aebe94e0e72d14717bad53b79b2727c42ee3de2624b38ca0029e5300,Who will be UFC Lightweight champion at the end of 2026? Arman Tsarukyan,2,0.989,0.0034,0.0076,,2027-01-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x23f22a07cdf0289e4bd88261329ef6841128d4d53ae3bf303dcfc7463b22da00,Oura IPO Closing Market Cap No IPO before January 2027,2,0.979,0.0013,0.0197,,2027-01-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x4a6e6684575c9edcdba0c1b524e380485a14a5e0425bbe22ae63ad4f9fac0a00,Who will be UFC Flyweight champion at the end of 2026? Amir Albazi,2,0.969,0.0017,0.0293,,2027-01-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0xb38af07dadc6678b1d2850d14e6d51c9d8481cfe2d9e8ba77b7969e0d1779300,"Richest person on December 31, 2026? Jensen Huang",5,0.992,0.0003,0.0077,,2027-01-03T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0xff63b3ff3e246ec104bbc1bf6a2466262d635b4535a0ea01165d3ea0ed094c00,F1: Action of the Year Charles Leclerc,3,0.966,0.013,0.021,,2027-01-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x59671b88425a06b0c6f1e30e37c3bda45090948f5781f2d25f30565498531700,The Game Awards: Best Narrative 007 First Light,4,0.981,0.004,0.015,,2027-01-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0xb8941550c5f0f615b6f1e1fee3a1a0472b22d068c01a73a9248eb61f31519c00,Japan Core CPI YoY in 2026 2.0-2.4%,6,0.987,0.0019,0.0112,,2027-04-01T03:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x62e898e4b8a3d46c6d54326936e959b9e7935669dbeaac5efad4587105063d00,Top Spotify Artist 2026 Bad Bunny,6,0.993,0.0004,0.0066,,2027-02-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x704f8dd73c804f407e092ba9988c595cf72ac52c6161e9313801342a63db6d00,Japan 10Y Bond Yield: End of 2026 2.8-3.0%,7,0.978,0.0079,0.0141,,2027-02-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x0d3c69efdeb945cb31ac591612ea76f1623d0ec5818bc4e702dad9829f853700,Grammys 2027: Best Latin Rock or Alternative Album Winner FREE SPIRITS - CA7RIEL & Paco Amoroso,4,0.969,0.007,0.024,,2027-02-07T23:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x0487c0116c0456ad609618ce0172e7e21884ac3250382aa7d7c38753d6a37900,"Cross River, Nigeria Governor Election Winner Arthur Jarvis",2,0.98,0.0098,0.0102,,2027-02-07T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0xf03660bae6e2031c0d651cc96e7ff4d1028ebf55c28d1a3c282dabd0d9141200,"Enugu, Nigeria Governor Election Winner James Ene Nwannaji",4,0.962,0.0178,0.0202,,2027-02-07T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x91708950dcdd7011344e5023e1b03d02ecf26a5da6528b553bc4a2f180440200,Grammys 2027: Record of the Year Winner Dracula - Tame Impala & JENNIE,5,0.985,0.0077,0.0073,,2027-02-07T23:59:00Z
+2026-11-26T21:37:24Z,polymarket,0xaf5e899ef9d5a573cfaf7c9a21ba42f74862adecfef28f46684112a21a0db100,Pro Football: 2026-27 AP Comeback Player of the Year Winner Patrick Mahomes,6,0.963,0.0165,0.0205,,2027-03-01T04:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x2c797e8c5a61544cc9006ca030be86ea89a7be45e5fe7f133f247fd6ae760a00,Oscars 2027: Best Animated Short Film Winner Please,11,0.958,0.0081,0.0339,,2027-03-14T23:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x6d5063797caac7008002a70a0b1a54c63025ff1664d3f0793f26e6deed388700,World Happiness Report 2027: last country Afghanistan,6,0.946,0.0284,0.0256,,2027-04-01T03:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x7646b68c7bbc14ad377315cfdd6bd0cd65b9e14e2cafe32cfe76abe202e70800,Republican nomination odds leader on March 31? JD Vance,6,0.961,0.005,0.034,,2027-03-31T16:00:00Z
+2026-11-26T21:37:24Z,polymarket,0xafb2096913db5ef1afadba161fc4e99303df67bc8e0ca39746e213a494ed3b00,Next Senator in Klobuchar's Minnesota seat? Kelly Morrison,6,0.948,0.023,0.029,,2027-04-01T03:59:00Z
+2026-11-26T21:37:24Z,polymarket,0x7113bbb263a7caba1ae78799d11a8cecb75088e464f8f51751a304cb99ca1f00,AFCON 2027 Qualifying: Group K Winner Liberia,4,0.991,0.0025,0.0065,,2027-03-31T03:59:00Z
