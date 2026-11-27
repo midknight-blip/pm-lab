@@ -1,6 +1,6 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-27T03:04:11Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-27T08:42:12Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
@@ -9,7 +9,7 @@ Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Upda
 
 - Last scan: 2026-11-27T03:04:08Z — 243 of 247 pairs priced
 - Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
-- Last market list refresh: 2026-11-26T21:39:58Z — Kalshi 186996 markets, Polymarket 20030 yes/no markets, 250 matched pairs
+- Last market list refresh: 2026-11-27T08:42:12Z — Kalshi 184569 markets, Polymarket 21044 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
@@ -33,12 +33,12 @@ Running since 2026-10-14. 983 scans so far. A pair counts as positive when buyin
 | KXUECLSCORE-26NOV26BRICSU-BRI1CSU0 /  | no | +75.8¢ | +75.8¢ | 1 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 37 run, 578 positive spreads seen; typical one lasted 442 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 116. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 127. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Tyreek Hill's Next Team — 32 outcomes, +4.0¢ per $1
   - polymarket: Avg. # of ships transiting Strait of Hormuz end of November? 0-4 — 2 outcomes, +4.0¢ per $1
+  - polymarket: Highest temperature in Jeddah on November 27? 32°C — 2 outcomes, +4.0¢ per $1
   - polymarket: Second-best Code Arena WebDev AI Lab end of December? Google — 2 outcomes, +4.0¢ per $1
   - polymarket: The Game Awards: Best Game Direction Phantom Blade Zero — 3 outcomes, +3.9¢ per $1
-  - polymarket: Highest temperature in Tel Aviv on November 25? 23°C — 3 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
