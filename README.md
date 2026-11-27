@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-26T21:39:59Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-27T03:04:11Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-26T20:23:17Z — 240 of 243 pairs priced
+- Last scan: 2026-11-27T03:04:08Z — 243 of 247 pairs priced
 - Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-26T21:39:58Z — Kalshi 186996 markets, Polymarket 20030 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 982 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 983 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 326
-- Positive pairs still in play: **455** (confirmed same bet: 25, not yet checked: 387)
-- Scans with at least one positive pair: 981
+- Positive pairs still in play: **457** (confirmed same bet: 25, not yet checked: 389)
+- Scans with at least one positive pair: 982
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@ Running since 2026-10-14. 982 scans so far. A pair counts as positive when buyin
 | KXUECLSCORE-26NOV26BRICSU-BRI1CSU0 /  | no | +75.8¢ | +75.8¢ | 1 | 50 | 0 | >999% |
 
 - Fast-check sessions (every 15 sec): 37 run, 578 positive spreads seen; typical one lasted 442 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 133. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
+- Same-site bundles in the last 3 days: 116. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - kalshi: Tyreek Hill's Next Team — 32 outcomes, +4.0¢ per $1
   - polymarket: Avg. # of ships transiting Strait of Hormuz end of November? 0-4 — 2 outcomes, +4.0¢ per $1
   - polymarket: Second-best Code Arena WebDev AI Lab end of December? Google — 2 outcomes, +4.0¢ per $1
