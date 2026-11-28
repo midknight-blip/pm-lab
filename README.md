@@ -1,23 +1,23 @@
 # pm-lab
 
-Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-27T21:31:58Z.
+Read-only test of two ideas on Kalshi and Polymarket. No money is involved. Updated automatically — last update 2026-11-28T03:32:09Z.
 
 1. **Arbitrage:** do the two sites ever price the same event so that buying both sides locks in a profit after fees?
 2. **Forecasting:** can Claude's researched probabilities beat the market price?
 
 ## Health
 
-- Last scan: 2026-11-27T21:31:56Z — 246 of 246 pairs priced
+- Last scan: 2026-11-28T03:32:06Z — 228 of 246 pairs priced
 - Scans in the last 24h: 3 (GitHub runs these roughly every 15 min; 60-96 is normal), errors: 0
 - Last market list refresh: 2026-11-27T21:24:28Z — Kalshi 205291 markets, Polymarket 20579 yes/no markets, 250 matched pairs
 
 ## Arbitrage test
 
-Running since 2026-10-14. 985 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
+Running since 2026-10-14. 986 scans so far. A pair counts as positive when buying both sides costs less than $1 after fees, at the best available price.
 
 - Positive pairs ruled out as different bets after reading the rules: 326
-- Positive pairs still in play: **470** (confirmed same bet: 25, not yet checked: 402)
-- Scans with at least one positive pair: 984
+- Positive pairs still in play: **471** (confirmed same bet: 25, not yet checked: 403)
+- Scans with at least one positive pair: 985
 
 | Pair (Kalshi / Polymarket) | Checked | Best | Median | Times seen | Max size | Days left | Best yearly |
 |---|---|---|---|---|---|---|---|
@@ -32,13 +32,13 @@ Running since 2026-10-14. 985 scans so far. A pair counts as positive when buyin
 | KXAFCCLGAME-26NOV02ITJAIN-ITJ /  | unsure | +81.2¢ | +6.7¢ | 18 | 50 | 0 | >999% |
 | KXUECLSCORE-26NOV26BRICSU-BRI1CSU0 /  | no | +75.8¢ | +75.8¢ | 1 | 50 | 0 | >999% |
 
-- Fast-check sessions (every 15 sec): 37 run, 578 positive spreads seen; typical one lasted 442 sec, longest 120.0 min
-- Same-site bundles in the last 3 days: 131. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
-  - polymarket: Avg. # of ships transiting Strait of Hormuz end of November? 0-4 — 2 outcomes, +4.0¢ per $1
+- Fast-check sessions (every 15 sec): 38 run, 585 positive spreads seen; typical one lasted 465 sec, longest 120.0 min
+- Same-site bundles in the last 3 days: 117. These only work if the listed outcomes cover every possibility, which still needs checking. Top ones:
   - polymarket: Highest temperature in Jeddah on November 27? 32°C — 2 outcomes, +4.0¢ per $1
   - polymarket: Second-best Code Arena WebDev AI Lab end of December? Google — 2 outcomes, +4.0¢ per $1
   - polymarket: FC Bayern München vs. SC Paderborn 07 FC Bayern München — 2 outcomes, +4.0¢ per $1
   - polymarket: #1 Searched TV Show on Google 2026? The Pitt — 34 outcomes, +4.0¢ per $1
+  - polymarket: The Game Awards: Best Game Direction Phantom Blade Zero — 3 outcomes, +3.9¢ per $1
 
 ## Forecast test
 
